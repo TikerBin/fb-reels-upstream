@@ -7,6 +7,213 @@
  "language": "zh-CN",
  "items": [
   {
+   "id": "c2-sdo-x54-flare",
+   "url": "https://images-assets.nasa.gov/video/GSFC_20120307_SDO_m10925_Flare/GSFC_20120307_SDO_m10925_Flare~large.mp4",
+   "title": "NASA SDO实拍：2012年X5.4级太阳耀斑爆发",
+   "summary": "NASA戈达德空间飞行中心发布的太阳动力学观测台（SDO）实拍：2012年3月7日X5.4级太阳耀斑爆发全过程，磁力线环与等离子体喷流清晰可见，79秒无解说。",
+   "content_text": "内容总结：NASA戈达德空间飞行中心发布的太阳动力学观测台（SDO）实拍：2012年3月7日X5.4级太阳耀斑爆发全过程，磁力线环与等离子体喷流清晰可见，79秒无解说。\n内容类型：科学/航天\n对应社群：Science Worth Understanding\n许可证：Public domain（无需署名）\nReels角度：太阳风暴科普：\"太阳打个喷嚏，地球会怎样\"，配解说讲耀斑分级与对极光/卫星的影响；可截30秒精华。\n热点挂钩：NASA本周发布火星太阳风暴研究（JPL Mars Report）；太阳活动极大期，极光新闻频出\n规格：79秒，1920x1080，约48.1MB",
+   "date_published": "2026-10-12T16:00:00+08:00",
+   "tags": [
+    "科学/航天",
+    "Science Worth Understanding",
+    "NASA本周发布火星太阳风暴研究（JPL Mars Report）；太阳活动极大期，极光新闻频出"
+   ],
+   "attachments": [
+    {
+     "url": "https://images-assets.nasa.gov/video/GSFC_20120307_SDO_m10925_Flare/GSFC_20120307_SDO_m10925_Flare~large.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 50435351,
+     "duration_in_seconds": 79
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名"
+  },
+  {
+   "id": "c2-x45a-ucav-demo",
+   "url": "https://archive.org/download/X_45A_Kil_w_Music/X_45A_Kil_w_Music_512kb.mp4",
+   "title": "X-45A无人作战飞机武器演示（美国军方公开影像）",
+   "summary": "美国军方公开的X-45A无人作战验证机演示影像：武器舱弹药装填、地面准备与空中试飞全过程，117秒，早期自主无人机代表作。",
+   "content_text": "内容总结：美国军方公开的X-45A无人作战验证机演示影像：武器舱弹药装填、地面准备与空中试飞全过程，117秒，早期自主无人机代表作。\n内容类型：无人系统/军用科技\n对应社群：Robotics and Automation Brief\n许可证：Public domain（无需署名）\nReels角度：无人机进化史：\"2000年代的无人机长什么样\"，对比现代察打一体机，配字幕讲自主飞行里程碑。\n热点挂钩：无人机与自主系统持续热门；本周Anthropic AI新闻带动的AI/自动化讨论\n规格：118秒，320x240，约8.1MB",
+   "date_published": "2026-10-12T15:50:00+08:00",
+   "tags": [
+    "无人系统/军用科技",
+    "Robotics and Automation Brief",
+    "无人机与自主系统持续热门；本周Anthropic AI新闻带动的AI/自动化讨论"
+   ],
+   "attachments": [
+    {
+     "url": "https://archive.org/download/X_45A_Kil_w_Music/X_45A_Kil_w_Music_512kb.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 8452797,
+     "duration_in_seconds": 118
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名"
+  },
+  {
+   "id": "c2-archive-scan-robot",
+   "url": "https://archive.org/download/scanning_robot/scanning_robot_512kb.mp4",
+   "title": "Internet Archive翻书扫描机器人实拍",
+   "summary": "Internet Archive自研图书扫描机器人实拍：机械臂自动翻页、逐页拍摄的完整工作流程，10分钟长素材，复古科技感强，可截取任意片段使用。",
+   "content_text": "内容总结：Internet Archive自研图书扫描机器人实拍：机械臂自动翻页、逐页拍摄的完整工作流程，10分钟长素材，复古科技感强，可截取任意片段使用。\n内容类型：科技/机器人\n对应社群：AI Tools and Everyday Uses\n许可证：Public domain（无需署名）\nReels角度：\"一台会自动翻书的机器人\"，冷知识/怀旧科技向Reels，截30–60秒机械臂翻页特写。\n热点挂钩：AI话题热度高（Anthropic模型乌龙报警新闻）；机器人自动化日常话题\n规格：614秒，320x240，约42.6MB",
+   "date_published": "2026-10-12T15:40:00+08:00",
+   "tags": [
+    "科技/机器人",
+    "AI Tools and Everyday Uses",
+    "AI话题热度高（Anthropic模型乌龙报警新闻）；机器人自动化日常话题"
+   ],
+   "attachments": [
+    {
+     "url": "https://archive.org/download/scanning_robot/scanning_robot_512kb.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 44623625,
+     "duration_in_seconds": 614
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名"
+  },
+  {
+   "id": "c2-oakland-oaks-1918",
+   "url": "https://archive.org/download/OaklandO1918/OaklandO1918.mp4",
+   "title": "1918年奥克兰橡树棒球队赛季揭幕新闻片",
+   "summary": "1918年奥克兰橡树棒球队赛季揭幕黑白新闻片：球队合影、球场实拍与街头游行，百年前的美国棒球风貌，141秒无声。",
+   "content_text": "内容总结：1918年奥克兰橡树棒球队赛季揭幕黑白新闻片：球队合影、球场实拍与街头游行，百年前的美国棒球风貌，141秒无声。\n内容类型：体育/历史\n对应社群：Beyond the Score Brief\n许可证：Public domain（无需署名）\nReels角度：\"100多年前的棒球长什么样\"，体育史冷知识，配字幕讲1918赛季背景。\n热点挂钩：MLB季后赛赛季氛围；体育史怀旧内容常年有稳定流量\n规格：141秒，640x480，约14.0MB",
+   "date_published": "2026-10-12T15:30:00+08:00",
+   "tags": [
+    "体育/历史",
+    "Beyond the Score Brief",
+    "MLB季后赛赛季氛围；体育史怀旧内容常年有稳定流量"
+   ],
+   "attachments": [
+    {
+     "url": "https://archive.org/download/OaklandO1918/OaklandO1918.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 14697989,
+     "duration_in_seconds": 141
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名"
+  },
+  {
+   "id": "c1-hurricane-maria-sat",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Hurricane_Satellite_Animation_Shows_Hurricane_Maria_and_Post-Tropical_Storm_Jose.webm",
+   "title": "NASA卫星延时：飓风玛利亚与热带风暴何塞",
+   "summary": "NASA戈达德空间飞行中心出品的卫星延时动画（NOAA GOES 13 数据）：2017年9月飓风玛利亚与热带风暴何塞在大西洋上盘旋的完整过程，旋涡结构清晰。22秒，无解说。",
+   "content_text": "内容总结：NASA戈达德空间飞行中心出品的卫星延时动画（NOAA GOES 13 数据）：2017年9月飓风玛利亚与热带风暴何塞在大西洋上盘旋的完整过程，旋涡结构清晰。22秒，无解说。\n内容类型：新闻/天气\n对应社群：Everyday News and Money Discussion\n许可证：Public domain（无需署名）\nReels角度：飓风季知识贴：\"从太空看飓风长什么样\"，配字幕讲解飓风眼/螺旋雨带，适合叠加大西洋飓风季动态。\n热点挂钩：飓风 Isaias 本周登陆美湾（佛罗里达/阿拉巴马大面积停电）\n规格：22秒，864x720，约5.2MB",
+   "date_published": "2026-10-11T16:00:00+08:00",
+   "tags": [
+    "新闻/天气",
+    "Everyday News and Money Discussion",
+    "飓风 Isaias 本周登陆美湾（佛罗里达/阿拉巴马大面积停电）"
+   ],
+   "attachments": [
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Hurricane_Satellite_Animation_Shows_Hurricane_Maria_and_Post-Tropical_Storm_Jose.webm",
+     "mime_type": "video/webm",
+     "size_in_bytes": 5475941,
+     "duration_in_seconds": 22
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名"
+  },
+  {
+   "id": "c1-scam-watch-ftc",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Scam_Watch_1280x720.ogv",
+   "title": "FTC官方动画：如何识别与防范诈骗",
+   "summary": "美国联邦贸易委员会（FTC）官方出品的消费者保护动画，约96秒：介绍FTC投诉中心如何受理消费者举报，提醒警惕常见诈骗话术与钓鱼陷阱。卡通风格，英文字幕/口播。",
+   "content_text": "内容总结：美国联邦贸易委员会（FTC）官方出品的消费者保护动画，约96秒：介绍FTC投诉中心如何受理消费者举报，提醒警惕常见诈骗话术与钓鱼陷阱。卡通风格，英文字幕/口播。\n内容类型：网络安全/防诈\n对应社群：Digital Safety Explained\n许可证：Public domain（无需署名）\nReels角度：\"美国官方教你防骗\"：剪辑核心要点配中英字幕，做成防诈科普短片；可关联加密/电商类诈骗话题。\n热点挂钩：节假日季前诈骗高发期，防诈话题全年常青\n规格：96秒，1280x720，约49.5MB",
+   "date_published": "2026-10-11T15:50:00+08:00",
+   "tags": [
+    "网络安全/防诈",
+    "Digital Safety Explained",
+    "节假日季前诈骗高发期，防诈话题全年常青"
+   ],
+   "attachments": [
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Scam_Watch_1280x720.ogv",
+     "mime_type": "video/ogg",
+     "size_in_bytes": 51924434,
+     "duration_in_seconds": 96
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名"
+  },
+  {
+   "id": "c1-aerial-firefighting",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Aerial_video_of_Firefighting.webm",
+   "title": "无人机航拍：野火扑救现场",
+   "summary": "无人机航拍野火扑救实况，约2分36秒：消防车抵达、喷水压制火线、浓烟升空的连续镜头，展示野火扑救的真实流程与规模。1280x720。",
+   "content_text": "内容总结：无人机航拍野火扑救实况，约2分36秒：消防车抵达、喷水压制火线、浓烟升空的连续镜头，展示野火扑救的真实流程与规模。1280x720。\n内容类型：科学/环境\n对应社群：Science Worth Understanding\n许可证：CC BY 3.0（Jared Eglinski / Wikimedia Commons / CC BY 3.0（发布时署名））\nReels角度：\"野火烟尘能飘多远\"：结合新加坡大奖赛烟霾新闻，讲山火烟雾长距离传输与空气质量，配科普配音。\n热点挂钩：新加坡大奖赛周末：山火烟尘飘散致赛道起雾，周边停课\n规格：156秒，1280x720，约53.3MB",
+   "date_published": "2026-10-11T15:40:00+08:00",
+   "tags": [
+    "科学/环境",
+    "Science Worth Understanding",
+    "新加坡大奖赛周末：山火烟尘飘散致赛道起雾，周边停课"
+   ],
+   "attachments": [
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Aerial_video_of_Firefighting.webm",
+     "mime_type": "video/webm",
+     "size_in_bytes": 55852340,
+     "duration_in_seconds": 156
+    }
+   ],
+   "_license": "CC BY 3.0",
+   "_attribution": "Jared Eglinski / Wikimedia Commons / CC BY 3.0（发布时署名）"
+  },
+  {
+   "id": "c1-romanians-vote-queue",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Thousands_Of_Romanians_Queue_Around_The_Block_To_Vote_Presidential_Election_In_Portsmouth.webm",
+   "title": "罗马尼亚侨民朴茨茅斯排长队投票",
+   "summary": "罗马尼亚总统选举期间，朴茨茅斯（英国）街头数千名罗马尼亚侨民排起长队投票，手举国旗，气氛热烈。实拍约2分15秒，展示海外投票的组织与热情。",
+   "content_text": "内容总结：罗马尼亚总统选举期间，朴茨茅斯（英国）街头数千名罗马尼亚侨民排起长队投票，手举国旗，气氛热烈。实拍约2分15秒，展示海外投票的组织与热情。\n内容类型：新闻/政治\n对应社群：Everyday News and Money Discussion\n许可证：CC BY 3.0（Yanu ari / Wikimedia Commons / CC BY 3.0（发布时署名））\nReels角度：11月3日美国中期选举预热：\"海外选民为投票排几公里\"，做成选举参与度话题贴，引导讨论投票热情。\n热点挂钩：美国11月3日中期选举临近，选举话题升温\n规格：135秒，1280x720，约30.2MB",
+   "date_published": "2026-10-11T15:30:00+08:00",
+   "tags": [
+    "新闻/政治",
+    "Everyday News and Money Discussion",
+    "美国11月3日中期选举临近，选举话题升温"
+   ],
+   "attachments": [
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Thousands_Of_Romanians_Queue_Around_The_Block_To_Vote_Presidential_Election_In_Portsmouth.webm",
+     "mime_type": "video/webm",
+     "size_in_bytes": 31703808,
+     "duration_in_seconds": 135
+    }
+   ],
+   "_license": "CC BY 3.0",
+   "_attribution": "Yanu ari / Wikimedia Commons / CC BY 3.0（发布时署名）"
+  },
+  {
+   "id": "c1-satyarthi-nobel",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/En.Wikipedia-VideoWiki-Kailash_Satyarthi.webm",
+   "title": "诺贝尔和平奖得主：凯拉什·萨蒂亚尔希故事动画",
+   "summary": "维基百科VideoWiki系列动画短片，约3分27秒：讲述印度儿童权利活动家凯拉什·萨蒂亚尔希（2014年诺贝尔和平奖得主）解救童工、推动儿童受教育权的故事。动画+英文旁白。",
+   "content_text": "内容总结：维基百科VideoWiki系列动画短片，约3分27秒：讲述印度儿童权利活动家凯拉什·萨蒂亚尔希（2014年诺贝尔和平奖得主）解救童工、推动儿童受教育权的故事。动画+英文旁白。\n内容类型：新闻/人物\n对应社群：Everyday News and Money Discussion\n许可证：Public domain（无需署名）\nReels角度：诺贝尔奖周人物志：\"他救了数万名童工\"，剪60秒精华配字幕，做成励志人物小传。\n热点挂钩：诺贝尔和平奖本周揭晓（南非法学家 Navi Pillay 获奖）\n规格：207秒，1280x720，约10.2MB",
+   "date_published": "2026-10-11T15:20:00+08:00",
+   "tags": [
+    "新闻/人物",
+    "Everyday News and Money Discussion",
+    "诺贝尔和平奖本周揭晓（南非法学家 Navi Pillay 获奖）"
+   ],
+   "attachments": [
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/En.Wikipedia-VideoWiki-Kailash_Satyarthi.webm",
+     "mime_type": "video/webm",
+     "size_in_bytes": 10648684,
+     "duration_in_seconds": 207
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名"
+  },
+  {
    "id": "b2-film-notld",
    "url": "https://archive.org/download/NightOfTheLivingDeadTrailer/NightLivingDeadTrailer_512kb.mp4",
    "title": "影视《活死人之夜》1968原版预告",
@@ -73,10 +280,7 @@
     }
    ],
    "_license": "CC BY 3.0",
-   "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/3.0",
-   "_author": "lofi beats to study to",
-   "_source_url": "https://commons.wikimedia.org/wiki/File:Demonstration_of_AI_Voice_Cloning.webm",
-   "_license_url": "https://creativecommons.org/licenses/by/3.0"
+   "_attribution": "发帖时在描述中注明来源链接"
   },
   {
    "id": "b2-crypto-ebsi",
@@ -99,10 +303,7 @@
     }
    ],
    "_license": "CC BY-SA 4.0",
-   "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by-sa/4.0",
-   "_author": "European Commission",
-   "_source_url": "https://commons.wikimedia.org/wiki/File:Meet_the_European_Blockchain_Services_Infrastructure_EBSI.webm",
-   "_license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+   "_attribution": "发帖时在描述中注明来源链接"
   },
   {
    "id": "b2-sport-ws1959",
@@ -171,10 +372,7 @@
     }
    ],
    "_license": "CC BY 4.0",
-   "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/4.0",
-   "_author": "Galbraith B, Guenther F, Versace M",
-   "_source_url": "https://commons.wikimedia.org/wiki/File:A-neural-network-based-exploratory-learning-and-motor-planning-system-for-co-robots-Video1.ogv",
-   "_license_url": "https://creativecommons.org/licenses/by/4.0"
+   "_attribution": "发帖时在描述中注明来源链接"
   },
   {
    "id": "b2-art-pumpkin",
@@ -197,10 +395,7 @@
     }
    ],
    "_license": "CC BY-SA 3.0",
-   "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by-sa/3.0",
-   "_author": "Saramarieplew",
-   "_source_url": "https://commons.wikimedia.org/wiki/File:Pumpkin_Carving.webm",
-   "_license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+   "_attribution": "发帖时在描述中注明来源链接"
   },
   {
    "id": "b2-news-euro",
@@ -223,10 +418,7 @@
     }
    ],
    "_license": "CC BY 3.0",
-   "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/3.0",
-   "_author": "ECB euro",
-   "_source_url": "https://commons.wikimedia.org/wiki/File:New_20_Euro_Banknotes_Printing_Production.webm",
-   "_license_url": "https://creativecommons.org/licenses/by/3.0"
+   "_attribution": "发帖时在描述中注明来源链接"
   },
   {
    "id": "b2-game-arcade",
@@ -249,10 +441,7 @@
     }
    ],
    "_license": "CC BY 3.0",
-   "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/3.0",
-   "_author": "Retro Tech",
-   "_source_url": "https://commons.wikimedia.org/wiki/File:Neo_Geo_MVS_Arcade_Restoration_-_Part_1-Getting_started.webm",
-   "_license_url": "https://creativecommons.org/licenses/by/3.0"
+   "_attribution": "发帖时在描述中注明来源链接"
   },
   {
    "id": "b1-film-duck",
@@ -282,7 +471,7 @@
    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Hand-made_robotic_arm_with_Arduino.webm",
    "title": "Arduino自制机械臂实拍",
    "summary": "Arduino自制机械臂桌面近景实拍，舵机、连杆、杜邦线等DIY硬件细节，机械臂做抓取/摆动动作。",
-   "content_text": "内容总结：Arduino自制机械臂桌面近景实拍，舵机、连杆、杜邦线等DIY硬件细节，机械臂做抓取/摆动动作。\n内容类型：科技/创客\n对应社群：AI Tools and Everyday Uses\n许可证：CC BY-SA 4.0（发帖时在描述中注明来源链接（作者 Giacomo Alessandroni））\nReels角度：\"几百块钱就能复刻的机械臂\"；maker话题互动率高。\n热点挂钩：DIY创客\n规格：22秒，1920x1080，约5.7MB",
+   "content_text": "内容总结：Arduino自制机械臂桌面近景实拍，舵机、连杆、杜邦线等DIY硬件细节，机械臂做抓取/摆动动作。\n内容类型：科技/创客\n对应社群：AI Tools and Everyday Uses\n许可证：CC BY-SA 4.0（发帖时在描述中注明来源链接（作者 Galessandroni））\nReels角度：\"几百块钱就能复刻的机械臂\"；maker话题互动率高。\n热点挂钩：DIY创客\n规格：22秒，1920x1080，约5.7MB",
    "date_published": "2026-10-10T10:50:00+08:00",
    "tags": [
     "科技/创客",
@@ -298,10 +487,7 @@
     }
    ],
    "_license": "CC BY-SA 4.0",
-   "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by-sa/4.0",
-   "_author": "Giacomo Alessandroni",
-   "_source_url": "https://commons.wikimedia.org/wiki/File:Hand-made_robotic_arm_with_Arduino.webm",
-   "_license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+   "_attribution": "发帖时在描述中注明来源链接（作者 Galessandroni）"
   },
   {
    "id": "b1-game-room",
@@ -324,17 +510,14 @@
     }
    ],
    "_license": "CC BY 3.0",
-   "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/3.0",
-   "_author": "Cross Chop",
-   "_source_url": "https://commons.wikimedia.org/wiki/File:8_Game_Room_Ideas_in_90_Seconds!.webm",
-   "_license_url": "https://creativecommons.org/licenses/by/3.0"
+   "_attribution": "发帖时在描述中注明来源链接"
   },
   {
    "id": "b1-crypto-btc",
    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Bitcoin_Explained_-_a_video_explaining_the_decentralized_digital_cryptocurrency_Bitcoin.webm",
    "title": "《Bitcoin Explained》科普动画",
    "summary": "图形化讲解比特币：去中心化、挖矿、区块链、交易流程，旁白式动画适合截取片段。",
-   "content_text": "内容总结：图形化讲解比特币：去中心化、挖矿、区块链、交易流程，旁白式动画适合截取片段。\n内容类型：科技/财经科普\n对应社群：Crypto Beyond the Price\n许可证：CC BY-SA 3.0（发帖时在描述中注明来源链接（作者 Duncan Elms））\nReels角度：\"比特币到底是什么，60秒讲到你懂\"；动画加中文/英文解说重配最稳。\n热点挂钩：比特币科普\n规格：205秒，1280x720，约11.4MB",
+   "content_text": "内容总结：图形化讲解比特币：去中心化、挖矿、区块链、交易流程，旁白式动画适合截取片段。\n内容类型：科技/财经科普\n对应社群：Crypto Beyond the Price\n许可证：CC BY-SA 3.0（发帖时在描述中注明来源链接（作者 Y98））\nReels角度：\"比特币到底是什么，60秒讲到你懂\"；动画加中文/英文解说重配最稳。\n热点挂钩：比特币科普\n规格：205秒，1280x720，约11.4MB",
    "date_published": "2026-10-10T10:30:00+08:00",
    "tags": [
     "科技/财经科普",
@@ -350,10 +533,7 @@
     }
    ],
    "_license": "CC BY-SA 3.0",
-   "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by-sa/3.0",
-   "_author": "Duncan Elms",
-   "_source_url": "https://commons.wikimedia.org/wiki/File:Bitcoin_Explained_-_a_video_explaining_the_decentralized_digital_cryptocurrency_Bitcoin.webm",
-   "_license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+   "_attribution": "发帖时在描述中注明来源链接（作者 Y98）"
   },
   {
    "id": "b1-sci-perseverance",
@@ -445,10 +625,7 @@
     }
    ],
    "_license": "CC BY 3.0",
-   "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/3.0",
-   "_author": "Ibrahim Krimat Art",
-   "_source_url": "https://commons.wikimedia.org/wiki/File:Digital_Painting_-_Photoshop_painting_process_-_Blond_Female_Cop.webm",
-   "_license_url": "https://creativecommons.org/licenses/by/3.0"
+   "_attribution": "发帖时在描述中注明来源链接"
   },
   {
    "id": "b1-sport-stadium",
@@ -471,10 +648,7 @@
     }
    ],
    "_license": "CC BY-SA 4.0",
-   "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by-sa/4.0",
-   "_author": "Nesnad",
-   "_source_url": "https://commons.wikimedia.org/wiki/File:Japan_National_Stadium_-_outside_inside_-_2022_March_20_-_4k.webm",
-   "_license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+   "_attribution": "发帖时在描述中注明来源链接（作者 Nesnad）"
   }
  ]
 }
