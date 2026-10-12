@@ -73,7 +73,10 @@
     }
    ],
    "_license": "CC BY 3.0",
-   "_attribution": "发帖时在描述中注明来源链接"
+   "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/3.0",
+   "_author": "lofi beats to study to",
+   "_source_url": "https://commons.wikimedia.org/wiki/File:Demonstration_of_AI_Voice_Cloning.webm",
+   "_license_url": "https://creativecommons.org/licenses/by/3.0"
   },
   {
    "id": "b2-crypto-ebsi",
@@ -96,7 +99,10 @@
     }
    ],
    "_license": "CC BY-SA 4.0",
-   "_attribution": "发帖时在描述中注明来源链接"
+   "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by-sa/4.0",
+   "_author": "European Commission",
+   "_source_url": "https://commons.wikimedia.org/wiki/File:Meet_the_European_Blockchain_Services_Infrastructure_EBSI.webm",
+   "_license_url": "https://creativecommons.org/licenses/by-sa/4.0"
   },
   {
    "id": "b2-sport-ws1959",
@@ -165,7 +171,10 @@
     }
    ],
    "_license": "CC BY 4.0",
-   "_attribution": "发帖时在描述中注明来源链接"
+   "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/4.0",
+   "_author": "Galbraith B, Guenther F, Versace M",
+   "_source_url": "https://commons.wikimedia.org/wiki/File:A-neural-network-based-exploratory-learning-and-motor-planning-system-for-co-robots-Video1.ogv",
+   "_license_url": "https://creativecommons.org/licenses/by/4.0"
   },
   {
    "id": "b2-art-pumpkin",
@@ -188,7 +197,10 @@
     }
    ],
    "_license": "CC BY-SA 3.0",
-   "_attribution": "发帖时在描述中注明来源链接"
+   "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by-sa/3.0",
+   "_author": "Saramarieplew",
+   "_source_url": "https://commons.wikimedia.org/wiki/File:Pumpkin_Carving.webm",
+   "_license_url": "https://creativecommons.org/licenses/by-sa/3.0"
   },
   {
    "id": "b2-news-euro",
@@ -211,7 +223,10 @@
     }
    ],
    "_license": "CC BY 3.0",
-   "_attribution": "发帖时在描述中注明来源链接"
+   "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/3.0",
+   "_author": "ECB euro",
+   "_source_url": "https://commons.wikimedia.org/wiki/File:New_20_Euro_Banknotes_Printing_Production.webm",
+   "_license_url": "https://creativecommons.org/licenses/by/3.0"
   },
   {
    "id": "b2-game-arcade",
@@ -234,7 +249,10 @@
     }
    ],
    "_license": "CC BY 3.0",
-   "_attribution": "发帖时在描述中注明来源链接"
+   "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/3.0",
+   "_author": "Retro Tech",
+   "_source_url": "https://commons.wikimedia.org/wiki/File:Neo_Geo_MVS_Arcade_Restoration_-_Part_1-Getting_started.webm",
+   "_license_url": "https://creativecommons.org/licenses/by/3.0"
   },
   {
    "id": "b1-film-duck",
@@ -264,7 +282,7 @@
    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Hand-made_robotic_arm_with_Arduino.webm",
    "title": "Arduino自制机械臂实拍",
    "summary": "Arduino自制机械臂桌面近景实拍，舵机、连杆、杜邦线等DIY硬件细节，机械臂做抓取/摆动动作。",
-   "content_text": "内容总结：Arduino自制机械臂桌面近景实拍，舵机、连杆、杜邦线等DIY硬件细节，机械臂做抓取/摆动动作。\n内容类型：科技/创客\n对应社群：AI Tools and Everyday Uses\n许可证：CC BY-SA 4.0（发帖时在描述中注明来源链接（作者 Galessandroni））\nReels角度：\"几百块钱就能复刻的机械臂\"；maker话题互动率高。\n热点挂钩：DIY创客\n规格：22秒，1920x1080，约5.7MB",
+   "content_text": "内容总结：Arduino自制机械臂桌面近景实拍，舵机、连杆、杜邦线等DIY硬件细节，机械臂做抓取/摆动动作。\n内容类型：科技/创客\n对应社群：AI Tools and Everyday Uses\n许可证：CC BY-SA 4.0（发帖时在描述中注明来源链接（作者 Giacomo Alessandroni））\nReels角度：\"几百块钱就能复刻的机械臂\"；maker话题互动率高。\n热点挂钩：DIY创客\n规格：22秒，1920x1080，约5.7MB",
    "date_published": "2026-10-10T10:50:00+08:00",
    "tags": [
     "科技/创客",
@@ -280,7 +298,10 @@
     }
    ],
    "_license": "CC BY-SA 4.0",
-   "_attribution": "发帖时在描述中注明来源链接（作者 Galessandroni）"
+   "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by-sa/4.0",
+   "_author": "Giacomo Alessandroni",
+   "_source_url": "https://commons.wikimedia.org/wiki/File:Hand-made_robotic_arm_with_Arduino.webm",
+   "_license_url": "https://creativecommons.org/licenses/by-sa/4.0"
   },
   {
    "id": "b1-game-room",
@@ -303,14 +324,17 @@
     }
    ],
    "_license": "CC BY 3.0",
-   "_attribution": "发帖时在描述中注明来源链接"
+   "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/3.0",
+   "_author": "Cross Chop",
+   "_source_url": "https://commons.wikimedia.org/wiki/File:8_Game_Room_Ideas_in_90_Seconds!.webm",
+   "_license_url": "https://creativecommons.org/licenses/by/3.0"
   },
   {
    "id": "b1-crypto-btc",
    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Bitcoin_Explained_-_a_video_explaining_the_decentralized_digital_cryptocurrency_Bitcoin.webm",
    "title": "《Bitcoin Explained》科普动画",
    "summary": "图形化讲解比特币：去中心化、挖矿、区块链、交易流程，旁白式动画适合截取片段。",
-   "content_text": "内容总结：图形化讲解比特币：去中心化、挖矿、区块链、交易流程，旁白式动画适合截取片段。\n内容类型：科技/财经科普\n对应社群：Crypto Beyond the Price\n许可证：CC BY-SA 3.0（发帖时在描述中注明来源链接（作者 Y98））\nReels角度：\"比特币到底是什么，60秒讲到你懂\"；动画加中文/英文解说重配最稳。\n热点挂钩：比特币科普\n规格：205秒，1280x720，约11.4MB",
+   "content_text": "内容总结：图形化讲解比特币：去中心化、挖矿、区块链、交易流程，旁白式动画适合截取片段。\n内容类型：科技/财经科普\n对应社群：Crypto Beyond the Price\n许可证：CC BY-SA 3.0（发帖时在描述中注明来源链接（作者 Duncan Elms））\nReels角度：\"比特币到底是什么，60秒讲到你懂\"；动画加中文/英文解说重配最稳。\n热点挂钩：比特币科普\n规格：205秒，1280x720，约11.4MB",
    "date_published": "2026-10-10T10:30:00+08:00",
    "tags": [
     "科技/财经科普",
@@ -326,7 +350,10 @@
     }
    ],
    "_license": "CC BY-SA 3.0",
-   "_attribution": "发帖时在描述中注明来源链接（作者 Y98）"
+   "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by-sa/3.0",
+   "_author": "Duncan Elms",
+   "_source_url": "https://commons.wikimedia.org/wiki/File:Bitcoin_Explained_-_a_video_explaining_the_decentralized_digital_cryptocurrency_Bitcoin.webm",
+   "_license_url": "https://creativecommons.org/licenses/by-sa/3.0"
   },
   {
    "id": "b1-sci-perseverance",
@@ -418,7 +445,10 @@
     }
    ],
    "_license": "CC BY 3.0",
-   "_attribution": "发帖时在描述中注明来源链接"
+   "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/3.0",
+   "_author": "Ibrahim Krimat Art",
+   "_source_url": "https://commons.wikimedia.org/wiki/File:Digital_Painting_-_Photoshop_painting_process_-_Blond_Female_Cop.webm",
+   "_license_url": "https://creativecommons.org/licenses/by/3.0"
   },
   {
    "id": "b1-sport-stadium",
@@ -441,7 +471,10 @@
     }
    ],
    "_license": "CC BY-SA 4.0",
-   "_attribution": "发帖时在描述中注明来源链接（作者 Nesnad）"
+   "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by-sa/4.0",
+   "_author": "Nesnad",
+   "_source_url": "https://commons.wikimedia.org/wiki/File:Japan_National_Stadium_-_outside_inside_-_2022_March_20_-_4k.webm",
+   "_license_url": "https://creativecommons.org/licenses/by-sa/4.0"
   }
  ]
 }
