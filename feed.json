@@ -788,10 +788,10 @@
   },
   {
    "id": "b1-drone-ingenuity",
-   "url": "https://images-assets.nasa.gov/video/JPL-20210323-TECHf-0001-Helicopter%20First%20Flight%20VF/JPL-20210323-TECHf-0001-Helicopter%20First%20Flight%20VF~orig.mp4",
+   "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/b1-drone-ingenuity_firstflight_60s.mp4",
    "title": "Ingenuity火星直升机首飞纪录",
-   "summary": "Ingenuity首飞纪录：火星地表实拍加动画还原，小直升机升空10英尺、悬停、降落，人类首次外星球动力飞行。原始母带966MB，实战截取片段用。",
-   "content_text": "内容总结：Ingenuity首飞纪录：火星地表实拍加动画还原，小直升机升空10英尺、悬停、降落，人类首次外星球动力飞行。原始母带966MB，实战截取片段用。\n内容类型：科技/航天\n对应社群：Robotics and Automation Brief\n许可证：Public domain（无需署名）\nReels角度：\"火星上第一架飞机只飞了39秒\"。\n热点挂钩：火星直升机\n规格：774秒，3840x2160，约921.3MB",
+   "summary": "NASA Ingenuity火星直升机首飞纪录（12.9分钟母带精华60秒）：火星飞行仿真、旋翼测试实拍、动画演示、科研人员采访混合剪辑。本条为60秒720p成品。",
+   "content_text": "内容总结：NASA Ingenuity火星直升机首飞纪录（12.9分钟母带精华60秒）：火星飞行仿真、旋翼测试实拍、动画演示、科研人员采访混合剪辑。本条为60秒720p成品。\n内容类型：科技/航天\n对应社群：Robotics and Automation Brief\n许可证：Public domain（无需署名）\nReels角度：人类首次在外星球动力飞行；仿真+实拍混剪节奏好，直接可用。\n热点挂钩：火星直升机\n规格：60秒，1280x720，约6.8MB",
    "date_published": "2026-10-10T10:00:00+08:00",
    "tags": [
     "科技/航天",
@@ -800,15 +800,16 @@
    ],
    "attachments": [
     {
-     "url": "https://images-assets.nasa.gov/video/JPL-20210323-TECHf-0001-Helicopter%20First%20Flight%20VF/JPL-20210323-TECHf-0001-Helicopter%20First%20Flight%20VF~orig.mp4",
+     "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/b1-drone-ingenuity_firstflight_60s.mp4",
      "mime_type": "video/mp4",
-     "size_in_bytes": 966076774,
-     "duration_in_seconds": 774
+     "size_in_bytes": 7168430,
+     "duration_in_seconds": 60
     }
    ],
    "_license": "Public domain",
    "_attribution": "无需署名",
-   "_version": 2
+   "_version": 3,
+   "_master_url": "https://images-assets.nasa.gov/video/JPL-20210323-TECHf-0001-Helicopter%20First%20Flight%20VF/JPL-20210323-TECHf-0001-Helicopter%20First%20Flight%20VF~orig.mp4"
   },
   {
    "id": "b1-art-painting",

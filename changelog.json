@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-10-13T21:23:56+08:00",
- "event_count": 57,
- "next_seq": 58,
+ "updated_at": "2026-10-13T21:38:01+08:00",
+ "event_count": 58,
+ "next_seq": 59,
  "events": [
   {
    "event_id": "evt-20261013-0001",
@@ -654,6 +654,21 @@
    "changed_fields": [
     "license",
     "source_url"
+   ]
+  },
+  {
+   "event_id": "evt-20261013-0058",
+   "seq": 58,
+   "item_id": "b1-drone-ingenuity",
+   "version": 3,
+   "type": "modified",
+   "status": "active",
+   "occurred_at": "2026-10-13T21:38:01+08:00",
+   "reason": "921MB母带超128MB上限，改交60秒720p成品（7MB）；影像类型标注为混合（仿真+实拍+动画+采访）",
+   "changed_fields": [
+    "download_url",
+    "summary_cn",
+    "reels_angle"
    ]
   }
  ]

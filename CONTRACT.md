@@ -35,6 +35,12 @@
 | `_license_url` | 许可证页面地址（CC 素材必填） |
 | `_attribution` | 署名要求：CC 素材为"发帖时在描述中注明作者、来源链接和许可证链接：<许可证地址>"；Public domain 为"无需署名" |
 | `_recommended_segment` | 可选，`{"start_seconds": n, "end_seconds": m}`，母带推荐截取区间（数值型） |
+| `_master_url` | 可选，原始母带地址（当主下载地址为剪辑成品时保留） |
+
+## 六、clips/ 目录
+
+母带超过 128 MiB 且官方无可用小文件时，上游可提供自剪的 15–60 秒 720p 成品，
+存于仓库 `clips/` 目录，主下载地址指向成品，`_master_url` 保留母带地址。
 
 `_filmed_at`（拍摄日期）、`date_modified`、`_valid_until`（有效期）按素材实际情况填写，未知可空。
 `_retracted` 仅出现在撤回事件中，不出现在正常素材条目。

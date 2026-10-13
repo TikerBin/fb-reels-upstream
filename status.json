@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-13T21:23:56+08:00",
+ "updated_at": "2026-10-13T21:38:01+08:00",
  "count": 34,
  "items": [
   {
@@ -252,10 +252,10 @@
   },
   {
    "id": "b1-drone-ingenuity",
-   "version": 2,
+   "version": 3,
    "status": "active",
    "in_latest_feed": true,
-   "date_modified": "2026-10-13T21:23:43+08:00",
+   "date_modified": "2026-10-13T21:38:01+08:00",
    "retract_reason": null
   },
   {
