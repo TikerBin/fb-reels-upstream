@@ -1,8 +1,8 @@
 {
  "version": "https://jsonfeed.org/version/1.1",
  "title": "FB Reels 每日素材上游",
- "home_page_url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main",
- "feed_url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/feed.json",
+ "home_page_url": "https://example.invalid/fb-reels-upstream",
+ "feed_url": "https://example.invalid/fb-reels-upstream/feed.json",
  "description": "每日更新的 Facebook Reels 可用视频素材：下载地址、内容总结、内容类型、许可证。",
  "language": "zh-CN",
  "items": [
@@ -57,9 +57,11 @@
    ],
    "_license": "Public domain",
    "_attribution": "无需署名",
-   "_version": 3,
+   "_version": 4,
    "_source_url": "https://commons.wikimedia.org/wiki/File:A.I._of_Murder_Victim_Christopher_Pelkey_Makes_His_Own_Impact_Statement_at_Sentencing.webm",
    "_footage_type": "真实拍摄",
+   "_event_date": "2025-05-01",
+   "_filmed_date": "2025-05-05",
    "_original_upload_date": "2026-10-08",
    "_recommended_segment": {
     "start_seconds": 50,
@@ -179,9 +181,11 @@
    ],
    "_license": "Public domain",
    "_attribution": "无需署名",
-   "_version": 3,
+   "_version": 4,
    "_source_url": "https://commons.wikimedia.org/wiki/File:President_Trump_Attends_Texas_v._TN_Football_Game.webm",
    "_footage_type": "真实拍摄",
+   "_event_date": "2026-09-27",
+   "_filmed_date": "2026-09-27",
    "_original_upload_date": "2026-09-27"
   },
   {

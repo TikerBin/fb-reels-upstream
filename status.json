@@ -1,278 +1,278 @@
 {
- "updated_at": "2026-10-13T22:32:15+08:00",
- "count": 34,
- "items": [
-  {
-   "id": "wh-trump-accounts-5000",
-   "version": 3,
-   "status": "active",
-   "in_latest_feed": true,
-   "date_modified": "2026-10-13T22:32:15+08:00",
-   "retract_reason": null
-  },
-  {
-   "id": "ai-pelkey-impact-statement",
-   "version": 3,
-   "status": "active",
-   "in_latest_feed": true,
-   "date_modified": "2026-10-13T22:32:15+08:00",
-   "retract_reason": null
-  },
-  {
-   "id": "drone-spain-eclipse-2026",
-   "version": 3,
-   "status": "active",
-   "in_latest_feed": true,
-   "date_modified": "2026-10-13T22:32:15+08:00",
-   "retract_reason": null
-  },
-  {
-   "id": "nasa-apophis-flyby-vertical",
-   "version": 3,
-   "status": "active",
-   "in_latest_feed": true,
-   "date_modified": "2026-10-13T22:32:15+08:00",
-   "retract_reason": null
-  },
-  {
-   "id": "arcade-gov-flappy",
-   "version": 3,
-   "status": "active",
-   "in_latest_feed": true,
-   "date_modified": "2026-10-13T22:32:15+08:00",
-   "retract_reason": null
-  },
-  {
-   "id": "texas-tn-football-game",
-   "version": 3,
-   "status": "active",
-   "in_latest_feed": true,
-   "date_modified": "2026-10-13T22:32:15+08:00",
-   "retract_reason": null
-  },
-  {
-   "id": "c2-sdo-x54-flare",
-   "version": 3,
-   "status": "active",
-   "in_latest_feed": true,
-   "date_modified": "2026-10-13T22:32:15+08:00",
-   "retract_reason": null
-  },
-  {
-   "id": "c2-x45a-ucav-demo",
-   "version": 3,
-   "status": "active",
-   "in_latest_feed": true,
-   "date_modified": "2026-10-13T22:32:15+08:00",
-   "retract_reason": null
-  },
-  {
-   "id": "c2-archive-scan-robot",
-   "version": 3,
-   "status": "active",
-   "in_latest_feed": true,
-   "date_modified": "2026-10-13T22:32:15+08:00",
-   "retract_reason": null
-  },
-  {
-   "id": "c2-oakland-oaks-1918",
-   "version": 3,
-   "status": "active",
-   "in_latest_feed": true,
-   "date_modified": "2026-10-13T22:32:15+08:00",
-   "retract_reason": null
-  },
-  {
-   "id": "c1-hurricane-maria-sat",
-   "version": 3,
-   "status": "active",
-   "in_latest_feed": true,
-   "date_modified": "2026-10-13T22:32:15+08:00",
-   "retract_reason": null
-  },
-  {
-   "id": "c1-scam-watch-ftc",
-   "version": 3,
-   "status": "active",
-   "in_latest_feed": true,
-   "date_modified": "2026-10-13T22:32:15+08:00",
-   "retract_reason": null
-  },
-  {
-   "id": "c1-aerial-firefighting",
-   "version": 3,
-   "status": "active",
-   "in_latest_feed": true,
-   "date_modified": "2026-10-13T22:32:15+08:00",
-   "retract_reason": null
-  },
-  {
-   "id": "c1-romanians-vote-queue",
-   "version": 3,
-   "status": "active",
-   "in_latest_feed": true,
-   "date_modified": "2026-10-13T22:32:15+08:00",
-   "retract_reason": null
-  },
-  {
-   "id": "c1-satyarthi-nobel",
-   "version": 3,
-   "status": "active",
-   "in_latest_feed": true,
-   "date_modified": "2026-10-13T22:32:15+08:00",
-   "retract_reason": null
-  },
-  {
-   "id": "b2-film-notld",
-   "version": 3,
-   "status": "active",
-   "in_latest_feed": true,
-   "date_modified": "2026-10-13T22:32:15+08:00",
-   "retract_reason": null
-  },
-  {
-   "id": "b2-sci-snoopy",
-   "version": 3,
-   "status": "active",
-   "in_latest_feed": true,
-   "date_modified": "2026-10-13T22:32:15+08:00",
-   "retract_reason": null
-  },
-  {
-   "id": "b2-sec-voiceclone",
-   "version": 2,
-   "status": "active",
-   "in_latest_feed": true,
-   "date_modified": "2026-10-13T22:32:15+08:00",
-   "retract_reason": null
-  },
-  {
-   "id": "b2-crypto-ebsi",
-   "version": 2,
-   "status": "active",
-   "in_latest_feed": true,
-   "date_modified": "2026-10-13T22:32:15+08:00",
-   "retract_reason": null
-  },
-  {
-   "id": "b2-sport-ws1959",
-   "version": 3,
-   "status": "active",
-   "in_latest_feed": true,
-   "date_modified": "2026-10-13T22:32:15+08:00",
-   "retract_reason": null
-  },
-  {
-   "id": "b2-drone-blm",
-   "version": 3,
-   "status": "active",
-   "in_latest_feed": true,
-   "date_modified": "2026-10-13T22:32:15+08:00",
-   "retract_reason": null
-  },
-  {
-   "id": "b2-ai-robot",
-   "version": 2,
-   "status": "active",
-   "in_latest_feed": true,
-   "date_modified": "2026-10-13T22:32:15+08:00",
-   "retract_reason": null
-  },
-  {
-   "id": "b2-art-pumpkin",
-   "version": 2,
-   "status": "active",
-   "in_latest_feed": true,
-   "date_modified": "2026-10-13T22:32:15+08:00",
-   "retract_reason": null
-  },
-  {
-   "id": "b2-news-euro",
-   "version": 2,
-   "status": "active",
-   "in_latest_feed": true,
-   "date_modified": "2026-10-13T22:32:15+08:00",
-   "retract_reason": null
-  },
-  {
-   "id": "b2-game-arcade",
-   "version": 2,
-   "status": "active",
-   "in_latest_feed": true,
-   "date_modified": "2026-10-13T22:32:15+08:00",
-   "retract_reason": null
-  },
-  {
-   "id": "b1-film-duck",
-   "version": 3,
-   "status": "active",
-   "in_latest_feed": true,
-   "date_modified": "2026-10-13T22:32:15+08:00",
-   "retract_reason": null
-  },
-  {
-   "id": "b1-ai-arm",
-   "version": 2,
-   "status": "active",
-   "in_latest_feed": true,
-   "date_modified": "2026-10-13T22:32:15+08:00",
-   "retract_reason": null
-  },
-  {
-   "id": "b1-game-room",
-   "version": 2,
-   "status": "active",
-   "in_latest_feed": true,
-   "date_modified": "2026-10-13T22:32:15+08:00",
-   "retract_reason": null
-  },
-  {
-   "id": "b1-crypto-btc",
-   "version": 2,
-   "status": "active",
-   "in_latest_feed": true,
-   "date_modified": "2026-10-13T22:32:15+08:00",
-   "retract_reason": null
-  },
-  {
-   "id": "b1-sci-perseverance",
-   "version": 3,
-   "status": "active",
-   "in_latest_feed": true,
-   "date_modified": "2026-10-13T22:32:15+08:00",
-   "retract_reason": null
-  },
-  {
-   "id": "b1-sec-voa",
-   "version": 3,
-   "status": "active",
-   "in_latest_feed": true,
-   "date_modified": "2026-10-13T22:32:15+08:00",
-   "retract_reason": null
-  },
-  {
-   "id": "b1-drone-ingenuity",
-   "version": 4,
-   "status": "active",
-   "in_latest_feed": true,
-   "date_modified": "2026-10-13T22:32:15+08:00",
-   "retract_reason": null
-  },
-  {
-   "id": "b1-art-painting",
-   "version": 2,
-   "status": "active",
-   "in_latest_feed": true,
-   "date_modified": "2026-10-13T22:32:15+08:00",
-   "retract_reason": null
-  },
-  {
-   "id": "b1-sport-stadium",
-   "version": 2,
-   "status": "active",
-   "in_latest_feed": true,
-   "date_modified": "2026-10-13T22:32:15+08:00",
-   "retract_reason": null
-  }
- ]
+  "updated_at": "2026-10-14T03:39:32+08:00",
+  "count": 34,
+  "items": [
+    {
+      "id": "wh-trump-accounts-5000",
+      "version": 3,
+      "status": "active",
+      "in_latest_feed": true,
+      "date_modified": "2026-10-13T22:32:15+08:00",
+      "retract_reason": null
+    },
+    {
+      "id": "ai-pelkey-impact-statement",
+      "version": 4,
+      "status": "active",
+      "in_latest_feed": true,
+      "date_modified": "2026-10-14T03:39:32+08:00",
+      "retract_reason": null
+    },
+    {
+      "id": "drone-spain-eclipse-2026",
+      "version": 3,
+      "status": "active",
+      "in_latest_feed": true,
+      "date_modified": "2026-10-13T22:32:15+08:00",
+      "retract_reason": null
+    },
+    {
+      "id": "nasa-apophis-flyby-vertical",
+      "version": 3,
+      "status": "active",
+      "in_latest_feed": true,
+      "date_modified": "2026-10-13T22:32:15+08:00",
+      "retract_reason": null
+    },
+    {
+      "id": "arcade-gov-flappy",
+      "version": 3,
+      "status": "active",
+      "in_latest_feed": true,
+      "date_modified": "2026-10-13T22:32:15+08:00",
+      "retract_reason": null
+    },
+    {
+      "id": "texas-tn-football-game",
+      "version": 4,
+      "status": "active",
+      "in_latest_feed": true,
+      "date_modified": "2026-10-14T03:39:32+08:00",
+      "retract_reason": null
+    },
+    {
+      "id": "c2-sdo-x54-flare",
+      "version": 3,
+      "status": "active",
+      "in_latest_feed": true,
+      "date_modified": "2026-10-13T22:32:15+08:00",
+      "retract_reason": null
+    },
+    {
+      "id": "c2-x45a-ucav-demo",
+      "version": 3,
+      "status": "active",
+      "in_latest_feed": true,
+      "date_modified": "2026-10-13T22:32:15+08:00",
+      "retract_reason": null
+    },
+    {
+      "id": "c2-archive-scan-robot",
+      "version": 3,
+      "status": "active",
+      "in_latest_feed": true,
+      "date_modified": "2026-10-13T22:32:15+08:00",
+      "retract_reason": null
+    },
+    {
+      "id": "c2-oakland-oaks-1918",
+      "version": 3,
+      "status": "active",
+      "in_latest_feed": true,
+      "date_modified": "2026-10-13T22:32:15+08:00",
+      "retract_reason": null
+    },
+    {
+      "id": "c1-hurricane-maria-sat",
+      "version": 3,
+      "status": "active",
+      "in_latest_feed": true,
+      "date_modified": "2026-10-13T22:32:15+08:00",
+      "retract_reason": null
+    },
+    {
+      "id": "c1-scam-watch-ftc",
+      "version": 3,
+      "status": "active",
+      "in_latest_feed": true,
+      "date_modified": "2026-10-13T22:32:15+08:00",
+      "retract_reason": null
+    },
+    {
+      "id": "c1-aerial-firefighting",
+      "version": 3,
+      "status": "active",
+      "in_latest_feed": true,
+      "date_modified": "2026-10-13T22:32:15+08:00",
+      "retract_reason": null
+    },
+    {
+      "id": "c1-romanians-vote-queue",
+      "version": 3,
+      "status": "active",
+      "in_latest_feed": true,
+      "date_modified": "2026-10-13T22:32:15+08:00",
+      "retract_reason": null
+    },
+    {
+      "id": "c1-satyarthi-nobel",
+      "version": 3,
+      "status": "active",
+      "in_latest_feed": true,
+      "date_modified": "2026-10-13T22:32:15+08:00",
+      "retract_reason": null
+    },
+    {
+      "id": "b2-film-notld",
+      "version": 3,
+      "status": "active",
+      "in_latest_feed": true,
+      "date_modified": "2026-10-13T22:32:15+08:00",
+      "retract_reason": null
+    },
+    {
+      "id": "b2-sci-snoopy",
+      "version": 3,
+      "status": "active",
+      "in_latest_feed": true,
+      "date_modified": "2026-10-13T22:32:15+08:00",
+      "retract_reason": null
+    },
+    {
+      "id": "b2-sec-voiceclone",
+      "version": 2,
+      "status": "active",
+      "in_latest_feed": true,
+      "date_modified": "2026-10-13T22:32:15+08:00",
+      "retract_reason": null
+    },
+    {
+      "id": "b2-crypto-ebsi",
+      "version": 2,
+      "status": "active",
+      "in_latest_feed": true,
+      "date_modified": "2026-10-13T22:32:15+08:00",
+      "retract_reason": null
+    },
+    {
+      "id": "b2-sport-ws1959",
+      "version": 3,
+      "status": "active",
+      "in_latest_feed": true,
+      "date_modified": "2026-10-13T22:32:15+08:00",
+      "retract_reason": null
+    },
+    {
+      "id": "b2-drone-blm",
+      "version": 3,
+      "status": "active",
+      "in_latest_feed": true,
+      "date_modified": "2026-10-13T22:32:15+08:00",
+      "retract_reason": null
+    },
+    {
+      "id": "b2-ai-robot",
+      "version": 2,
+      "status": "active",
+      "in_latest_feed": true,
+      "date_modified": "2026-10-13T22:32:15+08:00",
+      "retract_reason": null
+    },
+    {
+      "id": "b2-art-pumpkin",
+      "version": 2,
+      "status": "active",
+      "in_latest_feed": true,
+      "date_modified": "2026-10-13T22:32:15+08:00",
+      "retract_reason": null
+    },
+    {
+      "id": "b2-news-euro",
+      "version": 2,
+      "status": "active",
+      "in_latest_feed": true,
+      "date_modified": "2026-10-13T22:32:15+08:00",
+      "retract_reason": null
+    },
+    {
+      "id": "b2-game-arcade",
+      "version": 2,
+      "status": "active",
+      "in_latest_feed": true,
+      "date_modified": "2026-10-13T22:32:15+08:00",
+      "retract_reason": null
+    },
+    {
+      "id": "b1-film-duck",
+      "version": 3,
+      "status": "active",
+      "in_latest_feed": true,
+      "date_modified": "2026-10-13T22:32:15+08:00",
+      "retract_reason": null
+    },
+    {
+      "id": "b1-ai-arm",
+      "version": 2,
+      "status": "active",
+      "in_latest_feed": true,
+      "date_modified": "2026-10-13T22:32:15+08:00",
+      "retract_reason": null
+    },
+    {
+      "id": "b1-game-room",
+      "version": 2,
+      "status": "active",
+      "in_latest_feed": true,
+      "date_modified": "2026-10-13T22:32:15+08:00",
+      "retract_reason": null
+    },
+    {
+      "id": "b1-crypto-btc",
+      "version": 2,
+      "status": "active",
+      "in_latest_feed": true,
+      "date_modified": "2026-10-13T22:32:15+08:00",
+      "retract_reason": null
+    },
+    {
+      "id": "b1-sci-perseverance",
+      "version": 3,
+      "status": "active",
+      "in_latest_feed": true,
+      "date_modified": "2026-10-13T22:32:15+08:00",
+      "retract_reason": null
+    },
+    {
+      "id": "b1-sec-voa",
+      "version": 3,
+      "status": "active",
+      "in_latest_feed": true,
+      "date_modified": "2026-10-13T22:32:15+08:00",
+      "retract_reason": null
+    },
+    {
+      "id": "b1-drone-ingenuity",
+      "version": 4,
+      "status": "active",
+      "in_latest_feed": true,
+      "date_modified": "2026-10-13T22:32:15+08:00",
+      "retract_reason": null
+    },
+    {
+      "id": "b1-art-painting",
+      "version": 2,
+      "status": "active",
+      "in_latest_feed": true,
+      "date_modified": "2026-10-13T22:32:15+08:00",
+      "retract_reason": null
+    },
+    {
+      "id": "b1-sport-stadium",
+      "version": 2,
+      "status": "active",
+      "in_latest_feed": true,
+      "date_modified": "2026-10-13T22:32:15+08:00",
+      "retract_reason": null
+    }
+  ]
 }
