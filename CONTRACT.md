@@ -36,6 +36,11 @@
 | `_attribution` | 署名要求：CC 素材为"发帖时在描述中注明作者、来源链接和许可证链接：<许可证地址>"；Public domain 为"无需署名" |
 | `_recommended_segment` | 可选，`{"start_seconds": n, "end_seconds": m}`，母带推荐截取区间（数值型） |
 | `_master_url` | 可选，原始母带地址（当主下载地址为剪辑成品时保留） |
+| `_footage_type` | 影像类型：真实拍摄 / 历史影像 / 动画 / 仿真 / AI生成 / 混合（可附组成说明） |
+| `_event_date` | 事件日期（YYYY-MM-DD 或 YYYY），未知则空 |
+| `_filmed_date` | 拍摄日期，未知则空 |
+| `_original_upload_date` | 原始上传日期（来源站发布时间，非入库日期） |
+| `_valid_until` | 有效期，空表示长期有效 |
 
 ## 六、clips/ 目录
 

@@ -1,277 +1,277 @@
 {
- "updated_at": "2026-10-13T21:38:01+08:00",
+ "updated_at": "2026-10-13T22:32:15+08:00",
  "count": 34,
  "items": [
   {
    "id": "wh-trump-accounts-5000",
-   "version": 2,
+   "version": 3,
    "status": "active",
    "in_latest_feed": true,
-   "date_modified": "2026-10-13T21:23:43+08:00",
+   "date_modified": "2026-10-13T22:32:15+08:00",
    "retract_reason": null
   },
   {
    "id": "ai-pelkey-impact-statement",
-   "version": 2,
+   "version": 3,
    "status": "active",
    "in_latest_feed": true,
-   "date_modified": "2026-10-13T21:23:43+08:00",
+   "date_modified": "2026-10-13T22:32:15+08:00",
    "retract_reason": null
   },
   {
    "id": "drone-spain-eclipse-2026",
-   "version": 2,
+   "version": 3,
    "status": "active",
    "in_latest_feed": true,
-   "date_modified": "2026-10-13T21:23:43+08:00",
+   "date_modified": "2026-10-13T22:32:15+08:00",
    "retract_reason": null
   },
   {
    "id": "nasa-apophis-flyby-vertical",
-   "version": 2,
+   "version": 3,
    "status": "active",
    "in_latest_feed": true,
-   "date_modified": "2026-10-13T21:23:43+08:00",
+   "date_modified": "2026-10-13T22:32:15+08:00",
    "retract_reason": null
   },
   {
    "id": "arcade-gov-flappy",
-   "version": 2,
+   "version": 3,
    "status": "active",
    "in_latest_feed": true,
-   "date_modified": "2026-10-13T21:23:43+08:00",
+   "date_modified": "2026-10-13T22:32:15+08:00",
    "retract_reason": null
   },
   {
    "id": "texas-tn-football-game",
-   "version": 2,
+   "version": 3,
    "status": "active",
    "in_latest_feed": true,
-   "date_modified": "2026-10-13T21:23:43+08:00",
+   "date_modified": "2026-10-13T22:32:15+08:00",
    "retract_reason": null
   },
   {
    "id": "c2-sdo-x54-flare",
-   "version": 2,
+   "version": 3,
    "status": "active",
    "in_latest_feed": true,
-   "date_modified": "2026-10-13T21:23:43+08:00",
+   "date_modified": "2026-10-13T22:32:15+08:00",
    "retract_reason": null
   },
   {
    "id": "c2-x45a-ucav-demo",
-   "version": 2,
+   "version": 3,
    "status": "active",
    "in_latest_feed": true,
-   "date_modified": "2026-10-13T21:23:43+08:00",
+   "date_modified": "2026-10-13T22:32:15+08:00",
    "retract_reason": null
   },
   {
    "id": "c2-archive-scan-robot",
-   "version": 2,
+   "version": 3,
    "status": "active",
    "in_latest_feed": true,
-   "date_modified": "2026-10-13T21:23:43+08:00",
+   "date_modified": "2026-10-13T22:32:15+08:00",
    "retract_reason": null
   },
   {
    "id": "c2-oakland-oaks-1918",
-   "version": 2,
+   "version": 3,
    "status": "active",
    "in_latest_feed": true,
-   "date_modified": "2026-10-13T21:23:43+08:00",
+   "date_modified": "2026-10-13T22:32:15+08:00",
    "retract_reason": null
   },
   {
    "id": "c1-hurricane-maria-sat",
-   "version": 2,
+   "version": 3,
    "status": "active",
    "in_latest_feed": true,
-   "date_modified": "2026-10-13T21:23:43+08:00",
+   "date_modified": "2026-10-13T22:32:15+08:00",
    "retract_reason": null
   },
   {
    "id": "c1-scam-watch-ftc",
-   "version": 2,
+   "version": 3,
    "status": "active",
    "in_latest_feed": true,
-   "date_modified": "2026-10-13T21:23:43+08:00",
+   "date_modified": "2026-10-13T22:32:15+08:00",
    "retract_reason": null
   },
   {
    "id": "c1-aerial-firefighting",
-   "version": 2,
+   "version": 3,
    "status": "active",
    "in_latest_feed": true,
-   "date_modified": "2026-10-13T21:23:43+08:00",
+   "date_modified": "2026-10-13T22:32:15+08:00",
    "retract_reason": null
   },
   {
    "id": "c1-romanians-vote-queue",
-   "version": 2,
+   "version": 3,
    "status": "active",
    "in_latest_feed": true,
-   "date_modified": "2026-10-13T21:23:43+08:00",
+   "date_modified": "2026-10-13T22:32:15+08:00",
    "retract_reason": null
   },
   {
    "id": "c1-satyarthi-nobel",
-   "version": 2,
+   "version": 3,
    "status": "active",
    "in_latest_feed": true,
-   "date_modified": "2026-10-13T21:23:43+08:00",
+   "date_modified": "2026-10-13T22:32:15+08:00",
    "retract_reason": null
   },
   {
    "id": "b2-film-notld",
-   "version": 2,
+   "version": 3,
    "status": "active",
    "in_latest_feed": true,
-   "date_modified": "2026-10-13T21:23:43+08:00",
+   "date_modified": "2026-10-13T22:32:15+08:00",
    "retract_reason": null
   },
   {
    "id": "b2-sci-snoopy",
-   "version": 2,
+   "version": 3,
    "status": "active",
    "in_latest_feed": true,
-   "date_modified": "2026-10-13T21:23:43+08:00",
+   "date_modified": "2026-10-13T22:32:15+08:00",
    "retract_reason": null
   },
   {
    "id": "b2-sec-voiceclone",
-   "version": 1,
+   "version": 2,
    "status": "active",
    "in_latest_feed": true,
-   "date_modified": "2026-10-10T15:40:00+08:00",
+   "date_modified": "2026-10-13T22:32:15+08:00",
    "retract_reason": null
   },
   {
    "id": "b2-crypto-ebsi",
-   "version": 1,
+   "version": 2,
    "status": "active",
    "in_latest_feed": true,
-   "date_modified": "2026-10-10T15:30:00+08:00",
+   "date_modified": "2026-10-13T22:32:15+08:00",
    "retract_reason": null
   },
   {
    "id": "b2-sport-ws1959",
-   "version": 2,
+   "version": 3,
    "status": "active",
    "in_latest_feed": true,
-   "date_modified": "2026-10-13T21:23:43+08:00",
+   "date_modified": "2026-10-13T22:32:15+08:00",
    "retract_reason": null
   },
   {
    "id": "b2-drone-blm",
-   "version": 2,
+   "version": 3,
    "status": "active",
    "in_latest_feed": true,
-   "date_modified": "2026-10-13T21:23:43+08:00",
+   "date_modified": "2026-10-13T22:32:15+08:00",
    "retract_reason": null
   },
   {
    "id": "b2-ai-robot",
-   "version": 1,
+   "version": 2,
    "status": "active",
    "in_latest_feed": true,
-   "date_modified": "2026-10-10T15:00:00+08:00",
+   "date_modified": "2026-10-13T22:32:15+08:00",
    "retract_reason": null
   },
   {
    "id": "b2-art-pumpkin",
-   "version": 1,
+   "version": 2,
    "status": "active",
    "in_latest_feed": true,
-   "date_modified": "2026-10-10T14:50:00+08:00",
+   "date_modified": "2026-10-13T22:32:15+08:00",
    "retract_reason": null
   },
   {
    "id": "b2-news-euro",
-   "version": 1,
+   "version": 2,
    "status": "active",
    "in_latest_feed": true,
-   "date_modified": "2026-10-10T14:40:00+08:00",
+   "date_modified": "2026-10-13T22:32:15+08:00",
    "retract_reason": null
   },
   {
    "id": "b2-game-arcade",
-   "version": 1,
+   "version": 2,
    "status": "active",
    "in_latest_feed": true,
-   "date_modified": "2026-10-10T14:30:00+08:00",
+   "date_modified": "2026-10-13T22:32:15+08:00",
    "retract_reason": null
   },
   {
    "id": "b1-film-duck",
-   "version": 2,
+   "version": 3,
    "status": "active",
    "in_latest_feed": true,
-   "date_modified": "2026-10-13T21:23:43+08:00",
+   "date_modified": "2026-10-13T22:32:15+08:00",
    "retract_reason": null
   },
   {
    "id": "b1-ai-arm",
-   "version": 1,
+   "version": 2,
    "status": "active",
    "in_latest_feed": true,
-   "date_modified": "2026-10-10T10:50:00+08:00",
+   "date_modified": "2026-10-13T22:32:15+08:00",
    "retract_reason": null
   },
   {
    "id": "b1-game-room",
-   "version": 1,
+   "version": 2,
    "status": "active",
    "in_latest_feed": true,
-   "date_modified": "2026-10-10T10:40:00+08:00",
+   "date_modified": "2026-10-13T22:32:15+08:00",
    "retract_reason": null
   },
   {
    "id": "b1-crypto-btc",
-   "version": 1,
+   "version": 2,
    "status": "active",
    "in_latest_feed": true,
-   "date_modified": "2026-10-10T10:30:00+08:00",
+   "date_modified": "2026-10-13T22:32:15+08:00",
    "retract_reason": null
   },
   {
    "id": "b1-sci-perseverance",
-   "version": 2,
+   "version": 3,
    "status": "active",
    "in_latest_feed": true,
-   "date_modified": "2026-10-13T21:23:43+08:00",
+   "date_modified": "2026-10-13T22:32:15+08:00",
    "retract_reason": null
   },
   {
    "id": "b1-sec-voa",
-   "version": 2,
+   "version": 3,
    "status": "active",
    "in_latest_feed": true,
-   "date_modified": "2026-10-13T21:23:43+08:00",
+   "date_modified": "2026-10-13T22:32:15+08:00",
    "retract_reason": null
   },
   {
    "id": "b1-drone-ingenuity",
-   "version": 3,
+   "version": 4,
    "status": "active",
    "in_latest_feed": true,
-   "date_modified": "2026-10-13T21:38:01+08:00",
+   "date_modified": "2026-10-13T22:32:15+08:00",
    "retract_reason": null
   },
   {
    "id": "b1-art-painting",
-   "version": 1,
+   "version": 2,
    "status": "active",
    "in_latest_feed": true,
-   "date_modified": "2026-10-10T09:50:00+08:00",
+   "date_modified": "2026-10-13T22:32:15+08:00",
    "retract_reason": null
   },
   {
    "id": "b1-sport-stadium",
-   "version": 1,
+   "version": 2,
    "status": "active",
    "in_latest_feed": true,
-   "date_modified": "2026-10-10T09:40:00+08:00",
+   "date_modified": "2026-10-13T22:32:15+08:00",
    "retract_reason": null
   }
  ]

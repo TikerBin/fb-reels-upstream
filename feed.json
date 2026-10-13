@@ -28,7 +28,12 @@
    ],
    "_license": "Public domain",
    "_attribution": "无需署名",
-   "_version": 2
+   "_version": 3,
+   "_source_url": "https://commons.wikimedia.org/wiki/File:$5000_to_Americans.webm",
+   "_footage_type": "真实拍摄",
+   "_event_date": "2026-10-12",
+   "_filmed_date": "2026-10-12",
+   "_original_upload_date": "2026-10-12"
   },
   {
    "id": "ai-pelkey-impact-statement",
@@ -52,7 +57,14 @@
    ],
    "_license": "Public domain",
    "_attribution": "无需署名",
-   "_version": 2
+   "_version": 3,
+   "_source_url": "https://commons.wikimedia.org/wiki/File:A.I._of_Murder_Victim_Christopher_Pelkey_Makes_His_Own_Impact_Statement_at_Sentencing.webm",
+   "_footage_type": "真实拍摄",
+   "_original_upload_date": "2026-10-08",
+   "_recommended_segment": {
+    "start_seconds": 50,
+    "end_seconds": 110
+   }
   },
   {
    "id": "drone-spain-eclipse-2026",
@@ -76,10 +88,18 @@
    ],
    "_license": "CC BY-SA 4.0",
    "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by-sa/4.0/",
-   "_version": 2,
+   "_version": 3,
    "_author": "Plenz",
    "_source_url": "https://commons.wikimedia.org/wiki/File:Total_Solar_Eclipse_in_Spain_by_Drone.webm",
-   "_license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+   "_license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "_footage_type": "真实拍摄",
+   "_event_date": "2026-08-12",
+   "_filmed_date": "2026-08-12",
+   "_original_upload_date": "2026-10-13",
+   "_recommended_segment": {
+    "start_seconds": 105,
+    "end_seconds": 160
+   }
   },
   {
    "id": "nasa-apophis-flyby-vertical",
@@ -103,7 +123,11 @@
    ],
    "_license": "Public domain",
    "_attribution": "无需署名",
-   "_version": 2
+   "_version": 3,
+   "_source_url": "https://commons.wikimedia.org/wiki/File:Asteroid_Apophis_2029_Earth_Flyby_%E2%80%93_Animations_(SVS20414_-_Apophis_Distance_Animation_Vertical_4k).webm",
+   "_footage_type": "动画",
+   "_event_date": "2029-04-13",
+   "_original_upload_date": "2026-09-23"
   },
   {
    "id": "arcade-gov-flappy",
@@ -127,7 +151,11 @@
    ],
    "_license": "Public domain",
    "_attribution": "无需署名",
-   "_version": 2
+   "_version": 3,
+   "_source_url": "https://commons.wikimedia.org/wiki/File:Easily_distracted%3F_We_might_have_the_solution._ARCADE.GOV.webm",
+   "_footage_type": "混合（动画+实拍混剪）",
+   "_event_date": "2026",
+   "_original_upload_date": "2026-09-04"
   },
   {
    "id": "texas-tn-football-game",
@@ -151,7 +179,10 @@
    ],
    "_license": "Public domain",
    "_attribution": "无需署名",
-   "_version": 2
+   "_version": 3,
+   "_source_url": "https://commons.wikimedia.org/wiki/File:President_Trump_Attends_Texas_v._TN_Football_Game.webm",
+   "_footage_type": "真实拍摄",
+   "_original_upload_date": "2026-09-27"
   },
   {
    "id": "c2-sdo-x54-flare",
@@ -175,7 +206,16 @@
    ],
    "_license": "Public domain",
    "_attribution": "无需署名",
-   "_version": 2
+   "_version": 3,
+   "_source_url": "https://images.nasa.gov/details/GSFC_20120307_SDO_m10925_Flare",
+   "_footage_type": "真实拍摄",
+   "_event_date": "2012-03-07",
+   "_filmed_date": "2012-03-07",
+   "_original_upload_date": "2012-03-07",
+   "_recommended_segment": {
+    "start_seconds": 20,
+    "end_seconds": 60
+   }
   },
   {
    "id": "c2-x45a-ucav-demo",
@@ -199,7 +239,14 @@
    ],
    "_license": "Public domain",
    "_attribution": "无需署名",
-   "_version": 2
+   "_version": 3,
+   "_source_url": "https://archive.org/details/X_45A_Kil_w_Music",
+   "_footage_type": "真实拍摄",
+   "_original_upload_date": "2006-03-28",
+   "_recommended_segment": {
+    "start_seconds": 15,
+    "end_seconds": 75
+   }
   },
   {
    "id": "c2-archive-scan-robot",
@@ -223,7 +270,14 @@
    ],
    "_license": "Public domain",
    "_attribution": "无需署名",
-   "_version": 2
+   "_version": 3,
+   "_source_url": "https://archive.org/details/scanning_robot",
+   "_footage_type": "真实拍摄",
+   "_original_upload_date": "2004-10-27",
+   "_recommended_segment": {
+    "start_seconds": 190,
+    "end_seconds": 250
+   }
   },
   {
    "id": "c2-oakland-oaks-1918",
@@ -247,7 +301,16 @@
    ],
    "_license": "Public domain",
    "_attribution": "无需署名",
-   "_version": 2
+   "_version": 3,
+   "_source_url": "https://archive.org/details/OaklandO1918",
+   "_footage_type": "历史影像",
+   "_event_date": "1918",
+   "_filmed_date": "1918",
+   "_original_upload_date": "2002-07-16",
+   "_recommended_segment": {
+    "start_seconds": 70,
+    "end_seconds": 130
+   }
   },
   {
    "id": "c1-hurricane-maria-sat",
@@ -271,7 +334,12 @@
    ],
    "_license": "Public domain",
    "_attribution": "无需署名",
-   "_version": 2
+   "_version": 3,
+   "_source_url": "https://commons.wikimedia.org/wiki/File:Hurricane_Satellite_Animation_Shows_Hurricane_Maria_and_Post-Tropical_Storm_Jose.webm",
+   "_footage_type": "真实拍摄（卫星数据延时）",
+   "_event_date": "2017-09",
+   "_filmed_date": "2017-09",
+   "_original_upload_date": "2018-08-30"
   },
   {
    "id": "c1-scam-watch-ftc",
@@ -295,7 +363,14 @@
    ],
    "_license": "Public domain",
    "_attribution": "无需署名",
-   "_version": 2
+   "_version": 3,
+   "_source_url": "https://commons.wikimedia.org/wiki/File:Scam_Watch_1280x720.ogv",
+   "_footage_type": "动画",
+   "_original_upload_date": "2014-03-14",
+   "_recommended_segment": {
+    "start_seconds": 5,
+    "end_seconds": 65
+   }
   },
   {
    "id": "c1-aerial-firefighting",
@@ -319,10 +394,16 @@
    ],
    "_license": "CC BY 3.0",
    "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/3.0",
-   "_version": 2,
+   "_version": 3,
    "_author": "Jared Eglinski",
    "_source_url": "https://commons.wikimedia.org/wiki/File:Aerial_video_of_Firefighting.webm",
-   "_license_url": "https://creativecommons.org/licenses/by/3.0"
+   "_license_url": "https://creativecommons.org/licenses/by/3.0",
+   "_footage_type": "真实拍摄",
+   "_original_upload_date": "2015-02-14",
+   "_recommended_segment": {
+    "start_seconds": 90,
+    "end_seconds": 150
+   }
   },
   {
    "id": "c1-romanians-vote-queue",
@@ -346,10 +427,16 @@
    ],
    "_license": "CC BY 3.0",
    "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/3.0",
-   "_version": 2,
+   "_version": 3,
    "_author": "Yanu ari",
    "_source_url": "https://commons.wikimedia.org/wiki/File:Thousands_Of_Romanians_Queue_Around_The_Block_To_Vote_Presidential_Election_In_Portsmouth.webm",
-   "_license_url": "https://creativecommons.org/licenses/by/3.0"
+   "_license_url": "https://creativecommons.org/licenses/by/3.0",
+   "_footage_type": "真实拍摄",
+   "_original_upload_date": "2018-07-06",
+   "_recommended_segment": {
+    "start_seconds": 65,
+    "end_seconds": 125
+   }
   },
   {
    "id": "c1-satyarthi-nobel",
@@ -373,7 +460,14 @@
    ],
    "_license": "Public domain",
    "_attribution": "无需署名",
-   "_version": 2
+   "_version": 3,
+   "_source_url": "https://commons.wikimedia.org/wiki/File:En.Wikipedia-VideoWiki-Kailash_Satyarthi.webm",
+   "_footage_type": "动画",
+   "_original_upload_date": "2019-10-08",
+   "_recommended_segment": {
+    "start_seconds": 65,
+    "end_seconds": 120
+   }
   },
   {
    "id": "b2-film-notld",
@@ -397,7 +491,16 @@
    ],
    "_license": "Public domain",
    "_attribution": "无需署名",
-   "_version": 2
+   "_version": 3,
+   "_source_url": "https://archive.org/details/NightOfTheLivingDeadTrailer",
+   "_footage_type": "历史影像",
+   "_event_date": "1968",
+   "_filmed_date": "1968",
+   "_original_upload_date": "2007-05-22",
+   "_recommended_segment": {
+    "start_seconds": 50,
+    "end_seconds": 90
+   }
   },
   {
    "id": "b2-sci-snoopy",
@@ -421,7 +524,15 @@
    ],
    "_license": "Public domain",
    "_attribution": "无需署名",
-   "_version": 2
+   "_version": 3,
+   "_source_url": "https://commons.wikimedia.org/wiki/File:Snoopy_is_Going_to_Space_on_NASA%27s_Artemis_I_Moon_Mission.webm",
+   "_footage_type": "混合（动画+真实发射画面）",
+   "_event_date": "2022",
+   "_original_upload_date": "2023-03-19",
+   "_recommended_segment": {
+    "start_seconds": 60,
+    "end_seconds": 90
+   }
   },
   {
    "id": "b2-sec-voiceclone",
@@ -445,10 +556,16 @@
    ],
    "_license": "CC BY 3.0",
    "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/3.0",
-   "_version": 1,
+   "_version": 2,
    "_author": "lofi beats to study to",
    "_source_url": "https://commons.wikimedia.org/wiki/File:Demonstration_of_AI_Voice_Cloning.webm",
-   "_license_url": "https://creativecommons.org/licenses/by/3.0"
+   "_license_url": "https://creativecommons.org/licenses/by/3.0",
+   "_footage_type": "真实拍摄（屏幕录制）",
+   "_original_upload_date": "2024-09-10",
+   "_recommended_segment": {
+    "start_seconds": 100,
+    "end_seconds": 160
+   }
   },
   {
    "id": "b2-crypto-ebsi",
@@ -472,10 +589,16 @@
    ],
    "_license": "CC BY-SA 4.0",
    "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by-sa/4.0",
-   "_version": 1,
+   "_version": 2,
    "_author": "European Commission",
    "_source_url": "https://commons.wikimedia.org/wiki/File:Meet_the_European_Blockchain_Services_Infrastructure_EBSI.webm",
-   "_license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+   "_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "_footage_type": "动画",
+   "_original_upload_date": "2020-07-09",
+   "_recommended_segment": {
+    "start_seconds": 35,
+    "end_seconds": 95
+   }
   },
   {
    "id": "b2-sport-ws1959",
@@ -499,7 +622,16 @@
    ],
    "_license": "Public domain",
    "_attribution": "无需署名",
-   "_version": 2
+   "_version": 3,
+   "_source_url": "https://archive.org/details/1959-10-05_West_Coast_Hails_First_World_Series",
+   "_footage_type": "历史影像",
+   "_event_date": "1959-10",
+   "_filmed_date": "1959-10",
+   "_original_upload_date": "2005-04-06",
+   "_recommended_segment": {
+    "start_seconds": 40,
+    "end_seconds": 85
+   }
   },
   {
    "id": "b2-drone-blm",
@@ -523,7 +655,10 @@
    ],
    "_license": "Public domain",
    "_attribution": "无需署名",
-   "_version": 2
+   "_version": 3,
+   "_source_url": "https://commons.wikimedia.org/wiki/File:BLM_drone_training_above_Horning_Seed_Orchard_(35179078385).webm",
+   "_footage_type": "真实拍摄",
+   "_original_upload_date": "2025-08-30"
   },
   {
    "id": "b2-ai-robot",
@@ -547,10 +682,12 @@
    ],
    "_license": "CC BY 4.0",
    "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/4.0",
-   "_version": 1,
+   "_version": 2,
    "_author": "Galbraith B, Guenther F, Versace M",
    "_source_url": "https://commons.wikimedia.org/wiki/File:A-neural-network-based-exploratory-learning-and-motor-planning-system-for-co-robots-Video1.ogv",
-   "_license_url": "https://creativecommons.org/licenses/by/4.0"
+   "_license_url": "https://creativecommons.org/licenses/by/4.0",
+   "_footage_type": "仿真",
+   "_original_upload_date": "2015-08-12"
   },
   {
    "id": "b2-art-pumpkin",
@@ -574,10 +711,16 @@
    ],
    "_license": "CC BY-SA 3.0",
    "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by-sa/3.0",
-   "_version": 1,
+   "_version": 2,
    "_author": "Saramarieplew",
    "_source_url": "https://commons.wikimedia.org/wiki/File:Pumpkin_Carving.webm",
-   "_license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+   "_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "_footage_type": "真实拍摄",
+   "_original_upload_date": "2013-11-02",
+   "_recommended_segment": {
+    "start_seconds": 30,
+    "end_seconds": 78
+   }
   },
   {
    "id": "b2-news-euro",
@@ -601,10 +744,16 @@
    ],
    "_license": "CC BY 3.0",
    "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/3.0",
-   "_version": 1,
+   "_version": 2,
    "_author": "ECB euro",
    "_source_url": "https://commons.wikimedia.org/wiki/File:New_20_Euro_Banknotes_Printing_Production.webm",
-   "_license_url": "https://creativecommons.org/licenses/by/3.0"
+   "_license_url": "https://creativecommons.org/licenses/by/3.0",
+   "_footage_type": "真实拍摄",
+   "_original_upload_date": "2016-04-30",
+   "_recommended_segment": {
+    "start_seconds": 395,
+    "end_seconds": 455
+   }
   },
   {
    "id": "b2-game-arcade",
@@ -628,10 +777,16 @@
    ],
    "_license": "CC BY 3.0",
    "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/3.0",
-   "_version": 1,
+   "_version": 2,
    "_author": "Retro Tech",
    "_source_url": "https://commons.wikimedia.org/wiki/File:Neo_Geo_MVS_Arcade_Restoration_-_Part_1-Getting_started.webm",
-   "_license_url": "https://creativecommons.org/licenses/by/3.0"
+   "_license_url": "https://creativecommons.org/licenses/by/3.0",
+   "_footage_type": "真实拍摄",
+   "_original_upload_date": "2024-09-18",
+   "_recommended_segment": {
+    "start_seconds": 195,
+    "end_seconds": 245
+   }
   },
   {
    "id": "b1-film-duck",
@@ -655,7 +810,16 @@
    ],
    "_license": "Public domain",
    "_attribution": "无需署名",
-   "_version": 2
+   "_version": 3,
+   "_source_url": "https://archive.org/details/DuckandC1951",
+   "_footage_type": "历史影像（含动画段落）",
+   "_event_date": "1951",
+   "_filmed_date": "1951",
+   "_original_upload_date": "2002-07-16",
+   "_recommended_segment": {
+    "start_seconds": 405,
+    "end_seconds": 465
+   }
   },
   {
    "id": "b1-ai-arm",
@@ -679,10 +843,12 @@
    ],
    "_license": "CC BY-SA 4.0",
    "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by-sa/4.0",
-   "_version": 1,
+   "_version": 2,
    "_author": "Giacomo Alessandroni",
    "_source_url": "https://commons.wikimedia.org/wiki/File:Hand-made_robotic_arm_with_Arduino.webm",
-   "_license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+   "_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "_footage_type": "真实拍摄",
+   "_original_upload_date": "2021-12-15"
   },
   {
    "id": "b1-game-room",
@@ -706,10 +872,16 @@
    ],
    "_license": "CC BY 3.0",
    "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/3.0",
-   "_version": 1,
+   "_version": 2,
    "_author": "Cross Chop",
    "_source_url": "https://commons.wikimedia.org/wiki/File:8_Game_Room_Ideas_in_90_Seconds!.webm",
-   "_license_url": "https://creativecommons.org/licenses/by/3.0"
+   "_license_url": "https://creativecommons.org/licenses/by/3.0",
+   "_footage_type": "真实拍摄",
+   "_original_upload_date": "2024-08-06",
+   "_recommended_segment": {
+    "start_seconds": 25,
+    "end_seconds": 65
+   }
   },
   {
    "id": "b1-crypto-btc",
@@ -733,10 +905,16 @@
    ],
    "_license": "CC BY-SA 3.0",
    "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by-sa/3.0",
-   "_version": 1,
+   "_version": 2,
    "_author": "Duncan Elms",
    "_source_url": "https://commons.wikimedia.org/wiki/File:Bitcoin_Explained_-_a_video_explaining_the_decentralized_digital_cryptocurrency_Bitcoin.webm",
-   "_license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+   "_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "_footage_type": "动画",
+   "_original_upload_date": "2013-04-11",
+   "_recommended_segment": {
+    "start_seconds": 55,
+    "end_seconds": 105
+   }
   },
   {
    "id": "b1-sci-perseverance",
@@ -760,7 +938,15 @@
    ],
    "_license": "Public domain",
    "_attribution": "无需署名",
-   "_version": 2
+   "_version": 3,
+   "_source_url": "https://images.nasa.gov/details/JPL-20210218-M2020f-0003-Perseverance%20Landing%20Wrap%20v2",
+   "_footage_type": "混合（实拍+动画）",
+   "_event_date": "2021-02-18",
+   "_original_upload_date": "2021-02-18",
+   "_recommended_segment": {
+    "start_seconds": 5,
+    "end_seconds": 58
+   }
   },
   {
    "id": "b1-sec-voa",
@@ -784,7 +970,12 @@
    ],
    "_license": "Public domain",
    "_attribution": "无需署名",
-   "_version": 2
+   "_version": 3,
+   "_source_url": "https://commons.wikimedia.org/wiki/File:Cyberattack_Slows_US_Access_to_Popular_Sites.webm",
+   "_footage_type": "真实拍摄",
+   "_event_date": "2016-10",
+   "_filmed_date": "2016-10",
+   "_original_upload_date": "2016-10-21"
   },
   {
    "id": "b1-drone-ingenuity",
@@ -808,8 +999,12 @@
    ],
    "_license": "Public domain",
    "_attribution": "无需署名",
-   "_version": 3,
-   "_master_url": "https://images-assets.nasa.gov/video/JPL-20210323-TECHf-0001-Helicopter%20First%20Flight%20VF/JPL-20210323-TECHf-0001-Helicopter%20First%20Flight%20VF~orig.mp4"
+   "_version": 4,
+   "_source_url": "https://images.nasa.gov/details/JPL-20210323-TECHf-0001-Helicopter%20First%20Flight%20VF",
+   "_master_url": "https://images-assets.nasa.gov/video/JPL-20210323-TECHf-0001-Helicopter%20First%20Flight%20VF/JPL-20210323-TECHf-0001-Helicopter%20First%20Flight%20VF~orig.mp4",
+   "_footage_type": "混合（仿真+实拍+动画+采访）",
+   "_event_date": "2021-04-19",
+   "_original_upload_date": "2021-03-23"
   },
   {
    "id": "b1-art-painting",
@@ -833,10 +1028,16 @@
    ],
    "_license": "CC BY 3.0",
    "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/3.0",
-   "_version": 1,
+   "_version": 2,
    "_author": "Ibrahim Krimat Art",
    "_source_url": "https://commons.wikimedia.org/wiki/File:Digital_Painting_-_Photoshop_painting_process_-_Blond_Female_Cop.webm",
-   "_license_url": "https://creativecommons.org/licenses/by/3.0"
+   "_license_url": "https://creativecommons.org/licenses/by/3.0",
+   "_footage_type": "真实拍摄（屏幕录制）",
+   "_original_upload_date": "2022-05-09",
+   "_recommended_segment": {
+    "start_seconds": 140,
+    "end_seconds": 200
+   }
   },
   {
    "id": "b1-sport-stadium",
@@ -860,10 +1061,18 @@
    ],
    "_license": "CC BY-SA 4.0",
    "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by-sa/4.0",
-   "_version": 1,
+   "_version": 2,
    "_author": "Nesnad",
    "_source_url": "https://commons.wikimedia.org/wiki/File:Japan_National_Stadium_-_outside_inside_-_2022_March_20_-_4k.webm",
-   "_license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+   "_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "_footage_type": "真实拍摄",
+   "_event_date": "2022-03-20",
+   "_filmed_date": "2022-03-20",
+   "_original_upload_date": "2022-03-21",
+   "_recommended_segment": {
+    "start_seconds": 30,
+    "end_seconds": 65
+   }
   }
  ]
 }
