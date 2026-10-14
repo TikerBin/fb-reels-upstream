@@ -1,15 +1,15 @@
 {
- "updated_at": "2026-10-14T10:53:43+08:00",
+ "updated_at": "2026-10-14T11:14:55+08:00",
  "count": 44,
  "note": "全量最新状态快照，按 id 查询。条目含完整内容快照，移出最新列表的老条目仍可在此查到完整内容。",
  "items": [
   {
    "id": "test-retraction-01",
-   "status": "active",
-   "version": 1,
-   "date_modified": "2026-10-14T10:53:24+08:00",
-   "in_latest_feed": true,
-   "retract_reason": "",
+   "status": "retracted",
+   "version": 2,
+   "date_modified": "2026-10-14T11:14:55+08:00",
+   "in_latest_feed": false,
+   "retract_reason": "联调测试：执行撤回验证第2步，测试素材撤回（is_test=true，不用于正式发布）",
    "is_test": true,
    "title": "【联调测试专用】撤回流程验证测试素材（不用于正式发布）",
    "summary_cn": "联调测试专用素材：5秒测试图案视频，用于验证变更日志同步、撤回与重放防护流程。不用于正式发布；正式发布流程请过滤 is_test 标记。",

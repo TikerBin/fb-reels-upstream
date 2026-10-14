@@ -1,6 +1,26 @@
 {
- "updated_at": "2026-10-13T21:23:56+08:00",
- "count": 0,
- "events": [],
- "note": "暂无撤回记录。撤回事件将在确认后立即记入本文件并推送，不等待每日采集。"
+ "updated_at": "2026-10-14T11:14:55+08:00",
+ "count": 1,
+ "events": [
+  {
+   "event_id": "evt-20261014-0105",
+   "seq": 105,
+   "item_id": "test-retraction-01",
+   "version": 2,
+   "type": "retracted",
+   "status": "retracted",
+   "occurred_at": "2026-10-14T11:14:55+08:00",
+   "reason": "联调测试：执行撤回验证第2步，测试素材撤回（is_test=true，不用于正式发布）",
+   "changed_fields": [
+    "status",
+    "version"
+   ],
+   "is_test": true,
+   "_retracted": {
+    "reason": "联调测试撤回验证",
+    "retracted_at": "2026-10-14T11:14:55+08:00"
+   }
+  }
+ ],
+ "note": "含1条联调测试撤回记录（is_test=true）。撤回事件在确认后立即记入本文件并推送，不等待每日采集。"
 }

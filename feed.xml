@@ -5,21 +5,7 @@
 <link>https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main</link>
 <description>每日更新的 Facebook Reels 可用视频素材：下载地址、内容总结、内容类型、许可证。全部为公有领域或 CC 协议合法素材。</description>
 <language>zh-CN</language>
-<lastBuildDate>Wed, 14 Oct 2026 02:53:43 +0000</lastBuildDate>
-<item>
-<title>【联调测试专用】撤回流程验证测试素材（不用于正式发布）</title>
-<link>https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/test-fixtures/retraction-test.mp4</link>
-<guid isPermaLink="false">test-retraction-01</guid>
-<pubDate>Wed, 14 Oct 2026 10:53:24 +0800</pubDate>
-<category>科技/教育</category>
-<category>AI Tools and Everyday Uses</category>
-<enclosure url="https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/test-fixtures/retraction-test.mp4" length="123023" type="video/mp4"/>
-<description><![CDATA[【内容总结】联调测试专用素材：5秒测试图案视频，用于验证变更日志同步、撤回与重放防护流程。不用于正式发布；正式发布流程请过滤 is_test 标记。<br/>【内容类型】科技/教育<br/>【对应社群】AI Tools and Everyday Uses<br/>【许可证】Public domain（无需署名）<br/>【Reels角度】联调测试专用，无实际 Reels 用途<br/>【热点挂钩】联调测试：撤回流程验证<br/>【规格】5秒，1280x720，约0.1MB]]></description>
-<_license>Public domain</_license>
-<_attribution>无需署名</_attribution>
-<_source_url>https://github.com/TikerBin/fb-reels-upstream/tree/main/test-fixtures</_source_url>
-<_is_test>true</_is_test>
-</item>
+<lastBuildDate>Wed, 14 Oct 2026 03:14:55 +0000</lastBuildDate>
 <item>
 <title>美军C100无人机打击训练实拍（陆军官方）</title>
 <link>https://upload.wikimedia.org/wikipedia/commons/3/3b/C100_sUAS_Strike_Training_%28Army_Graphics%29_%281026175%29.webm</link>
