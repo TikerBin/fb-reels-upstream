@@ -119,8 +119,11 @@ Next Game Brief（gaming）、Everyday News and Money Discussion（news_money）
   且非测试条目的数量（不是 `feed.json` 条目数；`feed.json` 只代表最新 300 条窗口，
   当下不足 300 条时两者恰好相等，超过 300 条后不再相等）。
 - `total_events_today`：当日非测试变更事件总数（`occurred_at` 落在当日）。
-- `categories.<分类>`：`valid`（当前该分类有效库存）、`pending_review`（恒为 0，上游无审核环节）、
+- `categories.<分类>`：`valid`（该分类有效库存，全量口径）、`pending_review`（恒为 0，上游无审核环节）、
   `added` / `modified` / `retracted` / `expired` / `restored`（当日该分类各变化计数）。
+- `category_basis`：`LATEST_AT_STATS_UNTIL`——所有分类计数按**统计截止时点各素材的最新分类**归类
+  （事件发生时的历史分类不追踪；分类迁移本身记一次 `modified`，`changed_fields` 含 `category`）。
+  下游按同一口径比较每分类增减，不要猜测事件发生时分类。
 - 计数口径：`added` 仅指新素材首次入库（历史字段补录记 `modified`，不记 `added`）；
   `modified` 按“本日发生该变化的素材身份”去重；同一素材同日多类变化在各列分别计数，不可直接相加；
   测试条目（`is_test`）不计入任何计数；下游按 `seq` 幂等去重。

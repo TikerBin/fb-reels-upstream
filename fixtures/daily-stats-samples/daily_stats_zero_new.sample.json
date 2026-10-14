@@ -34,5 +34,6 @@
  "timezone": "Asia/Shanghai",
  "total_events_today": 0,
  "update_completed": true,
- "last_event_seq": 9000
+ "last_event_seq": 9000,
+ "category_basis": "LATEST_AT_STATS_UNTIL"
 }
