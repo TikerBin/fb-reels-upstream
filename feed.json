@@ -82,16 +82,16 @@
    ],
    "_license": "Public domain",
    "_attribution": "无需署名",
-   "_version": 1,
+   "_version": 2,
    "_source_url": "https://commons.wikimedia.org/wiki/File:NASA_Minute_Oct_10,_2026.webm",
    "_footage_type": "真实拍摄",
    "_event_date": "2026-10-10",
    "_filmed_date": "2026-10-10",
    "_original_upload_date": "2026-10-13",
-   "_recommended_segment": [
-    55,
-    85
-   ]
+   "_recommended_segment": {
+    "start_seconds": 55,
+    "end_seconds": 85
+   }
   },
   {
    "id": "fbi-shinyhunters-arrest",
@@ -115,14 +115,14 @@
    ],
    "_license": "Public domain",
    "_attribution": "无需署名",
-   "_version": 1,
+   "_version": 2,
    "_source_url": "https://commons.wikimedia.org/wiki/File:FBI_Announces_ShinyHunters_Arrest.webm",
    "_footage_type": "真实拍摄",
    "_original_upload_date": "2026-10-02",
-   "_recommended_segment": [
-    5,
-    35
-   ]
+   "_recommended_segment": {
+    "start_seconds": 5,
+    "end_seconds": 35
+   }
   },
   {
    "id": "milk-pinball-ad-70s",
@@ -173,16 +173,16 @@
    ],
    "_license": "Public domain",
    "_attribution": "无需署名",
-   "_version": 1,
+   "_version": 2,
    "_source_url": "https://commons.wikimedia.org/wiki/File:Jazz_Rhythm_(1930).webm",
    "_footage_type": "历史影像",
    "_event_date": "1930",
    "_filmed_date": "1930",
    "_original_upload_date": "2026-10-08",
-   "_recommended_segment": [
-    180,
-    225
-   ]
+   "_recommended_segment": {
+    "start_seconds": 180,
+    "end_seconds": 225
+   }
   },
   {
    "id": "olympiaturm-munich-2024",
@@ -237,16 +237,16 @@
    ],
    "_license": "CC BY 3.0",
    "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/3.0",
-   "_version": 1,
+   "_version": 2,
    "_author": "David Revoy",
    "_source_url": "https://commons.wikimedia.org/wiki/File:Kynitia_timelapse_David_Revoy.ogv",
    "_license_url": "https://creativecommons.org/licenses/by/3.0",
    "_footage_type": "真实拍摄",
    "_original_upload_date": "2023-01-23",
-   "_recommended_segment": [
-    240,
-    300
-   ]
+   "_recommended_segment": {
+    "start_seconds": 240,
+    "end_seconds": 300
+   }
   },
   {
    "id": "ineq-america-billionaires",
@@ -270,15 +270,15 @@
    ],
    "_license": "Public domain",
    "_attribution": "无需署名",
-   "_version": 1,
+   "_version": 2,
    "_source_url": "https://commons.wikimedia.org/wiki/File:Inequality_in_America_-_Billionaires.webm",
    "_footage_type": "动画",
    "_event_date": "2026",
    "_original_upload_date": "2026-10-09",
-   "_recommended_segment": [
-    60,
-    120
-   ]
+   "_recommended_segment": {
+    "start_seconds": 60,
+    "end_seconds": 120
+   }
   },
   {
    "id": "wh-trump-accounts-5000",

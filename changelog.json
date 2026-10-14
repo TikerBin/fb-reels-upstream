@@ -1,7 +1,7 @@
 {
  "updated_at": "2026-10-14T08:57:24+08:00",
- "event_count": 105,
- "next_seq": 106,
+ "event_count": 110,
+ "next_seq": 111,
  "events": [
   {
    "event_id": "evt-20261013-0001",
@@ -1294,6 +1294,71 @@
     "reason": "联调测试撤回验证",
     "retracted_at": "2026-10-14T11:14:55+08:00"
    }
+  },
+  {
+   "event_id": "evt-20261014-0106",
+   "seq": 106,
+   "item_id": "nasa-minute-20261010",
+   "version": 2,
+   "type": "modified",
+   "status": "active",
+   "occurred_at": "2026-10-14T16:38:19+08:00",
+   "reason": "联调修正：_recommended_segment 由数组改为约定的对象格式（秒数不变）",
+   "changed_fields": [
+    "_recommended_segment"
+   ]
+  },
+  {
+   "event_id": "evt-20261014-0107",
+   "seq": 107,
+   "item_id": "fbi-shinyhunters-arrest",
+   "version": 2,
+   "type": "modified",
+   "status": "active",
+   "occurred_at": "2026-10-14T16:38:19+08:00",
+   "reason": "联调修正：_recommended_segment 由数组改为约定的对象格式（秒数不变）",
+   "changed_fields": [
+    "_recommended_segment"
+   ]
+  },
+  {
+   "event_id": "evt-20261014-0108",
+   "seq": 108,
+   "item_id": "jazz-rhythm-1930",
+   "version": 2,
+   "type": "modified",
+   "status": "active",
+   "occurred_at": "2026-10-14T16:38:19+08:00",
+   "reason": "联调修正：_recommended_segment 由数组改为约定的对象格式（秒数不变）",
+   "changed_fields": [
+    "_recommended_segment"
+   ]
+  },
+  {
+   "event_id": "evt-20261014-0109",
+   "seq": 109,
+   "item_id": "revoy-kynitia-timelapse",
+   "version": 2,
+   "type": "modified",
+   "status": "active",
+   "occurred_at": "2026-10-14T16:38:19+08:00",
+   "reason": "联调修正：_recommended_segment 由数组改为约定的对象格式（秒数不变）",
+   "changed_fields": [
+    "_recommended_segment"
+   ]
+  },
+  {
+   "event_id": "evt-20261014-0110",
+   "seq": 110,
+   "item_id": "ineq-america-billionaires",
+   "version": 2,
+   "type": "modified",
+   "status": "active",
+   "occurred_at": "2026-10-14T16:38:19+08:00",
+   "reason": "联调修正：_recommended_segment 由数组改为约定的对象格式（秒数不变）",
+   "changed_fields": [
+    "_recommended_segment"
+   ]
   }
  ]
 }

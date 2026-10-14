@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-14T11:14:55+08:00",
+ "updated_at": "2026-10-14T16:38:23+08:00",
  "count": 44,
  "note": "全量最新状态快照，按 id 查询。条目含完整内容快照，移出最新列表的老条目仍可在此查到完整内容。",
  "items": [
@@ -94,8 +94,8 @@
   {
    "id": "nasa-minute-20261010",
    "status": "active",
-   "version": 1,
-   "date_modified": "2026-10-14T08:56:49+08:00",
+   "version": 2,
+   "date_modified": "2026-10-14T16:38:19+08:00",
    "in_latest_feed": true,
    "retract_reason": "",
    "title": "NASA一周速览（10月10日）：Artemis II与空间站",
@@ -120,16 +120,16 @@
    "_event_date": "2026-10-10",
    "_filmed_date": "2026-10-10",
    "_original_upload_date": "2026-10-13",
-   "_recommended_segment": [
-    55,
-    85
-   ]
+   "_recommended_segment": {
+    "start_seconds": 55,
+    "end_seconds": 85
+   }
   },
   {
    "id": "fbi-shinyhunters-arrest",
    "status": "active",
-   "version": 1,
-   "date_modified": "2026-10-14T08:56:49+08:00",
+   "version": 2,
+   "date_modified": "2026-10-14T16:38:19+08:00",
    "in_latest_feed": true,
    "retract_reason": "",
    "title": "FBI宣布逮捕黑客组织ShinyHunters头目",
@@ -152,10 +152,10 @@
    "pub_date": "2026-10-14T08:56:49+08:00",
    "_footage_type": "真实拍摄",
    "_original_upload_date": "2026-10-02",
-   "_recommended_segment": [
-    5,
-    35
-   ]
+   "_recommended_segment": {
+    "start_seconds": 5,
+    "end_seconds": 35
+   }
   },
   {
    "id": "milk-pinball-ad-70s",
@@ -188,8 +188,8 @@
   {
    "id": "jazz-rhythm-1930",
    "status": "active",
-   "version": 1,
-   "date_modified": "2026-10-14T08:56:49+08:00",
+   "version": 2,
+   "date_modified": "2026-10-14T16:38:19+08:00",
    "in_latest_feed": true,
    "retract_reason": "",
    "title": "1930年黑白卡通《Jazz Rhythm》片段",
@@ -214,10 +214,10 @@
    "_event_date": "1930",
    "_filmed_date": "1930",
    "_original_upload_date": "2026-10-08",
-   "_recommended_segment": [
-    180,
-    225
-   ]
+   "_recommended_segment": {
+    "start_seconds": 180,
+    "end_seconds": 225
+   }
   },
   {
    "id": "olympiaturm-munich-2024",
@@ -252,8 +252,8 @@
   {
    "id": "revoy-kynitia-timelapse",
    "status": "active",
-   "version": 1,
-   "date_modified": "2026-10-14T08:56:49+08:00",
+   "version": 2,
+   "date_modified": "2026-10-14T16:38:19+08:00",
    "in_latest_feed": true,
    "retract_reason": "",
    "title": "数字绘画延时：David Revoy画《Kynitia》",
@@ -276,16 +276,16 @@
    "pub_date": "2026-10-14T08:56:49+08:00",
    "_footage_type": "真实拍摄",
    "_original_upload_date": "2023-01-23",
-   "_recommended_segment": [
-    240,
-    300
-   ]
+   "_recommended_segment": {
+    "start_seconds": 240,
+    "end_seconds": 300
+   }
   },
   {
    "id": "ineq-america-billionaires",
    "status": "active",
-   "version": 1,
-   "date_modified": "2026-10-14T08:56:49+08:00",
+   "version": 2,
+   "date_modified": "2026-10-14T16:38:19+08:00",
    "in_latest_feed": true,
    "retract_reason": "",
    "title": "美国贫富差距动画：亿万富翁的税率",
@@ -309,10 +309,10 @@
    "_footage_type": "动画",
    "_event_date": "2026",
    "_original_upload_date": "2026-10-09",
-   "_recommended_segment": [
-    60,
-    120
-   ]
+   "_recommended_segment": {
+    "start_seconds": 60,
+    "end_seconds": 120
+   }
   },
   {
    "id": "wh-trump-accounts-5000",
