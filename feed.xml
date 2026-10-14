@@ -2,10 +2,131 @@
 <rss version="2.0">
 <channel>
 <title>FB Reels 每日素材上游</title>
-<link>https://example.invalid/fb-reels-upstream</link>
+<link>https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main</link>
 <description>每日更新的 Facebook Reels 可用视频素材：下载地址、内容总结、内容类型、许可证。全部为公有领域或 CC 协议合法素材。</description>
 <language>zh-CN</language>
-<lastBuildDate>Tue, 13 Oct 2026 19:39:36 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 00:56:54 +0000</lastBuildDate>
+<item>
+<title>美军C100无人机打击训练实拍（陆军官方）</title>
+<link>https://upload.wikimedia.org/wikipedia/commons/3/3b/C100_sUAS_Strike_Training_%28Army_Graphics%29_%281026175%29.webm</link>
+<guid isPermaLink="false">c100-suas-strike-training</guid>
+<pubDate>Wed, 14 Oct 2026 08:56:49 +0800</pubDate>
+<category>科技/无人机</category>
+<category>Robotics and Automation Brief</category>
+<enclosure url="https://upload.wikimedia.org/wikipedia/commons/3/3b/C100_sUAS_Strike_Training_%28Army_Graphics%29_%281026175%29.webm" length="4197378" type="video/webm"/>
+<description><![CDATA[【内容总结】美军官方发布的C100小型无人机打击训练画面：无人机起飞、空中机动与打击模拟场景，19秒，含“Army Graphics”字幕条。<br/>【内容类型】科技/无人机<br/>【对应社群】Robotics and Automation Brief<br/>【许可证】Public domain（无需署名）<br/>【Reels角度】无人机军事应用科普：小型无人机如何执行打击训练；配解说讲“无人机改变现代战争”的三个事实。<br/>【热点挂钩】本周热点：黑海两艘船只遭无人机袭击、11名船员失踪；也门胡塞警告报复——无人机袭击成为全球新闻关键词。<br/>【规格】19秒，1920x1080，约4.0MB]]></description>
+<_license>Public domain</_license>
+<_attribution>无需署名</_attribution>
+<_source_url>https://commons.wikimedia.org/wiki/File:C100_sUAS_Strike_Training_(Army_Graphics)_(1026175).webm</_source_url>
+</item>
+<item>
+<title>AI生成短片：人类与科技的演化之旅</title>
+<link>https://upload.wikimedia.org/wikipedia/commons/f/f0/Evolution_of_Humanity_and_Technology-_AI_Generated_Video.webm</link>
+<guid isPermaLink="false">ai-evolution-humanity-tech</guid>
+<pubDate>Wed, 14 Oct 2026 08:56:49 +0800</pubDate>
+<category>科技/教育</category>
+<category>AI Tools and Everyday Uses</category>
+<enclosure url="https://upload.wikimedia.org/wikipedia/commons/f/f0/Evolution_of_Humanity_and_Technology-_AI_Generated_Video.webm" length="11279680" type="video/webm"/>
+<description><![CDATA[【内容总结】AI生成的哲学科普短片：从人类自然起源到科技文明的演化之旅，30秒，画面为AI生成的超现实影像，配意大利语字幕条（storia dell'umanità）。<br/>【内容类型】科技/教育<br/>【对应社群】AI Tools and Everyday Uses<br/>【许可证】Public domain（无需署名）<br/>【Reels角度】AI能做什么：展示AI视频生成的叙事能力；配解说聊“AI生成视频已达短片级”的当下。<br/>【热点挂钩】AI工具垂类日常选题；AI生成内容本身就是AI社群的核心话题。<br/>【规格】30秒，1920x1080，约10.8MB]]></description>
+<_license>Public domain</_license>
+<_attribution>无需署名</_attribution>
+<_source_url>https://commons.wikimedia.org/wiki/File:Evolution_of_Humanity_and_Technology-_AI_Generated_Video.webm</_source_url>
+</item>
+<item>
+<title>NASA一周速览（10月10日）：Artemis II与空间站</title>
+<link>https://upload.wikimedia.org/wikipedia/commons/1/17/NASA_Minute_Oct_10%2C_2026.webm</link>
+<guid isPermaLink="false">nasa-minute-20261010</guid>
+<pubDate>Wed, 14 Oct 2026 08:56:49 +0800</pubDate>
+<category>科技/航天</category>
+<category>Science Worth Understanding</category>
+<enclosure url="https://upload.wikimedia.org/wikipedia/commons/1/17/NASA_Minute_Oct_10%2C_2026.webm" length="31533414" type="video/webm"/>
+<description><![CDATA[【内容总结】NASA官方竖屏周报（10月10日）：北极科考、地中海、深空网络天线、Artemis II乘组合影与科学进展、国际空间站舱内生活与月球画面，122秒英文解说；竖屏1080x1920，原生适配Reels。<br/>【内容类型】科技/航天<br/>【对应社群】Science Worth Understanding<br/>【许可证】Public domain（无需署名）<br/>【Reels角度】“NASA这一周”：Artemis II进展＋空间站日常；精华窗口55-85秒（Artemis II乘组合影、空间站穹顶舱、地球弧线）。<br/>【热点挂钩】Artemis II登月任务持续推进（2026年科学回顾阶段）；本周航天新闻窗口。<br/>【规格】122秒，1080x1920，约30.1MB]]></description>
+<_license>Public domain</_license>
+<_attribution>无需署名</_attribution>
+<_source_url>https://commons.wikimedia.org/wiki/File:NASA_Minute_Oct_10,_2026.webm</_source_url>
+</item>
+<item>
+<title>FBI宣布逮捕黑客组织ShinyHunters头目</title>
+<link>https://upload.wikimedia.org/wikipedia/commons/f/fb/FBI_Announces_ShinyHunters_Arrest.webm</link>
+<guid isPermaLink="false">fbi-shinyhunters-arrest</guid>
+<pubDate>Wed, 14 Oct 2026 08:56:49 +0800</pubDate>
+<category>科技/安全教育</category>
+<category>Digital Safety Explained</category>
+<enclosure url="https://upload.wikimedia.org/wikipedia/commons/f/fb/FBI_Announces_ShinyHunters_Arrest.webm" length="27866271" type="video/webm"/>
+<description><![CDATA[【内容总结】FBI网络部门助理主任Brett Leatherman在发布会上宣布逮捕黑客组织ShinyHunters的一名头目（该组织涉及多起网络攻击与数据泄露），104秒英文讲话；精华窗口5-35秒为逮捕宣布核心段落。<br/>【内容类型】科技/安全教育<br/>【对应社群】Digital Safety Explained<br/>【许可证】Public domain（无需署名）<br/>【Reels角度】网络安全警示：ShinyHunters是谁、干过什么；普通人防数据泄露的三件事。<br/>【热点挂钩】本周美国安全热点：FBI称“中国间谍活动在美国极其普遍”（洛杉矶逮捕一中国特工）、18岁少年涉ISIS商场袭击图谋被捕——网络安全话题正热。<br/>【规格】104秒，3840x2160，约26.6MB]]></description>
+<_license>Public domain</_license>
+<_attribution>无需署名</_attribution>
+<_source_url>https://commons.wikimedia.org/wiki/File:FBI_Announces_ShinyHunters_Arrest.webm</_source_url>
+</item>
+<item>
+<title>70年代牛奶广告：弹球机复古风</title>
+<link>https://upload.wikimedia.org/wikipedia/commons/f/fa/Milk_Pinball_Ad_%28Late_70%27s%29_-_16mm_-_Flat_-_Mono_-_UHD.webm</link>
+<guid isPermaLink="false">milk-pinball-ad-70s</guid>
+<pubDate>Wed, 14 Oct 2026 08:56:49 +0800</pubDate>
+<category>游戏/怀旧文化</category>
+<category>Next Game Brief</category>
+<enclosure url="https://upload.wikimedia.org/wikipedia/commons/f/fa/Milk_Pinball_Ad_%28Late_70%27s%29_-_16mm_-_Flat_-_Mono_-_UHD.webm" length="40925016" type="video/webm"/>
+<description><![CDATA[【内容总结】1970年代美国牛奶电视广告（16mm胶片转制4K）：“MILK'S THE ONE”主题，弹球机“1 UP”特写、复古街机厅氛围，56秒。<br/>【内容类型】游戏/怀旧文化<br/>【对应社群】Next Game Brief<br/>【许可证】Public domain（无需署名）<br/>【Reels角度】复古游戏怀旧：70年代弹球机长什么样；“广告里的游戏机”冷知识。<br/>【热点挂钩】怀旧游戏内容常年有流量；本周Cartoon Network泄露事件带热复古流行文化话题。<br/>【规格】56秒，3840x2160，约39.0MB]]></description>
+<_license>Public domain</_license>
+<_attribution>无需署名</_attribution>
+<_source_url>https://commons.wikimedia.org/wiki/File:Milk_Pinball_Ad_(Late_70's)_-_16mm_-_Flat_-_Mono_-_UHD.webm</_source_url>
+</item>
+<item>
+<title>1930年黑白卡通《Jazz Rhythm》片段</title>
+<link>https://upload.wikimedia.org/wikipedia/commons/1/13/Jazz_Rhythm_%281930%29.webm</link>
+<guid isPermaLink="false">jazz-rhythm-1930</guid>
+<pubDate>Wed, 14 Oct 2026 08:56:49 +0800</pubDate>
+<category>影视/文化</category>
+<category>Screen Stories Brief</category>
+<enclosure url="https://upload.wikimedia.org/wikipedia/commons/1/13/Jazz_Rhythm_%281930%29.webm" length="72367267" type="video/webm"/>
+<description><![CDATA[【内容总结】1930年黑白橡皮管动画短片：猴子角色弹钢琴、跳舞的爵士乐场景，480x360胶片质感；全片508秒，精华窗口180-225秒（钢琴演奏＋舞蹈高潮段）。<br/>【内容类型】影视/文化<br/>【对应社群】Screen Stories Brief<br/>【许可证】Public domain（无需署名）<br/>【Reels角度】动画百年：1930年的卡通长这样；橡皮管动画风格科普。<br/>【热点挂钩】本周Cartoon Network大规模泄露事件（数十年幕后动画文件曝光）＋派拉蒙-天空之舞与华纳兄弟合并案——动画行业新闻正热，借机回顾近百年前的动画。<br/>【规格】508秒，480x360，约69.0MB]]></description>
+<_license>Public domain</_license>
+<_attribution>无需署名</_attribution>
+<_source_url>https://commons.wikimedia.org/wiki/File:Jazz_Rhythm_(1930).webm</_source_url>
+</item>
+<item>
+<title>慕尼黑奥林匹克塔竖屏短片（291米）</title>
+<link>https://upload.wikimedia.org/wikipedia/commons/a/ab/Olympiaturm_in_Olympiapark%2C_Munich_%282024%29-bs.webm</link>
+<guid isPermaLink="false">olympiaturm-munich-2024</guid>
+<pubDate>Wed, 14 Oct 2026 08:56:49 +0800</pubDate>
+<category>体育/建筑</category>
+<category>Beyond the Score Brief</category>
+<enclosure url="https://upload.wikimedia.org/wikipedia/commons/a/ab/Olympiaturm_in_Olympiapark%2C_Munich_%282024%29-bs.webm" length="989454" type="video/webm"/>
+<description><![CDATA[【内容总结】慕尼黑奥林匹克公园291米奥林匹克塔竖屏短视频（2024年拍摄）：塔身与园区全景，8秒竖屏1080x1920。<br/>【内容类型】体育/建筑<br/>【对应社群】Beyond the Score Brief<br/>【许可证】CC BY-SA 4.0（发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by-sa/4.0）<br/>【Reels角度】奥运遗产建筑：1972年慕尼黑奥运会的电视塔今天什么样；体育场馆建筑之美。<br/>【热点挂钩】体育建筑垂类日常选题；1972年慕尼黑奥运会历史话题常年有讨论度。<br/>【规格】8秒，1080x1920，约0.9MB]]></description>
+<_license>CC BY-SA 4.0</_license>
+<_attribution>发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by-sa/4.0</_attribution>
+<_author>Minja Klarić</_author>
+<_source_url>https://commons.wikimedia.org/wiki/File:Olympiaturm_in_Olympiapark,_Munich_(2024)-bs.webm</_source_url>
+<_license_url>https://creativecommons.org/licenses/by-sa/4.0</_license_url>
+</item>
+<item>
+<title>数字绘画延时：David Revoy画《Kynitia》</title>
+<link>https://upload.wikimedia.org/wikipedia/commons/d/da/Kynitia_timelapse_David_Revoy.ogv</link>
+<guid isPermaLink="false">revoy-kynitia-timelapse</guid>
+<pubDate>Wed, 14 Oct 2026 08:56:49 +0800</pubDate>
+<category>文化/艺术</category>
+<category>Design Worth Noticing</category>
+<enclosure url="https://upload.wikimedia.org/wikipedia/commons/d/da/Kynitia_timelapse_David_Revoy.ogv" length="39326739" type="video/ogg"/>
+<description><![CDATA[【内容总结】开源画家David Revoy用Krita绘制《Kynitia》（红发女孩与光）的全程延时：从线稿到上色完成，577秒；精华窗口240-300秒（深入刻画阶段，画面已具雏形、细节丰富）。<br/>【内容类型】文化/艺术<br/>【对应社群】Design Worth Noticing<br/>【许可证】CC BY 3.0（发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/3.0）<br/>【Reels角度】数字艺术过程展示：看一幅画如何诞生；开源软件Krita科普。<br/>【热点挂钩】艺术垂类日常选题；AI绘画话题下“人类画家手工绘制”的反差内容有流量。<br/>【规格】577秒，1280x720，约37.5MB]]></description>
+<_license>CC BY 3.0</_license>
+<_attribution>发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/3.0</_attribution>
+<_author>David Revoy</_author>
+<_source_url>https://commons.wikimedia.org/wiki/File:Kynitia_timelapse_David_Revoy.ogv</_source_url>
+<_license_url>https://creativecommons.org/licenses/by/3.0</_license_url>
+</item>
+<item>
+<title>美国贫富差距动画：亿万富翁的税率</title>
+<link>https://upload.wikimedia.org/wikipedia/commons/e/ec/Inequality_in_America_-_Billionaires.webm</link>
+<guid isPermaLink="false">ineq-america-billionaires</guid>
+<pubDate>Wed, 14 Oct 2026 08:56:49 +0800</pubDate>
+<category>财经/科普</category>
+<category>Everyday News and Money Discussion</category>
+<enclosure url="https://upload.wikimedia.org/wikipedia/commons/e/ec/Inequality_in_America_-_Billionaires.webm" length="93691335" type="video/webm"/>
+<description><![CDATA[【内容总结】politizane《Inequality in America》2026系列第四集动画信息图：各职业收入与实际税率对比（律所合伙人/AI研究员/教师/联邦最低工资）、加州亿万富翁财富税辩论、“5%的10亿美元”，669秒；精华窗口60-120秒（税率对比表＋加州财富税段落）。<br/>【内容类型】财经/科普<br/>【对应社群】Everyday News and Money Discussion<br/>【许可证】Public domain（无需署名）<br/>【Reels角度】诺贝尔经济学奖周：用数据讲“富人到底交多少税”；贫富差距可视化。<br/>【热点挂钩】本周2026诺贝尔经济学奖授予Hall与Woodford（经济稳定模型）；关税与中期选举辩论中贫富/税负话题正热。<br/>【规格】669秒，3840x2160，约89.4MB]]></description>
+<_license>Public domain</_license>
+<_attribution>无需署名</_attribution>
+<_source_url>https://commons.wikimedia.org/wiki/File:Inequality_in_America_-_Billionaires.webm</_source_url>
+</item>
 <item>
 <title>白宫宣传片：新生儿$5000“特朗普账户”计划</title>
 <link>https://upload.wikimedia.org/wikipedia/commons/e/e3/%245000_to_Americans.webm</link>
