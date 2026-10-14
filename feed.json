@@ -28,10 +28,15 @@
    ],
    "_license": "Public domain",
    "_attribution": "无需署名",
-   "_version": 1,
+   "_version": 2,
+   "_author": "MSG Alexander Henninger",
    "_source_url": "https://commons.wikimedia.org/wiki/File:C100_sUAS_Strike_Training_(Army_Graphics)_(1026175).webm",
    "_footage_type": "真实拍摄",
-   "_original_upload_date": "2026-10-13"
+   "_original_upload_date": "2026-10-13",
+   "_authorization": {
+    "evidence_url": "https://www.dvidshub.net/video/1026175/c100-suas-strike-training-army-graphics",
+    "public_domain_basis": "声明主体：美国国防部 DVIDS（国防视觉信息分发服务）。DVIDS 条目页对该视频明确标注 PUBLIC DOMAIN，署名作者为陆军军士长 Alexander Henninger，内容为 2026 年 8 月 19 日在韩国拍摄的 C100 小型无人机打击训练画面（与本条素材的 Commons 文件名中的视频编号 1026175 一致）。依据：美国联邦政府雇员执行公务创作的作品依 17 USC §105 在美国不受版权保护；DVIDS 作为国防部官方发布渠道对该条目作出公有领域标注。已知限制：DVIDS 要求使用者遵守其版权说明页列明的限制（主要为不得以使用方式暗示军方背书等）；该标注覆盖本条视频本身，未见用途、地区或第三方片段方面的额外限制声明。"
+   }
   },
   {
    "id": "ai-evolution-humanity-tech",
@@ -120,13 +125,17 @@
    ],
    "_license": "Public domain",
    "_attribution": "无需署名",
-   "_version": 2,
+   "_version": 3,
    "_source_url": "https://commons.wikimedia.org/wiki/File:FBI_Announces_ShinyHunters_Arrest.webm",
    "_footage_type": "真实拍摄",
    "_original_upload_date": "2026-10-02",
    "_recommended_segment": {
     "start_seconds": 5,
     "end_seconds": 35
+   },
+   "_authorization": {
+    "evidence_url": "https://www.fbi.gov/privacy-policy",
+    "public_domain_basis": "声明主体：美国联邦调查局（FBI）。依据：FBI 官网政策声明其网站及相关子域名由 FBI 作为公共服务提供，其发布且未另行署名的信息视为公共信息、可被分发或复制；FBI 为联邦执法机构，其公务制作的公告视频依 17 USC §105 在美国不受版权保护。该视频为 FBI 发布的 ShinyHunters 黑客组织逮捕公告视频。已知限制：依 18 USC §701、§709，未经授权不得使用 FBI 徽章及“FBI”名称/缩写，不得以使用方式使人误认为获得 FBI 批准、背书或授权；未见针对该视频的用途或地区限制声明。条目级文件页本轮因 Wikimedia 限流未能重新抓取，依据以 FBI 公共信息政策及采集入库时的文件页核验为准。"
    }
   },
   {
@@ -307,12 +316,16 @@
    ],
    "_license": "Public domain",
    "_attribution": "无需署名",
-   "_version": 3,
+   "_version": 4,
    "_source_url": "https://commons.wikimedia.org/wiki/File:$5000_to_Americans.webm",
    "_footage_type": "真实拍摄",
    "_event_date": "2026-10-12",
    "_filmed_date": "2026-10-12",
-   "_original_upload_date": "2026-10-12"
+   "_original_upload_date": "2026-10-12",
+   "_authorization": {
+    "evidence_url": "https://www.whitehouse.gov/copyright/",
+    "public_domain_basis": "声明主体：美国白宫（whitehouse.gov 版权政策）。依据：白宫官网版权政策明确“依据联邦法律，本站出现的政府制作材料不受版权保护”；白宫工作人员公务制作的宣传视频依 17 USC §105 在美国属于公有领域。该视频为白宫制作的新生儿 5000 美元“特朗普账户”计划宣传片。已知限制：白宫政策同时说明第三方内容将另行标注（如有第三方素材以页面标注为准）；条目级文件页本轮因 Wikimedia 限流未能重新抓取，第三方素材情况以采集入库时的核验为准。"
+   }
   },
   {
    "id": "ai-pelkey-impact-statement",
@@ -437,11 +450,15 @@
    ],
    "_license": "Public domain",
    "_attribution": "无需署名",
-   "_version": 3,
+   "_version": 4,
    "_source_url": "https://commons.wikimedia.org/wiki/File:Easily_distracted%3F_We_might_have_the_solution._ARCADE.GOV.webm",
    "_footage_type": "混合（动画+实拍混剪）",
    "_event_date": "2026",
-   "_original_upload_date": "2026-09-04"
+   "_original_upload_date": "2026-09-04",
+   "_authorization": {
+    "evidence_url": "https://www.whitehouse.gov/videos/easily-distracted-we-might-have-the-solution-arcade-gov-%F0%9F%95%B9%EF%B8%8F/",
+    "public_domain_basis": "声明主体：美国白宫。依据：白宫官网视频页确认该片为白宫官方发布的 ARCADE.GOV 宣传视频（2026 年 9 月 3 日）；白宫版权政策明确政府制作材料不受版权保护，白宫公务作品依 17 USC §105 在美国属于公有领域。已知限制：该宣传片含有对第三方游戏主机品牌标识（Sega、Xbox、PlayStation、任天堂）的戏仿元素，且有公开报道提及片中音乐涉及第三方作曲者版权争议，此类第三方元素的权利状态存在争议；公有领域依据覆盖白宫制作的视频本体，使用涉及的品牌戏仿与音乐部分建议自行评估风险。"
+   }
   },
   {
    "id": "texas-tn-football-game",
@@ -465,12 +482,16 @@
    ],
    "_license": "Public domain",
    "_attribution": "无需署名",
-   "_version": 4,
+   "_version": 5,
    "_source_url": "https://commons.wikimedia.org/wiki/File:President_Trump_Attends_Texas_v._TN_Football_Game.webm",
    "_footage_type": "真实拍摄",
    "_event_date": "2026-09-27",
    "_filmed_date": "2026-09-27",
-   "_original_upload_date": "2026-09-27"
+   "_original_upload_date": "2026-09-27",
+   "_authorization": {
+    "evidence_url": "https://www.whitehouse.gov/copyright/",
+    "public_domain_basis": "声明主体：美国白宫（whitehouse.gov 版权政策）。依据：白宫官网版权政策明确“依据联邦法律，本站出现的政府制作材料不受版权保护”；该视频为白宫随行拍摄的总统出席德州对阵田纳西大学橄榄球赛现场画面，属白宫公务制作，依 17 USC §105 在美国属于公有领域。拍摄体育赛事本身不产生对赛事的新版权。已知限制：白宫政策说明第三方内容将另行标注（如有则以标注为准）；条目级文件页本轮因 Wikimedia 限流未能重新抓取，以采集入库时的核验为准。"
+   }
   },
   {
    "id": "c2-sdo-x54-flare",
@@ -532,13 +553,18 @@
    ],
    "_license": "Public domain",
    "_attribution": "无需署名",
-   "_version": 3,
+   "_version": 4,
+   "_author": "Department of the Army",
    "_source_url": "https://archive.org/details/X_45A_Kil_w_Music",
    "_footage_type": "真实拍摄",
    "_original_upload_date": "2006-03-28",
    "_recommended_segment": {
     "start_seconds": 15,
     "end_seconds": 75
+   },
+   "_authorization": {
+    "evidence_url": "https://archive.org/details/X_45A_Kil_w_Music",
+    "public_domain_basis": "声明主体：Internet Archive 条目页权利注记。依据：该条目页“Usage”栏标注 Public Domain，条目创建者标注为 Department of the Army，出版者为 DARPA，内容为 X-45A 无人作战飞机 GPS 制导武器演示试验的美国军方公开影像；军方公务影像依 17 USC §105 在美国属于公有领域。已知限制：该公有领域标注由上传者在上传时选择，非 DARPA 在该页面直接作出声明；标题含“w_Music”字样，背景音乐的权利未在页面单独说明，使用时建议注意音乐部分；未见地区限制声明。"
    }
   },
   {
@@ -666,13 +692,18 @@
    ],
    "_license": "Public domain",
    "_attribution": "无需署名",
-   "_version": 3,
+   "_version": 4,
+   "_author": "Federal Trade Commission",
    "_source_url": "https://commons.wikimedia.org/wiki/File:Scam_Watch_1280x720.ogv",
    "_footage_type": "动画",
    "_original_upload_date": "2014-03-14",
    "_recommended_segment": {
     "start_seconds": 5,
     "end_seconds": 65
+   },
+   "_authorization": {
+    "evidence_url": "https://commons.wikimedia.org/wiki/File:Scam_Watch_1280x720.ogv",
+    "public_domain_basis": "声明主体：美国联邦贸易委员会（FTC），经由 Wikimedia Commons 条目页许可栏公示。依据：该条目页“Permission（Reusing this file）”栏标注 Public domain，说明文字确认文件源自 FTC 官网、作者为 Federal Trade Commission，内容为 FTC 防诈骗投诉指引动画；作为美国联邦政府作品，依 17 USC §105 在美国属于公有领域。已知限制：页面未见用途、地区、音乐或第三方片段方面的特殊限制声明。"
    }
   },
   {
@@ -963,10 +994,14 @@
    ],
    "_license": "Public domain",
    "_attribution": "无需署名",
-   "_version": 3,
+   "_version": 4,
    "_source_url": "https://commons.wikimedia.org/wiki/File:BLM_drone_training_above_Horning_Seed_Orchard_(35179078385).webm",
    "_footage_type": "真实拍摄",
-   "_original_upload_date": "2025-08-30"
+   "_original_upload_date": "2025-08-30",
+   "_authorization": {
+    "evidence_url": "https://www.blm.gov/info/notices/drctp-policy",
+    "public_domain_basis": "声明主体：美国土地管理局（BLM）。依据：BLM 官网数字权利政策声明其发布的大部分内容属于公有领域、无需版权声明；BLM 为内政部下属联邦机构，其公务拍摄的野外无人机巡查视频依 17 USC §105 在美国不受版权保护。该视频为 BLM 在加州 Hornitos 地区的无人机训练巡查航拍。已知限制：BLM 政策说明个别受保护内容会在所在页面另行标注使用条款；条目级文件页本轮因 Wikimedia 限流（403）未能重新抓取，依据以 BLM 政策及采集入库时的文件页核验为准。"
+   }
   },
   {
    "id": "b2-ai-robot",
@@ -1283,12 +1318,16 @@
    ],
    "_license": "Public domain",
    "_attribution": "无需署名",
-   "_version": 3,
+   "_version": 4,
    "_source_url": "https://commons.wikimedia.org/wiki/File:Cyberattack_Slows_US_Access_to_Popular_Sites.webm",
    "_footage_type": "真实拍摄",
    "_event_date": "2016-10",
    "_filmed_date": "2016-10",
-   "_original_upload_date": "2016-10-21"
+   "_original_upload_date": "2016-10-21",
+   "_authorization": {
+    "evidence_url": "https://commons.wikimedia.org/wiki/File:Cyberattack_Slows_US_Access_to_Popular_Sites.webm",
+    "public_domain_basis": "声明主体：美国之音（VOA）。依据：VOA 条款声明其独家制作的文字、音频、视频材料属于公有领域；VOA 为美国联邦政府国际媒体署（USAGM）下属机构，其制作的新闻视频依 17 USC §105 在美国不受版权保护。该片段为 VOA 关于网络攻击影响美国互联网访问的新闻报道视频。已知限制：VOA 的公有领域声明仅覆盖其独家制作的内容，若片段中含有第三方通讯社素材则以原始标注为准；条目级文件页本轮因 Wikimedia 限流（403）未能重新抓取，依据以 VOA 公有领域声明及采集入库时的文件页核验为准。"
+   }
   },
   {
    "id": "b1-drone-ingenuity",

@@ -1,7 +1,7 @@
 {
  "updated_at": "2026-10-14T08:57:24+08:00",
- "event_count": 118,
- "next_seq": 119,
+ "event_count": 127,
+ "next_seq": 128,
  "events": [
   {
    "event_id": "evt-20261013-0001",
@@ -1466,6 +1466,128 @@
    "type": "modified",
    "status": "active",
    "occurred_at": "2026-10-14T16:41:24+08:00",
+   "reason": "联调补充：公有领域授权依据（_authorization）与作者核实",
+   "changed_fields": [
+    "_authorization",
+    "author"
+   ]
+  },
+  {
+   "event_id": "evt-20261014-0119",
+   "seq": 119,
+   "item_id": "c100-suas-strike-training",
+   "version": 2,
+   "type": "modified",
+   "status": "active",
+   "occurred_at": "2026-10-14T16:42:29+08:00",
+   "reason": "联调补充：公有领域授权依据（_authorization）与作者核实",
+   "changed_fields": [
+    "_authorization",
+    "author"
+   ]
+  },
+  {
+   "event_id": "evt-20261014-0120",
+   "seq": 120,
+   "item_id": "fbi-shinyhunters-arrest",
+   "version": 3,
+   "type": "modified",
+   "status": "active",
+   "occurred_at": "2026-10-14T16:42:29+08:00",
+   "reason": "联调补充：公有领域授权依据（_authorization）与作者核实",
+   "changed_fields": [
+    "_authorization"
+   ]
+  },
+  {
+   "event_id": "evt-20261014-0121",
+   "seq": 121,
+   "item_id": "wh-trump-accounts-5000",
+   "version": 4,
+   "type": "modified",
+   "status": "active",
+   "occurred_at": "2026-10-14T16:42:29+08:00",
+   "reason": "联调补充：公有领域授权依据（_authorization）与作者核实",
+   "changed_fields": [
+    "_authorization"
+   ]
+  },
+  {
+   "event_id": "evt-20261014-0122",
+   "seq": 122,
+   "item_id": "texas-tn-football-game",
+   "version": 5,
+   "type": "modified",
+   "status": "active",
+   "occurred_at": "2026-10-14T16:42:29+08:00",
+   "reason": "联调补充：公有领域授权依据（_authorization）与作者核实",
+   "changed_fields": [
+    "_authorization"
+   ]
+  },
+  {
+   "event_id": "evt-20261014-0123",
+   "seq": 123,
+   "item_id": "arcade-gov-flappy",
+   "version": 4,
+   "type": "modified",
+   "status": "active",
+   "occurred_at": "2026-10-14T16:42:29+08:00",
+   "reason": "联调补充：公有领域授权依据（_authorization）与作者核实",
+   "changed_fields": [
+    "_authorization"
+   ]
+  },
+  {
+   "event_id": "evt-20261014-0124",
+   "seq": 124,
+   "item_id": "c1-scam-watch-ftc",
+   "version": 4,
+   "type": "modified",
+   "status": "active",
+   "occurred_at": "2026-10-14T16:42:29+08:00",
+   "reason": "联调补充：公有领域授权依据（_authorization）与作者核实",
+   "changed_fields": [
+    "_authorization",
+    "author"
+   ]
+  },
+  {
+   "event_id": "evt-20261014-0125",
+   "seq": 125,
+   "item_id": "b2-drone-blm",
+   "version": 4,
+   "type": "modified",
+   "status": "active",
+   "occurred_at": "2026-10-14T16:42:29+08:00",
+   "reason": "联调补充：公有领域授权依据（_authorization）与作者核实",
+   "changed_fields": [
+    "_authorization",
+    "author"
+   ]
+  },
+  {
+   "event_id": "evt-20261014-0126",
+   "seq": 126,
+   "item_id": "b1-sec-voa",
+   "version": 4,
+   "type": "modified",
+   "status": "active",
+   "occurred_at": "2026-10-14T16:42:29+08:00",
+   "reason": "联调补充：公有领域授权依据（_authorization）与作者核实",
+   "changed_fields": [
+    "_authorization",
+    "author"
+   ]
+  },
+  {
+   "event_id": "evt-20261014-0127",
+   "seq": 127,
+   "item_id": "c2-x45a-ucav-demo",
+   "version": 4,
+   "type": "modified",
+   "status": "active",
+   "occurred_at": "2026-10-14T16:42:29+08:00",
    "reason": "联调补充：公有领域授权依据（_authorization）与作者核实",
    "changed_fields": [
     "_authorization",
