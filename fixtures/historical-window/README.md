@@ -8,15 +8,16 @@
 
 - **stage-1/**：`changelog.json`（seq1 added，`event_count=1/next_seq=2`）、
   `status.json`（v1 active，`in_latest_feed=false`，`count=1`，完整快照）、
-  `feed.json`（最新可用条目，不含该素材）、`retractions.json`（`count=0`）。
+  `feed.json`（合法 JSON Feed 根对象，`items:[]`——本套样例只覆盖历史目标，不模拟完整 300 条窗口）、
+  `retractions.json`（`count=0`）。
   要点：`in_latest_feed=false` 但 `status=active`——移出 ≠ 撤回。
 - **stage-2/**：`changelog.json`（seq1+2，`event_count=2/next_seq=3`，seq2 为 `modified`）、
-  `status.json`（v2 active，标题修正已同步）、`feed.json`（随时间推进，该素材始终不在其中）、
+  `status.json`（v2 active，标题修正已同步）、`feed.json`（`items:[]`，与 stage-1 相同形状）、
   `retractions.json`（`count=0`）。
   要点：老化条目的字段变更照常走 ID 不变、版本+1、记事件、`status.json` 同步；`feed.json` 不受影响。
 - **stage-3/**：`changelog.json`（seq1+2+3，seq3 为 `retracted`，`event_count=3/next_seq=4`）、
   `status.json`（v3 retracted，`in_latest_feed=false`，完整快照保留）、
-  `feed.json`（不含已撤回条目）、`retractions.json`（`count=1`，含撤回事件，为权威停用依据）。
+  `feed.json`（`items:[]`，已撤回条目不在可用列表中）、`retractions.json`（`count=1`，含撤回事件，为权威停用依据）。
 
 ## 旧快照重放（replay/）
 
