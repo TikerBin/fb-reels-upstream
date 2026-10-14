@@ -1,7 +1,7 @@
 {
  "updated_at": "2026-10-14T08:57:24+08:00",
- "event_count": 133,
- "next_seq": 134,
+ "event_count": 135,
+ "next_seq": 136,
  "events": [
   {
    "event_id": "evt-20261013-0001",
@@ -1676,6 +1676,42 @@
    "changed_fields": [
     "author"
    ]
+  },
+  {
+   "event_id": "evt-20261014-0134",
+   "seq": 134,
+   "item_id": "c1-satyarthi-nobel",
+   "version": 4,
+   "type": "retracted",
+   "status": "retracted",
+   "occurred_at": "2026-10-14T16:55:06+08:00",
+   "reason": "版权存疑撤回：来源页显示该动画由多许可图片合成（含CC BY-SA、GFDL等非公有领域素材），与Public domain声明矛盾，无法提供有效PD依据",
+   "changed_fields": [
+    "status",
+    "version"
+   ],
+   "_retracted": {
+    "reason": "版权存疑：公有领域声明与来源页记载矛盾",
+    "retracted_at": "2026-10-14T16:55:06+08:00"
+   }
+  },
+  {
+   "event_id": "evt-20261014-0135",
+   "seq": 135,
+   "item_id": "ineq-america-billionaires",
+   "version": 3,
+   "type": "retracted",
+   "status": "retracted",
+   "occurred_at": "2026-10-14T16:55:06+08:00",
+   "reason": "版权存疑撤回：核查发现该素材实为2026年商业动画（YouTube频道politizane《Inequality in America》系列），未见作者释出公有领域声明，Public domain标注依据不明",
+   "changed_fields": [
+    "status",
+    "version"
+   ],
+   "_retracted": {
+    "reason": "版权存疑：公有领域声明与来源页记载矛盾",
+    "retracted_at": "2026-10-14T16:55:06+08:00"
+   }
   }
  ]
 }

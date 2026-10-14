@@ -268,38 +268,6 @@
    }
   },
   {
-   "id": "ineq-america-billionaires",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Inequality_in_America_-_Billionaires.webm",
-   "title": "美国贫富差距动画：亿万富翁的税率",
-   "summary": "politizane《Inequality in America》2026系列第四集动画信息图：各职业收入与实际税率对比（律所合伙人/AI研究员/教师/联邦最低工资）、加州亿万富翁财富税辩论、“5%的10亿美元”，669秒；精华窗口60-120秒（税率对比表＋加州财富税段落）。",
-   "content_text": "内容总结：politizane《Inequality in America》2026系列第四集动画信息图：各职业收入与实际税率对比（律所合伙人/AI研究员/教师/联邦最低工资）、加州亿万富翁财富税辩论、“5%的10亿美元”，669秒；精华窗口60-120秒（税率对比表＋加州财富税段落）。\n内容类型：财经/科普\n对应社群：Everyday News and Money Discussion\n许可证：Public domain（无需署名）\nReels角度：诺贝尔经济学奖周：用数据讲“富人到底交多少税”；贫富差距可视化。\n热点挂钩：本周2026诺贝尔经济学奖授予Hall与Woodford（经济稳定模型）；关税与中期选举辩论中贫富/税负话题正热。\n规格：669秒，3840x2160，约89.4MB",
-   "date_published": "2026-10-14T08:56:49+08:00",
-   "tags": [
-    "财经/科普",
-    "Everyday News and Money Discussion",
-    "本周2026诺贝尔经济学奖授予Hall与Woodford（经济稳定模型）；关税与中期选举辩论中贫富/税负话题正热。"
-   ],
-   "attachments": [
-    {
-     "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Inequality_in_America_-_Billionaires.webm",
-     "mime_type": "video/webm",
-     "size_in_bytes": 93691335,
-     "duration_in_seconds": 669
-    }
-   ],
-   "_license": "Public domain",
-   "_attribution": "无需署名",
-   "_version": 2,
-   "_source_url": "https://commons.wikimedia.org/wiki/File:Inequality_in_America_-_Billionaires.webm",
-   "_footage_type": "动画",
-   "_event_date": "2026",
-   "_original_upload_date": "2026-10-09",
-   "_recommended_segment": {
-    "start_seconds": 60,
-    "end_seconds": 120
-   }
-  },
-  {
    "id": "wh-trump-accounts-5000",
    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/%245000_to_Americans.webm",
    "title": "白宫宣传片：新生儿$5000“特朗普账户”计划",
@@ -780,37 +748,6 @@
    "_recommended_segment": {
     "start_seconds": 65,
     "end_seconds": 125
-   }
-  },
-  {
-   "id": "c1-satyarthi-nobel",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/En.Wikipedia-VideoWiki-Kailash_Satyarthi.webm",
-   "title": "诺贝尔和平奖得主：凯拉什·萨蒂亚尔希故事动画",
-   "summary": "维基百科VideoWiki系列动画短片，约3分27秒：讲述印度儿童权利活动家凯拉什·萨蒂亚尔希（2014年诺贝尔和平奖得主）解救童工、推动儿童受教育权的故事。动画+英文旁白。",
-   "content_text": "内容总结：维基百科VideoWiki系列动画短片，约3分27秒：讲述印度儿童权利活动家凯拉什·萨蒂亚尔希（2014年诺贝尔和平奖得主）解救童工、推动儿童受教育权的故事。动画+英文旁白。\n内容类型：科技/教育\n对应社群：Everyday News and Money Discussion\n许可证：Public domain（无需署名）\nReels角度：诺贝尔奖周人物志：\"他救了数万名童工\"，剪60秒精华配字幕，做成励志人物小传。\n热点挂钩：诺贝尔和平奖本周揭晓（南非法学家 Navi Pillay 获奖）\n规格：207秒，1280x720，约10.2MB",
-   "date_published": "2026-10-11T15:20:00+08:00",
-   "tags": [
-    "科技/教育",
-    "Everyday News and Money Discussion",
-    "诺贝尔和平奖本周揭晓（南非法学家 Navi Pillay 获奖）"
-   ],
-   "attachments": [
-    {
-     "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/En.Wikipedia-VideoWiki-Kailash_Satyarthi.webm",
-     "mime_type": "video/webm",
-     "size_in_bytes": 10648684,
-     "duration_in_seconds": 207
-    }
-   ],
-   "_license": "Public domain",
-   "_attribution": "无需署名",
-   "_version": 3,
-   "_source_url": "https://commons.wikimedia.org/wiki/File:En.Wikipedia-VideoWiki-Kailash_Satyarthi.webm",
-   "_footage_type": "动画",
-   "_original_upload_date": "2019-10-08",
-   "_recommended_segment": {
-    "start_seconds": 65,
-    "end_seconds": 120
    }
   },
   {
