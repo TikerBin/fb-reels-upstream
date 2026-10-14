@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-14T16:55:06+08:00",
+ "updated_at": "2026-10-14T17:09:58+08:00",
  "count": 44,
  "note": "全量最新状态快照，按 id 查询。条目含完整内容快照，移出最新列表的老条目仍可在此查到完整内容。",
  "items": [
@@ -435,8 +435,8 @@
   {
    "id": "nasa-apophis-flyby-vertical",
    "status": "active",
-   "version": 4,
-   "date_modified": "2026-10-14T16:41:24+08:00",
+   "version": 5,
+   "date_modified": "2026-10-14T17:09:57+08:00",
    "in_latest_feed": true,
    "retract_reason": "",
    "title": "NASA竖屏动画：小行星阿波菲斯2029年近地飞掠",
@@ -448,7 +448,7 @@
    "author": "NASA Scientific Visualization Studio",
    "source_url": "https://commons.wikimedia.org/wiki/File:Asteroid_Apophis_2029_Earth_Flyby_%E2%80%93_Animations_(SVS20414_-_Apophis_Distance_Animation_Vertical_4k).webm",
    "download_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Asteroid_Apophis_2029_Earth_Flyby_%E2%80%93_Animations_%28SVS20414_-_Apophis_Distance_Animation_Vertical_4k%29.webm",
-   "attribution": "无需署名",
+   "attribution": "发帖时在描述中注明来源：NASA's Goddard Space Flight Center Conceptual Image Lab（NASA官方要求的署名，非版权主张）",
    "reels_angle": "“2029年小行星擦肩而过”科普：阿波菲斯有多大、会不会撞地球；竖屏原生适配Reels，可直接加字幕发布。",
    "trend_hook": "行星防御与近地天体话题常年有热度；NASA本月密集发布小行星可视化（同系列多条）",
    "duration_s": 23,
@@ -462,7 +462,8 @@
    "_original_upload_date": "2026-09-23",
    "_authorization": {
     "evidence_url": "https://commons.wikimedia.org/wiki/File:Asteroid_Apophis_2029_Earth_Flyby_%E2%80%93_Animations_(SVS20414_-_Apophis_Distance_Animation_Vertical_4k).webm",
-    "public_domain_basis": "NASA Scientific Visualization Studio 官方页面 svs.gsfc.nasa.gov/20414 于 2026-09-23 发布该组阿波菲斯 2029 年近地飞掠动画，要求署名“NASA's Goddard Space Flight Center Conceptual Image Lab”（署名要求，非版权主张）。Commons 文件页许可标注为 Public domain，作者列为 SVS 制作团队（含 eMITS 承包商动画师、亚利桑那大学月球与行星实验室 Daniella DellaGiustina、NASA/GSFC Amy A. Simon 与 Michael Moreau、ADNET Systems 技术支持），系 NASA 官方科学可视化项目制作并随 NASA 官方渠道发布，适用 NASA 媒体使用政策关于联邦政府作品的公有领域声明。已知限制：NASA 通用限制（徽章、代言暗示、第三方标注素材）；本条为纯渲染动画，无实拍人物与配乐问题。"
+    "public_domain_basis": "NASA Scientific Visualization Studio 官方页面 svs.gsfc.nasa.gov/20414 于 2026-09-23 发布该组阿波菲斯 2029 年近地飞掠动画，要求署名“NASA's Goddard Space Flight Center Conceptual Image Lab”（署名要求，非版权主张）。Commons 文件页许可标注为 Public domain，作者列为 SVS 制作团队（含 eMITS 承包商动画师、亚利桑那大学月球与行星实验室 Daniella DellaGiustina、NASA/GSFC Amy A. Simon 与 Michael Moreau、ADNET Systems 技术支持），系 NASA 官方科学可视化项目制作并随 NASA 官方渠道发布，适用 NASA 媒体使用政策关于联邦政府作品的公有领域声明。已知限制：NASA 通用限制（徽章、代言暗示、第三方标注素材）；本条为纯渲染动画，无实拍人物与配乐问题。",
+    "attribution_required": true
    }
   },
   {

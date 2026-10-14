@@ -1,0 +1,1 @@
+{"items":[{"_version":1,"date_published":"2026-01-19T09:00:00+08:00","id":"fixture-newer-01","title":"合成样例：较新的可用素材"}],"sample":true,"sample_note":"合成样例：演示 feed.json 只含最新可用条目，老化条目不在其中。不是正式数据。","title":"合成样例 feed（不含 fixture-agedout-01）","version":"https://jsonfeed.org/version/1.1"}

@@ -1,20 +1,20 @@
 {
  "date": "2026-10-14",
  "timezone": "Asia/Shanghai",
- "stats_until": "2026-10-14T08:57:24+08:00",
+ "stats_until": "2026-10-14T17:10:23+08:00",
  "update_completed": true,
  "failure_reason": null,
  "pending_review_note": "上游无审核环节（采集→验货→入库），pending_review恒为0",
  "opening_inventory": 34,
- "closing_inventory": 43,
- "total_events_today": 9,
- "note": "added按occurred_at去重含历史回填；modified按本日发生该变化的素材身份去重；同一素材多类变化在各列分别计数，不可直接相加",
+ "closing_inventory": 41,
+ "total_events_today": 42,
+ "note": "added按occurred_at去重含历史回填；modified按本日发生该变化的素材身份去重；同一素材多类变化在各列分别计数，不可直接相加；测试条目（is_test）不计入",
  "categories": {
   "影视/文化": {
    "valid": 3,
    "pending_review": 0,
    "added": 1,
-   "modified": 0,
+   "modified": 3,
    "retracted": 0,
    "expired": 0,
    "restored": 0
@@ -23,7 +23,7 @@
    "valid": 3,
    "pending_review": 0,
    "added": 0,
-   "modified": 0,
+   "modified": 3,
    "retracted": 0,
    "expired": 0,
    "restored": 0
@@ -32,7 +32,7 @@
    "valid": 3,
    "pending_review": 0,
    "added": 1,
-   "modified": 0,
+   "modified": 2,
    "retracted": 0,
    "expired": 0,
    "restored": 0
@@ -50,7 +50,7 @@
    "valid": 3,
    "pending_review": 0,
    "added": 0,
-   "modified": 0,
+   "modified": 3,
    "retracted": 0,
    "expired": 0,
    "restored": 0
@@ -59,17 +59,17 @@
    "valid": 5,
    "pending_review": 0,
    "added": 1,
-   "modified": 0,
+   "modified": 3,
    "retracted": 0,
    "expired": 0,
    "restored": 0
   },
   "科技/教育": {
-   "valid": 3,
+   "valid": 2,
    "pending_review": 0,
    "added": 1,
    "modified": 0,
-   "retracted": 0,
+   "retracted": 1,
    "expired": 0,
    "restored": 0
   },
@@ -86,17 +86,17 @@
    "valid": 2,
    "pending_review": 0,
    "added": 0,
-   "modified": 0,
+   "modified": 1,
    "retracted": 0,
    "expired": 0,
    "restored": 0
   },
   "财经/科普": {
-   "valid": 3,
+   "valid": 2,
    "pending_review": 0,
    "added": 1,
-   "modified": 0,
-   "retracted": 0,
+   "modified": 2,
+   "retracted": 1,
    "expired": 0,
    "restored": 0
   },
@@ -113,7 +113,7 @@
    "valid": 4,
    "pending_review": 0,
    "added": 1,
-   "modified": 0,
+   "modified": 4,
    "retracted": 0,
    "expired": 0,
    "restored": 0
@@ -122,7 +122,7 @@
    "valid": 4,
    "pending_review": 0,
    "added": 0,
-   "modified": 0,
+   "modified": 3,
    "retracted": 0,
    "expired": 0,
    "restored": 0
@@ -140,7 +140,7 @@
    "valid": 2,
    "pending_review": 0,
    "added": 1,
-   "modified": 0,
+   "modified": 1,
    "retracted": 0,
    "expired": 0,
    "restored": 0
@@ -155,7 +155,7 @@
    "restored": 0
   }
  },
- "self_check": "合同字段自检通过：新增9条、补齐/升版0条（首次入库字段齐全）",
+ "self_check": "合同字段自检通过",
  "test_items": 1,
  "test_items_note": "联调测试条目 test-retraction-01（is_test=true，仅用于撤回流程验证）不计入库存与各分类统计；正式发布流程须过滤该标记"
 }

@@ -1,7 +1,7 @@
 {
  "updated_at": "2026-10-14T08:57:24+08:00",
- "event_count": 135,
- "next_seq": 136,
+ "event_count": 136,
+ "next_seq": 137,
  "events": [
   {
    "event_id": "evt-20261013-0001",
@@ -1712,6 +1712,20 @@
     "reason": "版权存疑：公有领域声明与来源页记载矛盾",
     "retracted_at": "2026-10-14T16:55:06+08:00"
    }
+  },
+  {
+   "event_id": "evt-20261014-0136",
+   "seq": 136,
+   "item_id": "nasa-apophis-flyby-vertical",
+   "version": 5,
+   "type": "modified",
+   "status": "active",
+   "occurred_at": "2026-10-14T17:09:57+08:00",
+   "reason": "联调补署名：NASA SVS官方要求署名“NASA's Goddard Space Flight Center Conceptual Image Lab”，_attribution补完整文字，_authorization.attribution_required=true",
+   "changed_fields": [
+    "attribution",
+    "_authorization"
+   ]
   }
  ]
 }

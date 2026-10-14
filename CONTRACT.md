@@ -41,7 +41,7 @@
 | `_filmed_date` | 拍摄日期，未知则空 |
 | `_original_upload_date` | 原始上传日期（来源站发布时间，非入库日期） |
 | `_valid_until` | 有效期，空表示长期有效 |
-| `_authorization` | 公有领域素材的授权依据对象：`{"evidence_url": "公开权利说明页（HTTPS，无查询参数）", "public_domain_basis": "声明主体、适用原因与已知限制说明"}`；feed.xml 中以 `_authorization_evidence_url` / `_authorization_public_domain_basis` 两个元素表示 |
+| `_authorization` | 公有领域素材的授权依据对象：`{"evidence_url": "公开权利说明页（HTTPS，无查询参数）", "public_domain_basis": "声明主体、适用原因与已知限制说明", "attribution_required": true/false} `；`attribution_required=true` 表示来源方有强制署名要求（此时 `_attribution` 含完整署名文字），缺省/为 false 表示无强制署名要求；feed.xml 中以 `_authorization_evidence_url` / `_authorization_public_domain_basis` 两个元素表示 |
 
 ## 六、测试条目（test fixtures）
 
@@ -103,3 +103,33 @@ Next Game Brief（gaming）、Everyday News and Money Discussion（news_money）
 3. 老条目完整内容：`feed.json` 只保留最新 300 条可用条目；任何历史条目（含已移出列表、已撤回）的完整内容快照都在 `status.json` 中按 `id` 查询，该文件永不裁剪。
 4. 零新增：`changelog.json` 当天无新事件属正常；`daily_stats.json` 的 `update_completed` 为 true 即表示本日更新完成。
 5. 游标失效：重新拉取全量快照 + 撤回列表。
+
+## 八、日报（daily_stats.json）
+
+- 地址：`daily_stats.json`（稳定地址，最新一天）；归档 `stats/daily_YYYY-MM-DD.json`。
+- `date`：统计日期；`timezone`：`Asia/Shanghai`；统计窗口为该时区自然日 00:00–24:00；`stats_until`：本文件计算截止时间。
+- `update_completed`：true = 当日流程完整跑完（含 0 新增）；false = 当日流程未完成（看 `failure_reason`）。
+  文件日期未更新 = 当日任务未执行。**不要把 `added=0` 当成失败**，也不要把未完成报成 0。
+- `failure_reason`：未完成时写原因；完成时为 null。
+- `opening_inventory` / `closing_inventory`：当日 Asia/Shanghai 零点与 `stats_until` 时刻的有效库存（active、非测试条目）。
+- `total_events_today`：当日非测试变更事件总数（`occurred_at` 落在当日）。
+- `categories.<分类>`：`valid`（当前该分类有效库存）、`pending_review`（恒为 0，上游无审核环节）、
+  `added` / `modified` / `retracted` / `expired` / `restored`（当日该分类各变化计数）。
+- 计数口径：`added` 仅指新素材首次入库（历史字段补录记 `modified`，不记 `added`）；
+  `modified` 按“本日发生该变化的素材身份”去重；同一素材同日多类变化在各列分别计数，不可直接相加；
+  测试条目（`is_test`）不计入任何计数；下游按 `seq` 幂等去重。
+- 对账口径：`closing_inventory` 应等于 `feed.json` 当前条目数（不含测试条目）；
+  `closing_inventory - opening_inventory` 应等于当日 `added - retracted - expired`（分类迁移不影响总数）。
+- 形状样例见 `fixtures/daily-stats-samples/`（0 新增完成 / 未完成各一，均标注为样例，非正式日报）。
+
+## 九、交付约定（上游承诺，下游生产配置另行决定）
+
+以下为上游的交付约定，不代表下游生产配置已上线：
+
+1. 撤回检查建议：每 15 分钟拉一次 `changelog.json`（按 `seq` 游标增量），`retractions.json` 同步检查。
+2. 撤回时效：撤回确认后走即时通道（不等每日采集），上游执行并推送；从上游确认执行到文件可见的**最长预期为 30 分钟**（含 raw CDN 缓存）。
+3. 停止自动使用建议阈值：连续 6 小时同步失败（拉取失败）则暂停自动选用。零新增（`update_completed=true`）属于同步成功，不触发该阈值。
+4. 完整历史快照：`status.json` 含全量条目最新状态 + 完整内容快照，永不裁剪；`feed.json` 只保留最新 300 条可用条目。
+   移出最新列表 ≠ 撤回（`status` 保持 `active`）；已撤回条目以 `retractions.json` 为权威停用依据，
+   普通 `modified`、`status=active` 的旧快照、重新出现在 feed 中都不能恢复撤回条目。
+5. 老化行为样例见 `fixtures/historical-window/`（合成样例，`fixture-` 前缀 ID，不接入正式流程）。
