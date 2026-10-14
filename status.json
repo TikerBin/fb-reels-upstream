@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-14T16:38:23+08:00",
+ "updated_at": "2026-10-14T16:41:34+08:00",
  "count": 44,
  "note": "全量最新状态快照，按 id 查询。条目含完整内容快照，移出最新列表的老条目仍可在此查到完整内容。",
  "items": [
@@ -94,8 +94,8 @@
   {
    "id": "nasa-minute-20261010",
    "status": "active",
-   "version": 2,
-   "date_modified": "2026-10-14T16:38:19+08:00",
+   "version": 3,
+   "date_modified": "2026-10-14T16:41:24+08:00",
    "in_latest_feed": true,
    "retract_reason": "",
    "title": "NASA一周速览（10月10日）：Artemis II与空间站",
@@ -104,7 +104,7 @@
    "community": "Science Worth Understanding",
    "license": "Public domain",
    "license_url": "",
-   "author": "",
+   "author": "NASA",
    "source_url": "https://commons.wikimedia.org/wiki/File:NASA_Minute_Oct_10,_2026.webm",
    "download_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/NASA_Minute_Oct_10%2C_2026.webm",
    "attribution": "无需署名",
@@ -123,6 +123,10 @@
    "_recommended_segment": {
     "start_seconds": 55,
     "end_seconds": 85
+   },
+   "_authorization": {
+    "evidence_url": "https://commons.wikimedia.org/wiki/File:NASA_Minute_Oct_10,_2026.webm",
+    "public_domain_basis": "该 Commons 文件页由 OptimusPrimeBot 于 2026-10-13 上传，作者署名为 NASA Headquarters，许可标注为 Public domain；内容为 NASA 官方“NASA Minute”2026年10月10日一期周报视频（Artemis II 与空间站）。NASA 媒体使用政策（nasa.gov 官方发布）声明：NASA 的图像、音频、视频等内容作为美国联邦政府作品，在美国一般不受版权保护，可用于教育或信息目的。已知限制：NASA 徽章（Insignia/Meatball/Worm/Seal）不属于公有领域，不得暗示 NASA 代言；NASA 偶尔经许可使用的第三方版权素材会单独标注，本条目文件页未见此类标注；无地域性版权限制。"
    }
   },
   {
@@ -415,8 +419,8 @@
   {
    "id": "nasa-apophis-flyby-vertical",
    "status": "active",
-   "version": 3,
-   "date_modified": "2026-10-13T22:32:15+08:00",
+   "version": 4,
+   "date_modified": "2026-10-14T16:41:24+08:00",
    "in_latest_feed": true,
    "retract_reason": "",
    "title": "NASA竖屏动画：小行星阿波菲斯2029年近地飞掠",
@@ -425,7 +429,7 @@
    "community": "Science Worth Understanding",
    "license": "Public domain",
    "license_url": "",
-   "author": "",
+   "author": "NASA Scientific Visualization Studio",
    "source_url": "https://commons.wikimedia.org/wiki/File:Asteroid_Apophis_2029_Earth_Flyby_%E2%80%93_Animations_(SVS20414_-_Apophis_Distance_Animation_Vertical_4k).webm",
    "download_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Asteroid_Apophis_2029_Earth_Flyby_%E2%80%93_Animations_%28SVS20414_-_Apophis_Distance_Animation_Vertical_4k%29.webm",
    "attribution": "无需署名",
@@ -439,7 +443,11 @@
    "pub_date": "2026-10-13T08:51:35+08:00",
    "_footage_type": "动画",
    "_event_date": "2029-04-13",
-   "_original_upload_date": "2026-09-23"
+   "_original_upload_date": "2026-09-23",
+   "_authorization": {
+    "evidence_url": "https://commons.wikimedia.org/wiki/File:Asteroid_Apophis_2029_Earth_Flyby_%E2%80%93_Animations_(SVS20414_-_Apophis_Distance_Animation_Vertical_4k).webm",
+    "public_domain_basis": "NASA Scientific Visualization Studio 官方页面 svs.gsfc.nasa.gov/20414 于 2026-09-23 发布该组阿波菲斯 2029 年近地飞掠动画，要求署名“NASA's Goddard Space Flight Center Conceptual Image Lab”（署名要求，非版权主张）。Commons 文件页许可标注为 Public domain，作者列为 SVS 制作团队（含 eMITS 承包商动画师、亚利桑那大学月球与行星实验室 Daniella DellaGiustina、NASA/GSFC Amy A. Simon 与 Michael Moreau、ADNET Systems 技术支持），系 NASA 官方科学可视化项目制作并随 NASA 官方渠道发布，适用 NASA 媒体使用政策关于联邦政府作品的公有领域声明。已知限制：NASA 通用限制（徽章、代言暗示、第三方标注素材）；本条为纯渲染动画，无实拍人物与配乐问题。"
+   }
   },
   {
    "id": "arcade-gov-flappy",
@@ -503,8 +511,8 @@
   {
    "id": "c2-sdo-x54-flare",
    "status": "active",
-   "version": 3,
-   "date_modified": "2026-10-13T22:32:15+08:00",
+   "version": 4,
+   "date_modified": "2026-10-14T16:41:24+08:00",
    "in_latest_feed": true,
    "retract_reason": "",
    "title": "NASA SDO实拍：2012年X5.4级太阳耀斑爆发",
@@ -512,6 +520,7 @@
    "category": "科技/航天",
    "community": "Science Worth Understanding",
    "license": "Public domain",
+   "author": "NASA",
    "source_url": "https://images.nasa.gov/details/GSFC_20120307_SDO_m10925_Flare",
    "download_url": "https://images-assets.nasa.gov/video/GSFC_20120307_SDO_m10925_Flare/GSFC_20120307_SDO_m10925_Flare~large.mp4",
    "attribution": "无需署名",
@@ -530,6 +539,10 @@
    "_recommended_segment": {
     "start_seconds": 20,
     "end_seconds": 60
+   },
+   "_authorization": {
+    "evidence_url": "https://images.nasa.gov/details/GSFC_20120307_SDO_m10925_Flare",
+    "public_domain_basis": "NASA Image and Video Library 官方条目（nasa_id、标题“HD Close up of March 6th X5.4 Flare”、创建日期 2012-03-07、Goddard SDO 专辑、制作人员 Genna Duberstein 等均对应），为 NASA 太阳动力学天文台实拍的 2012 年 3 月 6 日 X5.4 级太阳耀斑影像。NASA 媒体使用政策声明其影像视频作为美国联邦政府作品在美国一般不受版权保护。已知限制：NASA 通用限制（徽章、代言暗示、第三方标注素材）；本条为太阳实拍影像，无人物出镜、无配乐，不涉及额外限制。"
    }
   },
   {
@@ -565,8 +578,8 @@
   {
    "id": "c2-archive-scan-robot",
    "status": "active",
-   "version": 3,
-   "date_modified": "2026-10-13T22:32:15+08:00",
+   "version": 4,
+   "date_modified": "2026-10-14T16:41:24+08:00",
    "in_latest_feed": true,
    "retract_reason": "",
    "title": "Internet Archive翻书扫描机器人实拍",
@@ -574,6 +587,7 @@
    "category": "科技/新闻",
    "community": "AI Tools and Everyday Uses",
    "license": "Public domain",
+   "author": "Internet Archive",
    "source_url": "https://archive.org/details/scanning_robot",
    "download_url": "https://archive.org/download/scanning_robot/scanning_robot_512kb.mp4",
    "attribution": "无需署名",
@@ -590,6 +604,10 @@
    "_recommended_segment": {
     "start_seconds": 190,
     "end_seconds": 250
+   },
+   "_authorization": {
+    "evidence_url": "https://archive.org/details/scanning_robot",
+    "public_domain_basis": "Internet Archive 条目页（identifier scanning_robot，标题“Internet Archive's Book Scanning Robot”）元数据中 licenseurl 为 http://creativecommons.org/licenses/publicdomain/（公有领域声明），描述明确写明该影像可用作无限制的 stock footage，收录于 stock_footage 合集。声明主体为该条目的发布方 Internet Archive。依据覆盖上游主下载的 scanning_robot_512kb.mp4（同条目下的衍生文件）。已知限制：条目页未声明用途、地域或音乐限制；描述中提及的 Kirtas 扫描设备为拍摄对象，不产生本条目的版权限制。"
    }
   },
   {
@@ -627,8 +645,8 @@
   {
    "id": "c1-hurricane-maria-sat",
    "status": "active",
-   "version": 3,
-   "date_modified": "2026-10-13T22:32:15+08:00",
+   "version": 4,
+   "date_modified": "2026-10-14T16:41:24+08:00",
    "in_latest_feed": true,
    "retract_reason": "",
    "title": "NASA卫星延时：飓风玛利亚与热带风暴何塞",
@@ -636,6 +654,7 @@
    "category": "科技/航天",
    "community": "Everyday News and Money Discussion",
    "license": "Public domain",
+   "author": "NASA",
    "source_url": "https://commons.wikimedia.org/wiki/File:Hurricane_Satellite_Animation_Shows_Hurricane_Maria_and_Post-Tropical_Storm_Jose.webm",
    "download_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Hurricane_Satellite_Animation_Shows_Hurricane_Maria_and_Post-Tropical_Storm_Jose.webm",
    "attribution": "无需署名",
@@ -650,7 +669,11 @@
    "_footage_type": "真实拍摄（卫星数据延时）",
    "_event_date": "2017-09",
    "_filmed_date": "2017-09",
-   "_original_upload_date": "2018-08-30"
+   "_original_upload_date": "2018-08-30",
+   "_authorization": {
+    "evidence_url": "https://commons.wikimedia.org/wiki/File:Hurricane_Satellite_Animation_Shows_Hurricane_Maria_and_Post-Tropical_Storm_Jose.webm",
+    "public_domain_basis": "Commons 文件页许可标注为 Public domain，作者署名为 NASA Video，来源为 NASA 官方 YouTube 频道（NASAgovVideo）发布的飓风玛利亚与后热带风暴何塞卫星动画（2018-08-30 上传）。NASA 官方频道发布的内容属美国联邦政府作品，适用 NASA 媒体使用政策的公有领域声明。已知限制：NASA 通用限制（徽章、代言暗示、第三方标注素材）；本条为卫星云图动画，无人物、无第三方音乐。"
+   }
   },
   {
    "id": "c1-scam-watch-ftc",
@@ -811,8 +834,8 @@
   {
    "id": "b2-sci-snoopy",
    "status": "active",
-   "version": 3,
-   "date_modified": "2026-10-13T22:32:15+08:00",
+   "version": 4,
+   "date_modified": "2026-10-14T16:41:24+08:00",
    "in_latest_feed": true,
    "retract_reason": "",
    "title": "NASA史努比登月动画",
@@ -820,6 +843,7 @@
    "category": "科技/航天科普",
    "community": "Science Worth Understanding",
    "license": "Public domain",
+   "author": "NASA",
    "source_url": "https://commons.wikimedia.org/wiki/File:Snoopy_is_Going_to_Space_on_NASA%27s_Artemis_I_Moon_Mission.webm",
    "download_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Snoopy_is_Going_to_Space_on_NASA%27s_Artemis_I_Moon_Mission.webm",
    "attribution": "无需署名",
@@ -837,6 +861,10 @@
    "_recommended_segment": {
     "start_seconds": 60,
     "end_seconds": 90
+   },
+   "_authorization": {
+    "evidence_url": "https://commons.wikimedia.org/wiki/File:Snoopy_is_Going_to_Space_on_NASA%27s_Artemis_I_Moon_Mission.webm",
+    "public_domain_basis": "Commons 文件页许可标注为 Public domain，作者署名 NASA，来源为 NASA 官方 YouTube 频道（@NASA）发布的 Artemis I 任务史努比动画（2023-03-19 上传），属 NASA 官方作品，适用其媒体使用政策的公有领域声明。已知限制：除 NASA 通用限制外需特别注意——片中 Snoopy 卡通形象是 Peanuts Worldwide 的注册商标，商标权独立于版权；该视频作为 NASA 官方作品其版权进入公有领域，但将史努比形象用于商业用途可能涉及商标法考量，使用时应避免暗示 Peanuts 或 NASA 代言。无地域性版权限制。"
    }
   },
   {
@@ -1212,8 +1240,8 @@
   {
    "id": "b1-sci-perseverance",
    "status": "active",
-   "version": 3,
-   "date_modified": "2026-10-13T22:32:15+08:00",
+   "version": 4,
+   "date_modified": "2026-10-14T16:41:24+08:00",
    "in_latest_feed": true,
    "retract_reason": "",
    "title": "Perseverance火星车着陆实拍混剪",
@@ -1221,6 +1249,7 @@
    "category": "科技/航天科普",
    "community": "Science Worth Understanding",
    "license": "Public domain",
+   "author": "NASA",
    "source_url": "https://images.nasa.gov/details/JPL-20210218-M2020f-0003-Perseverance%20Landing%20Wrap%20v2",
    "download_url": "https://images-assets.nasa.gov/video/JPL-20210218-M2020f-0003-Perseverance%20Landing%20Wrap%20v2/JPL-20210218-M2020f-0003-Perseverance%20Landing%20Wrap%20v2~orig.mp4",
    "attribution": "无需署名",
@@ -1238,6 +1267,10 @@
    "_recommended_segment": {
     "start_seconds": 5,
     "end_seconds": 58
+   },
+   "_authorization": {
+    "evidence_url": "https://images.nasa.gov/details/JPL-20210218-M2020f-0003-Perseverance%20Landing%20Wrap%20v2",
+    "public_domain_basis": "NASA Image and Video Library 官方条目（标题“NASA's Perseverance Rover Lands Successfully on Mars”、创建日期 2021-02-18、地点 Jet Propulsion Laboratory 均对应），为 NASA 喷气推进实验室发布的毅力号火星车着陆实拍混剪，适用 NASA 媒体使用政策关于联邦政府作品的公有领域声明。已知限制：NASA 通用限制（徽章、代言暗示、第三方标注素材）；本条为任务实拍与地面控制画面混剪，未见第三方商业音乐或版权标注。"
    }
   },
   {
@@ -1271,8 +1304,8 @@
   {
    "id": "b1-drone-ingenuity",
    "status": "active",
-   "version": 4,
-   "date_modified": "2026-10-13T22:32:15+08:00",
+   "version": 5,
+   "date_modified": "2026-10-14T16:41:24+08:00",
    "in_latest_feed": true,
    "retract_reason": "",
    "title": "Ingenuity火星直升机首飞纪录",
@@ -1280,6 +1313,7 @@
    "category": "科技/航天",
    "community": "Robotics and Automation Brief",
    "license": "Public domain",
+   "author": "NASA",
    "source_url": "https://images.nasa.gov/details/JPL-20210323-TECHf-0001-Helicopter%20First%20Flight%20VF",
    "download_url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/b1-drone-ingenuity_firstflight_60s.mp4",
    "attribution": "无需署名",
@@ -1294,7 +1328,11 @@
    "_footage_type": "混合（仿真+实拍+动画+采访）",
    "_event_date": "2021-04-19",
    "_original_upload_date": "2021-03-23",
-   "_master_url": "https://images-assets.nasa.gov/video/JPL-20210323-TECHf-0001-Helicopter%20First%20Flight%20VF/JPL-20210323-TECHf-0001-Helicopter%20First%20Flight%20VF~orig.mp4"
+   "_master_url": "https://images-assets.nasa.gov/video/JPL-20210323-TECHf-0001-Helicopter%20First%20Flight%20VF/JPL-20210323-TECHf-0001-Helicopter%20First%20Flight%20VF~orig.mp4",
+   "_authorization": {
+    "evidence_url": "https://images.nasa.gov/details/JPL-20210323-TECHf-0001-Helicopter%20First%20Flight%20VF",
+    "public_domain_basis": "NASA Image and Video Library 官方条目（标题关于 Ingenuity 火星直升机、创建日期 2021-03-23、JPL 发布均对应），为 NASA 官方内容，适用其媒体使用政策的公有领域声明。关于自剪成品：上游主下载为上游自剪的 60 秒 720p 成品（仓库 clips/b1-drone-ingenuity_firstflight_60s.mp4），母带地址另存于 _master_url；成品全部内容均取自该公有领域母带的连续片段，未混入任何第三方素材，因此公有领域依据覆盖成品所用全部内容（剪辑为机械截取，未产生新的权利主张）。已知限制：NASA 通用限制。"
+   }
   },
   {
    "id": "b1-art-painting",

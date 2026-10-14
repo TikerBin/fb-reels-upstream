@@ -41,6 +41,7 @@
 | `_filmed_date` | 拍摄日期，未知则空 |
 | `_original_upload_date` | 原始上传日期（来源站发布时间，非入库日期） |
 | `_valid_until` | 有效期，空表示长期有效 |
+| `_authorization` | 公有领域素材的授权依据对象：`{"evidence_url": "公开权利说明页（HTTPS，无查询参数）", "public_domain_basis": "声明主体、适用原因与已知限制说明"}`；feed.xml 中以 `_authorization_evidence_url` / `_authorization_public_domain_basis` 两个元素表示 |
 
 ## 六、测试条目（test fixtures）
 

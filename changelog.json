@@ -1,7 +1,7 @@
 {
  "updated_at": "2026-10-14T08:57:24+08:00",
- "event_count": 110,
- "next_seq": 111,
+ "event_count": 118,
+ "next_seq": 119,
  "events": [
   {
    "event_id": "evt-20261013-0001",
@@ -1358,6 +1358,118 @@
    "reason": "联调修正：_recommended_segment 由数组改为约定的对象格式（秒数不变）",
    "changed_fields": [
     "_recommended_segment"
+   ]
+  },
+  {
+   "event_id": "evt-20261014-0111",
+   "seq": 111,
+   "item_id": "nasa-minute-20261010",
+   "version": 3,
+   "type": "modified",
+   "status": "active",
+   "occurred_at": "2026-10-14T16:41:24+08:00",
+   "reason": "联调补充：公有领域授权依据（_authorization）与作者核实",
+   "changed_fields": [
+    "_authorization",
+    "author"
+   ]
+  },
+  {
+   "event_id": "evt-20261014-0112",
+   "seq": 112,
+   "item_id": "nasa-apophis-flyby-vertical",
+   "version": 4,
+   "type": "modified",
+   "status": "active",
+   "occurred_at": "2026-10-14T16:41:24+08:00",
+   "reason": "联调补充：公有领域授权依据（_authorization）与作者核实",
+   "changed_fields": [
+    "_authorization",
+    "author"
+   ]
+  },
+  {
+   "event_id": "evt-20261014-0113",
+   "seq": 113,
+   "item_id": "c2-sdo-x54-flare",
+   "version": 4,
+   "type": "modified",
+   "status": "active",
+   "occurred_at": "2026-10-14T16:41:24+08:00",
+   "reason": "联调补充：公有领域授权依据（_authorization）与作者核实",
+   "changed_fields": [
+    "_authorization",
+    "author"
+   ]
+  },
+  {
+   "event_id": "evt-20261014-0114",
+   "seq": 114,
+   "item_id": "c1-hurricane-maria-sat",
+   "version": 4,
+   "type": "modified",
+   "status": "active",
+   "occurred_at": "2026-10-14T16:41:24+08:00",
+   "reason": "联调补充：公有领域授权依据（_authorization）与作者核实",
+   "changed_fields": [
+    "_authorization",
+    "author"
+   ]
+  },
+  {
+   "event_id": "evt-20261014-0115",
+   "seq": 115,
+   "item_id": "b2-sci-snoopy",
+   "version": 4,
+   "type": "modified",
+   "status": "active",
+   "occurred_at": "2026-10-14T16:41:24+08:00",
+   "reason": "联调补充：公有领域授权依据（_authorization）与作者核实",
+   "changed_fields": [
+    "_authorization",
+    "author"
+   ]
+  },
+  {
+   "event_id": "evt-20261014-0116",
+   "seq": 116,
+   "item_id": "b1-sci-perseverance",
+   "version": 4,
+   "type": "modified",
+   "status": "active",
+   "occurred_at": "2026-10-14T16:41:24+08:00",
+   "reason": "联调补充：公有领域授权依据（_authorization）与作者核实",
+   "changed_fields": [
+    "_authorization",
+    "author"
+   ]
+  },
+  {
+   "event_id": "evt-20261014-0117",
+   "seq": 117,
+   "item_id": "b1-drone-ingenuity",
+   "version": 5,
+   "type": "modified",
+   "status": "active",
+   "occurred_at": "2026-10-14T16:41:24+08:00",
+   "reason": "联调补充：公有领域授权依据（_authorization）与作者核实",
+   "changed_fields": [
+    "_authorization",
+    "author"
+   ]
+  },
+  {
+   "event_id": "evt-20261014-0118",
+   "seq": 118,
+   "item_id": "c2-archive-scan-robot",
+   "version": 4,
+   "type": "modified",
+   "status": "active",
+   "occurred_at": "2026-10-14T16:41:24+08:00",
+   "reason": "联调补充：公有领域授权依据（_authorization）与作者核实",
+   "changed_fields": [
+    "_authorization",
+    "author"
    ]
   }
  ]
