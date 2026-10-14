@@ -155,5 +155,7 @@
    "restored": 0
   }
  },
- "self_check": "合同字段自检通过：新增9条、补齐/升版0条（首次入库字段齐全）"
+ "self_check": "合同字段自检通过：新增9条、补齐/升版0条（首次入库字段齐全）",
+ "test_items": 1,
+ "test_items_note": "联调测试条目 test-retraction-01（is_test=true，仅用于撤回流程验证）不计入库存与各分类统计；正式发布流程须过滤该标记"
 }

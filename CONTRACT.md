@@ -6,11 +6,11 @@
 
 | 文件 | 内容 | 更新节奏 |
 | --- | --- | --- |
-| `feed.json` | 最新可用素材列表（JSON Feed 1.1 + 扩展字段），最多 300 条 | 每日采集后；有撤回时立即 |
+| `feed.json` | 最新可用素材列表（JSON Feed 1.1 + 扩展字段），仅含 `active` 条目，按入库时间倒序，最多 300 条 | 每日采集后；有撤回时立即 |
 | `feed.xml` | 同上，RSS 2.0 | 同上 |
 | `changelog.json` | 全量变更事件（added/modified/retracted/expired/restored），`seq` 全局递增 | 每次变化后 |
 | `retractions.json` | 独立撤回列表（只含撤回事件），长期保留 | 有撤回时立即 |
-| `status.json` | 全量素材最新状态快照，按 `id` 查询 | 每次变化后 |
+| `status.json` | 全量素材最新状态快照，按 `id` 查询，含完整内容快照（移出最新 300 条的老条目仍可在此查到完整内容），永不裁剪 | 每次变化后 |
 | `daily_stats.json` | 最新一天的分分类统计（稳定地址） | 每日 |
 | `stats/daily_YYYY-MM-DD.json` | 每日统计归档 | 每日 |
 
@@ -42,7 +42,14 @@
 | `_original_upload_date` | 原始上传日期（来源站发布时间，非入库日期） |
 | `_valid_until` | 有效期，空表示长期有效 |
 
-## 六、clips/ 目录
+## 六、测试条目（test fixtures）
+
+联调或演练时可能出现仅供测试的条目：`is_test=true`（feed.json 为 `_is_test`，feed.xml 为 `<_is_test>`）。
+测试条目与正式条目隔离：不计入库存统计、不计入每日统计的各分类 valid/added 数，
+正式发布流程必须过滤该标记。测试条目的变更事件同样进入 `changelog.json`（带 `is_test` 标记），
+以便验证同步、撤回与重放防护流程；其标题会明确标注"联调测试专用"。
+
+## 七、clips/ 目录
 
 母带超过 128 MiB 且官方无可用小文件时，上游可提供自剪的 15–60 秒 720p 成品，
 存于仓库 `clips/` 目录，主下载地址指向成品，`_master_url` 保留母带地址。
@@ -92,5 +99,6 @@ Next Game Brief（gaming）、Everyday News and Money Discussion（news_money）
 
 1. 初次：拉 `feed.json`（快照）+ `changelog.json`（历史事件）+ `retractions.json`（撤回）。
 2. 增量：按 `changelog.json` 的 `seq` 游标读取新事件；`status.json` 按 `id` 查最新状态。
-3. 零新增：`changelog.json` 当天无新事件属正常；`daily_stats.json` 的 `update_completed` 为 true 即表示本日更新完成。
-4. 游标失效：重新拉取全量快照 + 撤回列表。
+3. 老条目完整内容：`feed.json` 只保留最新 300 条可用条目；任何历史条目（含已移出列表、已撤回）的完整内容快照都在 `status.json` 中按 `id` 查询，该文件永不裁剪。
+4. 零新增：`changelog.json` 当天无新事件属正常；`daily_stats.json` 的 `update_completed` 为 true 即表示本日更新完成。
+5. 游标失效：重新拉取全量快照 + 撤回列表。

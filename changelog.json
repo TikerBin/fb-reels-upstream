@@ -1,7 +1,7 @@
 {
  "updated_at": "2026-10-14T08:57:24+08:00",
- "event_count": 103,
- "next_seq": 104,
+ "event_count": 104,
+ "next_seq": 105,
  "events": [
   {
    "event_id": "evt-20261013-0001",
@@ -1263,6 +1263,18 @@
    "occurred_at": "2026-10-14T08:57:24+08:00",
    "reason": "每日采集入库：美国贫富差距动画：亿万富翁的税率",
    "changed_fields": null
+  },
+  {
+   "event_id": "evt-20261014-0104",
+   "seq": 104,
+   "item_id": "test-retraction-01",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-14T10:53:24+08:00",
+   "reason": "联调测试：撤回流程验证专用素材入库（is_test=true，不用于正式发布）",
+   "changed_fields": null,
+   "is_test": true
   }
  ]
 }

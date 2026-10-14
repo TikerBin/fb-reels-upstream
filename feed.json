@@ -7,6 +7,37 @@
  "language": "zh-CN",
  "items": [
   {
+   "id": "test-retraction-01",
+   "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/test-fixtures/retraction-test.mp4",
+   "title": "【联调测试专用】撤回流程验证测试素材（不用于正式发布）",
+   "summary": "联调测试专用素材：5秒测试图案视频，用于验证变更日志同步、撤回与重放防护流程。不用于正式发布；正式发布流程请过滤 is_test 标记。",
+   "content_text": "内容总结：联调测试专用素材：5秒测试图案视频，用于验证变更日志同步、撤回与重放防护流程。不用于正式发布；正式发布流程请过滤 is_test 标记。\n内容类型：科技/教育\n对应社群：AI Tools and Everyday Uses\n许可证：Public domain（无需署名）\nReels角度：联调测试专用，无实际 Reels 用途\n热点挂钩：联调测试：撤回流程验证\n规格：5秒，1280x720，约0.1MB",
+   "date_published": "2026-10-14T10:53:24+08:00",
+   "tags": [
+    "科技/教育",
+    "AI Tools and Everyday Uses",
+    "联调测试：撤回流程验证"
+   ],
+   "attachments": [
+    {
+     "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/test-fixtures/retraction-test.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 123023,
+     "duration_in_seconds": 5
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_is_test": true,
+   "_source_url": "https://github.com/TikerBin/fb-reels-upstream/tree/main/test-fixtures",
+   "_footage_type": "测试图案（合成视频）",
+   "_event_date": "2026-10-14",
+   "_filmed_date": "2026-10-14",
+   "_original_upload_date": "2026-10-14",
+   "_valid_until": ""
+  },
+  {
    "id": "c100-suas-strike-training",
    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/C100_sUAS_Strike_Training_%28Army_Graphics%29_%281026175%29.webm",
    "title": "美军C100无人机打击训练实拍（陆军官方）",
