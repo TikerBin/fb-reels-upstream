@@ -22,7 +22,7 @@
  "closing_inventory": 41,
  "date": "2026-10-20",
  "failure_reason": null,
- "note": "added按occurred_at去重含历史回填；modified按本日发生该变化的素材身份去重；同一素材多类变化在各列分别计数，不可直接相加；测试条目（is_test）不计入",
+ "note": "added：仅新素材ID首次入库（changelog中type=added事件，每个ID仅一次）；已有ID的字段补录、分类修正等记modified，不计入added。【样例文件，非正式日报】",
  "opening_inventory": 41,
  "pending_review_note": "上游无审核环节（采集→验货→入库），pending_review恒为0",
  "sample": true,

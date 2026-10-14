@@ -13,7 +13,7 @@
  "closing_inventory": 41,
  "date": "2026-10-21",
  "failure_reason": "示例：archive.org 与 Wikimedia Commons 均不可达，NASA API 超时，本日采集未执行",
- "note": "本日更新未完成，数字为沿用昨日快照，不代表当日实际变化",
+ "note": "added：仅新素材ID首次入库（changelog中type=added事件，每个ID仅一次）；已有ID的字段补录、分类修正等记modified，不计入added。【样例文件，非正式日报】",
  "opening_inventory": 41,
  "pending_review_note": "上游无审核环节（采集→验货→入库），pending_review恒为0",
  "sample": true,

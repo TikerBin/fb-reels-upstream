@@ -1,7 +1,7 @@
 {
  "date": "2026-10-14",
  "timezone": "Asia/Shanghai",
- "stats_until": "2026-10-14T17:14:34+08:00",
+ "stats_until": "2026-10-14T17:17:17+08:00",
  "last_event_seq": 139,
  "update_completed": true,
  "failure_reason": null,
@@ -9,7 +9,7 @@
  "opening_inventory": 34,
  "closing_inventory": 38,
  "total_events_today": 45,
- "note": "added按occurred_at去重含历史回填；modified按本日发生该变化的素材身份去重；同一素材多类变化在各列分别计数，不可直接相加；测试条目（is_test）不计入；last_event_seq为本日报覆盖到的最大事件序号",
+ "note": "added：仅新素材ID首次入库（changelog中type=added事件，每个ID仅一次）；已有ID的字段补录、分类修正等记modified，不计入added。事件按occurred_at归属自然日（Asia/Shanghai）；modified按本日发生该变化的素材身份去重；同一素材多类变化在各列分别计数，不可直接相加；测试条目（is_test）不计入；last_event_seq为本日报覆盖到的最大事件序号",
  "categories": {
   "影视/文化": {
    "valid": 3,
