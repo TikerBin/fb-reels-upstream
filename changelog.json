@@ -1,7 +1,7 @@
 {
  "updated_at": "2026-10-14T08:57:24+08:00",
- "event_count": 136,
- "next_seq": 137,
+ "event_count": 139,
+ "next_seq": 140,
  "events": [
   {
    "event_id": "evt-20261013-0001",
@@ -1726,6 +1726,60 @@
     "attribution",
     "_authorization"
    ]
+  },
+  {
+   "event_id": "evt-20261014-0137",
+   "seq": 137,
+   "item_id": "ai-pelkey-impact-statement",
+   "version": 6,
+   "type": "retracted",
+   "status": "retracted",
+   "occurred_at": "2026-10-14T17:14:29+08:00",
+   "reason": "版权存疑撤回：文件页PD-algorithm模板要求“无人类独创性”，但同一文件页描述记载脚本由Stacey Wales编写、图片人工搜集、音频取自生前采访、经数小时精心编辑，两者互斥，PD标注不成立；权利人未释出免费许可",
+   "changed_fields": [
+    "status",
+    "version"
+   ],
+   "_retracted": {
+    "reason": "版权存疑撤回",
+    "retracted_at": "2026-10-14T17:14:29+08:00"
+   }
+  },
+  {
+   "event_id": "evt-20261014-0138",
+   "seq": 138,
+   "item_id": "ai-evolution-humanity-tech",
+   "version": 2,
+   "type": "retracted",
+   "status": "retracted",
+   "occurred_at": "2026-10-14T17:14:29+08:00",
+   "reason": "文件失效撤回：该文件已于2026-10-14被Commons管理员删除，下载地址与文件页均返回404，无法交付；且许可状态无法核实",
+   "changed_fields": [
+    "status",
+    "version"
+   ],
+   "_retracted": {
+    "reason": "文件失效撤回",
+    "retracted_at": "2026-10-14T17:14:29+08:00"
+   }
+  },
+  {
+   "event_id": "evt-20261014-0139",
+   "seq": 139,
+   "item_id": "milk-pinball-ad-70s",
+   "version": 2,
+   "type": "retracted",
+   "status": "retracted",
+   "occurred_at": "2026-10-14T17:14:29+08:00",
+   "reason": "版权存疑撤回：70年代电视广告，主张的PD-US-1978-89依据仅为上传者单方主张，无“出版时未附版权声明”的实证，无法确认公有领域；按零风险策略撤回",
+   "changed_fields": [
+    "status",
+    "version"
+   ],
+   "_retracted": {
+    "reason": "版权存疑撤回",
+    "retracted_at": "2026-10-14T17:14:29+08:00"
+   }
   }
  ]
 }

@@ -1,43 +1,30 @@
 # fixtures/historical-window 说明（测试专用，不接入正式流程）
 
 本目录为**合成样例**，演示素材移出最新 300 条列表（老化）后的四文件行为。
-所有 ID 均以 `fixture-` 开头、序号使用 9001+，与正式数据永不冲突。
-**不接入正式 feed、changelog、库存统计与日报。**
+所有 ID 均以 `fixture-` 开头，与正式数据隔离；**不接入正式 feed、changelog、库存统计与日报**；
+**没有为适配样例删除或修改任何正式历史**。
 
-## 场景
+## 三阶段目录（每阶段四文件完整一致，可直接解析）
 
-`fixture-agedout-01` 是一条很久以前入库的素材，后来 active 条目超过 300 条，
-它被移出了最新列表，但状态仍为 active。
+- **stage-1/**：`changelog.json`（seq1 added，`event_count=1/next_seq=2`）、
+  `status.json`（v1 active，`in_latest_feed=false`，`count=1`，完整快照）、
+  `feed.json`（最新可用条目，不含该素材）、`retractions.json`（`count=0`）。
+  要点：`in_latest_feed=false` 但 `status=active`——移出 ≠ 撤回。
+- **stage-2/**：`changelog.json`（seq1+2，`event_count=2/next_seq=3`，seq2 为 `modified`）、
+  `status.json`（v2 active，标题修正已同步）、`feed.json`（随时间推进，该素材始终不在其中）、
+  `retractions.json`（`count=0`）。
+  要点：老化条目的字段变更照常走 ID 不变、版本+1、记事件、`status.json` 同步；`feed.json` 不受影响。
+- **stage-3/**：`changelog.json`（seq1+2+3，seq3 为 `retracted`，`event_count=3/next_seq=4`）、
+  `status.json`（v3 retracted，`in_latest_feed=false`，完整快照保留）、
+  `feed.json`（不含已撤回条目）、`retractions.json`（`count=1`，含撤回事件，为权威停用依据）。
 
-### 1. 移出后仍可查到完整内容（status.sample.json）
+## 旧快照重放（replay/）
 
-```json
-{
-  "id": "fixture-agedout-01",
-  "status": "active",
-  "version": 2,
-  "date_modified": "2026-01-15T10:00:00+08:00",
-  "in_latest_feed": false,
-  "retract_reason": "",
-  "title": "合成样例：已移出最新列表的历史素材",
-  "download_url": "https://example.invalid/fixture-agedout-01.mp4",
-  "...": "其余完整快照字段与正式 status.json 条目相同"
-}
-```
+- `replay-input.json`：把 stage-1 时期的旧快照（v1 active）重新输入。
+- `expected-result.json`：预期判定为 **rejected**（拒绝重新启用），
+  判定依据：该 ID 的最大 seq 事件为 seq3 retracted；`retractions.json` 有权威记录；
+  重放的 v1 快照版本号低于当前 v3，属过期数据。
+  禁止的恢复路径：普通 modified、旧快照重放、重新出现在 feed 中。
+  恢复仅能通过显式的 `restored` 事件（更高版本 + 恢复原因 + 关联撤回事件）。
 
-要点：`in_latest_feed=false` 但 `status=active`，完整内容快照保留。
-移出 ≠ 撤回。
-
-### 2. 移出后仍可正常修改（changelog.sample.json 的 seq 9002）
-
-老化条目的字段变更照常走：ID 不变、版本号+1、记 `modified` 事件（`changed_fields` 注明）、
-`status.json` 同步更新。`feed.json` 不变（它本来就不在最新列表里）。
-
-### 3. 撤回后旧 ACTIVE 快照重放（replay-check.sample.json）
-
-- seq 9003：该条目被撤回（`type=retracted`，同步写入 `retractions.sample.json`）。
-- 下游把 seq 9001 时期的旧快照（`status=active`）重新输入测试系统。
-- 正确行为：以**该 ID 的最大 seq 事件**为准（9003 retracted），且 `retractions.json` 为权威撤回依据，
-  该条目**不得**被重新启用。普通 `modified`、`status=active` 或重新出现在 feed 里都不能恢复撤回。
-
-未来出现真实的移出样例时，上游会提供实际 ID，本目录样例届时仅作形状参考。
+未来出现真实的移出样例时，上游会提供实际 ID，本目录届时仅作形状参考。

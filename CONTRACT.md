@@ -107,19 +107,25 @@ Next Game Brief（gaming）、Everyday News and Money Discussion（news_money）
 ## 八、日报（daily_stats.json）
 
 - 地址：`daily_stats.json`（稳定地址，最新一天）；归档 `stats/daily_YYYY-MM-DD.json`。
-- `date`：统计日期；`timezone`：`Asia/Shanghai`；统计窗口为该时区自然日 00:00–24:00；`stats_until`：本文件计算截止时间。
+- `date`：统计日期；`timezone`：`Asia/Shanghai`；统计窗口为该时区自然日 00:00–24:00；
+  `stats_until`：本文件计算截止时间；`last_event_seq`：本日报覆盖到的最大事件序号（新增覆盖标识）。
+- **即时重算**：日报在每日 08:42 采集后生成；当日若发生临时撤回/修改等变更，
+  `daily_stats.json` 会即时重算并推送（`stats_until` 与 `last_event_seq` 同步更新）。
+  因此**不要把早间日报当成最新库存**——对账请以 `last_event_seq` 为准，或直接用 `status.json` 全量快照。
 - `update_completed`：true = 当日流程完整跑完（含 0 新增）；false = 当日流程未完成（看 `failure_reason`）。
   文件日期未更新 = 当日任务未执行。**不要把 `added=0` 当成失败**，也不要把未完成报成 0。
 - `failure_reason`：未完成时写原因；完成时为 null。
-- `opening_inventory` / `closing_inventory`：当日 Asia/Shanghai 零点与 `stats_until` 时刻的有效库存（active、非测试条目）。
+- `opening_inventory` / `closing_inventory`：**全量口径**——`status.json` 中 `status=active`
+  且非测试条目的数量（不是 `feed.json` 条目数；`feed.json` 只代表最新 300 条窗口，
+  当下不足 300 条时两者恰好相等，超过 300 条后不再相等）。
 - `total_events_today`：当日非测试变更事件总数（`occurred_at` 落在当日）。
 - `categories.<分类>`：`valid`（当前该分类有效库存）、`pending_review`（恒为 0，上游无审核环节）、
   `added` / `modified` / `retracted` / `expired` / `restored`（当日该分类各变化计数）。
 - 计数口径：`added` 仅指新素材首次入库（历史字段补录记 `modified`，不记 `added`）；
   `modified` 按“本日发生该变化的素材身份”去重；同一素材同日多类变化在各列分别计数，不可直接相加；
   测试条目（`is_test`）不计入任何计数；下游按 `seq` 幂等去重。
-- 对账口径：`closing_inventory` 应等于 `feed.json` 当前条目数（不含测试条目）；
-  `closing_inventory - opening_inventory` 应等于当日 `added - retracted - expired`（分类迁移不影响总数）。
+- 对账口径（全量）：`closing_inventory - opening_inventory` 应等于当日 `added - retracted - expired`；
+  `modified` 与分类迁移不改变全量总数；各分类 `valid` 之和应等于 `closing_inventory`。
 - 形状样例见 `fixtures/daily-stats-samples/`（0 新增完成 / 未完成各一，均标注为样例，非正式日报）。
 
 ## 九、交付约定（上游承诺，下游生产配置另行决定）

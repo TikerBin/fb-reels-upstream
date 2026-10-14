@@ -1,0 +1,1 @@
+{"input_description":"把 stage-1 时期的旧快照（seq1，status=active，v1）重新输入下游测试系统","replayed_snapshot":{"date_modified":"2025-12-01T09:00:00+08:00","id":"fixture-agedout-01","in_latest_feed":false,"status":"active","version":1},"sample":true,"sample_note":"合成样例：旧ACTIVE快照重放输入。不是正式数据。"}

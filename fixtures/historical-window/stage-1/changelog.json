@@ -1,0 +1,1 @@
+{"event_count":1,"events":[{"changed_fields":null,"event_id":"evt-20250101-0001","item_id":"fixture-agedout-01","occurred_at":"2025-12-01T09:00:00+08:00","reason":"合成样例：首次入库","seq":1,"status":"active","type":"added","version":1}],"next_seq":2,"sample":true,"sample_note":"合成样例stage-1：仅含seq1的added事件。不是正式数据。"}
