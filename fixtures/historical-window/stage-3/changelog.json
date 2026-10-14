@@ -1,1 +1,50 @@
-{"event_count":3,"events":[{"changed_fields":null,"event_id":"evt-20250101-0001","item_id":"fixture-agedout-01","occurred_at":"2025-12-01T09:00:00+08:00","reason":"合成样例：首次入库","seq":1,"status":"active","type":"added","version":1},{"changed_fields":["title"],"event_id":"evt-20260115-0002","item_id":"fixture-agedout-01","occurred_at":"2026-01-15T10:00:00+08:00","reason":"合成样例：移出最新列表后的字段修正","seq":2,"status":"active","type":"modified","version":2},{"_retracted":{"reason":"合成样例撤回","retracted_at":"2026-01-20T10:00:00+08:00"},"changed_fields":["status","version"],"event_id":"evt-20260120-0003","item_id":"fixture-agedout-01","occurred_at":"2026-01-20T10:00:00+08:00","reason":"合成样例：撤回","seq":3,"status":"retracted","type":"retracted","version":3}],"next_seq":4,"sample":true,"sample_note":"合成样例stage-3：seq1+2+3，老化条目被撤回。不是正式数据。"}
+{
+ "event_count": 3,
+ "events": [
+  {
+   "changed_fields": null,
+   "event_id": "evt-20250101-0001",
+   "item_id": "fixture-agedout-01",
+   "occurred_at": "2025-12-01T09:00:00+08:00",
+   "reason": "合成样例：首次入库",
+   "seq": 1,
+   "status": "active",
+   "type": "added",
+   "version": 1
+  },
+  {
+   "changed_fields": [
+    "title"
+   ],
+   "event_id": "evt-20260115-0002",
+   "item_id": "fixture-agedout-01",
+   "occurred_at": "2026-01-15T10:00:00+08:00",
+   "reason": "合成样例：移出最新列表后的字段修正（ID不变、版本+1；feed.json不变，status.json同步）",
+   "seq": 2,
+   "status": "active",
+   "type": "modified",
+   "version": 2
+  },
+  {
+   "_retracted": {
+    "reason": "合成样例撤回",
+    "retracted_at": "2026-01-20T10:00:00+08:00"
+   },
+   "changed_fields": [
+    "status",
+    "version"
+   ],
+   "event_id": "evt-20260120-0003",
+   "item_id": "fixture-agedout-01",
+   "occurred_at": "2026-01-20T10:00:00+08:00",
+   "reason": "合成样例：撤回",
+   "seq": 3,
+   "status": "retracted",
+   "type": "retracted",
+   "version": 3
+  }
+ ],
+ "next_seq": 4,
+ "sample": true,
+ "sample_note": "合成样例stage-3：seq1+2+3，老化条目被撤回。不是正式数据。"
+}
