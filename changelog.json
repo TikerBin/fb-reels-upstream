@@ -1,7 +1,7 @@
 {
  "updated_at": "2026-10-14T08:57:24+08:00",
- "event_count": 127,
- "next_seq": 128,
+ "event_count": 133,
+ "next_seq": 134,
  "events": [
   {
    "event_id": "evt-20261013-0001",
@@ -1591,6 +1591,89 @@
    "reason": "联调补充：公有领域授权依据（_authorization）与作者核实",
    "changed_fields": [
     "_authorization",
+    "author"
+   ]
+  },
+  {
+   "event_id": "evt-20261014-0128",
+   "seq": 128,
+   "item_id": "jazz-rhythm-1930",
+   "version": 3,
+   "type": "modified",
+   "status": "active",
+   "occurred_at": "2026-10-14T16:43:34+08:00",
+   "reason": "联调补充：公有领域授权依据（_authorization）与作者核实",
+   "changed_fields": [
+    "_authorization",
+    "author"
+   ]
+  },
+  {
+   "event_id": "evt-20261014-0129",
+   "seq": 129,
+   "item_id": "c2-oakland-oaks-1918",
+   "version": 4,
+   "type": "modified",
+   "status": "active",
+   "occurred_at": "2026-10-14T16:43:34+08:00",
+   "reason": "联调补充：公有领域授权依据（_authorization）与作者核实",
+   "changed_fields": [
+    "_authorization",
+    "author"
+   ]
+  },
+  {
+   "event_id": "evt-20261014-0130",
+   "seq": 130,
+   "item_id": "b2-film-notld",
+   "version": 4,
+   "type": "modified",
+   "status": "active",
+   "occurred_at": "2026-10-14T16:43:34+08:00",
+   "reason": "联调补充：公有领域授权依据（_authorization）与作者核实",
+   "changed_fields": [
+    "_authorization",
+    "author"
+   ]
+  },
+  {
+   "event_id": "evt-20261014-0131",
+   "seq": 131,
+   "item_id": "b2-sport-ws1959",
+   "version": 4,
+   "type": "modified",
+   "status": "active",
+   "occurred_at": "2026-10-14T16:43:34+08:00",
+   "reason": "联调补充：公有领域授权依据（_authorization）与作者核实",
+   "changed_fields": [
+    "_authorization",
+    "author"
+   ]
+  },
+  {
+   "event_id": "evt-20261014-0132",
+   "seq": 132,
+   "item_id": "b1-film-duck",
+   "version": 4,
+   "type": "modified",
+   "status": "active",
+   "occurred_at": "2026-10-14T16:43:34+08:00",
+   "reason": "联调补充：公有领域授权依据（_authorization）与作者核实",
+   "changed_fields": [
+    "_authorization",
+    "author"
+   ]
+  },
+  {
+   "event_id": "evt-20261014-0133",
+   "seq": 133,
+   "item_id": "ai-pelkey-impact-statement",
+   "version": 5,
+   "type": "modified",
+   "status": "active",
+   "occurred_at": "2026-10-14T16:43:34+08:00",
+   "reason": "联调补充：作者核实（Stacey Wales）；公有领域依据仍待查",
+   "changed_fields": [
     "author"
    ]
   }

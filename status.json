@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-14T16:42:29+08:00",
+ "updated_at": "2026-10-14T16:43:34+08:00",
  "count": 44,
  "note": "全量最新状态快照，按 id 查询。条目含完整内容快照，移出最新列表的老条目仍可在此查到完整内容。",
  "items": [
@@ -200,8 +200,8 @@
   {
    "id": "jazz-rhythm-1930",
    "status": "active",
-   "version": 2,
-   "date_modified": "2026-10-14T16:38:19+08:00",
+   "version": 3,
+   "date_modified": "2026-10-14T16:43:34+08:00",
    "in_latest_feed": true,
    "retract_reason": "",
    "title": "1930年黑白卡通《Jazz Rhythm》片段",
@@ -210,7 +210,7 @@
    "community": "Screen Stories Brief",
    "license": "Public domain",
    "license_url": "",
-   "author": "",
+   "author": "Charles Mintz Studio",
    "source_url": "https://commons.wikimedia.org/wiki/File:Jazz_Rhythm_(1930).webm",
    "download_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Jazz_Rhythm_%281930%29.webm",
    "attribution": "无需署名",
@@ -229,6 +229,10 @@
    "_recommended_segment": {
     "start_seconds": 180,
     "end_seconds": 225
+   },
+   "_authorization": {
+    "evidence_url": "https://en.wikipedia.org/wiki/Jazz_Rhythm",
+    "public_domain_basis": "依据：美国版权到期。Jazz Rhythm为Krazy Kat系列黑白动画短片，1930年6月19日由Columbia Pictures发行、Charles Mintz Studio制作（导演Manny Gould、Ben Harrison）。按美国版权法，1930年出版的作品95年保护期已于2026年1月1日届满，进入公有领域。声明主体：美国版权法到期规则。已知限制：Krazy Kat角色形象可能仍受商标法约束（版权过期不等于商标失效）；影片同期配乐随影片一同过期；适用地区主要为美国。本条目为该片片段，依据同样适用。"
    }
   },
   {
@@ -363,8 +367,8 @@
   {
    "id": "ai-pelkey-impact-statement",
    "status": "active",
-   "version": 4,
-   "date_modified": "2026-10-14T03:39:32+08:00",
+   "version": 5,
+   "date_modified": "2026-10-14T16:43:34+08:00",
    "in_latest_feed": true,
    "retract_reason": "",
    "title": "法庭首例：谋杀案受害者AI化身出庭作影响陈述",
@@ -373,7 +377,7 @@
    "community": "AI Tools and Everyday Uses",
    "license": "Public domain",
    "license_url": "",
-   "author": "",
+   "author": "Stacey Wales",
    "source_url": "https://commons.wikimedia.org/wiki/File:A.I._of_Murder_Victim_Christopher_Pelkey_Makes_His_Own_Impact_Statement_at_Sentencing.webm",
    "download_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/A.I._of_Murder_Victim_Christopher_Pelkey_Makes_His_Own_Impact_Statement_at_Sentencing.webm",
    "attribution": "无需署名",
@@ -638,8 +642,8 @@
   {
    "id": "c2-oakland-oaks-1918",
    "status": "active",
-   "version": 3,
-   "date_modified": "2026-10-13T22:32:15+08:00",
+   "version": 4,
+   "date_modified": "2026-10-14T16:43:34+08:00",
    "in_latest_feed": true,
    "retract_reason": "",
    "title": "1918年奥克兰橡树棒球队赛季揭幕新闻片",
@@ -647,6 +651,7 @@
    "category": "体育/历史",
    "community": "Beyond the Score Brief",
    "license": "Public domain",
+   "author": "",
    "source_url": "https://archive.org/details/OaklandO1918",
    "download_url": "https://archive.org/download/OaklandO1918/OaklandO1918.mp4",
    "attribution": "无需署名",
@@ -665,6 +670,10 @@
    "_recommended_segment": {
     "start_seconds": 70,
     "end_seconds": 130
+   },
+   "_authorization": {
+    "evidence_url": "https://archive.org/details/OaklandO1918",
+    "public_domain_basis": "依据：美国版权到期＋档案方声明。archive.org条目元数据将licenseurl标注为公有领域，条目属Prelinger Archives合集，内容为1918年4月2日奥克兰橡树棒球队开幕日新闻片。1931年之前在美国出版的作品版权已全部过期，该片符合到期规则。声明主体：archive.org条目元数据的上传方标注及美国版权法到期规则。已知限制：元数据中creator为Unknown，作者不明；黑白新闻片，无配乐问题；适用地区主要为美国。"
    }
   },
   {
@@ -832,8 +841,8 @@
   {
    "id": "b2-film-notld",
    "status": "active",
-   "version": 3,
-   "date_modified": "2026-10-13T22:32:15+08:00",
+   "version": 4,
+   "date_modified": "2026-10-14T16:43:34+08:00",
    "in_latest_feed": true,
    "retract_reason": "",
    "title": "影视《活死人之夜》1968原版预告",
@@ -841,6 +850,7 @@
    "category": "影视/文化",
    "community": "Screen Stories Brief",
    "license": "Public domain",
+   "author": "George A. Romero",
    "source_url": "https://archive.org/details/NightOfTheLivingDeadTrailer",
    "download_url": "https://archive.org/download/NightOfTheLivingDeadTrailer/NightLivingDeadTrailer_512kb.mp4",
    "attribution": "无需署名",
@@ -859,6 +869,10 @@
    "_recommended_segment": {
     "start_seconds": 50,
     "end_seconds": 90
+   },
+   "_authorization": {
+    "evidence_url": "https://en.wikipedia.org/wiki/Night_of_the_Living_Dead",
+    "public_domain_basis": "依据：1968年发行时遗漏版权声明，依法进入公有领域。影片原名Night of the Flesh Eaters，发行商Walter Reade Organization更名时未将版权声明转移到新片头；按1909年版权法，公开发行未附版权声明即丧失版权，影片自1968年10月上映起进入公有领域（后经联邦法院诉讼确认创作者Image Ten未持有版权）。本条目为该片同期发行的影院预告片，archive.org条目页未见独立版权主张。声明主体：发行史实＋1909年版权法。已知限制：仅指1968年原版影片及预告片本身；后人的重制/修复版、1972年前录音制品（按美国各州法/MMA可保护至2067年或更晚，预告片配乐需注意）及相关商标不在此列；适用地区主要为美国。"
    }
   },
   {
@@ -964,8 +978,8 @@
   {
    "id": "b2-sport-ws1959",
    "status": "active",
-   "version": 3,
-   "date_modified": "2026-10-13T22:32:15+08:00",
+   "version": 4,
+   "date_modified": "2026-10-14T16:43:34+08:00",
    "in_latest_feed": true,
    "retract_reason": "",
    "title": "1959年世界大赛新闻片",
@@ -973,6 +987,7 @@
    "category": "体育/历史",
    "community": "Beyond the Score Brief",
    "license": "Public domain",
+   "author": "Universal Studios",
    "source_url": "https://archive.org/details/1959-10-05_West_Coast_Hails_First_World_Series",
    "download_url": "https://archive.org/download/1959-10-05_West_Coast_Hails_First_World_Series/1959-10-05_West_Coast_Hails_First_World_Series_512kb.mp4",
    "attribution": "无需署名",
@@ -991,6 +1006,10 @@
    "_recommended_segment": {
     "start_seconds": 40,
     "end_seconds": 85
+   },
+   "_authorization": {
+    "evidence_url": "https://archive.org/details/1959-10-05_West_Coast_Hails_First_World_Series",
+    "public_domain_basis": "依据：档案方公有领域声明。archive.org条目元数据licenseurl标注为公有领域，属universal_newsreels与newsandpublicaffairs合集，publisher为Universal Studios，内容为1959年10月5日环球新闻片（白袜对道奇，西海岸首次世界大赛）。声明主体：archive.org条目上传方/档案馆的元数据声明。已知限制：含1959年世界大赛职业赛事画面，新闻片本身被标注为公有领域，但职业体育赛事画面可能存在联盟/转播方的独立权利主张，使用时注意；1959年作品尚未因版权到期进入公有领域，依据仅为档案方声明；适用地区主要为美国。"
    }
   },
   {
@@ -1151,8 +1170,8 @@
   {
    "id": "b1-film-duck",
    "status": "active",
-   "version": 3,
-   "date_modified": "2026-10-13T22:32:15+08:00",
+   "version": 4,
+   "date_modified": "2026-10-14T16:43:34+08:00",
    "in_latest_feed": true,
    "retract_reason": "",
    "title": "1951年美国民防教育片《Duck and Cover》",
@@ -1160,6 +1179,7 @@
    "category": "影视/文化",
    "community": "Screen Stories Brief",
    "license": "Public domain",
+   "author": "Archer Productions, Inc.",
    "source_url": "https://archive.org/details/DuckandC1951",
    "download_url": "https://archive.org/download/DuckandC1951/DuckandC1951_512kb.mp4",
    "attribution": "无需署名",
@@ -1178,6 +1198,10 @@
    "_recommended_segment": {
     "start_seconds": 405,
     "end_seconds": 465
+   },
+   "_authorization": {
+    "evidence_url": "https://archive.org/details/DuckandC1951",
+    "public_domain_basis": "依据：美国政府出资制作＋多方公有领域认定。archive.org条目元数据licenseurl标注为公有领域，creator为Archer Productions, Inc.，sponsor为U.S. Federal Civil Defense Administration（美国联邦民防署），1951年制作、1952年1月发行，属Prelinger合集；美国国会图书馆“Free to Use and Reuse：国家影片登记部精选”项目将其列为可自由使用的公有领域影片。声明主体：archive.org条目元数据、美国国会图书馆。已知限制：1951年原版本身为公有领域；后人制作的修复/上色/重配乐版本其新增独创部分可能另有权利；适用地区主要为美国。"
    }
   },
   {
