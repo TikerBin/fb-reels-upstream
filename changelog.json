@@ -1,7 +1,7 @@
 {
  "updated_at": "2026-10-15T08:45:00+08:00",
- "event_count": 179,
- "next_seq": 180,
+ "event_count": 183,
+ "next_seq": 184,
  "events": [
   {
    "event_id": "evt-20261013-0001",
@@ -2455,6 +2455,50 @@
     "reason": "原始上传日期早于近3年，不符合要求",
     "retracted_at": "2026-10-15T20:17:36+08:00"
    }
+  },
+  {
+   "event_id": "evt-20261015-0180",
+   "seq": 180,
+   "item_id": "iss-fifa-worldcup-2026",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-15T20:30:50+08:00",
+   "reason": "手动增补采集入库",
+   "changed_fields": null
+  },
+  {
+   "event_id": "evt-20261015-0181",
+   "seq": 181,
+   "item_id": "artemis-avatar-vertical",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-15T20:30:50+08:00",
+   "reason": "手动增补采集入库",
+   "changed_fields": null
+  },
+  {
+   "event_id": "evt-20261015-0182",
+   "seq": 182,
+   "item_id": "artemis-ii-humanity",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-15T20:30:50+08:00",
+   "reason": "手动增补采集入库",
+   "changed_fields": null
+  },
+  {
+   "event_id": "evt-20261015-0183",
+   "seq": 183,
+   "item_id": "spain-eclipse-timelapse-2026",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-15T20:30:50+08:00",
+   "reason": "手动增补采集入库",
+   "changed_fields": null
   }
  ]
 }
