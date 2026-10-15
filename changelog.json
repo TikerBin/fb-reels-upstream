@@ -1,7 +1,7 @@
 {
  "updated_at": "2026-10-15T08:45:00+08:00",
- "event_count": 167,
- "next_seq": 168,
+ "event_count": 179,
+ "next_seq": 180,
  "events": [
   {
    "event_id": "evt-20261013-0001",
@@ -2238,6 +2238,222 @@
    "_retracted": {
     "reason": "内容太旧且不符合上游要求",
     "retracted_at": "2026-10-15T14:55:54+08:00"
+   }
+  },
+  {
+   "event_id": "evt-20261015-0168",
+   "seq": 168,
+   "item_id": "wh-biden-inflation-reduction-remarks",
+   "version": 2,
+   "type": "retracted",
+   "status": "retracted",
+   "occurred_at": "2026-10-15T20:17:36+08:00",
+   "reason": "不符合新入库硬门槛：原始上传日期早于近3年（2023-10-15之前），经用户确认批量撤回",
+   "changed_fields": [
+    "status",
+    "version"
+   ],
+   "_retracted": {
+    "reason": "原始上传日期早于近3年，不符合要求",
+    "retracted_at": "2026-10-15T20:17:36+08:00"
+   }
+  },
+  {
+   "event_id": "evt-20261015-0169",
+   "seq": 169,
+   "item_id": "nasa-perseverance-how-drives",
+   "version": 2,
+   "type": "retracted",
+   "status": "retracted",
+   "occurred_at": "2026-10-15T20:17:36+08:00",
+   "reason": "不符合新入库硬门槛：原始上传日期早于近3年（2023-10-15之前），经用户确认批量撤回",
+   "changed_fields": [
+    "status",
+    "version"
+   ],
+   "_retracted": {
+    "reason": "原始上传日期早于近3年，不符合要求",
+    "retracted_at": "2026-10-15T20:17:36+08:00"
+   }
+  },
+  {
+   "event_id": "evt-20261015-0170",
+   "seq": 170,
+   "item_id": "prelinger-beanys-drive-in-1952",
+   "version": 2,
+   "type": "retracted",
+   "status": "retracted",
+   "occurred_at": "2026-10-15T20:17:36+08:00",
+   "reason": "不符合新入库硬门槛：原始上传日期早于近3年（2023-10-15之前），经用户确认批量撤回",
+   "changed_fields": [
+    "status",
+    "version"
+   ],
+   "_retracted": {
+    "reason": "原始上传日期早于近3年，不符合要求",
+    "retracted_at": "2026-10-15T20:17:36+08:00"
+   }
+  },
+  {
+   "event_id": "evt-20261015-0171",
+   "seq": 171,
+   "item_id": "revoy-kynitia-timelapse",
+   "version": 3,
+   "type": "retracted",
+   "status": "retracted",
+   "occurred_at": "2026-10-15T20:17:36+08:00",
+   "reason": "不符合新入库硬门槛：原始上传日期早于近3年（2023-10-15之前），经用户确认批量撤回",
+   "changed_fields": [
+    "status",
+    "version"
+   ],
+   "_retracted": {
+    "reason": "原始上传日期早于近3年，不符合要求",
+    "retracted_at": "2026-10-15T20:17:36+08:00"
+   }
+  },
+  {
+   "event_id": "evt-20261015-0172",
+   "seq": 172,
+   "item_id": "c2-sdo-x54-flare",
+   "version": 5,
+   "type": "retracted",
+   "status": "retracted",
+   "occurred_at": "2026-10-15T20:17:36+08:00",
+   "reason": "不符合新入库硬门槛：原始上传日期早于近3年（2023-10-15之前），经用户确认批量撤回",
+   "changed_fields": [
+    "status",
+    "version"
+   ],
+   "_retracted": {
+    "reason": "原始上传日期早于近3年，不符合要求",
+    "retracted_at": "2026-10-15T20:17:36+08:00"
+   }
+  },
+  {
+   "event_id": "evt-20261015-0173",
+   "seq": 173,
+   "item_id": "c2-x45a-ucav-demo",
+   "version": 5,
+   "type": "retracted",
+   "status": "retracted",
+   "occurred_at": "2026-10-15T20:17:36+08:00",
+   "reason": "不符合新入库硬门槛：原始上传日期早于近3年（2023-10-15之前），经用户确认批量撤回",
+   "changed_fields": [
+    "status",
+    "version"
+   ],
+   "_retracted": {
+    "reason": "原始上传日期早于近3年，不符合要求",
+    "retracted_at": "2026-10-15T20:17:36+08:00"
+   }
+  },
+  {
+   "event_id": "evt-20261015-0174",
+   "seq": 174,
+   "item_id": "c2-archive-scan-robot",
+   "version": 5,
+   "type": "retracted",
+   "status": "retracted",
+   "occurred_at": "2026-10-15T20:17:36+08:00",
+   "reason": "不符合新入库硬门槛：原始上传日期早于近3年（2023-10-15之前），经用户确认批量撤回",
+   "changed_fields": [
+    "status",
+    "version"
+   ],
+   "_retracted": {
+    "reason": "原始上传日期早于近3年，不符合要求",
+    "retracted_at": "2026-10-15T20:17:36+08:00"
+   }
+  },
+  {
+   "event_id": "evt-20261015-0175",
+   "seq": 175,
+   "item_id": "c2-oakland-oaks-1918",
+   "version": 5,
+   "type": "retracted",
+   "status": "retracted",
+   "occurred_at": "2026-10-15T20:17:36+08:00",
+   "reason": "不符合新入库硬门槛：原始上传日期早于近3年（2023-10-15之前），经用户确认批量撤回",
+   "changed_fields": [
+    "status",
+    "version"
+   ],
+   "_retracted": {
+    "reason": "原始上传日期早于近3年，不符合要求",
+    "retracted_at": "2026-10-15T20:17:36+08:00"
+   }
+  },
+  {
+   "event_id": "evt-20261015-0176",
+   "seq": 176,
+   "item_id": "c1-hurricane-maria-sat",
+   "version": 5,
+   "type": "retracted",
+   "status": "retracted",
+   "occurred_at": "2026-10-15T20:17:36+08:00",
+   "reason": "不符合新入库硬门槛：原始上传日期早于近3年（2023-10-15之前），经用户确认批量撤回",
+   "changed_fields": [
+    "status",
+    "version"
+   ],
+   "_retracted": {
+    "reason": "原始上传日期早于近3年，不符合要求",
+    "retracted_at": "2026-10-15T20:17:36+08:00"
+   }
+  },
+  {
+   "event_id": "evt-20261015-0177",
+   "seq": 177,
+   "item_id": "c1-scam-watch-ftc",
+   "version": 5,
+   "type": "retracted",
+   "status": "retracted",
+   "occurred_at": "2026-10-15T20:17:36+08:00",
+   "reason": "不符合新入库硬门槛：原始上传日期早于近3年（2023-10-15之前），经用户确认批量撤回",
+   "changed_fields": [
+    "status",
+    "version"
+   ],
+   "_retracted": {
+    "reason": "原始上传日期早于近3年，不符合要求",
+    "retracted_at": "2026-10-15T20:17:36+08:00"
+   }
+  },
+  {
+   "event_id": "evt-20261015-0178",
+   "seq": 178,
+   "item_id": "c1-aerial-firefighting",
+   "version": 4,
+   "type": "retracted",
+   "status": "retracted",
+   "occurred_at": "2026-10-15T20:17:36+08:00",
+   "reason": "不符合新入库硬门槛：原始上传日期早于近3年（2023-10-15之前），经用户确认批量撤回",
+   "changed_fields": [
+    "status",
+    "version"
+   ],
+   "_retracted": {
+    "reason": "原始上传日期早于近3年，不符合要求",
+    "retracted_at": "2026-10-15T20:17:36+08:00"
+   }
+  },
+  {
+   "event_id": "evt-20261015-0179",
+   "seq": 179,
+   "item_id": "c1-romanians-vote-queue",
+   "version": 4,
+   "type": "retracted",
+   "status": "retracted",
+   "occurred_at": "2026-10-15T20:17:36+08:00",
+   "reason": "不符合新入库硬门槛：原始上传日期早于近3年（2023-10-15之前），经用户确认批量撤回",
+   "changed_fields": [
+    "status",
+    "version"
+   ],
+   "_retracted": {
+    "reason": "原始上传日期早于近3年，不符合要求",
+    "retracted_at": "2026-10-15T20:17:36+08:00"
    }
   }
  ]
