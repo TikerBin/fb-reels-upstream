@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-10-14T08:57:24+08:00",
- "event_count": 139,
- "next_seq": 140,
+ "updated_at": "2026-10-15T08:45:00+08:00",
+ "event_count": 148,
+ "next_seq": 149,
  "events": [
   {
    "event_id": "evt-20261013-0001",
@@ -1780,6 +1780,123 @@
     "reason": "版权存疑撤回",
     "retracted_at": "2026-10-14T17:14:29+08:00"
    }
+  },
+  {
+   "event_id": "evt-20261015-0140",
+   "seq": 140,
+   "item_id": "wh-biden-inflation-reduction-remarks",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-15T08:45:00+08:00",
+   "reason": "新增入库：新闻/财经垂类：白宫官方PD，白宫YouTube发布拜登就《通胀削减法案》发表讲话（2022），挂钩本周美国9月CPI超预期+社保金上调新闻；精华窗口[5,50]",
+   "changed_fields": [
+    "__added__"
+   ]
+  },
+  {
+   "event_id": "evt-20261015-0141",
+   "seq": 141,
+   "item_id": "wales-trust-ai-klf2026",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-15T08:45:00+08:00",
+   "reason": "新增入库：AI垂类：CC BY-SA 4.0，DC Books发布吉米·威尔士KLF 2026对谈《Can We Trust AI》；母带321MB超128MiB红线，已自剪45秒720p成品（clips/a2_wales_clip.mp4）交付，主地址指向成品，母带记_master_url；挂钩本周AI代理晚宴+8州诉OpenAI新闻",
+   "changed_fields": [
+    "__added__"
+   ]
+  },
+  {
+   "event_id": "evt-20261015-0142",
+   "seq": 142,
+   "item_id": "vp-vance-bitcoin2025",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-15T08:45:00+08:00",
+   "reason": "新增入库：加密资产垂类：白宫官方PD竖屏短视频，万斯在2025比特币大会演讲，纯政策表态无诈骗/炒作元素；挂钩本周CPI致比特币跌破8.3万美元+美联储10月28日议息会议",
+   "changed_fields": [
+    "__added__"
+   ]
+  },
+  {
+   "event_id": "evt-20261015-0143",
+   "seq": 143,
+   "item_id": "robo-war-robot-car-gurugram",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-15T08:45:00+08:00",
+   "reason": "新增入库：无人系统垂类：CC BY-SA 4.0，创客Dev Jadiya 2026-10-12上传的Robo War备赛自制遥控小车实拍，18秒竖屏",
+   "changed_fields": [
+    "__added__"
+   ]
+  },
+  {
+   "event_id": "evt-20261015-0144",
+   "seq": 144,
+   "item_id": "nasa-perseverance-how-drives",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-15T08:45:00+08:00",
+   "reason": "新增入库：科学垂类：NASA JPL官方PD《How Perseverance Drives on Mars》（~large 104MB衍生版），混合采访+3D仿真；挂钩10/12毅力号创异星行驶里程纪录；精华窗口[95,140]",
+   "changed_fields": [
+    "__added__"
+   ]
+  },
+  {
+   "event_id": "evt-20261015-0145",
+   "seq": 145,
+   "item_id": "nbc-graceland-fraud-investigation",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-15T08:45:00+08:00",
+   "reason": "新增入库：网络安全垂类：CC BY 3.0，NBC News竖屏调查《谁想偷走猫王的Graceland庄园》，防骗教育叙事；挂钩本周数字安全热点；精华窗口[5,50]",
+   "changed_fields": [
+    "__added__"
+   ]
+  },
+  {
+   "event_id": "evt-20261015-0146",
+   "seq": 146,
+   "item_id": "neogeo-mvs-restoration-parts",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-15T08:45:00+08:00",
+   "reason": "新增入库：游戏垂类：CC BY 3.0，Retro Tech复古街机收藏开箱（Neo Geo MVS街机柜修复零件），无实机游玩主体内容；精华窗口[5,40]",
+   "changed_fields": [
+    "__added__"
+   ]
+  },
+  {
+   "event_id": "evt-20261015-0147",
+   "seq": 147,
+   "item_id": "prelinger-beanys-drive-in-1952",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-15T08:45:00+08:00",
+   "reason": "新增入库：影视垂类：Prelinger Archives CC0释出的1952年汽车餐厅彩色家庭电影；以招牌“汉堡20美分”物价对比挂钩本周通胀新闻；精华窗口[120,180]",
+   "changed_fields": [
+    "__added__"
+   ]
+  },
+  {
+   "event_id": "evt-20261015-0148",
+   "seq": 148,
+   "item_id": "lathe-finland-woodworking",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-15T08:45:00+08:00",
+   "reason": "新增入库：艺术设计垂类：Vikebe CC0释出的芬兰传统脚踏木工车床实拍，18秒竖屏，常青慢手艺选题",
+   "changed_fields": [
+    "__added__"
+   ]
   }
  ]
 }
