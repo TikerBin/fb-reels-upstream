@@ -1,7 +1,7 @@
 {
  "updated_at": "2026-10-15T08:45:00+08:00",
- "event_count": 148,
- "next_seq": 149,
+ "event_count": 167,
+ "next_seq": 168,
  "events": [
   {
    "event_id": "evt-20261013-0001",
@@ -1897,6 +1897,348 @@
    "changed_fields": [
     "__added__"
    ]
+  },
+  {
+   "event_id": "evt-20261015-0149",
+   "seq": 149,
+   "item_id": "b2-film-notld",
+   "version": 5,
+   "type": "retracted",
+   "status": "retracted",
+   "occurred_at": "2026-10-15T14:55:54+08:00",
+   "reason": "内容太旧且不符合上游要求，经用户确认批量撤回",
+   "changed_fields": [
+    "status",
+    "version"
+   ],
+   "_retracted": {
+    "reason": "内容太旧且不符合上游要求",
+    "retracted_at": "2026-10-15T14:55:54+08:00"
+   }
+  },
+  {
+   "event_id": "evt-20261015-0150",
+   "seq": 150,
+   "item_id": "b2-sci-snoopy",
+   "version": 5,
+   "type": "retracted",
+   "status": "retracted",
+   "occurred_at": "2026-10-15T14:55:54+08:00",
+   "reason": "内容太旧且不符合上游要求，经用户确认批量撤回",
+   "changed_fields": [
+    "status",
+    "version"
+   ],
+   "_retracted": {
+    "reason": "内容太旧且不符合上游要求",
+    "retracted_at": "2026-10-15T14:55:54+08:00"
+   }
+  },
+  {
+   "event_id": "evt-20261015-0151",
+   "seq": 151,
+   "item_id": "b2-sec-voiceclone",
+   "version": 3,
+   "type": "retracted",
+   "status": "retracted",
+   "occurred_at": "2026-10-15T14:55:54+08:00",
+   "reason": "内容太旧且不符合上游要求，经用户确认批量撤回",
+   "changed_fields": [
+    "status",
+    "version"
+   ],
+   "_retracted": {
+    "reason": "内容太旧且不符合上游要求",
+    "retracted_at": "2026-10-15T14:55:54+08:00"
+   }
+  },
+  {
+   "event_id": "evt-20261015-0152",
+   "seq": 152,
+   "item_id": "b2-crypto-ebsi",
+   "version": 3,
+   "type": "retracted",
+   "status": "retracted",
+   "occurred_at": "2026-10-15T14:55:54+08:00",
+   "reason": "内容太旧且不符合上游要求，经用户确认批量撤回",
+   "changed_fields": [
+    "status",
+    "version"
+   ],
+   "_retracted": {
+    "reason": "内容太旧且不符合上游要求",
+    "retracted_at": "2026-10-15T14:55:54+08:00"
+   }
+  },
+  {
+   "event_id": "evt-20261015-0153",
+   "seq": 153,
+   "item_id": "b2-sport-ws1959",
+   "version": 5,
+   "type": "retracted",
+   "status": "retracted",
+   "occurred_at": "2026-10-15T14:55:54+08:00",
+   "reason": "内容太旧且不符合上游要求，经用户确认批量撤回",
+   "changed_fields": [
+    "status",
+    "version"
+   ],
+   "_retracted": {
+    "reason": "内容太旧且不符合上游要求",
+    "retracted_at": "2026-10-15T14:55:54+08:00"
+   }
+  },
+  {
+   "event_id": "evt-20261015-0154",
+   "seq": 154,
+   "item_id": "b2-drone-blm",
+   "version": 5,
+   "type": "retracted",
+   "status": "retracted",
+   "occurred_at": "2026-10-15T14:55:54+08:00",
+   "reason": "内容太旧且不符合上游要求，经用户确认批量撤回",
+   "changed_fields": [
+    "status",
+    "version"
+   ],
+   "_retracted": {
+    "reason": "内容太旧且不符合上游要求",
+    "retracted_at": "2026-10-15T14:55:54+08:00"
+   }
+  },
+  {
+   "event_id": "evt-20261015-0155",
+   "seq": 155,
+   "item_id": "b2-ai-robot",
+   "version": 3,
+   "type": "retracted",
+   "status": "retracted",
+   "occurred_at": "2026-10-15T14:55:54+08:00",
+   "reason": "内容太旧且不符合上游要求，经用户确认批量撤回",
+   "changed_fields": [
+    "status",
+    "version"
+   ],
+   "_retracted": {
+    "reason": "内容太旧且不符合上游要求",
+    "retracted_at": "2026-10-15T14:55:54+08:00"
+   }
+  },
+  {
+   "event_id": "evt-20261015-0156",
+   "seq": 156,
+   "item_id": "b2-art-pumpkin",
+   "version": 3,
+   "type": "retracted",
+   "status": "retracted",
+   "occurred_at": "2026-10-15T14:55:54+08:00",
+   "reason": "内容太旧且不符合上游要求，经用户确认批量撤回",
+   "changed_fields": [
+    "status",
+    "version"
+   ],
+   "_retracted": {
+    "reason": "内容太旧且不符合上游要求",
+    "retracted_at": "2026-10-15T14:55:54+08:00"
+   }
+  },
+  {
+   "event_id": "evt-20261015-0157",
+   "seq": 157,
+   "item_id": "b2-news-euro",
+   "version": 3,
+   "type": "retracted",
+   "status": "retracted",
+   "occurred_at": "2026-10-15T14:55:54+08:00",
+   "reason": "内容太旧且不符合上游要求，经用户确认批量撤回",
+   "changed_fields": [
+    "status",
+    "version"
+   ],
+   "_retracted": {
+    "reason": "内容太旧且不符合上游要求",
+    "retracted_at": "2026-10-15T14:55:54+08:00"
+   }
+  },
+  {
+   "event_id": "evt-20261015-0158",
+   "seq": 158,
+   "item_id": "b2-game-arcade",
+   "version": 3,
+   "type": "retracted",
+   "status": "retracted",
+   "occurred_at": "2026-10-15T14:55:54+08:00",
+   "reason": "内容太旧且不符合上游要求，经用户确认批量撤回",
+   "changed_fields": [
+    "status",
+    "version"
+   ],
+   "_retracted": {
+    "reason": "内容太旧且不符合上游要求",
+    "retracted_at": "2026-10-15T14:55:54+08:00"
+   }
+  },
+  {
+   "event_id": "evt-20261015-0159",
+   "seq": 159,
+   "item_id": "b1-film-duck",
+   "version": 5,
+   "type": "retracted",
+   "status": "retracted",
+   "occurred_at": "2026-10-15T14:55:54+08:00",
+   "reason": "内容太旧且不符合上游要求，经用户确认批量撤回",
+   "changed_fields": [
+    "status",
+    "version"
+   ],
+   "_retracted": {
+    "reason": "内容太旧且不符合上游要求",
+    "retracted_at": "2026-10-15T14:55:54+08:00"
+   }
+  },
+  {
+   "event_id": "evt-20261015-0160",
+   "seq": 160,
+   "item_id": "b1-ai-arm",
+   "version": 3,
+   "type": "retracted",
+   "status": "retracted",
+   "occurred_at": "2026-10-15T14:55:54+08:00",
+   "reason": "内容太旧且不符合上游要求，经用户确认批量撤回",
+   "changed_fields": [
+    "status",
+    "version"
+   ],
+   "_retracted": {
+    "reason": "内容太旧且不符合上游要求",
+    "retracted_at": "2026-10-15T14:55:54+08:00"
+   }
+  },
+  {
+   "event_id": "evt-20261015-0161",
+   "seq": 161,
+   "item_id": "b1-game-room",
+   "version": 3,
+   "type": "retracted",
+   "status": "retracted",
+   "occurred_at": "2026-10-15T14:55:54+08:00",
+   "reason": "内容太旧且不符合上游要求，经用户确认批量撤回",
+   "changed_fields": [
+    "status",
+    "version"
+   ],
+   "_retracted": {
+    "reason": "内容太旧且不符合上游要求",
+    "retracted_at": "2026-10-15T14:55:54+08:00"
+   }
+  },
+  {
+   "event_id": "evt-20261015-0162",
+   "seq": 162,
+   "item_id": "b1-crypto-btc",
+   "version": 3,
+   "type": "retracted",
+   "status": "retracted",
+   "occurred_at": "2026-10-15T14:55:54+08:00",
+   "reason": "内容太旧且不符合上游要求，经用户确认批量撤回",
+   "changed_fields": [
+    "status",
+    "version"
+   ],
+   "_retracted": {
+    "reason": "内容太旧且不符合上游要求",
+    "retracted_at": "2026-10-15T14:55:54+08:00"
+   }
+  },
+  {
+   "event_id": "evt-20261015-0163",
+   "seq": 163,
+   "item_id": "b1-sci-perseverance",
+   "version": 5,
+   "type": "retracted",
+   "status": "retracted",
+   "occurred_at": "2026-10-15T14:55:54+08:00",
+   "reason": "内容太旧且不符合上游要求，经用户确认批量撤回",
+   "changed_fields": [
+    "status",
+    "version"
+   ],
+   "_retracted": {
+    "reason": "内容太旧且不符合上游要求",
+    "retracted_at": "2026-10-15T14:55:54+08:00"
+   }
+  },
+  {
+   "event_id": "evt-20261015-0164",
+   "seq": 164,
+   "item_id": "b1-sec-voa",
+   "version": 5,
+   "type": "retracted",
+   "status": "retracted",
+   "occurred_at": "2026-10-15T14:55:54+08:00",
+   "reason": "内容太旧且不符合上游要求，经用户确认批量撤回",
+   "changed_fields": [
+    "status",
+    "version"
+   ],
+   "_retracted": {
+    "reason": "内容太旧且不符合上游要求",
+    "retracted_at": "2026-10-15T14:55:54+08:00"
+   }
+  },
+  {
+   "event_id": "evt-20261015-0165",
+   "seq": 165,
+   "item_id": "b1-drone-ingenuity",
+   "version": 6,
+   "type": "retracted",
+   "status": "retracted",
+   "occurred_at": "2026-10-15T14:55:54+08:00",
+   "reason": "内容太旧且不符合上游要求，经用户确认批量撤回",
+   "changed_fields": [
+    "status",
+    "version"
+   ],
+   "_retracted": {
+    "reason": "内容太旧且不符合上游要求",
+    "retracted_at": "2026-10-15T14:55:54+08:00"
+   }
+  },
+  {
+   "event_id": "evt-20261015-0166",
+   "seq": 166,
+   "item_id": "b1-art-painting",
+   "version": 3,
+   "type": "retracted",
+   "status": "retracted",
+   "occurred_at": "2026-10-15T14:55:54+08:00",
+   "reason": "内容太旧且不符合上游要求，经用户确认批量撤回",
+   "changed_fields": [
+    "status",
+    "version"
+   ],
+   "_retracted": {
+    "reason": "内容太旧且不符合上游要求",
+    "retracted_at": "2026-10-15T14:55:54+08:00"
+   }
+  },
+  {
+   "event_id": "evt-20261015-0167",
+   "seq": 167,
+   "item_id": "b1-sport-stadium",
+   "version": 3,
+   "type": "retracted",
+   "status": "retracted",
+   "occurred_at": "2026-10-15T14:55:54+08:00",
+   "reason": "内容太旧且不符合上游要求，经用户确认批量撤回",
+   "changed_fields": [
+    "status",
+    "version"
+   ],
+   "_retracted": {
+    "reason": "内容太旧且不符合上游要求",
+    "retracted_at": "2026-10-15T14:55:54+08:00"
+   }
   }
  ]
 }
