@@ -6,11 +6,11 @@
 
 | 文件 | 内容 | 更新节奏 |
 | --- | --- | --- |
-| `feed.json` | 最新可用素材列表（JSON Feed 1.1 + 扩展字段），仅含 `active` 条目，按入库时间倒序，最多 300 条 | 每日采集后；有撤回时立即 |
+| `feed.json` | 最新可用素材列表（JSON Feed 1.1 + 扩展字段），仅含 `active` 条目，按入库时间倒序，最多 420 条 | 每日采集后；有撤回时立即 |
 | `feed.xml` | 同上，RSS 2.0 | 同上 |
 | `changelog.json` | 全量变更事件（added/modified/retracted/expired/restored），`seq` 全局递增 | 每次变化后 |
 | `retractions.json` | 独立撤回列表（只含撤回事件），长期保留 | 有撤回时立即 |
-| `status.json` | 全量素材最新状态快照，按 `id` 查询，含完整内容快照（移出最新 300 条的老条目仍可在此查到完整内容），永不裁剪 | 每次变化后 |
+| `status.json` | 全量素材最新状态快照，按 `id` 查询，含完整内容快照（移出最新 420 条的老条目仍可在此查到完整内容），永不裁剪 | 每次变化后 |
 | `daily_stats.json` | 最新一天的分分类统计（稳定地址） | 每日 |
 | `stats/daily_YYYY-MM-DD.json` | 每日统计归档 | 每日 |
 
@@ -60,20 +60,27 @@
 
 ## 三、分类字典（视频）
 
-内容类型严格使用以下 16 个名称（括号内为内部固定编码，下版契约对齐用）：
+内容类型严格使用以下 20 个名称（括号内为内部固定编码，下版契约对齐用）：
 
 影视/文化（film_culture）、科技/航天科普（space_science）、科技/安全教育（safety_education）、
 科技/财经科普（finance_science）、体育/历史（sports_history）、科技/无人机（drones）、
 科技/教育（tech_education）、文化/手工（crafts）、游戏/生活方式（gaming_lifestyle）、
 财经/科普（money_education）、科技/创客（makers）、科技/航天（space）、
 科技/新闻（tech_news）、体育/建筑（sports_architecture）、文化/艺术（arts）、
-游戏/怀旧文化（gaming_history）
+游戏/怀旧文化（gaming_history）、自然/风光（nature_scenery）、自然/海洋生物（marine_life）、
+旅行/户外（travel_outdoor）、军事/装备（military_equipment）
+
+（2026-10-16 新增后 4 个：自然/风光、自然/海洋生物、旅行/户外、军事/装备，对应新增的 4 个内容垂类。）
 
 目标社群 10 个名称：Screen Stories Brief（screen_stories）、Science Worth Understanding（science）、
 Digital Safety Explained（digital_safety）、Crypto Beyond the Price（crypto）、
 Beyond the Score Brief（sports）、Robotics and Automation Brief（robotics）、
 AI Tools and Everyday Uses（ai_tools）、Design Worth Noticing（design）、
 Next Game Brief（gaming）、Everyday News and Money Discussion（news_money）
+
+（2026-10-16 用户确认新垂类社群映射：纯自然风景/野生动物→Science Worth Understanding、
+海洋生物/深海→Science Worth Understanding、国家公园旅行/户外→Beyond the Score Brief、
+军事航空装备→Robotics and Automation Brief；新垂类条目的 community 字段填所映射的社群名。）
 
 ## 四、变更事件（changelog.json）
 
@@ -100,7 +107,7 @@ Next Game Brief（gaming）、Everyday News and Money Discussion（news_money）
 
 1. 初次：拉 `feed.json`（快照）+ `changelog.json`（历史事件）+ `retractions.json`（撤回）。
 2. 增量：按 `changelog.json` 的 `seq` 游标读取新事件；`status.json` 按 `id` 查最新状态。
-3. 老条目完整内容：`feed.json` 只保留最新 300 条可用条目；任何历史条目（含已移出列表、已撤回）的完整内容快照都在 `status.json` 中按 `id` 查询，该文件永不裁剪。
+3. 老条目完整内容：`feed.json` 只保留最新 420 条可用条目；任何历史条目（含已移出列表、已撤回）的完整内容快照都在 `status.json` 中按 `id` 查询，该文件永不裁剪。
 4. 零新增：`changelog.json` 当天无新事件属正常；`daily_stats.json` 的 `update_completed` 为 true 即表示本日更新完成。
 5. 游标失效：重新拉取全量快照 + 撤回列表。
 
@@ -116,8 +123,8 @@ Next Game Brief（gaming）、Everyday News and Money Discussion（news_money）
   文件日期未更新 = 当日任务未执行。**不要把 `added=0` 当成失败**，也不要把未完成报成 0。
 - `failure_reason`：未完成时写原因；完成时为 null。
 - `opening_inventory` / `closing_inventory`：**全量口径**——`status.json` 中 `status=active`
-  且非测试条目的数量（不是 `feed.json` 条目数；`feed.json` 只代表最新 300 条窗口，
-  当下不足 300 条时两者恰好相等，超过 300 条后不再相等）。
+  且非测试条目的数量（不是 `feed.json` 条目数；`feed.json` 只代表最新 420 条窗口，
+  当下不足 420 条时两者恰好相等，超过 420 条后不再相等）。
 - `total_events_today`：当日非测试变更事件总数（`occurred_at` 落在当日）。
 - `categories.<分类>`：`valid`（该分类有效库存，全量口径）、`pending_review`（恒为 0，上游无审核环节）、
   `added` / `modified` / `retracted` / `expired` / `restored`（当日该分类各变化计数）。
@@ -138,7 +145,7 @@ Next Game Brief（gaming）、Everyday News and Money Discussion（news_money）
 1. 撤回检查建议：每 15 分钟拉一次 `changelog.json`（按 `seq` 游标增量），`retractions.json` 同步检查。
 2. 撤回时效：撤回确认后走即时通道（不等每日采集），上游执行并推送；从上游确认执行到文件可见的**最长预期为 30 分钟**（含 raw CDN 缓存）。
 3. 停止自动使用建议阈值：连续 6 小时同步失败（拉取失败）则暂停自动选用。零新增（`update_completed=true`）属于同步成功，不触发该阈值。
-4. 完整历史快照：`status.json` 含全量条目最新状态 + 完整内容快照，永不裁剪；`feed.json` 只保留最新 300 条可用条目。
+4. 完整历史快照：`status.json` 含全量条目最新状态 + 完整内容快照，永不裁剪；`feed.json` 只保留最新 420 条可用条目。
    移出最新列表 ≠ 撤回（`status` 保持 `active`）；已撤回条目以 `retractions.json` 为权威停用依据，
    普通 `modified`、`status=active` 的旧快照、重新出现在 feed 中都不能恢复撤回条目。
 5. 老化行为样例见 `fixtures/historical-window/`（合成样例，`fixture-` 前缀 ID，不接入正式流程）。
