@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-10-15T08:45:00+08:00",
- "event_count": 183,
- "next_seq": 184,
+ "updated_at": "2026-10-16T09:28:00+08:00",
+ "event_count": 187,
+ "next_seq": 188,
  "events": [
   {
    "event_id": "evt-20261013-0001",
@@ -2498,6 +2498,50 @@
    "status": "active",
    "occurred_at": "2026-10-15T20:30:50+08:00",
    "reason": "手动增补采集入库",
+   "changed_fields": null
+  },
+  {
+   "event_id": "evt-20261016-0184",
+   "seq": 184,
+   "item_id": "dvids-17fab-uas-training-20261016",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-16T09:28:00+08:00",
+   "reason": "DVIDS 17th FAB无人机系统训练（竖屏41秒，PD）入库",
+   "changed_fields": null
+  },
+  {
+   "event_id": "evt-20261016-0185",
+   "seq": 185,
+   "item_id": "webb-frb-20240304b-20261008",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-16T09:28:00+08:00",
+   "reason": "ESA/Webb FRB 20240304B深场平移（30秒，CC BY 4.0）入库",
+   "changed_fields": null
+  },
+  {
+   "event_id": "evt-20261016-0186",
+   "seq": 186,
+   "item_id": "dvids-cybersec-awareness-20261016",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-16T09:28:00+08:00",
+   "reason": "DVIDS网络安全意识月CIO寄语（100秒，PD）入库",
+   "changed_fields": null
+  },
+  {
+   "event_id": "evt-20261016-0187",
+   "seq": 187,
+   "item_id": "dvids-coastguard-engine-swap-20261016",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-16T09:28:00+08:00",
+   "reason": "海岸警卫队换发动机45秒精华版入库（母带133.5MiB，成品放clips/）",
    "changed_fields": null
   }
  ]

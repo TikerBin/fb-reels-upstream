@@ -7,6 +7,140 @@
  "language": "zh-CN",
  "items": [
   {
+   "id": "dvids-17fab-uas-training-20261016",
+   "url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112066156/DOD_112066156.mp4",
+   "title": "美军第17野战炮兵旅无人机系统训练：发射效应连指挥官访谈（竖屏实拍）",
+   "summary": "美军第17野战炮兵旅无人机系统（UAS）训练实拍：发射效应连（Launched Effects Battery）连长Jonathan Brewster上尉出镜讲解，穿插训练场悍马车、无人机设备与野外作业画面；以人物访谈为主，2160x3840竖屏原生适配Reels。",
+   "content_text": "内容总结：美军第17野战炮兵旅无人机系统（UAS）训练实拍：发射效应连（Launched Effects Battery）连长Jonathan Brewster上尉出镜讲解，穿插训练场悍马车、无人机设备与野外作业画面；以人物访谈为主，2160x3840竖屏原生适配Reels。\n内容类型：科技/无人机\n对应社群：Robotics and Automation Brief\n许可证：Public domain（无需署名）\nReels角度：“军用无人机长什么样”：竖屏原生构图免裁剪；前3秒用连长出镜+字幕条抓眼，配中文解说讲“发射效应”（地面发射的小型无人机蜂群）概念。\n热点挂钩：无人机攻防是2026年俄乌战场与美军转型的持续热点；美军“发射效应”（Launched Effects）项目近期多次见诸防务新闻。\n规格：41秒，2160x3840，约46.5MB",
+   "date_published": "2026-10-16T09:28:00+08:00",
+   "tags": [
+    "科技/无人机",
+    "Robotics and Automation Brief",
+    "无人机攻防是2026年俄乌战场与美军转型的持续热点；美军“发射效应”（Launched Effects）项目近期多次见诸防务新闻。"
+   ],
+   "attachments": [
+    {
+     "url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112066156/DOD_112066156.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 48766983,
+     "duration_in_seconds": 41
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_source_url": "https://www.dvidshub.net/video/1026534/17th-fab-conducts-unmanned-aerial-systems-training",
+   "_footage_type": "真实拍摄",
+   "_filmed_date": "2026-10-08",
+   "_original_upload_date": "2026-10-15",
+   "_authorization": {
+    "evidence_url": "https://www.dvidshub.net/video/1026534/17th-fab-conducts-unmanned-aerial-systems-training",
+    "public_domain_basis": "声明主体：美国国防部 DVIDS 平台（视频页标注 PUBLIC DOMAIN 徽章）。美军官方公开发布内容为美国联邦政府雇员执行公务创作，依 17 USC §105 在美国不受版权保护。已知限制：无特别用途声明。",
+    "attribution_required": false
+   }
+  },
+  {
+   "id": "webb-frb-20240304b-20261008",
+   "url": "https://cdn.esawebb.org/archives/videos/ultra_hd/weic2621a.mp4",
+   "title": "韦布望远镜锁定快速射电暴FRB 20240304B的宿主星系（4K平移）",
+   "summary": "韦布空间望远镜NIRCam深场影像的平移视频：镜头缓缓扫过布满遥远星系的深空，定位快速射电暴FRB 20240304B的宿主星系；前景恒星带韦布标志性六芒衍射光芒，视觉冲击强。",
+   "content_text": "内容总结：韦布空间望远镜NIRCam深场影像的平移视频：镜头缓缓扫过布满遥远星系的深空，定位快速射电暴FRB 20240304B的宿主星系；前景恒星带韦布标志性六芒衍射光芒，视觉冲击强。\n内容类型：科技/航天\n对应社群：Science Worth Understanding\n许可证：CC BY 4.0（发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/4.0/）\nReels角度：“宇宙深处的一次闪光来自哪里”：FRB（毫秒级宇宙射电爆发）是天文大悬案；用深场平移+中文配音讲“韦布找到了它来自哪个星系”。\n热点挂钩：FRB宿主星系定位是2026年持续产出论文的热点方向；本片为ESA/Webb官方10月8日刚发布的可视化。\n规格：30秒，3840x2160，约107.4MB",
+   "date_published": "2026-10-16T09:28:00+08:00",
+   "tags": [
+    "科技/航天",
+    "Science Worth Understanding",
+    "FRB宿主星系定位是2026年持续产出论文的热点方向；本片为ESA/Webb官方10月8日刚发布的可视化。"
+   ],
+   "attachments": [
+    {
+     "url": "https://cdn.esawebb.org/archives/videos/ultra_hd/weic2621a.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 112639356,
+     "duration_in_seconds": 30
+    }
+   ],
+   "_license": "CC BY 4.0",
+   "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/4.0/",
+   "_version": 1,
+   "_author": "NASA, ESA, CSA, STScI, T. Nanayakkara (USYD), J. DePasquale (STScI), N. Bartmann (ESA/Webb)；配乐：Stellardrone – Twilight",
+   "_source_url": "https://esawebb.org/videos/weic2621a/",
+   "_license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "_footage_type": "真实拍摄（韦布NIRCam实拍深场影像的平移呈现）",
+   "_original_upload_date": "2026-10-08"
+  },
+  {
+   "id": "dvids-cybersec-awareness-20261016",
+   "url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112063568/DOD_112063568.mp4",
+   "title": "美国防后勤局CIO网络安全月寄语：全员防范网络钓鱼（内嵌英文字幕）",
+   "summary": "美国防后勤局（DLA）信息作战主任兼CIO Adarryl Roberts出镜的网络安全意识月中期寄语：纯人物访谈，内嵌英文字幕，呼吁全员参与年度网络安全宣传活动、警惕钓鱼邮件与凭证被盗。",
+   "content_text": "内容总结：美国防后勤局（DLA）信息作战主任兼CIO Adarryl Roberts出镜的网络安全意识月中期寄语：纯人物访谈，内嵌英文字幕，呼吁全员参与年度网络安全宣传活动、警惕钓鱼邮件与凭证被盗。\n内容类型：科技/安全教育\n对应社群：Digital Safety Explained\n许可证：Public domain（无需署名）\nReels角度：权威信源“官方提醒”体：截取10–55秒核心寄语段，加中文字幕/配音转述，配文“美军后勤CIO的三条上网忠告”。\n热点挂钩：10月是美国“网络安全意识月”；同期八州起诉OpenAI儿童安全争议，网络安全话题热度高。\n规格：100秒，1920x1080，约97.1MB",
+   "date_published": "2026-10-16T09:28:00+08:00",
+   "tags": [
+    "科技/安全教育",
+    "Digital Safety Explained",
+    "10月是美国“网络安全意识月”；同期八州起诉OpenAI儿童安全争议，网络安全话题热度高。"
+   ],
+   "attachments": [
+    {
+     "url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112063568/DOD_112063568.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 101839976,
+     "duration_in_seconds": 100
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_source_url": "https://www.dvidshub.net/video/1026516/cybersecurity-awareness-month-mid-month-message-adarryl-roberts-dla-cio-emblem-open-caption",
+   "_footage_type": "真实拍摄",
+   "_filmed_date": "2026-10-15",
+   "_original_upload_date": "2026-10-15",
+   "_recommended_segment": {
+    "start_seconds": 10,
+    "end_seconds": 55
+   },
+   "_authorization": {
+    "evidence_url": "https://www.dvidshub.net/video/1026516/cybersecurity-awareness-month-mid-month-message-adarryl-roberts-dla-cio-emblem-open-caption",
+    "public_domain_basis": "声明主体：美国国防部 DVIDS 平台（视频页标注 PUBLIC DOMAIN 徽章）。美军官方公开发布内容为美国联邦政府雇员执行公务创作，依 17 USC §105 在美国不受版权保护。已知限制：无特别用途声明。",
+    "attribution_required": false
+   }
+  },
+  {
+   "id": "dvids-coastguard-engine-swap-20261016",
+   "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/coastguard-engine-swap-miamibeach_45s.mp4",
+   "title": "海岸警卫队迈阿密基地：吊装更换巡逻舰发动机（45秒精华版）",
+   "summary": "美国海岸警卫队迈阿密滩基地工程师为“雷蒙德·埃文斯”号巡逻舰更换发动机：链条吊装发动机部件、工人引导部件入舱、多角度作业特写，结尾为基地与巡逻舰队的无人机航拍。成品为自剪45秒720p（对应母带68–113秒），母带117秒4K约133.5MiB一并保留。",
+   "content_text": "内容总结：美国海岸警卫队迈阿密滩基地工程师为“雷蒙德·埃文斯”号巡逻舰更换发动机：链条吊装发动机部件、工人引导部件入舱、多角度作业特写，结尾为基地与巡逻舰队的无人机航拍。成品为自剪45秒720p（对应母带68–113秒），母带117秒4K约133.5MiB一并保留。\n内容类型：科技/新闻\n对应社群：Everyday News and Money Discussion\n许可证：Public domain（无需署名）\nReels角度：“给军舰换心脏”：重型吊装+精密对接的工业美感；45秒成品可直接发，配文“一台舰用发动机这样吊进船舱”。\n热点挂钩：1.5万亿美元国防预算提案引发的美军装备维护投入讨论；海岸警卫队近期在边境与缉毒执法新闻中出镜率高。\n规格：45秒，1280x720，约18.9MB",
+   "date_published": "2026-10-16T09:28:00+08:00",
+   "tags": [
+    "科技/新闻",
+    "Everyday News and Money Discussion",
+    "1.5万亿美元国防预算提案引发的美军装备维护投入讨论；海岸警卫队近期在边境与缉毒执法新闻中出镜率高。"
+   ],
+   "attachments": [
+    {
+     "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/coastguard-engine-swap-miamibeach_45s.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 19789528,
+     "duration_in_seconds": 45
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_source_url": "https://www.dvidshub.net/video/1026533/coast-guard-base-miami-beach-engineers-replace-engines-aboard-cgc-raymond-evans",
+   "_master_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112064898/DOD_112064898.mp4",
+   "_footage_type": "真实拍摄",
+   "_event_date": "2025-12-18",
+   "_filmed_date": "2025-12-18",
+   "_original_upload_date": "2026-10-15",
+   "_authorization": {
+    "evidence_url": "https://www.dvidshub.net/video/1026533/coast-guard-base-miami-beach-engineers-replace-engines-aboard-cgc-raymond-evans",
+    "public_domain_basis": "声明主体：美国国防部 DVIDS 平台（视频页标注 PUBLIC DOMAIN 徽章）。美军官方公开发布内容为美国联邦政府雇员执行公务创作，依 17 USC §105 在美国不受版权保护。已知限制：无特别用途声明。",
+    "attribution_required": false
+   }
+  },
+  {
    "id": "iss-fifa-worldcup-2026",
    "url": "https://images-assets.nasa.gov/video/Astronauts%20on%20the%20Space%20Station%20Celebrate%20the%202026%20FIFA%20World%20Cup/Astronauts%20on%20the%20Space%20Station%20Celebrate%20the%202026%20FIFA%20World%20Cup~medium.mp4",
    "title": "空间站宇航员庆祝2026世界杯：失重状态下颠球",
