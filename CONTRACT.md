@@ -18,6 +18,14 @@
 
 ## 二、feed.json 素材字段
 
+顶层扩展字段 `_verticals`：14 个垂类可用素材总览（数组，按固定顺序；`count` 为 0 的也列出，方便判断缺口）：
+`[{"vertical": "科学", "community": "Science Worth Understanding", "count": 8}, ...]`。
+判定规则：先看条目的 `community`，同一社群内再按 `category` 拆分子垂类
+（Robotics 社群中 `军事/装备`→军事航空装备其余→无人系统；
+Science 社群中 `自然/风光`→纯自然风景/野生动物、`自然/海洋生物`→海洋生物/深海其余→科学；
+Beyond the Score 社群中 `旅行/户外`→国家公园旅行/户外其余→体育）。
+测试条目不计入。
+
 | 字段 | 含义 |
 | --- | --- |
 | `id` | 素材稳定身份，修改不换 ID |

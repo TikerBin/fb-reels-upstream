@@ -5,6 +5,78 @@
  "feed_url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/feed.json",
  "description": "每日更新的 Facebook Reels 可用视频素材：下载地址、内容总结、内容类型、许可证。",
  "language": "zh-CN",
+ "_verticals": [
+  {
+   "vertical": "新闻/财经",
+   "community": "Everyday News and Money Discussion",
+   "count": 3
+  },
+  {
+   "vertical": "AI",
+   "community": "AI Tools and Everyday Uses",
+   "count": 2
+  },
+  {
+   "vertical": "加密资产",
+   "community": "Crypto Beyond the Price",
+   "count": 2
+  },
+  {
+   "vertical": "无人系统",
+   "community": "Robotics and Automation Brief",
+   "count": 5
+  },
+  {
+   "vertical": "军事航空装备",
+   "community": "Robotics and Automation Brief",
+   "count": 1
+  },
+  {
+   "vertical": "科学",
+   "community": "Science Worth Understanding",
+   "count": 8
+  },
+  {
+   "vertical": "纯自然风景/野生动物",
+   "community": "Science Worth Understanding",
+   "count": 1
+  },
+  {
+   "vertical": "海洋生物/深海",
+   "community": "Science Worth Understanding",
+   "count": 0
+  },
+  {
+   "vertical": "网络安全",
+   "community": "Digital Safety Explained",
+   "count": 4
+  },
+  {
+   "vertical": "游戏",
+   "community": "Next Game Brief",
+   "count": 3
+  },
+  {
+   "vertical": "影视",
+   "community": "Screen Stories Brief",
+   "count": 2
+  },
+  {
+   "vertical": "体育",
+   "community": "Beyond the Score Brief",
+   "count": 4
+  },
+  {
+   "vertical": "国家公园旅行/户外",
+   "community": "Beyond the Score Brief",
+   "count": 0
+  },
+  {
+   "vertical": "艺术设计",
+   "community": "Design Worth Noticing",
+   "count": 2
+  }
+ ],
  "items": [
   {
    "id": "nasa-crew12-postflight-20261017",
