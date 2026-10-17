@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-10-17T22:19:10+08:00",
- "event_count": 224,
- "next_seq": 225,
+ "updated_at": "2026-10-17T22:21:24+08:00",
+ "event_count": 228,
+ "next_seq": 229,
  "events": [
   {
    "event_id": "evt-20261013-0001",
@@ -3034,6 +3034,58 @@
    "reason": "生产时钟错误审计：原事件 seq 213 的 occurred_at=2026-10-17T22:55:00+08:00 为未来时间戳（上游填写错误，实际发生约22:06）；按“已分发事件不可改写”原则原事件保留原样，本事件仅记录更正，业务字段无变化",
    "changed_fields": [
     "version"
+   ]
+  },
+  {
+   "event_id": "evt-20261017-0225",
+   "seq": 225,
+   "item_id": "nasa-first-robotics-20261017",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-17T22:21:24+08:00",
+   "reason": "补料入库（下游方向缺口）：抽帧验货+许可证核实通过",
+   "changed_fields": [
+    "all"
+   ]
+  },
+  {
+   "event_id": "evt-20261017-0226",
+   "seq": 226,
+   "item_id": "commons-3dprint-p1s-20261017",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-17T22:21:24+08:00",
+   "reason": "补料入库（下游方向缺口）：抽帧验货+许可证核实通过",
+   "changed_fields": [
+    "all"
+   ]
+  },
+  {
+   "event_id": "evt-20261017-0227",
+   "seq": 227,
+   "item_id": "eso-spacesparks31-20261017",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-17T22:21:24+08:00",
+   "reason": "补料入库（下游方向缺口）：抽帧验货+许可证核实通过",
+   "changed_fields": [
+    "all"
+   ]
+  },
+  {
+   "event_id": "evt-20261017-0228",
+   "seq": 228,
+   "item_id": "eso-arp263-transition-20261017",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-17T22:21:24+08:00",
+   "reason": "补料入库（下游方向缺口）：抽帧验货+许可证核实通过",
+   "changed_fields": [
+    "all"
    ]
   }
  ]

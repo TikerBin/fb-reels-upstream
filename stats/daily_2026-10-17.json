@@ -1,15 +1,15 @@
 {
  "date": "2026-10-17",
  "timezone": "Asia/Shanghai",
- "stats_until": "2026-10-17T22:19:24+08:00",
- "last_event_seq": 224,
+ "stats_until": "2026-10-17T22:21:29+08:00",
+ "last_event_seq": 228,
  "category_basis": "LATEST_AT_STATS_UNTIL",
  "update_completed": true,
  "failure_reason": null,
  "pending_review_note": "上游无审核环节（采集→验货→入库），pending_review恒为0",
  "opening_inventory": 26,
- "closing_inventory": 37,
- "total_events_today": 23,
+ "closing_inventory": 41,
+ "total_events_today": 27,
  "note": "added：仅新素材ID首次入库（changelog中type=added事件，每个ID仅一次）；已有ID的字段补录、分类修正等记modified，不计入added。事件按occurred_at归属自然日（Asia/Shanghai）；modified按本日发生该变化的素材身份去重；同一素材多类变化在各列分别计数，不可直接相加；测试条目（is_test）不计入；last_event_seq为构建本日报所用完整changelog的最大序号（含测试事件，空历史为0）；分类归属口径见category_basis",
  "categories": {
   "影视/文化": {
@@ -22,9 +22,9 @@
    "restored": 0
   },
   "科技/航天科普": {
-   "valid": 3,
+   "valid": 4,
    "pending_review": 0,
-   "added": 0,
+   "added": 1,
    "modified": 0,
    "retracted": 0,
    "expired": 0,
@@ -76,9 +76,9 @@
    "restored": 0
   },
   "文化/手工": {
-   "valid": 1,
+   "valid": 2,
    "pending_review": 0,
-   "added": 0,
+   "added": 1,
    "modified": 0,
    "retracted": 0,
    "expired": 0,
@@ -103,18 +103,18 @@
    "restored": 0
   },
   "科技/创客": {
-   "valid": 1,
+   "valid": 2,
    "pending_review": 0,
-   "added": 0,
+   "added": 1,
    "modified": 0,
    "retracted": 0,
    "expired": 0,
    "restored": 0
   },
   "科技/航天": {
-   "valid": 5,
+   "valid": 6,
    "pending_review": 0,
-   "added": 1,
+   "added": 2,
    "modified": 2,
    "retracted": 0,
    "expired": 0,
