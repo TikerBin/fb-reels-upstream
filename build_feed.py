@@ -111,7 +111,34 @@ def build_rss(items, base_url):
     parts += ["</channel>", "</rss>"]
     return "\n".join(parts) + "\n"
 
+def validate_items(items):
+    """合同硬校验：任一条目违规即抛错、中断生成，禁止带病发布。"""
+    seen = set()
+    for it in items:
+        iid = it.get("id")
+        if not iid or iid in seen:
+            raise ValueError(f"duplicate/missing id: {iid!r}")
+        seen.add(iid)
+        seg = it.get("_recommended_segment")
+        if seg is not None:
+            # 兼容历史两种形状：{"start_seconds":s,"end_seconds":e} 或 [s, e]
+            if isinstance(seg, dict):
+                s, e = seg.get("start_seconds"), seg.get("end_seconds")
+            elif isinstance(seg, (list, tuple)) and len(seg) == 2:
+                s, e = seg[0], seg[1]
+            else:
+                raise ValueError(f"{iid}: _recommended_segment 形状非法: {seg!r}")
+            d = it.get("duration_s")
+            # 坐标系=交付文件自身时间轴（自剪成品短片即为其自身坐标，禁止填母片坐标）
+            if not (isinstance(s, (int, float)) and isinstance(e, (int, float))
+                    and 0 <= s < e and e <= (d or 0)):
+                raise ValueError(
+                    f"{iid}: _recommended_segment [{s},{e}] 非法（须满足 0<=start<end<=duration_s={d}，且为交付文件自身坐标）")
+    return True
+
+
 def build_jsonfeed(items, base_url):
+    validate_items(items)
     feed = {
         "version": "https://jsonfeed.org/version/1.1",
         "title": "FB Reels 每日素材上游",
@@ -222,6 +249,7 @@ def main():
     feed_items = [i for i in items if i.get("status") == "active"]
     feed_items.sort(key=lambda i: i.get("pub_date", ""), reverse=True)
     feed_items = feed_items[:420]
+    validate_items(feed_items)  # 硬校验先行：RSS/JSON 任一违规都不生成
     with open(os.path.join(UP, "feed.xml"), "w", encoding="utf-8") as f:
         f.write(build_rss(feed_items, a.base_url))
     with open(os.path.join(UP, "feed.json"), "w", encoding="utf-8") as f:

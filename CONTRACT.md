@@ -42,7 +42,7 @@ Beyond the Score 社群中 `旅行/户外`→国家公园旅行/户外其余→�
 | `_license` | 许可证名称，如 `Public domain`、`CC BY 3.0`、`CC BY-SA 4.0` |
 | `_license_url` | 许可证页面地址（CC 素材必填） |
 | `_attribution` | 署名要求：CC 素材为"发帖时在描述中注明作者、来源链接和许可证链接：<许可证地址>"；Public domain 为"无需署名" |
-| `_recommended_segment` | 可选，`{"start_seconds": n, "end_seconds": m}`，母带推荐截取区间（数值型） |
+| `_recommended_segment` | 可选，`{"start_seconds": n, "end_seconds": m}`，数值型。**坐标系=交付文件自身时间轴**：当交付文件已是自剪精华成品时，区间指成品自身（如整段交付即 `[0, duration]`），禁止填母片坐标；必须满足 `0<=start<end<=duration_s`，否则生成器拒绝构建 |
 | `_master_url` | 可选，原始母带地址（当主下载地址为剪辑成品时保留） |
 | `_footage_type` | 影像类型：真实拍摄 / 历史影像 / 动画 / 仿真 / AI生成 / 混合（可附组成说明） |
 | `_event_date` | 事件日期（YYYY-MM-DD 或 YYYY），未知则空 |

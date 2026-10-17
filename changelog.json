@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-10-17T09:31:40+08:00",
- "event_count": 202,
- "next_seq": 203,
+ "updated_at": "2026-10-17T22:55:00+08:00",
+ "event_count": 213,
+ "next_seq": 214,
  "events": [
   {
    "event_id": "evt-20261013-0001",
@@ -2702,6 +2702,195 @@
    "changed_fields": [
     "category",
     "version"
+   ]
+  },
+  {
+   "event_id": "evt-20261017-0203",
+   "seq": 203,
+   "item_id": "commons-jimmywales-ai-20261017",
+   "version": 2,
+   "type": "modified",
+   "status": "active",
+   "occurred_at": "2026-10-17T22:30:00+08:00",
+   "reason": "推荐区间坐标系修正：原[330,390]为母片坐标超出短片长度；抽帧验货确认短片即目标精华段（60s精华剪辑全段：6帧抽帧均为KLF/DC Books访谈威尔士谈AI虚假信息），改为短片自身坐标[0,60]整段交付",
+   "changed_fields": [
+    "_recommended_segment",
+    "version"
+   ]
+  },
+  {
+   "event_id": "evt-20261017-0204",
+   "seq": 204,
+   "item_id": "commons-wasteland-jamboree-20261017",
+   "version": 2,
+   "type": "modified",
+   "status": "active",
+   "occurred_at": "2026-10-17T22:30:00+08:00",
+   "reason": "推荐区间坐标系修正：原[700,760]为母片坐标超出短片长度；抽帧验货确认短片即目标精华段（60s精华剪辑全段：6帧抽帧均为Trans-Allegheny废弃精神病院实拍探访），改为短片自身坐标[0,60]整段交付",
+   "changed_fields": [
+    "_recommended_segment",
+    "version"
+   ]
+  },
+  {
+   "event_id": "evt-20261017-0205",
+   "seq": 205,
+   "item_id": "archive-amirtaaki-bitcoin-20261017",
+   "version": 2,
+   "type": "modified",
+   "status": "active",
+   "occurred_at": "2026-10-17T22:30:00+08:00",
+   "reason": "推荐区间坐标系修正：原[175,235]为母片坐标超出短片长度；抽帧验货确认短片即目标精华段（60s精华剪辑全段：6帧抽帧均为Amir Taaki在Dark Prague专访发言；末尾50-59s逐秒抽帧确认无黑场），改为短片自身坐标[0,60]整段交付",
+   "changed_fields": [
+    "_recommended_segment",
+    "version"
+   ]
+  },
+  {
+   "event_id": "evt-20261017-0206",
+   "seq": 206,
+   "item_id": "commons-cybersmart-mfa-20261017",
+   "version": 2,
+   "type": "modified",
+   "status": "active",
+   "occurred_at": "2026-10-17T22:30:00+08:00",
+   "reason": "推荐区间坐标系修正：原[1795,1855]为母片坐标超出短片长度；抽帧验货确认短片即目标精华段（60s精华剪辑全段：6帧抽帧均为'Multi-factor authentication'幻灯片+演讲者画中画），改为短片自身坐标[0,60]整段交付",
+   "changed_fields": [
+    "_recommended_segment",
+    "version"
+   ]
+  },
+  {
+   "event_id": "evt-20261017-0207",
+   "seq": 207,
+   "item_id": "nasa-crew12-farewell-hatch-20261017",
+   "version": 2,
+   "type": "modified",
+   "status": "active",
+   "occurred_at": "2026-10-17T22:30:00+08:00",
+   "reason": "推荐区间坐标系修正：原[25,70]为母片坐标超出短片长度；抽帧验货确认短片即目标精华段（45s精华剪辑全段：6帧抽帧为ISS外景/乘组合影/舱门特写/双伞溅落/舱内乘员），改为短片自身坐标[0,45]整段交付",
+   "changed_fields": [
+    "_recommended_segment",
+    "version"
+   ]
+  },
+  {
+   "event_id": "evt-20261017-0208",
+   "seq": 208,
+   "item_id": "nasa-crew12-postflight-20261017",
+   "version": 2,
+   "type": "modified",
+   "status": "active",
+   "occurred_at": "2026-10-17T22:30:00+08:00",
+   "reason": "推荐区间坐标系修正：原[150,210]为母片坐标超出短片长度；抽帧验货确认短片即目标精华段（60s精华剪辑全段：6帧抽帧均为Jessica Meir返航发布会发言），改为短片自身坐标[0,60]整段交付",
+   "changed_fields": [
+    "_recommended_segment",
+    "version"
+   ]
+  },
+  {
+   "event_id": "evt-20261017-0209",
+   "seq": 209,
+   "item_id": "webb-frb-20240304b-20261008",
+   "version": 2,
+   "type": "modified",
+   "status": "active",
+   "occurred_at": "2026-10-17T22:55:00+08:00",
+   "reason": "原cdn.esawebb.org地址在部分网络DNS解析异常；上游经代理实测原文件HTTP 206可公开下载，字节/时长与入库一致，转存hd_1080p重编码720p副本（内容一致，CC BY 4.0署名保留）",
+   "changed_fields": [
+    "download_url",
+    "bytes",
+    "duration_s",
+    "width",
+    "height",
+    "_master_url",
+    "_recommended_segment",
+    "version",
+    "summary_cn"
+   ]
+  },
+  {
+   "event_id": "evt-20261017-0210",
+   "seq": 210,
+   "item_id": "eso-webb-ngc7129-20261017",
+   "version": 2,
+   "type": "modified",
+   "status": "active",
+   "occurred_at": "2026-10-17T22:55:00+08:00",
+   "reason": "同上：cdn.esawebb.org DNS异常，转存hd_1080p重编码720p副本，内容一致，CC BY 4.0署名保留",
+   "changed_fields": [
+    "download_url",
+    "bytes",
+    "duration_s",
+    "width",
+    "height",
+    "_master_url",
+    "_recommended_segment",
+    "version",
+    "summary_cn"
+   ]
+  },
+  {
+   "event_id": "evt-20261017-0211",
+   "seq": 211,
+   "item_id": "usgs-biscuit-basin-explosion-20261017",
+   "version": 2,
+   "type": "modified",
+   "status": "active",
+   "occurred_at": "2026-10-17T22:55:00+08:00",
+   "reason": "USGS S3原地址在部分网络DNS解析异常；上游经代理实测HTTP 206可公开下载，文件原样转存仓库clips（PD）",
+   "changed_fields": [
+    "download_url",
+    "bytes",
+    "duration_s",
+    "width",
+    "height",
+    "_master_url",
+    "_recommended_segment",
+    "version",
+    "summary_cn"
+   ]
+  },
+  {
+   "event_id": "evt-20261017-0212",
+   "seq": 212,
+   "item_id": "usgs-precipitation-radar-mosaic-20260324",
+   "version": 2,
+   "type": "modified",
+   "status": "active",
+   "occurred_at": "2026-10-17T22:55:00+08:00",
+   "reason": "USGS S3原地址DNS异常；实测原文件可下载（518s/64.9MB），按clips规范自剪60s 720p成品（取300-360s活跃降水窗口，抽帧验货），原518s母带地址保留_master_url（PD）",
+   "changed_fields": [
+    "download_url",
+    "bytes",
+    "duration_s",
+    "width",
+    "height",
+    "_master_url",
+    "_recommended_segment",
+    "version",
+    "summary_cn"
+   ]
+  },
+  {
+   "event_id": "evt-20261017-0213",
+   "seq": 213,
+   "item_id": "dvids-cybersec-awareness-20261016",
+   "version": 2,
+   "type": "modified",
+   "status": "active",
+   "occurred_at": "2026-10-17T22:55:00+08:00",
+   "reason": "CloudFront原地址在部分网络DNS解析异常；实测原文件可下载（100s/101.8MB），自剪60s 720p成品（取10-70s精华窗口，抽帧验货：DLA CIO寄语+网络安全周贴士画面），原母带地址保留_master_url（PD）",
+   "changed_fields": [
+    "download_url",
+    "bytes",
+    "duration_s",
+    "width",
+    "height",
+    "_master_url",
+    "_recommended_segment",
+    "version",
+    "summary_cn"
    ]
   }
  ]

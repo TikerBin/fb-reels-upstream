@@ -1,13 +1,13 @@
 {
- "updated_at": "2026-10-17T15:00:56+08:00",
+ "updated_at": "2026-10-17T22:06:55+08:00",
  "count": 74,
  "note": "全量最新状态快照，按 id 查询。条目含完整内容快照，移出最新列表的老条目仍可在此查到完整内容。",
  "items": [
   {
    "id": "nasa-crew12-postflight-20261017",
    "status": "active",
-   "version": 1,
-   "date_modified": "2026-10-17T09:31:40+08:00",
+   "version": 2,
+   "date_modified": "2026-10-17T22:30:00+08:00",
    "in_latest_feed": true,
    "retract_reason": "",
    "title": "Crew-12 返航发布会：7个月空间站科学任务总结（60秒精华）",
@@ -30,15 +30,15 @@
    "_event_date": "2026-10-15",
    "_original_upload_date": "2026-10-15",
    "_recommended_segment": {
-    "start_seconds": 150,
-    "end_seconds": 210
+    "start_seconds": 0,
+    "end_seconds": 60
    }
   },
   {
    "id": "commons-jimmywales-ai-20261017",
    "status": "active",
-   "version": 1,
-   "date_modified": "2026-10-17T09:31:40+08:00",
+   "version": 2,
+   "date_modified": "2026-10-17T22:30:00+08:00",
    "in_latest_feed": true,
    "retract_reason": "",
    "title": "维基百科创始人吉米·威尔士谈 AI 与虚假信息危机（喀拉拉文学节 2026）",
@@ -64,15 +64,15 @@
    "_filmed_date": "2026-05-29",
    "_original_upload_date": "2026-10-01",
    "_recommended_segment": {
-    "start_seconds": 330,
-    "end_seconds": 390
+    "start_seconds": 0,
+    "end_seconds": 60
    }
   },
   {
    "id": "archive-amirtaaki-bitcoin-20261017",
    "status": "active",
-   "version": 1,
-   "date_modified": "2026-10-17T09:31:40+08:00",
+   "version": 2,
+   "date_modified": "2026-10-17T22:30:00+08:00",
    "in_latest_feed": true,
    "retract_reason": "",
    "title": "比特币先驱阿米尔·塔基谈加密无政府主义与以太坊诞生（Dark Prague 2025 访谈精华）",
@@ -98,15 +98,15 @@
    "_filmed_date": "2025-10-05",
    "_original_upload_date": "2026-10-04",
    "_recommended_segment": {
-    "start_seconds": 175,
-    "end_seconds": 235
+    "start_seconds": 0,
+    "end_seconds": 60
    }
   },
   {
    "id": "nasa-crew12-farewell-hatch-20261017",
    "status": "active",
-   "version": 1,
-   "date_modified": "2026-10-17T09:31:40+08:00",
+   "version": 2,
+   "date_modified": "2026-10-17T22:30:00+08:00",
    "in_latest_feed": true,
    "retract_reason": "",
    "title": "空间站告别与龙飞船舱门关闭：Crew-12 返回地球实拍",
@@ -129,15 +129,15 @@
    "_event_date": "2026-10-07",
    "_original_upload_date": "2026-10-07",
    "_recommended_segment": {
-    "start_seconds": 25,
-    "end_seconds": 70
+    "start_seconds": 0,
+    "end_seconds": 45
    }
   },
   {
    "id": "commons-cybersmart-mfa-20261017",
    "status": "active",
-   "version": 1,
-   "date_modified": "2026-10-17T09:31:40+08:00",
+   "version": 2,
+   "date_modified": "2026-10-17T22:30:00+08:00",
    "in_latest_feed": true,
    "retract_reason": "",
    "title": "网络安全 10 守则之多因素认证：密码被盗也不怕（Wikimania 2026 演讲精华）",
@@ -163,15 +163,15 @@
    "_filmed_date": "2026-07-23",
    "_original_upload_date": "2026-08-05",
    "_recommended_segment": {
-    "start_seconds": 1795,
-    "end_seconds": 1855
+    "start_seconds": 0,
+    "end_seconds": 60
    }
   },
   {
    "id": "commons-wasteland-jamboree-20261017",
    "status": "active",
-   "version": 1,
-   "date_modified": "2026-10-17T09:31:40+08:00",
+   "version": 2,
+   "date_modified": "2026-10-17T22:30:00+08:00",
    "in_latest_feed": true,
    "retract_reason": "",
    "title": "现实版《辐射》：西弗吉尼亚'废土大集结'玩家现场之旅（60 秒精华）",
@@ -197,8 +197,8 @@
    "_filmed_date": "2026-05-02",
    "_original_upload_date": "2026-05-07",
    "_recommended_segment": {
-    "start_seconds": 700,
-    "end_seconds": 760
+    "start_seconds": 0,
+    "end_seconds": 60
    }
   },
   {
@@ -265,45 +265,50 @@
   {
    "id": "eso-webb-ngc7129-20261017",
    "status": "active",
-   "version": 1,
-   "date_modified": "2026-10-17T09:31:40+08:00",
+   "version": 2,
+   "date_modified": "2026-10-17T22:55:00+08:00",
    "in_latest_feed": true,
    "retract_reason": "",
    "title": "韦伯望远镜下的'七彩梦境'——恒星诞生地 NGC 7129 平移视频",
-   "summary_cn": "NASA/ESA/CSA 詹姆斯·韦布空间望远镜拍摄的恒星形成区 NGC 7129 红外影像的慢速平移视频：金色、玫红、深蓝交织的'七彩梦境'，恒星衍射尖芒如钻石般闪烁，星云纹理如油画笔触。对应社群：Design Worth Noticing。许可证：CC BY 4.0，发帖时在描述中注明作者、来源链接和许可证链接。影像类型：真实拍摄（韦伯红外影像平移）。",
+   "summary_cn": "NASA/ESA/CSA 詹姆斯·韦布空间望远镜拍摄的恒星形成区 NGC 7129 红外影像的慢速平移视频：金色、玫红、深蓝交织的'七彩梦境'，恒星衍射尖芒如钻石般闪烁，星云纹理如油画笔触。对应社群：Design Worth Noticing。许可证：CC BY 4.0，发帖时在描述中注明作者、来源链接和许可证链接。影像类型：真实拍摄（韦伯红外影像平移）。\n（分发备注：同上：cdn.esawebb.org DNS异常，转存hd_1080p重编码720p副本，内容一致，CC BY 4.0署名保留）",
    "category": "文化/艺术",
    "community": "Design Worth Noticing",
    "license": "CC BY 4.0",
    "license_url": "https://creativecommons.org/licenses/by/4.0/",
    "author": "NASA, ESA, CSA, STScI, A. Pagan (STScI), N. Bartmann (ESA/Webb); Music: Stellardrone - Twilight",
    "source_url": "https://esawebb.org/videos/weic2620a/",
-   "download_url": "https://cdn.esawebb.org/archives/videos/ultra_hd/weic2620a.mp4",
+   "download_url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/eso-webb-ngc7129-20261017_30s.mp4",
    "attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/4.0/",
    "reels_angle": "宇宙级视觉美学，'这是望远镜拍的还是油画'式反差钩子，适合壁纸/视觉治愈类内容",
    "trend_hook": "韦伯最新影像（10 月 6 日发布）；'宇宙油画'视觉反差",
    "duration_s": 30,
-   "width": 3840,
-   "height": 2160,
-   "bytes": 112754891,
+   "width": 1280,
+   "height": 720,
+   "bytes": 4380559,
    "mime": "video/mp4",
    "pub_date": "2026-10-17T09:31:40+08:00",
    "_footage_type": "真实拍摄",
-   "_original_upload_date": "2026-10-06"
+   "_original_upload_date": "2026-10-06",
+   "_recommended_segment": {
+    "start_seconds": 0,
+    "end_seconds": 30
+   },
+   "_master_url": "https://cdn.esawebb.org/archives/videos/ultra_hd/weic2620a.mp4"
   },
   {
    "id": "usgs-biscuit-basin-explosion-20261017",
    "status": "active",
-   "version": 1,
-   "date_modified": "2026-10-17T09:31:40+08:00",
+   "version": 2,
+   "date_modified": "2026-10-17T22:55:00+08:00",
    "in_latest_feed": true,
    "retract_reason": "",
    "title": "黄石饼干盆地小型热水爆炸实拍（2026年6月）",
-   "summary_cn": "USGS 黄石监测相机（YS-BBSN）记录的 2026-06-13 饼干盆地（Biscuit Basin）小型热水爆炸事件实拍，30秒静态机位，蒸汽柱从地热池升腾，画面带 USGS 监测水印时间戳。诚实标注：为地热自然现象实拍，非野生动物实拍。对应社群：Science Worth Understanding。许可证：Public domain，无需署名。影像类型：真实拍摄（固定监测相机）。",
+   "summary_cn": "USGS 黄石监测相机（YS-BBSN）记录的 2026-06-13 饼干盆地（Biscuit Basin）小型热水爆炸事件实拍，30秒静态机位，蒸汽柱从地热池升腾，画面带 USGS 监测水印时间戳。诚实标注：为地热自然现象实拍，非野生动物实拍。对应社群：Science Worth Understanding。许可证：Public domain，无需署名。影像类型：真实拍摄（固定监测相机）。\n（分发备注：USGS S3原地址在部分网络DNS解析异常；上游经代理实测HTTP 206可公开下载，文件原样转存仓库clips（PD））",
    "category": "自然/风光",
    "community": "Science Worth Understanding",
    "license": "Public domain",
    "source_url": "https://www.usgs.gov/media/videos/video-small-hydrothermal-explosion-biscuit-basin-june-13-2026",
-   "download_url": "https://usgs-ocapsv2-public-output-media.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/video/20260613_050945-051015/MP4/20260613_050945-051015.mp4",
+   "download_url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/usgs-biscuit-basin-explosion-20261017_30s.mp4",
    "attribution": "无需署名",
    "reels_angle": "黄石地热爆炸新闻事件＋科普（热水爆炸是什么、为何发生，提醒游览安全）",
    "trend_hook": "黄石地热爆炸是反复出现的新闻话题，2026年6月最新一次事件实拍可做科普+新闻挂钩",
@@ -315,7 +320,12 @@
    "pub_date": "2026-10-17T09:31:40+08:00",
    "_footage_type": "真实拍摄",
    "_event_date": "2026-06-13",
-   "_original_upload_date": "2026-06-13"
+   "_original_upload_date": "2026-06-13",
+   "_recommended_segment": {
+    "start_seconds": 0,
+    "end_seconds": 30
+   },
+   "_master_url": "https://usgs-ocapsv2-public-output-media.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/video/20260613_050945-051015/MP4/20260613_050945-051015.mp4"
   },
   {
    "id": "dvids-uss-san-antonio-20261017",
@@ -380,24 +390,24 @@
   {
    "id": "usgs-precipitation-radar-mosaic-20260324",
    "status": "active",
-   "version": 1,
-   "date_modified": "2026-10-16T19:04:46+08:00",
+   "version": 2,
+   "date_modified": "2026-10-17T22:55:00+08:00",
    "in_latest_feed": true,
    "retract_reason": "",
    "title": "上帝视角看暴雨：2022年美国西南降水雷达拼图延时",
-   "summary_cn": "美国地质调查局发布的降水雷达拼图延时动画：以卫星地形为底图，叠加2022年7-9月美国四角地区（梅萨维德、峡谷地一带）降水雷达回波，绿、黄、红色块显示雨团移动与增强，直观呈现暴雨天气系统演变。720p、518秒。",
+   "summary_cn": "美国地质调查局发布的降水雷达拼图延时动画：以卫星地形为底图，叠加2022年7-9月美国四角地区（梅萨维德、峡谷地一带）降水雷达回波，绿、黄、红色块显示雨团移动与增强，直观呈现暴雨天气系统演变。720p、518秒。\n（分发备注：USGS S3原地址DNS异常；实测原文件可下载（518s/64.9MB），按clips规范自剪60s 720p成品（取300-360s活跃降水窗口，抽帧验货），原518s母带地址保留_master_url（PD））",
    "category": "科技/教育",
    "community": "Science Worth Understanding",
    "license": "Public domain",
    "source_url": "https://www.usgs.gov/media/videos/precipitation-radar-mosaic-videos-snapshots-time-2022",
-   "download_url": "https://usgs-ocapsv2-public-output-media.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/video/2022/MP4/2022.mp4",
+   "download_url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/usgs-precipitation-radar-mosaic-20260324_60s.mp4",
    "attribution": "无需署名",
    "reels_angle": "数据可视化流：上帝视角雷达云图延时，配文“一场暴雨是这样席卷美国西南的”；取60-120秒雨团增强的高光段",
    "trend_hook": "极端天气话题常青；雷达云图延时在短视频平台易出圈，可挂钩近期美国西南部天气新闻",
-   "duration_s": 518,
+   "duration_s": 60,
    "width": 1280,
    "height": 720,
-   "bytes": 64917655,
+   "bytes": 15443440,
    "mime": "video/mp4",
    "pub_date": "2026-10-16T19:04:46+08:00",
    "_footage_type": "动画",
@@ -405,9 +415,10 @@
    "_filmed_date": "2022",
    "_original_upload_date": "2026-03-24",
    "_recommended_segment": {
-    "start_seconds": 60,
-    "end_seconds": 120
-   }
+    "start_seconds": 0,
+    "end_seconds": 60
+   },
+   "_master_url": "https://usgs-ocapsv2-public-output-media.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/video/2022/MP4/2022.mp4"
   },
   {
    "id": "dvids-17fab-uas-training-20261016",
@@ -444,61 +455,67 @@
   {
    "id": "webb-frb-20240304b-20261008",
    "status": "active",
-   "version": 1,
-   "date_modified": "2026-10-16T09:28:00+08:00",
+   "version": 2,
+   "date_modified": "2026-10-17T22:55:00+08:00",
    "in_latest_feed": true,
    "retract_reason": "",
    "title": "韦布望远镜锁定快速射电暴FRB 20240304B的宿主星系（4K平移）",
-   "summary_cn": "韦布空间望远镜NIRCam深场影像的平移视频：镜头缓缓扫过布满遥远星系的深空，定位快速射电暴FRB 20240304B的宿主星系；前景恒星带韦布标志性六芒衍射光芒，视觉冲击强。",
+   "summary_cn": "韦布空间望远镜NIRCam深场影像的平移视频：镜头缓缓扫过布满遥远星系的深空，定位快速射电暴FRB 20240304B的宿主星系；前景恒星带韦布标志性六芒衍射光芒，视觉冲击强。\n（分发备注：原cdn.esawebb.org地址在部分网络DNS解析异常；上游经代理实测原文件HTTP 206可公开下载，字节/时长与入库一致，转存hd_1080p重编码720p副本（内容一致，CC BY 4.0署名保留））",
    "category": "科技/航天",
    "community": "Science Worth Understanding",
    "license": "CC BY 4.0",
    "license_url": "https://creativecommons.org/licenses/by/4.0/",
    "author": "NASA, ESA, CSA, STScI, T. Nanayakkara (USYD), J. DePasquale (STScI), N. Bartmann (ESA/Webb)；配乐：Stellardrone – Twilight",
    "source_url": "https://esawebb.org/videos/weic2621a/",
-   "download_url": "https://cdn.esawebb.org/archives/videos/ultra_hd/weic2621a.mp4",
+   "download_url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/webb-frb-20240304b-20261008_30s.mp4",
    "attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/4.0/",
    "reels_angle": "“宇宙深处的一次闪光来自哪里”：FRB（毫秒级宇宙射电爆发）是天文大悬案；用深场平移+中文配音讲“韦布找到了它来自哪个星系”。",
    "trend_hook": "FRB宿主星系定位是2026年持续产出论文的热点方向；本片为ESA/Webb官方10月8日刚发布的可视化。",
    "duration_s": 30,
-   "width": 3840,
-   "height": 2160,
-   "bytes": 112639356,
+   "width": 1280,
+   "height": 720,
+   "bytes": 3650106,
    "mime": "video/mp4",
    "pub_date": "2026-10-16T09:28:00+08:00",
    "_footage_type": "真实拍摄（韦布NIRCam实拍深场影像的平移呈现）",
-   "_original_upload_date": "2026-10-08"
+   "_original_upload_date": "2026-10-08",
+   "_recommended_segment": {
+    "start_seconds": 0,
+    "end_seconds": 30
+   },
+   "_master_url": "https://cdn.esawebb.org/archives/videos/ultra_hd/weic2621a.mp4"
   },
   {
    "id": "dvids-cybersec-awareness-20261016",
    "status": "active",
-   "version": 1,
-   "date_modified": "2026-10-16T09:28:00+08:00",
+   "version": 2,
+   "date_modified": "2026-10-17T22:55:00+08:00",
    "in_latest_feed": true,
    "retract_reason": "",
    "title": "美国防后勤局CIO网络安全月寄语：全员防范网络钓鱼（内嵌英文字幕）",
-   "summary_cn": "美国防后勤局（DLA）信息作战主任兼CIO Adarryl Roberts出镜的网络安全意识月中期寄语：纯人物访谈，内嵌英文字幕，呼吁全员参与年度网络安全宣传活动、警惕钓鱼邮件与凭证被盗。",
+   "summary_cn": "美国防后勤局（DLA）信息作战主任兼CIO Adarryl Roberts出镜的网络安全意识月中期寄语：纯人物访谈，内嵌英文字幕，呼吁全员参与年度网络安全宣传活动、警惕钓鱼邮件与凭证被盗。\n（分发备注：CloudFront原地址在部分网络DNS解析异常；实测原文件可下载（100s/101.8MB），自剪60s 720p成品（取10-70s精华窗口，抽帧验货：DLA CIO寄语+网络安全周贴士画面），原母带地址保留_master_url（PD））",
    "category": "科技/安全教育",
    "community": "Digital Safety Explained",
    "license": "Public domain",
    "source_url": "https://www.dvidshub.net/video/1026516/cybersecurity-awareness-month-mid-month-message-adarryl-roberts-dla-cio-emblem-open-caption",
-   "download_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112063568/DOD_112063568.mp4",
+   "download_url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/dvids-cybersec-awareness-20261016_60s.mp4",
    "attribution": "无需署名",
    "reels_angle": "权威信源“官方提醒”体：截取10–55秒核心寄语段，加中文字幕/配音转述，配文“美军后勤CIO的三条上网忠告”。",
    "trend_hook": "10月是美国“网络安全意识月”；同期八州起诉OpenAI儿童安全争议，网络安全话题热度高。",
-   "duration_s": 100,
-   "width": 1920,
-   "height": 1080,
-   "bytes": 101839976,
+   "duration_s": 60,
+   "width": 1280,
+   "height": 720,
+   "bytes": 15880588,
    "mime": "video/mp4",
    "pub_date": "2026-10-16T09:28:00+08:00",
    "_footage_type": "真实拍摄",
    "_filmed_date": "2026-10-15",
    "_original_upload_date": "2026-10-15",
    "_recommended_segment": {
-    "start_seconds": 10,
-    "end_seconds": 55
+    "start_seconds": 0,
+    "end_seconds": 60
    },
+   "_master_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112063568/DOD_112063568.mp4",
    "_authorization": {
     "evidence_url": "https://www.dvidshub.net/video/1026516/cybersecurity-awareness-month-mid-month-message-adarryl-roberts-dla-cio-emblem-open-caption",
     "public_domain_basis": "声明主体：美国国防部 DVIDS 平台（视频页标注 PUBLIC DOMAIN 徽章）。美军官方公开发布内容为美国联邦政府雇员执行公务创作，依 17 USC §105 在美国不受版权保护。已知限制：无特别用途声明。",

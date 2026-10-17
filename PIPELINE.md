@@ -7,15 +7,16 @@
 
 ## 采集量规则（2026-10-12 更新：每垂类每天尽量 1 条）
 
-- 10 个垂类（新闻/财经、AI、加密资产、无人系统、科学、网络安全、游戏、影视、体育、艺术设计）**每个尽量每天出 1 条**，每天最多 10 条。
+- 14 个垂类（新闻/财经、AI、加密资产、无人系统、科学、网络安全、游戏、影视、体育、艺术设计、
+  纯自然风景/野生动物、海洋生物/深海、国家公园旅行/户外、军事航空装备）**每个尽量每天出 1 条**，每天最多 14 条。
 - 宁缺毋滥：某垂类当天没有合格素材就空缺，不硬凑；极端情况下全天可 0 条（feed 不变，日志注明原因）。
-- feed 上限从 150 条提高到 300 条（约 1 个月留存），由 worker 在更新 items.json 时执行淘汰。
+- feed 上限 420 条（14 垂类 × 约 30 天留存），由 worker 在更新 items.json 时执行淘汰。
 
 ## 目录
 - `items.json` — 数据源（也是去重依据，按 download_url 去重），新条目插到最前面，最多保留 150 条
 - `build_feed.py` — 由 items.json 生成 feed.xml + feed.json + status.json（`--base-url` 为托管地址）
 - `build_daily_stats.py` — 由 items.json + changelog.json 重算 daily_stats.json 与 stats/daily_YYYY-MM-DD.json（`--date` 指定日期，默认当天）；计数口径见 CONTRACT.md 第八章
-- `collect.py` — 搜索助手（Wikimedia Commons / archive.org / NASA），注意 Commons API 必须带 User-Agent 否则 403
+- `collect.py` — 搜索助手（Wikimedia Commons / archive.org / NASA / DVIDS / ESO 天文集群 / USGS / NOAA 海洋探索 / NPS 国家公园），注意 Commons API 必须带 User-Agent 否则 403；DVIDS 只用 RSS（/search 页被 AWS WAF 挑战拦截）；NPS 只用分园 videos.htm 落地页（无 JSON 接口、站内搜索不可用）
 - `feed.xml` / `feed.json` — 对外发布的成品（RSS enclosure 指向**原始下载地址**，不转存视频字节）
 - `UPLOAD.md` — 上传目标配置（待用户确认后填写）
 
@@ -32,19 +33,65 @@
    Commons 还有按年分的 `Category:Videos of 2026` 可翻。
 2. **新闻类优先 PD 时政影像**：VOA、美军 / 白宫公开影像是公有领域且天天更新，
    搜 Commons 上的 VOA 上传或 archive.org 的政府公开影像。
-3. **实在没有新的才用档案**：候选质量相当时永远选上传日期新的（`uploaded` 字段已加入搜索结果）。
+3. 候选质量相当时永远选上传日期新的（`uploaded` 字段已加入搜索结果）。
+   2026-10-15 起档案类不再主动采集（见第 7 条硬门槛），本条"用档案兜底"作废。
 4. 档案素材必须配**新鲜的话题挂钩**（trend_hook 写清关联的本周新闻），不能为发而发。
 5. 注意：archive.org 按 addeddate 排前面多是各国电视台录播（版权），license_ok() 挡掉，只收明确 PD/CC 的。
+6. **官方媒体库直链优先**（2026-10-15 新增）：官方机构自办的媒体库（如 NASA 的 images.nasa.gov）
+   提供长期稳定的直接下载地址、许可标注明确（多为公有领域），优先于第三方转载。
+   找素材时先看官方媒体库有没有同一内容，再考虑 Commons / archive.org 的转载版本。
+7. **新入库硬门槛**（2026-10-15 起，用户要求素材要新）：新收素材的 `_original_upload_date`
+   必须在近 3 年内（以采集日期为准，精确到日）；无法核实原始上传日期的视为不通过，直接弃用；
+   档案类不再主动采集。已有库存不动。
+8. **新来源的新鲜度抓法**（2026-10-15 接入 4 家，collect.py 已实测）：
+   DVIDS 取 RSS（每天约 20 条新片，最新优先，按视频页 Date Posted 过滤 3 年，档案旧片一律不要）；
+   ESO 四个 Data2Dome JSON 源（webb/hubble/eso/noirlab）最新优先，直接看记录的 PublicationDate；
+   USGS 搜索列表**不按时间排序**，必须逐视频页核对日期再决定收不收；
+   NOAA 图库按 `?pg=N` 翻页（最新优先），日期取视频页的 datePublished，取不到日期的按"无法核实"弃用。
 
 ## 每日流程（cron worker 遵循）
-1. 看当天热点：`browser.search`（news vertical）查美国当日/当周趋势；结合 10 个社群垂类轮换选题。
+1. 看当天热点：`browser.search`（news vertical）查美国当日/当周趋势；结合 14 个垂类轮换选题。
    10 社群：Everyday News and Money Discussion（新闻/财经）、AI Tools and Everyday Uses（AI）、
-   Crypto Beyond the Price（加密资产）、Robotics and Automation Brief（无人系统）、
-   Science Worth Understanding（科学）、Digital Safety Explained（网络安全）、
-   Next Game Brief（游戏）、Screen Stories Brief（影视）、Beyond the Score Brief（体育）、
+   Crypto Beyond the Price（加密资产）、Robotics and Automation Brief（无人系统、军事航空装备）、
+   Science Worth Understanding（科学、纯自然风景/野生动物、海洋生物/深海）、Digital Safety Explained（网络安全）、
+   Next Game Brief（游戏）、Screen Stories Brief（影视）、Beyond the Score Brief（体育、国家公园旅行/户外）、
    Design Worth Noticing（艺术设计）。
-2. 用 collect.py 在 Commons / archive.org / NASA 搜候选（`filetype:video` 类查询；archive.org 用 advancedsearch）。
+   新垂类社群映射（2026-10-16 用户确认）：纯自然风景/野生动物→Science Worth Understanding、
+   海洋生物/深海→Science Worth Understanding、国家公园旅行/户外→Beyond the Score Brief、
+   军事航空装备→Robotics and Automation Brief；community 字段填所映射的社群名。
+2. 用 collect.py 搜候选：
+   - Commons / archive.org / NASA（`filetype:video` 类查询；archive.org 用 advancedsearch）；
+   - DVIDS（2026-10-15 接入）：`dvids_rss_search()` 取 RSS 最新（每天约 20 条，天天更新），
+     再用 `dvids_video_info(page)` 拿 CloudFront 直链；**逐条确认视频页的 `h4.public-domain` 徽章**
+     （无徽章=非 PD，直接弃用）与 Date Posted（3 年门槛，档案旧片一律过滤）。
+     注意：只用 RSS 做发现，**不要用 /search 页**（被 AWS WAF 挑战拦截）。
+     垂类覆盖：新闻、无人系统（UAV 实拍）、AI、网络安全、体育（军事体育）、科学；
+   - ESO 天文集群（2026-10-15 接入）：`eso_feed_search(feed)`，feed 取 webb/hubble/eso/noirlab，
+     Data2Dome JSON 最新优先、免 key；**只收 Rights 含 "Creative Commons Attribution 4.0" 的条目**
+     （CC BY 4.0：author 取记录的 Credit 字段，license_url 填 https://creativecommons.org/licenses/by/4.0/，
+     attribution 按 CC 规范写）。
+     **只用这 4 个 outreach 站**，esa.int 通用站视频是 non-commercial 条款，不能用。
+     垂类覆盖：科学（主）、艺术设计（可视化）；
+   - USGS（2026-10-15 接入）：`usgs_search_listing()` 取视频页，再用 `usgs_video_info(page)` 拿 S3 直链；
+     **逐条核对视频页的 Sources/Usage**：必须含 Public Domain 且无第三方/copyright/授权音乐字样，
+     否则弃用；列表不按时间排序，逐条看页核对日期（3 年门槛）。
+     垂类覆盖：科学（地质/火山/野生动物）、无人系统（航拍）；
+   - NOAA 海洋探索（2026-10-15 接入）：`noaa_multimedia_search()` 取图库视频页（`?pg=N` 翻页，最新优先），
+     `noaa_video_info(page)` 拿站内直链 mp4（优先 1280x720）；
+     **只用 oceanexplorer.noaa.gov 站内页**（门户级公有领域政策），站外 NOAA 视频多含第三方素材；
+     日期取页面的 datePublished，取不到的按"无法核实"弃用。
+     垂类覆盖：科学（海洋）、无人系统（ROV）；
+   - NPS 国家公园（2026-10-16 接入，备选转正）：`nps_park_videos(park_code)` 轮询 12 个主要国家公园
+    （yell/yose/grca/zion/olym/acad/dena/glac/arch/brca/romo/grte）的 videos.htm 落地页，
+     取 VideoObject 结构化数据（标题/上传日期/视频页地址），再用 `nps_video_info(page)` 拿 720p 直链；
+     **逐条核对视频页的 Credit**：含 ©/copyright 字样的一律弃用；NPS 系署名且无 © 的为公有领域；
+     判不明的标 NEEDS-REVIEW，由 worker 看页裁决，不许猜。
+     日期取落地页的 uploadDate（video 页的 Date Created 交叉核对），3 年门槛。
+     注意：NPS 无官方 JSON 接口，站点搜索已不可用，只用分园 videos.htm 落地页做发现。
+     垂类覆盖：国家公园旅行/户外（主）、纯自然风景/野生动物。
    Pexels/Pixabay/Mixkit 的直链被 Cloudflare 挡，**不要用**。
+   YouTube 也不做来源（2026-10-15 试验结论：CC 标注虽可靠，但无稳定直链、服务器 IP 被反爬拦截、
+   且平台条款禁止第三方批量下载）。
 3. 版权红线：只收 Public domain / CC BY / CC BY-SA（用 `license_ok()` 初筛，再看文件页确认）。
    影视正片切片、游戏实机、职业赛事画面一律不要。
 4. 去重：download_url 已在 items.json 中则跳过。
@@ -52,14 +99,16 @@
    再写中文总结（内容总结 / 内容类型 / 对应社群 / 许可证与署名要求 / Reels 角度 / 热点挂钩）。
 6. 合同字段自检（2026-10-13 起固定步骤，入库并重建 feed 后、上传前必做）：对本轮新入库条目逐条核对
    CONTRACT.md 必填字段——`_footage_type`、`_event_date`、`_filmed_date`（不确定可空，但不能标 unknown 了事）、
-   `_original_upload_date`；超 60 秒的必须有数值型 `_recommended_segment`；超 128 MiB 的必须已换小文件/自剪成品；
-   CC 条目必须有 author/source_url/license_url，PD 条目必须有 source_url；分类名必须在 16 个约定名称之内；
+   `_original_upload_date`；超 60 秒的必须有数值型 `_recommended_segment`，且**必须为交付文件自身坐标**（`0<=start<end<=duration_s`，自剪成品短片即自身坐标，禁止填母片坐标；整段交付填 `[0, duration]`）；超 128 MiB 的必须已换小文件/自剪成品；
+   CC 条目必须有 author/source_url/license_url，PD 条目必须有 source_url；分类名必须在 20 个约定名称之内；
    许可证名统一为 `Public domain`。缺失的按来源站原文查证补齐，补齐后 bump version 并在 changelog 记 modified。
    自检通过后再上传。
 
 ## 分类字典（2026-10-13 起严格执行，不许自创）
 
-内容类型只能用以下 16 个约定名称：影视/文化、科技/航天科普、科技/安全教育、科技/财经科普、体育/历史、科技/无人机、科技/教育、文化/手工、游戏/生活方式、财经/科普、科技/创客、科技/航天、科技/新闻、体育/建筑、文化/艺术、游戏/怀旧文化。
+内容类型只能用以下 20 个约定名称：影视/文化、科技/航天科普、科技/安全教育、科技/财经科普、体育/历史、科技/无人机、科技/教育、文化/手工、游戏/生活方式、财经/科普、科技/创客、科技/航天、科技/新闻、体育/建筑、文化/艺术、游戏/怀旧文化、自然/风光、自然/海洋生物、旅行/户外、军事/装备。
+
+（2026-10-16 新增后 4 个，对应新垂类：自然/风光←纯自然风景/野生动物、自然/海洋生物←海洋生物/深海、旅行/户外←国家公园旅行/户外、军事/装备←军事航空装备。）
 
 注意：普通 AI 公司新闻不能仅因公司涉及技术就归入财经/科普类。
 
@@ -81,7 +130,7 @@
 - `_event_date`：事件日期（YYYY-MM-DD 或 YYYY），不确定可空，不许编。
 - `_original_upload_date`：去来源站核实的原始上传日期（Commons 文件页 / archive.org metadata / NASA date_created）。
 - `_valid_until`：有效期，空表示长期有效。
-- `_recommended_segment`：超 60 秒的素材必须看片后给 15–60 秒精华窗口（数值型起止秒）。
+- `_recommended_segment`：超 60 秒的素材必须看片后给 15–60 秒精华窗口（数值型起止秒，**交付文件自身坐标**；若交付文件已是自剪成品短片，区间指成品自身，整段交付填 `[0, duration]`）。
 - 母带超 128 MiB：必须另给小文件或自剪 15–60 秒 720p 成品放仓库 `clips/`（主下载指向成品，`_master_url` 保留母带）。
 
 ## 上传（2026-10-12 起：git 自动推送）
