@@ -1,7 +1,7 @@
 {
  "date": "2026-10-17",
  "timezone": "Asia/Shanghai",
- "stats_until": "2026-10-17T22:06:59+08:00",
+ "stats_until": "2026-10-17T22:10:29+08:00",
  "last_event_seq": 213,
  "category_basis": "LATEST_AT_STATS_UNTIL",
  "update_completed": true,
@@ -9,7 +9,7 @@
  "pending_review_note": "上游无审核环节（采集→验货→入库），pending_review恒为0",
  "opening_inventory": 26,
  "closing_inventory": 37,
- "total_events_today": 12,
+ "total_events_today": 23,
  "note": "added：仅新素材ID首次入库（changelog中type=added事件，每个ID仅一次）；已有ID的字段补录、分类修正等记modified，不计入added。事件按occurred_at归属自然日（Asia/Shanghai）；modified按本日发生该变化的素材身份去重；同一素材多类变化在各列分别计数，不可直接相加；测试条目（is_test）不计入；last_event_seq为构建本日报所用完整changelog的最大序号（含测试事件，空历史为0）；分类归属口径见category_basis",
  "categories": {
   "影视/文化": {
@@ -34,7 +34,7 @@
    "valid": 4,
    "pending_review": 0,
    "added": 1,
-   "modified": 0,
+   "modified": 2,
    "retracted": 0,
    "expired": 0,
    "restored": 0
@@ -70,7 +70,7 @@
    "valid": 2,
    "pending_review": 0,
    "added": 1,
-   "modified": 0,
+   "modified": 2,
    "retracted": 0,
    "expired": 0,
    "restored": 0
@@ -88,7 +88,7 @@
    "valid": 3,
    "pending_review": 0,
    "added": 1,
-   "modified": 0,
+   "modified": 1,
    "retracted": 0,
    "expired": 0,
    "restored": 0
@@ -97,7 +97,7 @@
    "valid": 2,
    "pending_review": 0,
    "added": 1,
-   "modified": 0,
+   "modified": 1,
    "retracted": 0,
    "expired": 0,
    "restored": 0
@@ -115,7 +115,7 @@
    "valid": 5,
    "pending_review": 0,
    "added": 1,
-   "modified": 0,
+   "modified": 2,
    "retracted": 0,
    "expired": 0,
    "restored": 0
@@ -124,7 +124,7 @@
    "valid": 3,
    "pending_review": 0,
    "added": 1,
-   "modified": 0,
+   "modified": 1,
    "retracted": 0,
    "expired": 0,
    "restored": 0
@@ -142,7 +142,7 @@
    "valid": 1,
    "pending_review": 0,
    "added": 1,
-   "modified": 0,
+   "modified": 1,
    "retracted": 0,
    "expired": 0,
    "restored": 0
@@ -160,7 +160,7 @@
    "valid": 1,
    "pending_review": 0,
    "added": 1,
-   "modified": 0,
+   "modified": 1,
    "retracted": 0,
    "expired": 0,
    "restored": 0
