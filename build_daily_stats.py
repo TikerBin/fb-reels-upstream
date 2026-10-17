@@ -29,7 +29,8 @@ SH = timezone(timedelta(hours=8))
 
 CATS = ["影视/文化", "科技/航天科普", "科技/安全教育", "科技/财经科普", "体育/历史", "科技/无人机",
         "科技/教育", "文化/手工", "游戏/生活方式", "财经/科普", "科技/创客", "科技/航天",
-        "科技/新闻", "体育/建筑", "文化/艺术", "游戏/怀旧文化"]
+        "科技/新闻", "体育/建筑", "文化/艺术", "游戏/怀旧文化",
+        "自然/风光", "自然/海洋生物", "旅行/户外", "军事/装备"]
 
 UNIFIED_NOTE = ("added：仅新素材ID首次入库（changelog中type=added事件，每个ID仅一次）；"
                 "已有ID的字段补录、分类修正等记modified，不计入added。"
@@ -90,10 +91,13 @@ def build(data_dir, day, now):
         stats_until = end.isoformat(timespec="seconds")
     cutoff_open = start
 
-    # Day's events (tz-aware window), test-aware exclusion
+    # Day's events: full ledger up to last_event_seq, filtered by Asia/Shanghai
+    # natural day of occurred_at ONLY. Per contract ch.8, events are NOT excluded
+    # for having a future occurred_at (production clock errors are audited via
+    # separate correction events, never by rewriting history or by dropping them
+    # from the count). Test-aware exclusion still applies.
     day_evs = [e for e in events
-               if start <= parse_ts(e["occurred_at"]) < end
-               and parse_ts(e["occurred_at"]) <= now]
+               if start <= parse_ts(e["occurred_at"]) < end]
     real_evs = [e for e in day_evs if not is_test_event(e, by_id)]
 
     by_type = defaultdict(list)
