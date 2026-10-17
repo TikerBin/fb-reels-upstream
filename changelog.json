@@ -1,2584 +1,2694 @@
 {
- "updated_at": "2026-10-16T19:04:46+08:00",
- "event_count": 190,
- "next_seq": 191,
- "events": [
-  {
-   "event_id": "evt-20261013-0001",
-   "seq": 1,
-   "item_id": "b1-sport-stadium",
-   "version": 1,
-   "type": "added",
-   "status": "active",
-   "occurred_at": "2026-10-10T09:40:00+08:00",
-   "reason": "初始入库"
-  },
-  {
-   "event_id": "evt-20261013-0002",
-   "seq": 2,
-   "item_id": "b1-art-painting",
-   "version": 1,
-   "type": "added",
-   "status": "active",
-   "occurred_at": "2026-10-10T09:50:00+08:00",
-   "reason": "初始入库"
-  },
-  {
-   "event_id": "evt-20261013-0003",
-   "seq": 3,
-   "item_id": "b1-drone-ingenuity",
-   "version": 1,
-   "type": "added",
-   "status": "active",
-   "occurred_at": "2026-10-10T10:00:00+08:00",
-   "reason": "初始入库"
-  },
-  {
-   "event_id": "evt-20261013-0004",
-   "seq": 4,
-   "item_id": "b1-sec-voa",
-   "version": 1,
-   "type": "added",
-   "status": "active",
-   "occurred_at": "2026-10-10T10:10:00+08:00",
-   "reason": "初始入库"
-  },
-  {
-   "event_id": "evt-20261013-0005",
-   "seq": 5,
-   "item_id": "b1-sci-perseverance",
-   "version": 1,
-   "type": "added",
-   "status": "active",
-   "occurred_at": "2026-10-10T10:20:00+08:00",
-   "reason": "初始入库"
-  },
-  {
-   "event_id": "evt-20261013-0006",
-   "seq": 6,
-   "item_id": "b1-crypto-btc",
-   "version": 1,
-   "type": "added",
-   "status": "active",
-   "occurred_at": "2026-10-10T10:30:00+08:00",
-   "reason": "初始入库"
-  },
-  {
-   "event_id": "evt-20261013-0007",
-   "seq": 7,
-   "item_id": "b1-game-room",
-   "version": 1,
-   "type": "added",
-   "status": "active",
-   "occurred_at": "2026-10-10T10:40:00+08:00",
-   "reason": "初始入库"
-  },
-  {
-   "event_id": "evt-20261013-0008",
-   "seq": 8,
-   "item_id": "b1-ai-arm",
-   "version": 1,
-   "type": "added",
-   "status": "active",
-   "occurred_at": "2026-10-10T10:50:00+08:00",
-   "reason": "初始入库"
-  },
-  {
-   "event_id": "evt-20261013-0009",
-   "seq": 9,
-   "item_id": "b1-film-duck",
-   "version": 1,
-   "type": "added",
-   "status": "active",
-   "occurred_at": "2026-10-10T11:00:00+08:00",
-   "reason": "初始入库"
-  },
-  {
-   "event_id": "evt-20261013-0010",
-   "seq": 10,
-   "item_id": "b2-game-arcade",
-   "version": 1,
-   "type": "added",
-   "status": "active",
-   "occurred_at": "2026-10-10T14:30:00+08:00",
-   "reason": "初始入库"
-  },
-  {
-   "event_id": "evt-20261013-0011",
-   "seq": 11,
-   "item_id": "b2-news-euro",
-   "version": 1,
-   "type": "added",
-   "status": "active",
-   "occurred_at": "2026-10-10T14:40:00+08:00",
-   "reason": "初始入库"
-  },
-  {
-   "event_id": "evt-20261013-0012",
-   "seq": 12,
-   "item_id": "b2-art-pumpkin",
-   "version": 1,
-   "type": "added",
-   "status": "active",
-   "occurred_at": "2026-10-10T14:50:00+08:00",
-   "reason": "初始入库"
-  },
-  {
-   "event_id": "evt-20261013-0013",
-   "seq": 13,
-   "item_id": "b2-ai-robot",
-   "version": 1,
-   "type": "added",
-   "status": "active",
-   "occurred_at": "2026-10-10T15:00:00+08:00",
-   "reason": "初始入库"
-  },
-  {
-   "event_id": "evt-20261013-0014",
-   "seq": 14,
-   "item_id": "b2-drone-blm",
-   "version": 1,
-   "type": "added",
-   "status": "active",
-   "occurred_at": "2026-10-10T15:10:00+08:00",
-   "reason": "初始入库"
-  },
-  {
-   "event_id": "evt-20261013-0015",
-   "seq": 15,
-   "item_id": "b2-sport-ws1959",
-   "version": 1,
-   "type": "added",
-   "status": "active",
-   "occurred_at": "2026-10-10T15:20:00+08:00",
-   "reason": "初始入库"
-  },
-  {
-   "event_id": "evt-20261013-0016",
-   "seq": 16,
-   "item_id": "b2-crypto-ebsi",
-   "version": 1,
-   "type": "added",
-   "status": "active",
-   "occurred_at": "2026-10-10T15:30:00+08:00",
-   "reason": "初始入库"
-  },
-  {
-   "event_id": "evt-20261013-0017",
-   "seq": 17,
-   "item_id": "b2-sec-voiceclone",
-   "version": 1,
-   "type": "added",
-   "status": "active",
-   "occurred_at": "2026-10-10T15:40:00+08:00",
-   "reason": "初始入库"
-  },
-  {
-   "event_id": "evt-20261013-0018",
-   "seq": 18,
-   "item_id": "b2-sci-snoopy",
-   "version": 1,
-   "type": "added",
-   "status": "active",
-   "occurred_at": "2026-10-10T15:50:00+08:00",
-   "reason": "初始入库"
-  },
-  {
-   "event_id": "evt-20261013-0019",
-   "seq": 19,
-   "item_id": "b2-film-notld",
-   "version": 1,
-   "type": "added",
-   "status": "active",
-   "occurred_at": "2026-10-10T16:00:00+08:00",
-   "reason": "初始入库"
-  },
-  {
-   "event_id": "evt-20261013-0020",
-   "seq": 20,
-   "item_id": "c1-satyarthi-nobel",
-   "version": 1,
-   "type": "added",
-   "status": "active",
-   "occurred_at": "2026-10-11T15:20:00+08:00",
-   "reason": "初始入库"
-  },
-  {
-   "event_id": "evt-20261013-0021",
-   "seq": 21,
-   "item_id": "c1-romanians-vote-queue",
-   "version": 1,
-   "type": "added",
-   "status": "active",
-   "occurred_at": "2026-10-11T15:30:00+08:00",
-   "reason": "初始入库"
-  },
-  {
-   "event_id": "evt-20261013-0022",
-   "seq": 22,
-   "item_id": "c1-aerial-firefighting",
-   "version": 1,
-   "type": "added",
-   "status": "active",
-   "occurred_at": "2026-10-11T15:40:00+08:00",
-   "reason": "初始入库"
-  },
-  {
-   "event_id": "evt-20261013-0023",
-   "seq": 23,
-   "item_id": "c1-scam-watch-ftc",
-   "version": 1,
-   "type": "added",
-   "status": "active",
-   "occurred_at": "2026-10-11T15:50:00+08:00",
-   "reason": "初始入库"
-  },
-  {
-   "event_id": "evt-20261013-0024",
-   "seq": 24,
-   "item_id": "c1-hurricane-maria-sat",
-   "version": 1,
-   "type": "added",
-   "status": "active",
-   "occurred_at": "2026-10-11T16:00:00+08:00",
-   "reason": "初始入库"
-  },
-  {
-   "event_id": "evt-20261013-0025",
-   "seq": 25,
-   "item_id": "c2-oakland-oaks-1918",
-   "version": 1,
-   "type": "added",
-   "status": "active",
-   "occurred_at": "2026-10-12T15:30:00+08:00",
-   "reason": "初始入库"
-  },
-  {
-   "event_id": "evt-20261013-0026",
-   "seq": 26,
-   "item_id": "c2-archive-scan-robot",
-   "version": 1,
-   "type": "added",
-   "status": "active",
-   "occurred_at": "2026-10-12T15:40:00+08:00",
-   "reason": "初始入库"
-  },
-  {
-   "event_id": "evt-20261013-0027",
-   "seq": 27,
-   "item_id": "c2-x45a-ucav-demo",
-   "version": 1,
-   "type": "added",
-   "status": "active",
-   "occurred_at": "2026-10-12T15:50:00+08:00",
-   "reason": "初始入库"
-  },
-  {
-   "event_id": "evt-20261013-0028",
-   "seq": 28,
-   "item_id": "c2-sdo-x54-flare",
-   "version": 1,
-   "type": "added",
-   "status": "active",
-   "occurred_at": "2026-10-12T16:00:00+08:00",
-   "reason": "初始入库"
-  },
-  {
-   "event_id": "evt-20261013-0029",
-   "seq": 29,
-   "item_id": "wh-trump-accounts-5000",
-   "version": 1,
-   "type": "added",
-   "status": "active",
-   "occurred_at": "2026-10-13T08:51:35+08:00",
-   "reason": "初始入库"
-  },
-  {
-   "event_id": "evt-20261013-0030",
-   "seq": 30,
-   "item_id": "ai-pelkey-impact-statement",
-   "version": 1,
-   "type": "added",
-   "status": "active",
-   "occurred_at": "2026-10-13T08:51:35+08:00",
-   "reason": "初始入库"
-  },
-  {
-   "event_id": "evt-20261013-0031",
-   "seq": 31,
-   "item_id": "drone-spain-eclipse-2026",
-   "version": 1,
-   "type": "added",
-   "status": "active",
-   "occurred_at": "2026-10-13T08:51:35+08:00",
-   "reason": "初始入库"
-  },
-  {
-   "event_id": "evt-20261013-0032",
-   "seq": 32,
-   "item_id": "nasa-apophis-flyby-vertical",
-   "version": 1,
-   "type": "added",
-   "status": "active",
-   "occurred_at": "2026-10-13T08:51:35+08:00",
-   "reason": "初始入库"
-  },
-  {
-   "event_id": "evt-20261013-0033",
-   "seq": 33,
-   "item_id": "arcade-gov-flappy",
-   "version": 1,
-   "type": "added",
-   "status": "active",
-   "occurred_at": "2026-10-13T08:51:35+08:00",
-   "reason": "初始入库"
-  },
-  {
-   "event_id": "evt-20261013-0034",
-   "seq": 34,
-   "item_id": "texas-tn-football-game",
-   "version": 1,
-   "type": "added",
-   "status": "active",
-   "occurred_at": "2026-10-13T08:51:35+08:00",
-   "reason": "初始入库"
-  },
-  {
-   "event_id": "evt-20261013-0035",
-   "seq": 35,
-   "item_id": "wh-trump-accounts-5000",
-   "version": 2,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-13T21:23:56+08:00",
-   "reason": "分类修正为约定名称",
-   "changed_fields": [
-    "category"
-   ]
-  },
-  {
-   "event_id": "evt-20261013-0036",
-   "seq": 36,
-   "item_id": "ai-pelkey-impact-statement",
-   "version": 2,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-13T21:23:56+08:00",
-   "reason": "分类修正为约定名称",
-   "changed_fields": [
-    "category"
-   ]
-  },
-  {
-   "event_id": "evt-20261013-0037",
-   "seq": 37,
-   "item_id": "drone-spain-eclipse-2026",
-   "version": 2,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-13T21:23:56+08:00",
-   "reason": "分类修正为约定名称",
-   "changed_fields": [
-    "category"
-   ]
-  },
-  {
-   "event_id": "evt-20261013-0038",
-   "seq": 38,
-   "item_id": "nasa-apophis-flyby-vertical",
-   "version": 2,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-13T21:23:56+08:00",
-   "reason": "分类修正为约定名称",
-   "changed_fields": [
-    "category"
-   ]
-  },
-  {
-   "event_id": "evt-20261013-0039",
-   "seq": 39,
-   "item_id": "arcade-gov-flappy",
-   "version": 2,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-13T21:23:56+08:00",
-   "reason": "分类修正为约定名称",
-   "changed_fields": [
-    "category"
-   ]
-  },
-  {
-   "event_id": "evt-20261013-0040",
-   "seq": 40,
-   "item_id": "texas-tn-football-game",
-   "version": 2,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-13T21:23:56+08:00",
-   "reason": "分类修正为约定名称",
-   "changed_fields": [
-    "category"
-   ]
-  },
-  {
-   "event_id": "evt-20261013-0041",
-   "seq": 41,
-   "item_id": "c2-sdo-x54-flare",
-   "version": 2,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-13T21:23:56+08:00",
-   "reason": "分类修正为约定名称；补齐原始来源地址",
-   "changed_fields": [
-    "category",
-    "source_url"
-   ]
-  },
-  {
-   "event_id": "evt-20261013-0042",
-   "seq": 42,
-   "item_id": "c2-x45a-ucav-demo",
-   "version": 2,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-13T21:23:56+08:00",
-   "reason": "分类修正为约定名称；补齐原始来源地址",
-   "changed_fields": [
-    "category",
-    "source_url"
-   ]
-  },
-  {
-   "event_id": "evt-20261013-0043",
-   "seq": 43,
-   "item_id": "c2-archive-scan-robot",
-   "version": 2,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-13T21:23:56+08:00",
-   "reason": "分类修正为约定名称；补齐原始来源地址",
-   "changed_fields": [
-    "category",
-    "source_url"
-   ]
-  },
-  {
-   "event_id": "evt-20261013-0044",
-   "seq": 44,
-   "item_id": "c2-oakland-oaks-1918",
-   "version": 2,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-13T21:23:56+08:00",
-   "reason": "补齐原始来源地址",
-   "changed_fields": [
-    "source_url"
-   ]
-  },
-  {
-   "event_id": "evt-20261013-0045",
-   "seq": 45,
-   "item_id": "c1-hurricane-maria-sat",
-   "version": 2,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-13T21:23:56+08:00",
-   "reason": "分类修正为约定名称；补齐原始来源地址",
-   "changed_fields": [
-    "category",
-    "source_url"
-   ]
-  },
-  {
-   "event_id": "evt-20261013-0046",
-   "seq": 46,
-   "item_id": "c1-scam-watch-ftc",
-   "version": 2,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-13T21:23:56+08:00",
-   "reason": "分类修正为约定名称；补齐原始来源地址",
-   "changed_fields": [
-    "category",
-    "source_url"
-   ]
-  },
-  {
-   "event_id": "evt-20261013-0047",
-   "seq": 47,
-   "item_id": "c1-aerial-firefighting",
-   "version": 2,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-13T21:23:56+08:00",
-   "reason": "分类修正为约定名称；补齐原始来源地址；补齐作者与原始来源地址",
-   "changed_fields": [
-    "category",
-    "source_url",
-    "author"
-   ]
-  },
-  {
-   "event_id": "evt-20261013-0048",
-   "seq": 48,
-   "item_id": "c1-romanians-vote-queue",
-   "version": 2,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-13T21:23:56+08:00",
-   "reason": "分类修正为约定名称；补齐原始来源地址；补齐作者与原始来源地址",
-   "changed_fields": [
-    "category",
-    "source_url",
-    "author"
-   ]
-  },
-  {
-   "event_id": "evt-20261013-0049",
-   "seq": 49,
-   "item_id": "c1-satyarthi-nobel",
-   "version": 2,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-13T21:23:56+08:00",
-   "reason": "分类修正为约定名称；补齐原始来源地址",
-   "changed_fields": [
-    "category",
-    "source_url"
-   ]
-  },
-  {
-   "event_id": "evt-20261013-0050",
-   "seq": 50,
-   "item_id": "b2-film-notld",
-   "version": 2,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-13T21:23:56+08:00",
-   "reason": "补齐原始来源地址",
-   "changed_fields": [
-    "source_url"
-   ]
-  },
-  {
-   "event_id": "evt-20261013-0051",
-   "seq": 51,
-   "item_id": "b2-sci-snoopy",
-   "version": 2,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-13T21:23:56+08:00",
-   "reason": "许可证名称统一为Public domain；补齐原始来源地址",
-   "changed_fields": [
-    "license",
-    "source_url"
-   ]
-  },
-  {
-   "event_id": "evt-20261013-0052",
-   "seq": 52,
-   "item_id": "b2-sport-ws1959",
-   "version": 2,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-13T21:23:56+08:00",
-   "reason": "补齐原始来源地址",
-   "changed_fields": [
-    "source_url"
-   ]
-  },
-  {
-   "event_id": "evt-20261013-0053",
-   "seq": 53,
-   "item_id": "b2-drone-blm",
-   "version": 2,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-13T21:23:56+08:00",
-   "reason": "补齐原始来源地址",
-   "changed_fields": [
-    "source_url"
-   ]
-  },
-  {
-   "event_id": "evt-20261013-0054",
-   "seq": 54,
-   "item_id": "b1-film-duck",
-   "version": 2,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-13T21:23:56+08:00",
-   "reason": "补齐原始来源地址",
-   "changed_fields": [
-    "source_url"
-   ]
-  },
-  {
-   "event_id": "evt-20261013-0055",
-   "seq": 55,
-   "item_id": "b1-sci-perseverance",
-   "version": 2,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-13T21:23:56+08:00",
-   "reason": "许可证名称统一为Public domain；补齐原始来源地址",
-   "changed_fields": [
-    "license",
-    "source_url"
-   ]
-  },
-  {
-   "event_id": "evt-20261013-0056",
-   "seq": 56,
-   "item_id": "b1-sec-voa",
-   "version": 2,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-13T21:23:56+08:00",
-   "reason": "许可证名称统一为Public domain；补齐原始来源地址",
-   "changed_fields": [
-    "license",
-    "source_url"
-   ]
-  },
-  {
-   "event_id": "evt-20261013-0057",
-   "seq": 57,
-   "item_id": "b1-drone-ingenuity",
-   "version": 2,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-13T21:23:56+08:00",
-   "reason": "许可证名称统一为Public domain；补齐原始来源地址",
-   "changed_fields": [
-    "license",
-    "source_url"
-   ]
-  },
-  {
-   "event_id": "evt-20261013-0058",
-   "seq": 58,
-   "item_id": "b1-drone-ingenuity",
-   "version": 3,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-13T21:38:01+08:00",
-   "reason": "921MB母带超128MB上限，改交60秒720p成品（7MB）；影像类型标注为混合（仿真+实拍+动画+采访）",
-   "changed_fields": [
-    "download_url",
-    "summary_cn",
-    "reels_angle"
-   ]
-  },
-  {
-   "event_id": "evt-20261013-0059",
-   "seq": 59,
-   "item_id": "ai-pelkey-impact-statement",
-   "version": 3,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-13T22:32:15+08:00",
-   "reason": "回填影像类型/事件日期/拍摄日期/原始上传日期；增加精华截取建议（看片精选）",
-   "changed_fields": [
-    "structured_fields",
-    "_recommended_segment"
-   ]
-  },
-  {
-   "event_id": "evt-20261013-0060",
-   "seq": 60,
-   "item_id": "arcade-gov-flappy",
-   "version": 3,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-13T22:32:15+08:00",
-   "reason": "回填影像类型/事件日期/拍摄日期/原始上传日期",
-   "changed_fields": [
-    "structured_fields"
-   ]
-  },
-  {
-   "event_id": "evt-20261013-0061",
-   "seq": 61,
-   "item_id": "b1-ai-arm",
-   "version": 2,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-13T22:32:15+08:00",
-   "reason": "回填影像类型/事件日期/拍摄日期/原始上传日期",
-   "changed_fields": [
-    "structured_fields"
-   ]
-  },
-  {
-   "event_id": "evt-20261013-0062",
-   "seq": 62,
-   "item_id": "b1-art-painting",
-   "version": 2,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-13T22:32:15+08:00",
-   "reason": "回填影像类型/事件日期/拍摄日期/原始上传日期；增加精华截取建议（看片精选）",
-   "changed_fields": [
-    "structured_fields",
-    "_recommended_segment"
-   ]
-  },
-  {
-   "event_id": "evt-20261013-0063",
-   "seq": 63,
-   "item_id": "b1-crypto-btc",
-   "version": 2,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-13T22:32:15+08:00",
-   "reason": "回填影像类型/事件日期/拍摄日期/原始上传日期；增加精华截取建议（看片精选）",
-   "changed_fields": [
-    "structured_fields",
-    "_recommended_segment"
-   ]
-  },
-  {
-   "event_id": "evt-20261013-0064",
-   "seq": 64,
-   "item_id": "b1-drone-ingenuity",
-   "version": 4,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-13T22:32:15+08:00",
-   "reason": "回填影像类型/事件日期/拍摄日期/原始上传日期",
-   "changed_fields": [
-    "structured_fields"
-   ]
-  },
-  {
-   "event_id": "evt-20261013-0065",
-   "seq": 65,
-   "item_id": "b1-film-duck",
-   "version": 3,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-13T22:32:15+08:00",
-   "reason": "回填影像类型/事件日期/拍摄日期/原始上传日期；增加精华截取建议（看片精选）",
-   "changed_fields": [
-    "structured_fields",
-    "_recommended_segment"
-   ]
-  },
-  {
-   "event_id": "evt-20261013-0066",
-   "seq": 66,
-   "item_id": "b1-game-room",
-   "version": 2,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-13T22:32:15+08:00",
-   "reason": "回填影像类型/事件日期/拍摄日期/原始上传日期；增加精华截取建议（看片精选）",
-   "changed_fields": [
-    "structured_fields",
-    "_recommended_segment"
-   ]
-  },
-  {
-   "event_id": "evt-20261013-0067",
-   "seq": 67,
-   "item_id": "b1-sci-perseverance",
-   "version": 3,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-13T22:32:15+08:00",
-   "reason": "回填影像类型/事件日期/拍摄日期/原始上传日期；增加精华截取建议（看片精选）",
-   "changed_fields": [
-    "structured_fields",
-    "_recommended_segment"
-   ]
-  },
-  {
-   "event_id": "evt-20261013-0068",
-   "seq": 68,
-   "item_id": "b1-sec-voa",
-   "version": 3,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-13T22:32:15+08:00",
-   "reason": "回填影像类型/事件日期/拍摄日期/原始上传日期",
-   "changed_fields": [
-    "structured_fields"
-   ]
-  },
-  {
-   "event_id": "evt-20261013-0069",
-   "seq": 69,
-   "item_id": "b1-sport-stadium",
-   "version": 2,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-13T22:32:15+08:00",
-   "reason": "回填影像类型/事件日期/拍摄日期/原始上传日期；增加精华截取建议（看片精选）",
-   "changed_fields": [
-    "structured_fields",
-    "_recommended_segment"
-   ]
-  },
-  {
-   "event_id": "evt-20261013-0070",
-   "seq": 70,
-   "item_id": "b2-ai-robot",
-   "version": 2,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-13T22:32:15+08:00",
-   "reason": "回填影像类型/事件日期/拍摄日期/原始上传日期",
-   "changed_fields": [
-    "structured_fields"
-   ]
-  },
-  {
-   "event_id": "evt-20261013-0071",
-   "seq": 71,
-   "item_id": "b2-art-pumpkin",
-   "version": 2,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-13T22:32:15+08:00",
-   "reason": "回填影像类型/事件日期/拍摄日期/原始上传日期；增加精华截取建议（看片精选）",
-   "changed_fields": [
-    "structured_fields",
-    "_recommended_segment"
-   ]
-  },
-  {
-   "event_id": "evt-20261013-0072",
-   "seq": 72,
-   "item_id": "b2-crypto-ebsi",
-   "version": 2,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-13T22:32:15+08:00",
-   "reason": "回填影像类型/事件日期/拍摄日期/原始上传日期；增加精华截取建议（看片精选）",
-   "changed_fields": [
-    "structured_fields",
-    "_recommended_segment"
-   ]
-  },
-  {
-   "event_id": "evt-20261013-0073",
-   "seq": 73,
-   "item_id": "b2-drone-blm",
-   "version": 3,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-13T22:32:15+08:00",
-   "reason": "回填影像类型/事件日期/拍摄日期/原始上传日期",
-   "changed_fields": [
-    "structured_fields"
-   ]
-  },
-  {
-   "event_id": "evt-20261013-0074",
-   "seq": 74,
-   "item_id": "b2-film-notld",
-   "version": 3,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-13T22:32:15+08:00",
-   "reason": "回填影像类型/事件日期/拍摄日期/原始上传日期；增加精华截取建议（看片精选）",
-   "changed_fields": [
-    "structured_fields",
-    "_recommended_segment"
-   ]
-  },
-  {
-   "event_id": "evt-20261013-0075",
-   "seq": 75,
-   "item_id": "b2-game-arcade",
-   "version": 2,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-13T22:32:15+08:00",
-   "reason": "回填影像类型/事件日期/拍摄日期/原始上传日期；增加精华截取建议（看片精选）",
-   "changed_fields": [
-    "structured_fields",
-    "_recommended_segment"
-   ]
-  },
-  {
-   "event_id": "evt-20261013-0076",
-   "seq": 76,
-   "item_id": "b2-news-euro",
-   "version": 2,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-13T22:32:15+08:00",
-   "reason": "回填影像类型/事件日期/拍摄日期/原始上传日期；增加精华截取建议（看片精选）",
-   "changed_fields": [
-    "structured_fields",
-    "_recommended_segment"
-   ]
-  },
-  {
-   "event_id": "evt-20261013-0077",
-   "seq": 77,
-   "item_id": "b2-sci-snoopy",
-   "version": 3,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-13T22:32:15+08:00",
-   "reason": "回填影像类型/事件日期/拍摄日期/原始上传日期；增加精华截取建议（看片精选）",
-   "changed_fields": [
-    "structured_fields",
-    "_recommended_segment"
-   ]
-  },
-  {
-   "event_id": "evt-20261013-0078",
-   "seq": 78,
-   "item_id": "b2-sec-voiceclone",
-   "version": 2,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-13T22:32:15+08:00",
-   "reason": "回填影像类型/事件日期/拍摄日期/原始上传日期；增加精华截取建议（看片精选）",
-   "changed_fields": [
-    "structured_fields",
-    "_recommended_segment"
-   ]
-  },
-  {
-   "event_id": "evt-20261013-0079",
-   "seq": 79,
-   "item_id": "b2-sport-ws1959",
-   "version": 3,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-13T22:32:15+08:00",
-   "reason": "回填影像类型/事件日期/拍摄日期/原始上传日期；增加精华截取建议（看片精选）",
-   "changed_fields": [
-    "structured_fields",
-    "_recommended_segment"
-   ]
-  },
-  {
-   "event_id": "evt-20261013-0080",
-   "seq": 80,
-   "item_id": "c1-aerial-firefighting",
-   "version": 3,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-13T22:32:15+08:00",
-   "reason": "回填影像类型/事件日期/拍摄日期/原始上传日期；增加精华截取建议（看片精选）",
-   "changed_fields": [
-    "structured_fields",
-    "_recommended_segment"
-   ]
-  },
-  {
-   "event_id": "evt-20261013-0081",
-   "seq": 81,
-   "item_id": "c1-hurricane-maria-sat",
-   "version": 3,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-13T22:32:15+08:00",
-   "reason": "回填影像类型/事件日期/拍摄日期/原始上传日期",
-   "changed_fields": [
-    "structured_fields"
-   ]
-  },
-  {
-   "event_id": "evt-20261013-0082",
-   "seq": 82,
-   "item_id": "c1-romanians-vote-queue",
-   "version": 3,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-13T22:32:15+08:00",
-   "reason": "回填影像类型/事件日期/拍摄日期/原始上传日期；增加精华截取建议（看片精选）",
-   "changed_fields": [
-    "structured_fields",
-    "_recommended_segment"
-   ]
-  },
-  {
-   "event_id": "evt-20261013-0083",
-   "seq": 83,
-   "item_id": "c1-satyarthi-nobel",
-   "version": 3,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-13T22:32:15+08:00",
-   "reason": "回填影像类型/事件日期/拍摄日期/原始上传日期；增加精华截取建议（看片精选）",
-   "changed_fields": [
-    "structured_fields",
-    "_recommended_segment"
-   ]
-  },
-  {
-   "event_id": "evt-20261013-0084",
-   "seq": 84,
-   "item_id": "c1-scam-watch-ftc",
-   "version": 3,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-13T22:32:15+08:00",
-   "reason": "回填影像类型/事件日期/拍摄日期/原始上传日期；增加精华截取建议（看片精选）",
-   "changed_fields": [
-    "structured_fields",
-    "_recommended_segment"
-   ]
-  },
-  {
-   "event_id": "evt-20261013-0085",
-   "seq": 85,
-   "item_id": "c2-archive-scan-robot",
-   "version": 3,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-13T22:32:15+08:00",
-   "reason": "回填影像类型/事件日期/拍摄日期/原始上传日期；增加精华截取建议（看片精选）",
-   "changed_fields": [
-    "structured_fields",
-    "_recommended_segment"
-   ]
-  },
-  {
-   "event_id": "evt-20261013-0086",
-   "seq": 86,
-   "item_id": "c2-oakland-oaks-1918",
-   "version": 3,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-13T22:32:15+08:00",
-   "reason": "回填影像类型/事件日期/拍摄日期/原始上传日期；增加精华截取建议（看片精选）",
-   "changed_fields": [
-    "structured_fields",
-    "_recommended_segment"
-   ]
-  },
-  {
-   "event_id": "evt-20261013-0087",
-   "seq": 87,
-   "item_id": "c2-sdo-x54-flare",
-   "version": 3,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-13T22:32:15+08:00",
-   "reason": "回填影像类型/事件日期/拍摄日期/原始上传日期；增加精华截取建议（看片精选）",
-   "changed_fields": [
-    "structured_fields",
-    "_recommended_segment"
-   ]
-  },
-  {
-   "event_id": "evt-20261013-0088",
-   "seq": 88,
-   "item_id": "c2-x45a-ucav-demo",
-   "version": 3,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-13T22:32:15+08:00",
-   "reason": "回填影像类型/事件日期/拍摄日期/原始上传日期；增加精华截取建议（看片精选）",
-   "changed_fields": [
-    "structured_fields",
-    "_recommended_segment"
-   ]
-  },
-  {
-   "event_id": "evt-20261013-0089",
-   "seq": 89,
-   "item_id": "drone-spain-eclipse-2026",
-   "version": 3,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-13T22:32:15+08:00",
-   "reason": "回填影像类型/事件日期/拍摄日期/原始上传日期；增加精华截取建议（看片精选）",
-   "changed_fields": [
-    "structured_fields",
-    "_recommended_segment"
-   ]
-  },
-  {
-   "event_id": "evt-20261013-0090",
-   "seq": 90,
-   "item_id": "nasa-apophis-flyby-vertical",
-   "version": 3,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-13T22:32:15+08:00",
-   "reason": "回填影像类型/事件日期/拍摄日期/原始上传日期",
-   "changed_fields": [
-    "structured_fields"
-   ]
-  },
-  {
-   "event_id": "evt-20261013-0091",
-   "seq": 91,
-   "item_id": "texas-tn-football-game",
-   "version": 3,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-13T22:32:15+08:00",
-   "reason": "回填影像类型/事件日期/拍摄日期/原始上传日期",
-   "changed_fields": [
-    "structured_fields"
-   ]
-  },
-  {
-   "event_id": "evt-20261013-0092",
-   "seq": 92,
-   "item_id": "wh-trump-accounts-5000",
-   "version": 3,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-13T22:32:15+08:00",
-   "reason": "回填影像类型/事件日期/拍摄日期/原始上传日期",
-   "changed_fields": [
-    "structured_fields"
-   ]
-  },
-  {
-   "event_id": "evt-20261014-0093",
-   "seq": 93,
-   "item_id": "ai-pelkey-impact-statement",
-   "version": 4,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-14T03:39:32+08:00",
-   "reason": "补齐事件日期/拍摄日期（回填时未知，现已从Commons文件页核实）: 事件日期2025-05-01取自Commons文件页ImageDescription原文“During the sentencing of the shooter on 5/1/25”；拍摄日期2025-05-05为文件页extmetadata DateTimeOriginal",
-   "changed_fields": [
-    "_event_date",
-    "_filmed_date"
-   ]
-  },
-  {
-   "event_id": "evt-20261014-0094",
-   "seq": 94,
-   "item_id": "texas-tn-football-game",
-   "version": 4,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-14T03:39:32+08:00",
-   "reason": "补齐事件日期/拍摄日期（回填时未知，现已从Commons文件页核实）: 白宫官方视频，文件页分类“Videos taken on 2026-09-27”，extmetadata DateTimeOriginal=2026-09-27，上传同日",
-   "changed_fields": [
-    "_event_date",
-    "_filmed_date"
-   ]
-  },
-  {
-   "event_id": "evt-20261014-0095",
-   "seq": 95,
-   "item_id": "c100-suas-strike-training",
-   "version": 1,
-   "type": "added",
-   "status": "active",
-   "occurred_at": "2026-10-14T08:57:24+08:00",
-   "reason": "每日采集入库：美军C100无人机打击训练实拍（陆军官方）",
-   "changed_fields": null
-  },
-  {
-   "event_id": "evt-20261014-0096",
-   "seq": 96,
-   "item_id": "ai-evolution-humanity-tech",
-   "version": 1,
-   "type": "added",
-   "status": "active",
-   "occurred_at": "2026-10-14T08:57:24+08:00",
-   "reason": "每日采集入库：AI生成短片：人类与科技的演化之旅",
-   "changed_fields": null
-  },
-  {
-   "event_id": "evt-20261014-0097",
-   "seq": 97,
-   "item_id": "nasa-minute-20261010",
-   "version": 1,
-   "type": "added",
-   "status": "active",
-   "occurred_at": "2026-10-14T08:57:24+08:00",
-   "reason": "每日采集入库：NASA一周速览（10月10日）：Artemis II与空间站",
-   "changed_fields": null
-  },
-  {
-   "event_id": "evt-20261014-0098",
-   "seq": 98,
-   "item_id": "fbi-shinyhunters-arrest",
-   "version": 1,
-   "type": "added",
-   "status": "active",
-   "occurred_at": "2026-10-14T08:57:24+08:00",
-   "reason": "每日采集入库：FBI宣布逮捕黑客组织ShinyHunters头目",
-   "changed_fields": null
-  },
-  {
-   "event_id": "evt-20261014-0099",
-   "seq": 99,
-   "item_id": "milk-pinball-ad-70s",
-   "version": 1,
-   "type": "added",
-   "status": "active",
-   "occurred_at": "2026-10-14T08:57:24+08:00",
-   "reason": "每日采集入库：70年代牛奶广告：弹球机复古风",
-   "changed_fields": null
-  },
-  {
-   "event_id": "evt-20261014-0100",
-   "seq": 100,
-   "item_id": "jazz-rhythm-1930",
-   "version": 1,
-   "type": "added",
-   "status": "active",
-   "occurred_at": "2026-10-14T08:57:24+08:00",
-   "reason": "每日采集入库：1930年黑白卡通《Jazz Rhythm》片段",
-   "changed_fields": null
-  },
-  {
-   "event_id": "evt-20261014-0101",
-   "seq": 101,
-   "item_id": "olympiaturm-munich-2024",
-   "version": 1,
-   "type": "added",
-   "status": "active",
-   "occurred_at": "2026-10-14T08:57:24+08:00",
-   "reason": "每日采集入库：慕尼黑奥林匹克塔竖屏短片（291米）",
-   "changed_fields": null
-  },
-  {
-   "event_id": "evt-20261014-0102",
-   "seq": 102,
-   "item_id": "revoy-kynitia-timelapse",
-   "version": 1,
-   "type": "added",
-   "status": "active",
-   "occurred_at": "2026-10-14T08:57:24+08:00",
-   "reason": "每日采集入库：数字绘画延时：David Revoy画《Kynitia》",
-   "changed_fields": null
-  },
-  {
-   "event_id": "evt-20261014-0103",
-   "seq": 103,
-   "item_id": "ineq-america-billionaires",
-   "version": 1,
-   "type": "added",
-   "status": "active",
-   "occurred_at": "2026-10-14T08:57:24+08:00",
-   "reason": "每日采集入库：美国贫富差距动画：亿万富翁的税率",
-   "changed_fields": null
-  },
-  {
-   "event_id": "evt-20261014-0104",
-   "seq": 104,
-   "item_id": "test-retraction-01",
-   "version": 1,
-   "type": "added",
-   "status": "active",
-   "occurred_at": "2026-10-14T10:53:24+08:00",
-   "reason": "联调测试：撤回流程验证专用素材入库（is_test=true，不用于正式发布）",
-   "changed_fields": null,
-   "is_test": true
-  },
-  {
-   "event_id": "evt-20261014-0105",
-   "seq": 105,
-   "item_id": "test-retraction-01",
-   "version": 2,
-   "type": "retracted",
-   "status": "retracted",
-   "occurred_at": "2026-10-14T11:14:55+08:00",
-   "reason": "联调测试：执行撤回验证第2步，测试素材撤回（is_test=true，不用于正式发布）",
-   "changed_fields": [
-    "status",
-    "version"
-   ],
-   "is_test": true,
-   "_retracted": {
-    "reason": "联调测试撤回验证",
-    "retracted_at": "2026-10-14T11:14:55+08:00"
-   }
-  },
-  {
-   "event_id": "evt-20261014-0106",
-   "seq": 106,
-   "item_id": "nasa-minute-20261010",
-   "version": 2,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-14T16:38:19+08:00",
-   "reason": "联调修正：_recommended_segment 由数组改为约定的对象格式（秒数不变）",
-   "changed_fields": [
-    "_recommended_segment"
-   ]
-  },
-  {
-   "event_id": "evt-20261014-0107",
-   "seq": 107,
-   "item_id": "fbi-shinyhunters-arrest",
-   "version": 2,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-14T16:38:19+08:00",
-   "reason": "联调修正：_recommended_segment 由数组改为约定的对象格式（秒数不变）",
-   "changed_fields": [
-    "_recommended_segment"
-   ]
-  },
-  {
-   "event_id": "evt-20261014-0108",
-   "seq": 108,
-   "item_id": "jazz-rhythm-1930",
-   "version": 2,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-14T16:38:19+08:00",
-   "reason": "联调修正：_recommended_segment 由数组改为约定的对象格式（秒数不变）",
-   "changed_fields": [
-    "_recommended_segment"
-   ]
-  },
-  {
-   "event_id": "evt-20261014-0109",
-   "seq": 109,
-   "item_id": "revoy-kynitia-timelapse",
-   "version": 2,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-14T16:38:19+08:00",
-   "reason": "联调修正：_recommended_segment 由数组改为约定的对象格式（秒数不变）",
-   "changed_fields": [
-    "_recommended_segment"
-   ]
-  },
-  {
-   "event_id": "evt-20261014-0110",
-   "seq": 110,
-   "item_id": "ineq-america-billionaires",
-   "version": 2,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-14T16:38:19+08:00",
-   "reason": "联调修正：_recommended_segment 由数组改为约定的对象格式（秒数不变）",
-   "changed_fields": [
-    "_recommended_segment"
-   ]
-  },
-  {
-   "event_id": "evt-20261014-0111",
-   "seq": 111,
-   "item_id": "nasa-minute-20261010",
-   "version": 3,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-14T16:41:24+08:00",
-   "reason": "联调补充：公有领域授权依据（_authorization）与作者核实",
-   "changed_fields": [
-    "_authorization",
-    "author"
-   ]
-  },
-  {
-   "event_id": "evt-20261014-0112",
-   "seq": 112,
-   "item_id": "nasa-apophis-flyby-vertical",
-   "version": 4,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-14T16:41:24+08:00",
-   "reason": "联调补充：公有领域授权依据（_authorization）与作者核实",
-   "changed_fields": [
-    "_authorization",
-    "author"
-   ]
-  },
-  {
-   "event_id": "evt-20261014-0113",
-   "seq": 113,
-   "item_id": "c2-sdo-x54-flare",
-   "version": 4,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-14T16:41:24+08:00",
-   "reason": "联调补充：公有领域授权依据（_authorization）与作者核实",
-   "changed_fields": [
-    "_authorization",
-    "author"
-   ]
-  },
-  {
-   "event_id": "evt-20261014-0114",
-   "seq": 114,
-   "item_id": "c1-hurricane-maria-sat",
-   "version": 4,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-14T16:41:24+08:00",
-   "reason": "联调补充：公有领域授权依据（_authorization）与作者核实",
-   "changed_fields": [
-    "_authorization",
-    "author"
-   ]
-  },
-  {
-   "event_id": "evt-20261014-0115",
-   "seq": 115,
-   "item_id": "b2-sci-snoopy",
-   "version": 4,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-14T16:41:24+08:00",
-   "reason": "联调补充：公有领域授权依据（_authorization）与作者核实",
-   "changed_fields": [
-    "_authorization",
-    "author"
-   ]
-  },
-  {
-   "event_id": "evt-20261014-0116",
-   "seq": 116,
-   "item_id": "b1-sci-perseverance",
-   "version": 4,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-14T16:41:24+08:00",
-   "reason": "联调补充：公有领域授权依据（_authorization）与作者核实",
-   "changed_fields": [
-    "_authorization",
-    "author"
-   ]
-  },
-  {
-   "event_id": "evt-20261014-0117",
-   "seq": 117,
-   "item_id": "b1-drone-ingenuity",
-   "version": 5,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-14T16:41:24+08:00",
-   "reason": "联调补充：公有领域授权依据（_authorization）与作者核实",
-   "changed_fields": [
-    "_authorization",
-    "author"
-   ]
-  },
-  {
-   "event_id": "evt-20261014-0118",
-   "seq": 118,
-   "item_id": "c2-archive-scan-robot",
-   "version": 4,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-14T16:41:24+08:00",
-   "reason": "联调补充：公有领域授权依据（_authorization）与作者核实",
-   "changed_fields": [
-    "_authorization",
-    "author"
-   ]
-  },
-  {
-   "event_id": "evt-20261014-0119",
-   "seq": 119,
-   "item_id": "c100-suas-strike-training",
-   "version": 2,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-14T16:42:29+08:00",
-   "reason": "联调补充：公有领域授权依据（_authorization）与作者核实",
-   "changed_fields": [
-    "_authorization",
-    "author"
-   ]
-  },
-  {
-   "event_id": "evt-20261014-0120",
-   "seq": 120,
-   "item_id": "fbi-shinyhunters-arrest",
-   "version": 3,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-14T16:42:29+08:00",
-   "reason": "联调补充：公有领域授权依据（_authorization）与作者核实",
-   "changed_fields": [
-    "_authorization"
-   ]
-  },
-  {
-   "event_id": "evt-20261014-0121",
-   "seq": 121,
-   "item_id": "wh-trump-accounts-5000",
-   "version": 4,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-14T16:42:29+08:00",
-   "reason": "联调补充：公有领域授权依据（_authorization）与作者核实",
-   "changed_fields": [
-    "_authorization"
-   ]
-  },
-  {
-   "event_id": "evt-20261014-0122",
-   "seq": 122,
-   "item_id": "texas-tn-football-game",
-   "version": 5,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-14T16:42:29+08:00",
-   "reason": "联调补充：公有领域授权依据（_authorization）与作者核实",
-   "changed_fields": [
-    "_authorization"
-   ]
-  },
-  {
-   "event_id": "evt-20261014-0123",
-   "seq": 123,
-   "item_id": "arcade-gov-flappy",
-   "version": 4,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-14T16:42:29+08:00",
-   "reason": "联调补充：公有领域授权依据（_authorization）与作者核实",
-   "changed_fields": [
-    "_authorization"
-   ]
-  },
-  {
-   "event_id": "evt-20261014-0124",
-   "seq": 124,
-   "item_id": "c1-scam-watch-ftc",
-   "version": 4,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-14T16:42:29+08:00",
-   "reason": "联调补充：公有领域授权依据（_authorization）与作者核实",
-   "changed_fields": [
-    "_authorization",
-    "author"
-   ]
-  },
-  {
-   "event_id": "evt-20261014-0125",
-   "seq": 125,
-   "item_id": "b2-drone-blm",
-   "version": 4,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-14T16:42:29+08:00",
-   "reason": "联调补充：公有领域授权依据（_authorization）与作者核实",
-   "changed_fields": [
-    "_authorization",
-    "author"
-   ]
-  },
-  {
-   "event_id": "evt-20261014-0126",
-   "seq": 126,
-   "item_id": "b1-sec-voa",
-   "version": 4,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-14T16:42:29+08:00",
-   "reason": "联调补充：公有领域授权依据（_authorization）与作者核实",
-   "changed_fields": [
-    "_authorization",
-    "author"
-   ]
-  },
-  {
-   "event_id": "evt-20261014-0127",
-   "seq": 127,
-   "item_id": "c2-x45a-ucav-demo",
-   "version": 4,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-14T16:42:29+08:00",
-   "reason": "联调补充：公有领域授权依据（_authorization）与作者核实",
-   "changed_fields": [
-    "_authorization",
-    "author"
-   ]
-  },
-  {
-   "event_id": "evt-20261014-0128",
-   "seq": 128,
-   "item_id": "jazz-rhythm-1930",
-   "version": 3,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-14T16:43:34+08:00",
-   "reason": "联调补充：公有领域授权依据（_authorization）与作者核实",
-   "changed_fields": [
-    "_authorization",
-    "author"
-   ]
-  },
-  {
-   "event_id": "evt-20261014-0129",
-   "seq": 129,
-   "item_id": "c2-oakland-oaks-1918",
-   "version": 4,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-14T16:43:34+08:00",
-   "reason": "联调补充：公有领域授权依据（_authorization）与作者核实",
-   "changed_fields": [
-    "_authorization",
-    "author"
-   ]
-  },
-  {
-   "event_id": "evt-20261014-0130",
-   "seq": 130,
-   "item_id": "b2-film-notld",
-   "version": 4,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-14T16:43:34+08:00",
-   "reason": "联调补充：公有领域授权依据（_authorization）与作者核实",
-   "changed_fields": [
-    "_authorization",
-    "author"
-   ]
-  },
-  {
-   "event_id": "evt-20261014-0131",
-   "seq": 131,
-   "item_id": "b2-sport-ws1959",
-   "version": 4,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-14T16:43:34+08:00",
-   "reason": "联调补充：公有领域授权依据（_authorization）与作者核实",
-   "changed_fields": [
-    "_authorization",
-    "author"
-   ]
-  },
-  {
-   "event_id": "evt-20261014-0132",
-   "seq": 132,
-   "item_id": "b1-film-duck",
-   "version": 4,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-14T16:43:34+08:00",
-   "reason": "联调补充：公有领域授权依据（_authorization）与作者核实",
-   "changed_fields": [
-    "_authorization",
-    "author"
-   ]
-  },
-  {
-   "event_id": "evt-20261014-0133",
-   "seq": 133,
-   "item_id": "ai-pelkey-impact-statement",
-   "version": 5,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-14T16:43:34+08:00",
-   "reason": "联调补充：作者核实（Stacey Wales）；公有领域依据仍待查",
-   "changed_fields": [
-    "author"
-   ]
-  },
-  {
-   "event_id": "evt-20261014-0134",
-   "seq": 134,
-   "item_id": "c1-satyarthi-nobel",
-   "version": 4,
-   "type": "retracted",
-   "status": "retracted",
-   "occurred_at": "2026-10-14T16:55:06+08:00",
-   "reason": "版权存疑撤回：来源页显示该动画由多许可图片合成（含CC BY-SA、GFDL等非公有领域素材），与Public domain声明矛盾，无法提供有效PD依据",
-   "changed_fields": [
-    "status",
-    "version"
-   ],
-   "_retracted": {
-    "reason": "版权存疑：公有领域声明与来源页记载矛盾",
-    "retracted_at": "2026-10-14T16:55:06+08:00"
-   }
-  },
-  {
-   "event_id": "evt-20261014-0135",
-   "seq": 135,
-   "item_id": "ineq-america-billionaires",
-   "version": 3,
-   "type": "retracted",
-   "status": "retracted",
-   "occurred_at": "2026-10-14T16:55:06+08:00",
-   "reason": "版权存疑撤回：核查发现该素材实为2026年商业动画（YouTube频道politizane《Inequality in America》系列），未见作者释出公有领域声明，Public domain标注依据不明",
-   "changed_fields": [
-    "status",
-    "version"
-   ],
-   "_retracted": {
-    "reason": "版权存疑：公有领域声明与来源页记载矛盾",
-    "retracted_at": "2026-10-14T16:55:06+08:00"
-   }
-  },
-  {
-   "event_id": "evt-20261014-0136",
-   "seq": 136,
-   "item_id": "nasa-apophis-flyby-vertical",
-   "version": 5,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-14T17:09:57+08:00",
-   "reason": "联调补署名：NASA SVS官方要求署名“NASA's Goddard Space Flight Center Conceptual Image Lab”，_attribution补完整文字，_authorization.attribution_required=true",
-   "changed_fields": [
-    "attribution",
-    "_authorization"
-   ]
-  },
-  {
-   "event_id": "evt-20261014-0137",
-   "seq": 137,
-   "item_id": "ai-pelkey-impact-statement",
-   "version": 6,
-   "type": "retracted",
-   "status": "retracted",
-   "occurred_at": "2026-10-14T17:14:29+08:00",
-   "reason": "版权存疑撤回：文件页PD-algorithm模板要求“无人类独创性”，但同一文件页描述记载脚本由Stacey Wales编写、图片人工搜集、音频取自生前采访、经数小时精心编辑，两者互斥，PD标注不成立；权利人未释出免费许可",
-   "changed_fields": [
-    "status",
-    "version"
-   ],
-   "_retracted": {
-    "reason": "版权存疑撤回",
-    "retracted_at": "2026-10-14T17:14:29+08:00"
-   }
-  },
-  {
-   "event_id": "evt-20261014-0138",
-   "seq": 138,
-   "item_id": "ai-evolution-humanity-tech",
-   "version": 2,
-   "type": "retracted",
-   "status": "retracted",
-   "occurred_at": "2026-10-14T17:14:29+08:00",
-   "reason": "文件失效撤回：该文件已于2026-10-14被Commons管理员删除，下载地址与文件页均返回404，无法交付；且许可状态无法核实",
-   "changed_fields": [
-    "status",
-    "version"
-   ],
-   "_retracted": {
-    "reason": "文件失效撤回",
-    "retracted_at": "2026-10-14T17:14:29+08:00"
-   }
-  },
-  {
-   "event_id": "evt-20261014-0139",
-   "seq": 139,
-   "item_id": "milk-pinball-ad-70s",
-   "version": 2,
-   "type": "retracted",
-   "status": "retracted",
-   "occurred_at": "2026-10-14T17:14:29+08:00",
-   "reason": "版权存疑撤回：70年代电视广告，主张的PD-US-1978-89依据仅为上传者单方主张，无“出版时未附版权声明”的实证，无法确认公有领域；按零风险策略撤回",
-   "changed_fields": [
-    "status",
-    "version"
-   ],
-   "_retracted": {
-    "reason": "版权存疑撤回",
-    "retracted_at": "2026-10-14T17:14:29+08:00"
-   }
-  },
-  {
-   "event_id": "evt-20261015-0140",
-   "seq": 140,
-   "item_id": "wh-biden-inflation-reduction-remarks",
-   "version": 1,
-   "type": "added",
-   "status": "active",
-   "occurred_at": "2026-10-15T08:45:00+08:00",
-   "reason": "新增入库：新闻/财经垂类：白宫官方PD，白宫YouTube发布拜登就《通胀削减法案》发表讲话（2022），挂钩本周美国9月CPI超预期+社保金上调新闻；精华窗口[5,50]",
-   "changed_fields": [
-    "__added__"
-   ]
-  },
-  {
-   "event_id": "evt-20261015-0141",
-   "seq": 141,
-   "item_id": "wales-trust-ai-klf2026",
-   "version": 1,
-   "type": "added",
-   "status": "active",
-   "occurred_at": "2026-10-15T08:45:00+08:00",
-   "reason": "新增入库：AI垂类：CC BY-SA 4.0，DC Books发布吉米·威尔士KLF 2026对谈《Can We Trust AI》；母带321MB超128MiB红线，已自剪45秒720p成品（clips/a2_wales_clip.mp4）交付，主地址指向成品，母带记_master_url；挂钩本周AI代理晚宴+8州诉OpenAI新闻",
-   "changed_fields": [
-    "__added__"
-   ]
-  },
-  {
-   "event_id": "evt-20261015-0142",
-   "seq": 142,
-   "item_id": "vp-vance-bitcoin2025",
-   "version": 1,
-   "type": "added",
-   "status": "active",
-   "occurred_at": "2026-10-15T08:45:00+08:00",
-   "reason": "新增入库：加密资产垂类：白宫官方PD竖屏短视频，万斯在2025比特币大会演讲，纯政策表态无诈骗/炒作元素；挂钩本周CPI致比特币跌破8.3万美元+美联储10月28日议息会议",
-   "changed_fields": [
-    "__added__"
-   ]
-  },
-  {
-   "event_id": "evt-20261015-0143",
-   "seq": 143,
-   "item_id": "robo-war-robot-car-gurugram",
-   "version": 1,
-   "type": "added",
-   "status": "active",
-   "occurred_at": "2026-10-15T08:45:00+08:00",
-   "reason": "新增入库：无人系统垂类：CC BY-SA 4.0，创客Dev Jadiya 2026-10-12上传的Robo War备赛自制遥控小车实拍，18秒竖屏",
-   "changed_fields": [
-    "__added__"
-   ]
-  },
-  {
-   "event_id": "evt-20261015-0144",
-   "seq": 144,
-   "item_id": "nasa-perseverance-how-drives",
-   "version": 1,
-   "type": "added",
-   "status": "active",
-   "occurred_at": "2026-10-15T08:45:00+08:00",
-   "reason": "新增入库：科学垂类：NASA JPL官方PD《How Perseverance Drives on Mars》（~large 104MB衍生版），混合采访+3D仿真；挂钩10/12毅力号创异星行驶里程纪录；精华窗口[95,140]",
-   "changed_fields": [
-    "__added__"
-   ]
-  },
-  {
-   "event_id": "evt-20261015-0145",
-   "seq": 145,
-   "item_id": "nbc-graceland-fraud-investigation",
-   "version": 1,
-   "type": "added",
-   "status": "active",
-   "occurred_at": "2026-10-15T08:45:00+08:00",
-   "reason": "新增入库：网络安全垂类：CC BY 3.0，NBC News竖屏调查《谁想偷走猫王的Graceland庄园》，防骗教育叙事；挂钩本周数字安全热点；精华窗口[5,50]",
-   "changed_fields": [
-    "__added__"
-   ]
-  },
-  {
-   "event_id": "evt-20261015-0146",
-   "seq": 146,
-   "item_id": "neogeo-mvs-restoration-parts",
-   "version": 1,
-   "type": "added",
-   "status": "active",
-   "occurred_at": "2026-10-15T08:45:00+08:00",
-   "reason": "新增入库：游戏垂类：CC BY 3.0，Retro Tech复古街机收藏开箱（Neo Geo MVS街机柜修复零件），无实机游玩主体内容；精华窗口[5,40]",
-   "changed_fields": [
-    "__added__"
-   ]
-  },
-  {
-   "event_id": "evt-20261015-0147",
-   "seq": 147,
-   "item_id": "prelinger-beanys-drive-in-1952",
-   "version": 1,
-   "type": "added",
-   "status": "active",
-   "occurred_at": "2026-10-15T08:45:00+08:00",
-   "reason": "新增入库：影视垂类：Prelinger Archives CC0释出的1952年汽车餐厅彩色家庭电影；以招牌“汉堡20美分”物价对比挂钩本周通胀新闻；精华窗口[120,180]",
-   "changed_fields": [
-    "__added__"
-   ]
-  },
-  {
-   "event_id": "evt-20261015-0148",
-   "seq": 148,
-   "item_id": "lathe-finland-woodworking",
-   "version": 1,
-   "type": "added",
-   "status": "active",
-   "occurred_at": "2026-10-15T08:45:00+08:00",
-   "reason": "新增入库：艺术设计垂类：Vikebe CC0释出的芬兰传统脚踏木工车床实拍，18秒竖屏，常青慢手艺选题",
-   "changed_fields": [
-    "__added__"
-   ]
-  },
-  {
-   "event_id": "evt-20261015-0149",
-   "seq": 149,
-   "item_id": "b2-film-notld",
-   "version": 5,
-   "type": "retracted",
-   "status": "retracted",
-   "occurred_at": "2026-10-15T14:55:54+08:00",
-   "reason": "内容太旧且不符合上游要求，经用户确认批量撤回",
-   "changed_fields": [
-    "status",
-    "version"
-   ],
-   "_retracted": {
-    "reason": "内容太旧且不符合上游要求",
-    "retracted_at": "2026-10-15T14:55:54+08:00"
-   }
-  },
-  {
-   "event_id": "evt-20261015-0150",
-   "seq": 150,
-   "item_id": "b2-sci-snoopy",
-   "version": 5,
-   "type": "retracted",
-   "status": "retracted",
-   "occurred_at": "2026-10-15T14:55:54+08:00",
-   "reason": "内容太旧且不符合上游要求，经用户确认批量撤回",
-   "changed_fields": [
-    "status",
-    "version"
-   ],
-   "_retracted": {
-    "reason": "内容太旧且不符合上游要求",
-    "retracted_at": "2026-10-15T14:55:54+08:00"
-   }
-  },
-  {
-   "event_id": "evt-20261015-0151",
-   "seq": 151,
-   "item_id": "b2-sec-voiceclone",
-   "version": 3,
-   "type": "retracted",
-   "status": "retracted",
-   "occurred_at": "2026-10-15T14:55:54+08:00",
-   "reason": "内容太旧且不符合上游要求，经用户确认批量撤回",
-   "changed_fields": [
-    "status",
-    "version"
-   ],
-   "_retracted": {
-    "reason": "内容太旧且不符合上游要求",
-    "retracted_at": "2026-10-15T14:55:54+08:00"
-   }
-  },
-  {
-   "event_id": "evt-20261015-0152",
-   "seq": 152,
-   "item_id": "b2-crypto-ebsi",
-   "version": 3,
-   "type": "retracted",
-   "status": "retracted",
-   "occurred_at": "2026-10-15T14:55:54+08:00",
-   "reason": "内容太旧且不符合上游要求，经用户确认批量撤回",
-   "changed_fields": [
-    "status",
-    "version"
-   ],
-   "_retracted": {
-    "reason": "内容太旧且不符合上游要求",
-    "retracted_at": "2026-10-15T14:55:54+08:00"
-   }
-  },
-  {
-   "event_id": "evt-20261015-0153",
-   "seq": 153,
-   "item_id": "b2-sport-ws1959",
-   "version": 5,
-   "type": "retracted",
-   "status": "retracted",
-   "occurred_at": "2026-10-15T14:55:54+08:00",
-   "reason": "内容太旧且不符合上游要求，经用户确认批量撤回",
-   "changed_fields": [
-    "status",
-    "version"
-   ],
-   "_retracted": {
-    "reason": "内容太旧且不符合上游要求",
-    "retracted_at": "2026-10-15T14:55:54+08:00"
-   }
-  },
-  {
-   "event_id": "evt-20261015-0154",
-   "seq": 154,
-   "item_id": "b2-drone-blm",
-   "version": 5,
-   "type": "retracted",
-   "status": "retracted",
-   "occurred_at": "2026-10-15T14:55:54+08:00",
-   "reason": "内容太旧且不符合上游要求，经用户确认批量撤回",
-   "changed_fields": [
-    "status",
-    "version"
-   ],
-   "_retracted": {
-    "reason": "内容太旧且不符合上游要求",
-    "retracted_at": "2026-10-15T14:55:54+08:00"
-   }
-  },
-  {
-   "event_id": "evt-20261015-0155",
-   "seq": 155,
-   "item_id": "b2-ai-robot",
-   "version": 3,
-   "type": "retracted",
-   "status": "retracted",
-   "occurred_at": "2026-10-15T14:55:54+08:00",
-   "reason": "内容太旧且不符合上游要求，经用户确认批量撤回",
-   "changed_fields": [
-    "status",
-    "version"
-   ],
-   "_retracted": {
-    "reason": "内容太旧且不符合上游要求",
-    "retracted_at": "2026-10-15T14:55:54+08:00"
-   }
-  },
-  {
-   "event_id": "evt-20261015-0156",
-   "seq": 156,
-   "item_id": "b2-art-pumpkin",
-   "version": 3,
-   "type": "retracted",
-   "status": "retracted",
-   "occurred_at": "2026-10-15T14:55:54+08:00",
-   "reason": "内容太旧且不符合上游要求，经用户确认批量撤回",
-   "changed_fields": [
-    "status",
-    "version"
-   ],
-   "_retracted": {
-    "reason": "内容太旧且不符合上游要求",
-    "retracted_at": "2026-10-15T14:55:54+08:00"
-   }
-  },
-  {
-   "event_id": "evt-20261015-0157",
-   "seq": 157,
-   "item_id": "b2-news-euro",
-   "version": 3,
-   "type": "retracted",
-   "status": "retracted",
-   "occurred_at": "2026-10-15T14:55:54+08:00",
-   "reason": "内容太旧且不符合上游要求，经用户确认批量撤回",
-   "changed_fields": [
-    "status",
-    "version"
-   ],
-   "_retracted": {
-    "reason": "内容太旧且不符合上游要求",
-    "retracted_at": "2026-10-15T14:55:54+08:00"
-   }
-  },
-  {
-   "event_id": "evt-20261015-0158",
-   "seq": 158,
-   "item_id": "b2-game-arcade",
-   "version": 3,
-   "type": "retracted",
-   "status": "retracted",
-   "occurred_at": "2026-10-15T14:55:54+08:00",
-   "reason": "内容太旧且不符合上游要求，经用户确认批量撤回",
-   "changed_fields": [
-    "status",
-    "version"
-   ],
-   "_retracted": {
-    "reason": "内容太旧且不符合上游要求",
-    "retracted_at": "2026-10-15T14:55:54+08:00"
-   }
-  },
-  {
-   "event_id": "evt-20261015-0159",
-   "seq": 159,
-   "item_id": "b1-film-duck",
-   "version": 5,
-   "type": "retracted",
-   "status": "retracted",
-   "occurred_at": "2026-10-15T14:55:54+08:00",
-   "reason": "内容太旧且不符合上游要求，经用户确认批量撤回",
-   "changed_fields": [
-    "status",
-    "version"
-   ],
-   "_retracted": {
-    "reason": "内容太旧且不符合上游要求",
-    "retracted_at": "2026-10-15T14:55:54+08:00"
-   }
-  },
-  {
-   "event_id": "evt-20261015-0160",
-   "seq": 160,
-   "item_id": "b1-ai-arm",
-   "version": 3,
-   "type": "retracted",
-   "status": "retracted",
-   "occurred_at": "2026-10-15T14:55:54+08:00",
-   "reason": "内容太旧且不符合上游要求，经用户确认批量撤回",
-   "changed_fields": [
-    "status",
-    "version"
-   ],
-   "_retracted": {
-    "reason": "内容太旧且不符合上游要求",
-    "retracted_at": "2026-10-15T14:55:54+08:00"
-   }
-  },
-  {
-   "event_id": "evt-20261015-0161",
-   "seq": 161,
-   "item_id": "b1-game-room",
-   "version": 3,
-   "type": "retracted",
-   "status": "retracted",
-   "occurred_at": "2026-10-15T14:55:54+08:00",
-   "reason": "内容太旧且不符合上游要求，经用户确认批量撤回",
-   "changed_fields": [
-    "status",
-    "version"
-   ],
-   "_retracted": {
-    "reason": "内容太旧且不符合上游要求",
-    "retracted_at": "2026-10-15T14:55:54+08:00"
-   }
-  },
-  {
-   "event_id": "evt-20261015-0162",
-   "seq": 162,
-   "item_id": "b1-crypto-btc",
-   "version": 3,
-   "type": "retracted",
-   "status": "retracted",
-   "occurred_at": "2026-10-15T14:55:54+08:00",
-   "reason": "内容太旧且不符合上游要求，经用户确认批量撤回",
-   "changed_fields": [
-    "status",
-    "version"
-   ],
-   "_retracted": {
-    "reason": "内容太旧且不符合上游要求",
-    "retracted_at": "2026-10-15T14:55:54+08:00"
-   }
-  },
-  {
-   "event_id": "evt-20261015-0163",
-   "seq": 163,
-   "item_id": "b1-sci-perseverance",
-   "version": 5,
-   "type": "retracted",
-   "status": "retracted",
-   "occurred_at": "2026-10-15T14:55:54+08:00",
-   "reason": "内容太旧且不符合上游要求，经用户确认批量撤回",
-   "changed_fields": [
-    "status",
-    "version"
-   ],
-   "_retracted": {
-    "reason": "内容太旧且不符合上游要求",
-    "retracted_at": "2026-10-15T14:55:54+08:00"
-   }
-  },
-  {
-   "event_id": "evt-20261015-0164",
-   "seq": 164,
-   "item_id": "b1-sec-voa",
-   "version": 5,
-   "type": "retracted",
-   "status": "retracted",
-   "occurred_at": "2026-10-15T14:55:54+08:00",
-   "reason": "内容太旧且不符合上游要求，经用户确认批量撤回",
-   "changed_fields": [
-    "status",
-    "version"
-   ],
-   "_retracted": {
-    "reason": "内容太旧且不符合上游要求",
-    "retracted_at": "2026-10-15T14:55:54+08:00"
-   }
-  },
-  {
-   "event_id": "evt-20261015-0165",
-   "seq": 165,
-   "item_id": "b1-drone-ingenuity",
-   "version": 6,
-   "type": "retracted",
-   "status": "retracted",
-   "occurred_at": "2026-10-15T14:55:54+08:00",
-   "reason": "内容太旧且不符合上游要求，经用户确认批量撤回",
-   "changed_fields": [
-    "status",
-    "version"
-   ],
-   "_retracted": {
-    "reason": "内容太旧且不符合上游要求",
-    "retracted_at": "2026-10-15T14:55:54+08:00"
-   }
-  },
-  {
-   "event_id": "evt-20261015-0166",
-   "seq": 166,
-   "item_id": "b1-art-painting",
-   "version": 3,
-   "type": "retracted",
-   "status": "retracted",
-   "occurred_at": "2026-10-15T14:55:54+08:00",
-   "reason": "内容太旧且不符合上游要求，经用户确认批量撤回",
-   "changed_fields": [
-    "status",
-    "version"
-   ],
-   "_retracted": {
-    "reason": "内容太旧且不符合上游要求",
-    "retracted_at": "2026-10-15T14:55:54+08:00"
-   }
-  },
-  {
-   "event_id": "evt-20261015-0167",
-   "seq": 167,
-   "item_id": "b1-sport-stadium",
-   "version": 3,
-   "type": "retracted",
-   "status": "retracted",
-   "occurred_at": "2026-10-15T14:55:54+08:00",
-   "reason": "内容太旧且不符合上游要求，经用户确认批量撤回",
-   "changed_fields": [
-    "status",
-    "version"
-   ],
-   "_retracted": {
-    "reason": "内容太旧且不符合上游要求",
-    "retracted_at": "2026-10-15T14:55:54+08:00"
-   }
-  },
-  {
-   "event_id": "evt-20261015-0168",
-   "seq": 168,
-   "item_id": "wh-biden-inflation-reduction-remarks",
-   "version": 2,
-   "type": "retracted",
-   "status": "retracted",
-   "occurred_at": "2026-10-15T20:17:36+08:00",
-   "reason": "不符合新入库硬门槛：原始上传日期早于近3年（2023-10-15之前），经用户确认批量撤回",
-   "changed_fields": [
-    "status",
-    "version"
-   ],
-   "_retracted": {
-    "reason": "原始上传日期早于近3年，不符合要求",
-    "retracted_at": "2026-10-15T20:17:36+08:00"
-   }
-  },
-  {
-   "event_id": "evt-20261015-0169",
-   "seq": 169,
-   "item_id": "nasa-perseverance-how-drives",
-   "version": 2,
-   "type": "retracted",
-   "status": "retracted",
-   "occurred_at": "2026-10-15T20:17:36+08:00",
-   "reason": "不符合新入库硬门槛：原始上传日期早于近3年（2023-10-15之前），经用户确认批量撤回",
-   "changed_fields": [
-    "status",
-    "version"
-   ],
-   "_retracted": {
-    "reason": "原始上传日期早于近3年，不符合要求",
-    "retracted_at": "2026-10-15T20:17:36+08:00"
-   }
-  },
-  {
-   "event_id": "evt-20261015-0170",
-   "seq": 170,
-   "item_id": "prelinger-beanys-drive-in-1952",
-   "version": 2,
-   "type": "retracted",
-   "status": "retracted",
-   "occurred_at": "2026-10-15T20:17:36+08:00",
-   "reason": "不符合新入库硬门槛：原始上传日期早于近3年（2023-10-15之前），经用户确认批量撤回",
-   "changed_fields": [
-    "status",
-    "version"
-   ],
-   "_retracted": {
-    "reason": "原始上传日期早于近3年，不符合要求",
-    "retracted_at": "2026-10-15T20:17:36+08:00"
-   }
-  },
-  {
-   "event_id": "evt-20261015-0171",
-   "seq": 171,
-   "item_id": "revoy-kynitia-timelapse",
-   "version": 3,
-   "type": "retracted",
-   "status": "retracted",
-   "occurred_at": "2026-10-15T20:17:36+08:00",
-   "reason": "不符合新入库硬门槛：原始上传日期早于近3年（2023-10-15之前），经用户确认批量撤回",
-   "changed_fields": [
-    "status",
-    "version"
-   ],
-   "_retracted": {
-    "reason": "原始上传日期早于近3年，不符合要求",
-    "retracted_at": "2026-10-15T20:17:36+08:00"
-   }
-  },
-  {
-   "event_id": "evt-20261015-0172",
-   "seq": 172,
-   "item_id": "c2-sdo-x54-flare",
-   "version": 5,
-   "type": "retracted",
-   "status": "retracted",
-   "occurred_at": "2026-10-15T20:17:36+08:00",
-   "reason": "不符合新入库硬门槛：原始上传日期早于近3年（2023-10-15之前），经用户确认批量撤回",
-   "changed_fields": [
-    "status",
-    "version"
-   ],
-   "_retracted": {
-    "reason": "原始上传日期早于近3年，不符合要求",
-    "retracted_at": "2026-10-15T20:17:36+08:00"
-   }
-  },
-  {
-   "event_id": "evt-20261015-0173",
-   "seq": 173,
-   "item_id": "c2-x45a-ucav-demo",
-   "version": 5,
-   "type": "retracted",
-   "status": "retracted",
-   "occurred_at": "2026-10-15T20:17:36+08:00",
-   "reason": "不符合新入库硬门槛：原始上传日期早于近3年（2023-10-15之前），经用户确认批量撤回",
-   "changed_fields": [
-    "status",
-    "version"
-   ],
-   "_retracted": {
-    "reason": "原始上传日期早于近3年，不符合要求",
-    "retracted_at": "2026-10-15T20:17:36+08:00"
-   }
-  },
-  {
-   "event_id": "evt-20261015-0174",
-   "seq": 174,
-   "item_id": "c2-archive-scan-robot",
-   "version": 5,
-   "type": "retracted",
-   "status": "retracted",
-   "occurred_at": "2026-10-15T20:17:36+08:00",
-   "reason": "不符合新入库硬门槛：原始上传日期早于近3年（2023-10-15之前），经用户确认批量撤回",
-   "changed_fields": [
-    "status",
-    "version"
-   ],
-   "_retracted": {
-    "reason": "原始上传日期早于近3年，不符合要求",
-    "retracted_at": "2026-10-15T20:17:36+08:00"
-   }
-  },
-  {
-   "event_id": "evt-20261015-0175",
-   "seq": 175,
-   "item_id": "c2-oakland-oaks-1918",
-   "version": 5,
-   "type": "retracted",
-   "status": "retracted",
-   "occurred_at": "2026-10-15T20:17:36+08:00",
-   "reason": "不符合新入库硬门槛：原始上传日期早于近3年（2023-10-15之前），经用户确认批量撤回",
-   "changed_fields": [
-    "status",
-    "version"
-   ],
-   "_retracted": {
-    "reason": "原始上传日期早于近3年，不符合要求",
-    "retracted_at": "2026-10-15T20:17:36+08:00"
-   }
-  },
-  {
-   "event_id": "evt-20261015-0176",
-   "seq": 176,
-   "item_id": "c1-hurricane-maria-sat",
-   "version": 5,
-   "type": "retracted",
-   "status": "retracted",
-   "occurred_at": "2026-10-15T20:17:36+08:00",
-   "reason": "不符合新入库硬门槛：原始上传日期早于近3年（2023-10-15之前），经用户确认批量撤回",
-   "changed_fields": [
-    "status",
-    "version"
-   ],
-   "_retracted": {
-    "reason": "原始上传日期早于近3年，不符合要求",
-    "retracted_at": "2026-10-15T20:17:36+08:00"
-   }
-  },
-  {
-   "event_id": "evt-20261015-0177",
-   "seq": 177,
-   "item_id": "c1-scam-watch-ftc",
-   "version": 5,
-   "type": "retracted",
-   "status": "retracted",
-   "occurred_at": "2026-10-15T20:17:36+08:00",
-   "reason": "不符合新入库硬门槛：原始上传日期早于近3年（2023-10-15之前），经用户确认批量撤回",
-   "changed_fields": [
-    "status",
-    "version"
-   ],
-   "_retracted": {
-    "reason": "原始上传日期早于近3年，不符合要求",
-    "retracted_at": "2026-10-15T20:17:36+08:00"
-   }
-  },
-  {
-   "event_id": "evt-20261015-0178",
-   "seq": 178,
-   "item_id": "c1-aerial-firefighting",
-   "version": 4,
-   "type": "retracted",
-   "status": "retracted",
-   "occurred_at": "2026-10-15T20:17:36+08:00",
-   "reason": "不符合新入库硬门槛：原始上传日期早于近3年（2023-10-15之前），经用户确认批量撤回",
-   "changed_fields": [
-    "status",
-    "version"
-   ],
-   "_retracted": {
-    "reason": "原始上传日期早于近3年，不符合要求",
-    "retracted_at": "2026-10-15T20:17:36+08:00"
-   }
-  },
-  {
-   "event_id": "evt-20261015-0179",
-   "seq": 179,
-   "item_id": "c1-romanians-vote-queue",
-   "version": 4,
-   "type": "retracted",
-   "status": "retracted",
-   "occurred_at": "2026-10-15T20:17:36+08:00",
-   "reason": "不符合新入库硬门槛：原始上传日期早于近3年（2023-10-15之前），经用户确认批量撤回",
-   "changed_fields": [
-    "status",
-    "version"
-   ],
-   "_retracted": {
-    "reason": "原始上传日期早于近3年，不符合要求",
-    "retracted_at": "2026-10-15T20:17:36+08:00"
-   }
-  },
-  {
-   "event_id": "evt-20261015-0180",
-   "seq": 180,
-   "item_id": "iss-fifa-worldcup-2026",
-   "version": 1,
-   "type": "added",
-   "status": "active",
-   "occurred_at": "2026-10-15T20:30:50+08:00",
-   "reason": "手动增补采集入库",
-   "changed_fields": null
-  },
-  {
-   "event_id": "evt-20261015-0181",
-   "seq": 181,
-   "item_id": "artemis-avatar-vertical",
-   "version": 1,
-   "type": "added",
-   "status": "active",
-   "occurred_at": "2026-10-15T20:30:50+08:00",
-   "reason": "手动增补采集入库",
-   "changed_fields": null
-  },
-  {
-   "event_id": "evt-20261015-0182",
-   "seq": 182,
-   "item_id": "artemis-ii-humanity",
-   "version": 1,
-   "type": "added",
-   "status": "active",
-   "occurred_at": "2026-10-15T20:30:50+08:00",
-   "reason": "手动增补采集入库",
-   "changed_fields": null
-  },
-  {
-   "event_id": "evt-20261015-0183",
-   "seq": 183,
-   "item_id": "spain-eclipse-timelapse-2026",
-   "version": 1,
-   "type": "added",
-   "status": "active",
-   "occurred_at": "2026-10-15T20:30:50+08:00",
-   "reason": "手动增补采集入库",
-   "changed_fields": null
-  },
-  {
-   "event_id": "evt-20261016-0184",
-   "seq": 184,
-   "item_id": "dvids-17fab-uas-training-20261016",
-   "version": 1,
-   "type": "added",
-   "status": "active",
-   "occurred_at": "2026-10-16T09:28:00+08:00",
-   "reason": "DVIDS 17th FAB无人机系统训练（竖屏41秒，PD）入库",
-   "changed_fields": null
-  },
-  {
-   "event_id": "evt-20261016-0185",
-   "seq": 185,
-   "item_id": "webb-frb-20240304b-20261008",
-   "version": 1,
-   "type": "added",
-   "status": "active",
-   "occurred_at": "2026-10-16T09:28:00+08:00",
-   "reason": "ESA/Webb FRB 20240304B深场平移（30秒，CC BY 4.0）入库",
-   "changed_fields": null
-  },
-  {
-   "event_id": "evt-20261016-0186",
-   "seq": 186,
-   "item_id": "dvids-cybersec-awareness-20261016",
-   "version": 1,
-   "type": "added",
-   "status": "active",
-   "occurred_at": "2026-10-16T09:28:00+08:00",
-   "reason": "DVIDS网络安全意识月CIO寄语（100秒，PD）入库",
-   "changed_fields": null
-  },
-  {
-   "event_id": "evt-20261016-0187",
-   "seq": 187,
-   "item_id": "dvids-coastguard-engine-swap-20261016",
-   "version": 1,
-   "type": "added",
-   "status": "active",
-   "occurred_at": "2026-10-16T09:28:00+08:00",
-   "reason": "海岸警卫队换发动机45秒精华版入库（母带133.5MiB，成品放clips/）",
-   "changed_fields": null
-  },
-  {
-   "event_id": "evt-20261016-0188",
-   "seq": 188,
-   "item_id": "dvids-1-228th-avn-regt-rescue-20261015",
-   "version": 1,
-   "type": "added",
-   "status": "active",
-   "occurred_at": "2026-10-16T19:04:46+08:00",
-   "reason": "DVIDS直升机救援实拍入库（1080p/83秒/102MB，军事航空装备垂类首批）",
-   "changed_fields": null
-  },
-  {
-   "event_id": "evt-20261016-0189",
-   "seq": 189,
-   "item_id": "usgs-precipitation-radar-mosaic-20260324",
-   "version": 1,
-   "type": "added",
-   "status": "active",
-   "occurred_at": "2026-10-16T19:04:46+08:00",
-   "reason": "USGS降水雷达拼图延时入库（720p/518秒/65MB，科学可视化）",
-   "changed_fields": null
-  },
-  {
-   "event_id": "evt-20261016-0190",
-   "seq": 190,
-   "item_id": "dvids-1-228th-avn-regt-rescue-20261015",
-   "version": 2,
-   "type": "modified",
-   "status": "active",
-   "occurred_at": "2026-10-16T19:13:36+08:00",
-   "reason": "分类修正为16个约定名称之一（军事/装备→科技/新闻）",
-   "changed_fields": [
-    "category",
-    "version"
-   ]
-  }
- ]
+  "updated_at": "2026-10-17T09:31:40+08:00",
+  "event_count": 201,
+  "next_seq": 202,
+  "events": [
+    {
+      "event_id": "evt-20261013-0001",
+      "seq": 1,
+      "item_id": "b1-sport-stadium",
+      "version": 1,
+      "type": "added",
+      "status": "active",
+      "occurred_at": "2026-10-10T09:40:00+08:00",
+      "reason": "初始入库"
+    },
+    {
+      "event_id": "evt-20261013-0002",
+      "seq": 2,
+      "item_id": "b1-art-painting",
+      "version": 1,
+      "type": "added",
+      "status": "active",
+      "occurred_at": "2026-10-10T09:50:00+08:00",
+      "reason": "初始入库"
+    },
+    {
+      "event_id": "evt-20261013-0003",
+      "seq": 3,
+      "item_id": "b1-drone-ingenuity",
+      "version": 1,
+      "type": "added",
+      "status": "active",
+      "occurred_at": "2026-10-10T10:00:00+08:00",
+      "reason": "初始入库"
+    },
+    {
+      "event_id": "evt-20261013-0004",
+      "seq": 4,
+      "item_id": "b1-sec-voa",
+      "version": 1,
+      "type": "added",
+      "status": "active",
+      "occurred_at": "2026-10-10T10:10:00+08:00",
+      "reason": "初始入库"
+    },
+    {
+      "event_id": "evt-20261013-0005",
+      "seq": 5,
+      "item_id": "b1-sci-perseverance",
+      "version": 1,
+      "type": "added",
+      "status": "active",
+      "occurred_at": "2026-10-10T10:20:00+08:00",
+      "reason": "初始入库"
+    },
+    {
+      "event_id": "evt-20261013-0006",
+      "seq": 6,
+      "item_id": "b1-crypto-btc",
+      "version": 1,
+      "type": "added",
+      "status": "active",
+      "occurred_at": "2026-10-10T10:30:00+08:00",
+      "reason": "初始入库"
+    },
+    {
+      "event_id": "evt-20261013-0007",
+      "seq": 7,
+      "item_id": "b1-game-room",
+      "version": 1,
+      "type": "added",
+      "status": "active",
+      "occurred_at": "2026-10-10T10:40:00+08:00",
+      "reason": "初始入库"
+    },
+    {
+      "event_id": "evt-20261013-0008",
+      "seq": 8,
+      "item_id": "b1-ai-arm",
+      "version": 1,
+      "type": "added",
+      "status": "active",
+      "occurred_at": "2026-10-10T10:50:00+08:00",
+      "reason": "初始入库"
+    },
+    {
+      "event_id": "evt-20261013-0009",
+      "seq": 9,
+      "item_id": "b1-film-duck",
+      "version": 1,
+      "type": "added",
+      "status": "active",
+      "occurred_at": "2026-10-10T11:00:00+08:00",
+      "reason": "初始入库"
+    },
+    {
+      "event_id": "evt-20261013-0010",
+      "seq": 10,
+      "item_id": "b2-game-arcade",
+      "version": 1,
+      "type": "added",
+      "status": "active",
+      "occurred_at": "2026-10-10T14:30:00+08:00",
+      "reason": "初始入库"
+    },
+    {
+      "event_id": "evt-20261013-0011",
+      "seq": 11,
+      "item_id": "b2-news-euro",
+      "version": 1,
+      "type": "added",
+      "status": "active",
+      "occurred_at": "2026-10-10T14:40:00+08:00",
+      "reason": "初始入库"
+    },
+    {
+      "event_id": "evt-20261013-0012",
+      "seq": 12,
+      "item_id": "b2-art-pumpkin",
+      "version": 1,
+      "type": "added",
+      "status": "active",
+      "occurred_at": "2026-10-10T14:50:00+08:00",
+      "reason": "初始入库"
+    },
+    {
+      "event_id": "evt-20261013-0013",
+      "seq": 13,
+      "item_id": "b2-ai-robot",
+      "version": 1,
+      "type": "added",
+      "status": "active",
+      "occurred_at": "2026-10-10T15:00:00+08:00",
+      "reason": "初始入库"
+    },
+    {
+      "event_id": "evt-20261013-0014",
+      "seq": 14,
+      "item_id": "b2-drone-blm",
+      "version": 1,
+      "type": "added",
+      "status": "active",
+      "occurred_at": "2026-10-10T15:10:00+08:00",
+      "reason": "初始入库"
+    },
+    {
+      "event_id": "evt-20261013-0015",
+      "seq": 15,
+      "item_id": "b2-sport-ws1959",
+      "version": 1,
+      "type": "added",
+      "status": "active",
+      "occurred_at": "2026-10-10T15:20:00+08:00",
+      "reason": "初始入库"
+    },
+    {
+      "event_id": "evt-20261013-0016",
+      "seq": 16,
+      "item_id": "b2-crypto-ebsi",
+      "version": 1,
+      "type": "added",
+      "status": "active",
+      "occurred_at": "2026-10-10T15:30:00+08:00",
+      "reason": "初始入库"
+    },
+    {
+      "event_id": "evt-20261013-0017",
+      "seq": 17,
+      "item_id": "b2-sec-voiceclone",
+      "version": 1,
+      "type": "added",
+      "status": "active",
+      "occurred_at": "2026-10-10T15:40:00+08:00",
+      "reason": "初始入库"
+    },
+    {
+      "event_id": "evt-20261013-0018",
+      "seq": 18,
+      "item_id": "b2-sci-snoopy",
+      "version": 1,
+      "type": "added",
+      "status": "active",
+      "occurred_at": "2026-10-10T15:50:00+08:00",
+      "reason": "初始入库"
+    },
+    {
+      "event_id": "evt-20261013-0019",
+      "seq": 19,
+      "item_id": "b2-film-notld",
+      "version": 1,
+      "type": "added",
+      "status": "active",
+      "occurred_at": "2026-10-10T16:00:00+08:00",
+      "reason": "初始入库"
+    },
+    {
+      "event_id": "evt-20261013-0020",
+      "seq": 20,
+      "item_id": "c1-satyarthi-nobel",
+      "version": 1,
+      "type": "added",
+      "status": "active",
+      "occurred_at": "2026-10-11T15:20:00+08:00",
+      "reason": "初始入库"
+    },
+    {
+      "event_id": "evt-20261013-0021",
+      "seq": 21,
+      "item_id": "c1-romanians-vote-queue",
+      "version": 1,
+      "type": "added",
+      "status": "active",
+      "occurred_at": "2026-10-11T15:30:00+08:00",
+      "reason": "初始入库"
+    },
+    {
+      "event_id": "evt-20261013-0022",
+      "seq": 22,
+      "item_id": "c1-aerial-firefighting",
+      "version": 1,
+      "type": "added",
+      "status": "active",
+      "occurred_at": "2026-10-11T15:40:00+08:00",
+      "reason": "初始入库"
+    },
+    {
+      "event_id": "evt-20261013-0023",
+      "seq": 23,
+      "item_id": "c1-scam-watch-ftc",
+      "version": 1,
+      "type": "added",
+      "status": "active",
+      "occurred_at": "2026-10-11T15:50:00+08:00",
+      "reason": "初始入库"
+    },
+    {
+      "event_id": "evt-20261013-0024",
+      "seq": 24,
+      "item_id": "c1-hurricane-maria-sat",
+      "version": 1,
+      "type": "added",
+      "status": "active",
+      "occurred_at": "2026-10-11T16:00:00+08:00",
+      "reason": "初始入库"
+    },
+    {
+      "event_id": "evt-20261013-0025",
+      "seq": 25,
+      "item_id": "c2-oakland-oaks-1918",
+      "version": 1,
+      "type": "added",
+      "status": "active",
+      "occurred_at": "2026-10-12T15:30:00+08:00",
+      "reason": "初始入库"
+    },
+    {
+      "event_id": "evt-20261013-0026",
+      "seq": 26,
+      "item_id": "c2-archive-scan-robot",
+      "version": 1,
+      "type": "added",
+      "status": "active",
+      "occurred_at": "2026-10-12T15:40:00+08:00",
+      "reason": "初始入库"
+    },
+    {
+      "event_id": "evt-20261013-0027",
+      "seq": 27,
+      "item_id": "c2-x45a-ucav-demo",
+      "version": 1,
+      "type": "added",
+      "status": "active",
+      "occurred_at": "2026-10-12T15:50:00+08:00",
+      "reason": "初始入库"
+    },
+    {
+      "event_id": "evt-20261013-0028",
+      "seq": 28,
+      "item_id": "c2-sdo-x54-flare",
+      "version": 1,
+      "type": "added",
+      "status": "active",
+      "occurred_at": "2026-10-12T16:00:00+08:00",
+      "reason": "初始入库"
+    },
+    {
+      "event_id": "evt-20261013-0029",
+      "seq": 29,
+      "item_id": "wh-trump-accounts-5000",
+      "version": 1,
+      "type": "added",
+      "status": "active",
+      "occurred_at": "2026-10-13T08:51:35+08:00",
+      "reason": "初始入库"
+    },
+    {
+      "event_id": "evt-20261013-0030",
+      "seq": 30,
+      "item_id": "ai-pelkey-impact-statement",
+      "version": 1,
+      "type": "added",
+      "status": "active",
+      "occurred_at": "2026-10-13T08:51:35+08:00",
+      "reason": "初始入库"
+    },
+    {
+      "event_id": "evt-20261013-0031",
+      "seq": 31,
+      "item_id": "drone-spain-eclipse-2026",
+      "version": 1,
+      "type": "added",
+      "status": "active",
+      "occurred_at": "2026-10-13T08:51:35+08:00",
+      "reason": "初始入库"
+    },
+    {
+      "event_id": "evt-20261013-0032",
+      "seq": 32,
+      "item_id": "nasa-apophis-flyby-vertical",
+      "version": 1,
+      "type": "added",
+      "status": "active",
+      "occurred_at": "2026-10-13T08:51:35+08:00",
+      "reason": "初始入库"
+    },
+    {
+      "event_id": "evt-20261013-0033",
+      "seq": 33,
+      "item_id": "arcade-gov-flappy",
+      "version": 1,
+      "type": "added",
+      "status": "active",
+      "occurred_at": "2026-10-13T08:51:35+08:00",
+      "reason": "初始入库"
+    },
+    {
+      "event_id": "evt-20261013-0034",
+      "seq": 34,
+      "item_id": "texas-tn-football-game",
+      "version": 1,
+      "type": "added",
+      "status": "active",
+      "occurred_at": "2026-10-13T08:51:35+08:00",
+      "reason": "初始入库"
+    },
+    {
+      "event_id": "evt-20261013-0035",
+      "seq": 35,
+      "item_id": "wh-trump-accounts-5000",
+      "version": 2,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-13T21:23:56+08:00",
+      "reason": "分类修正为约定名称",
+      "changed_fields": [
+        "category"
+      ]
+    },
+    {
+      "event_id": "evt-20261013-0036",
+      "seq": 36,
+      "item_id": "ai-pelkey-impact-statement",
+      "version": 2,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-13T21:23:56+08:00",
+      "reason": "分类修正为约定名称",
+      "changed_fields": [
+        "category"
+      ]
+    },
+    {
+      "event_id": "evt-20261013-0037",
+      "seq": 37,
+      "item_id": "drone-spain-eclipse-2026",
+      "version": 2,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-13T21:23:56+08:00",
+      "reason": "分类修正为约定名称",
+      "changed_fields": [
+        "category"
+      ]
+    },
+    {
+      "event_id": "evt-20261013-0038",
+      "seq": 38,
+      "item_id": "nasa-apophis-flyby-vertical",
+      "version": 2,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-13T21:23:56+08:00",
+      "reason": "分类修正为约定名称",
+      "changed_fields": [
+        "category"
+      ]
+    },
+    {
+      "event_id": "evt-20261013-0039",
+      "seq": 39,
+      "item_id": "arcade-gov-flappy",
+      "version": 2,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-13T21:23:56+08:00",
+      "reason": "分类修正为约定名称",
+      "changed_fields": [
+        "category"
+      ]
+    },
+    {
+      "event_id": "evt-20261013-0040",
+      "seq": 40,
+      "item_id": "texas-tn-football-game",
+      "version": 2,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-13T21:23:56+08:00",
+      "reason": "分类修正为约定名称",
+      "changed_fields": [
+        "category"
+      ]
+    },
+    {
+      "event_id": "evt-20261013-0041",
+      "seq": 41,
+      "item_id": "c2-sdo-x54-flare",
+      "version": 2,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-13T21:23:56+08:00",
+      "reason": "分类修正为约定名称；补齐原始来源地址",
+      "changed_fields": [
+        "category",
+        "source_url"
+      ]
+    },
+    {
+      "event_id": "evt-20261013-0042",
+      "seq": 42,
+      "item_id": "c2-x45a-ucav-demo",
+      "version": 2,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-13T21:23:56+08:00",
+      "reason": "分类修正为约定名称；补齐原始来源地址",
+      "changed_fields": [
+        "category",
+        "source_url"
+      ]
+    },
+    {
+      "event_id": "evt-20261013-0043",
+      "seq": 43,
+      "item_id": "c2-archive-scan-robot",
+      "version": 2,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-13T21:23:56+08:00",
+      "reason": "分类修正为约定名称；补齐原始来源地址",
+      "changed_fields": [
+        "category",
+        "source_url"
+      ]
+    },
+    {
+      "event_id": "evt-20261013-0044",
+      "seq": 44,
+      "item_id": "c2-oakland-oaks-1918",
+      "version": 2,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-13T21:23:56+08:00",
+      "reason": "补齐原始来源地址",
+      "changed_fields": [
+        "source_url"
+      ]
+    },
+    {
+      "event_id": "evt-20261013-0045",
+      "seq": 45,
+      "item_id": "c1-hurricane-maria-sat",
+      "version": 2,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-13T21:23:56+08:00",
+      "reason": "分类修正为约定名称；补齐原始来源地址",
+      "changed_fields": [
+        "category",
+        "source_url"
+      ]
+    },
+    {
+      "event_id": "evt-20261013-0046",
+      "seq": 46,
+      "item_id": "c1-scam-watch-ftc",
+      "version": 2,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-13T21:23:56+08:00",
+      "reason": "分类修正为约定名称；补齐原始来源地址",
+      "changed_fields": [
+        "category",
+        "source_url"
+      ]
+    },
+    {
+      "event_id": "evt-20261013-0047",
+      "seq": 47,
+      "item_id": "c1-aerial-firefighting",
+      "version": 2,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-13T21:23:56+08:00",
+      "reason": "分类修正为约定名称；补齐原始来源地址；补齐作者与原始来源地址",
+      "changed_fields": [
+        "category",
+        "source_url",
+        "author"
+      ]
+    },
+    {
+      "event_id": "evt-20261013-0048",
+      "seq": 48,
+      "item_id": "c1-romanians-vote-queue",
+      "version": 2,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-13T21:23:56+08:00",
+      "reason": "分类修正为约定名称；补齐原始来源地址；补齐作者与原始来源地址",
+      "changed_fields": [
+        "category",
+        "source_url",
+        "author"
+      ]
+    },
+    {
+      "event_id": "evt-20261013-0049",
+      "seq": 49,
+      "item_id": "c1-satyarthi-nobel",
+      "version": 2,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-13T21:23:56+08:00",
+      "reason": "分类修正为约定名称；补齐原始来源地址",
+      "changed_fields": [
+        "category",
+        "source_url"
+      ]
+    },
+    {
+      "event_id": "evt-20261013-0050",
+      "seq": 50,
+      "item_id": "b2-film-notld",
+      "version": 2,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-13T21:23:56+08:00",
+      "reason": "补齐原始来源地址",
+      "changed_fields": [
+        "source_url"
+      ]
+    },
+    {
+      "event_id": "evt-20261013-0051",
+      "seq": 51,
+      "item_id": "b2-sci-snoopy",
+      "version": 2,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-13T21:23:56+08:00",
+      "reason": "许可证名称统一为Public domain；补齐原始来源地址",
+      "changed_fields": [
+        "license",
+        "source_url"
+      ]
+    },
+    {
+      "event_id": "evt-20261013-0052",
+      "seq": 52,
+      "item_id": "b2-sport-ws1959",
+      "version": 2,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-13T21:23:56+08:00",
+      "reason": "补齐原始来源地址",
+      "changed_fields": [
+        "source_url"
+      ]
+    },
+    {
+      "event_id": "evt-20261013-0053",
+      "seq": 53,
+      "item_id": "b2-drone-blm",
+      "version": 2,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-13T21:23:56+08:00",
+      "reason": "补齐原始来源地址",
+      "changed_fields": [
+        "source_url"
+      ]
+    },
+    {
+      "event_id": "evt-20261013-0054",
+      "seq": 54,
+      "item_id": "b1-film-duck",
+      "version": 2,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-13T21:23:56+08:00",
+      "reason": "补齐原始来源地址",
+      "changed_fields": [
+        "source_url"
+      ]
+    },
+    {
+      "event_id": "evt-20261013-0055",
+      "seq": 55,
+      "item_id": "b1-sci-perseverance",
+      "version": 2,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-13T21:23:56+08:00",
+      "reason": "许可证名称统一为Public domain；补齐原始来源地址",
+      "changed_fields": [
+        "license",
+        "source_url"
+      ]
+    },
+    {
+      "event_id": "evt-20261013-0056",
+      "seq": 56,
+      "item_id": "b1-sec-voa",
+      "version": 2,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-13T21:23:56+08:00",
+      "reason": "许可证名称统一为Public domain；补齐原始来源地址",
+      "changed_fields": [
+        "license",
+        "source_url"
+      ]
+    },
+    {
+      "event_id": "evt-20261013-0057",
+      "seq": 57,
+      "item_id": "b1-drone-ingenuity",
+      "version": 2,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-13T21:23:56+08:00",
+      "reason": "许可证名称统一为Public domain；补齐原始来源地址",
+      "changed_fields": [
+        "license",
+        "source_url"
+      ]
+    },
+    {
+      "event_id": "evt-20261013-0058",
+      "seq": 58,
+      "item_id": "b1-drone-ingenuity",
+      "version": 3,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-13T21:38:01+08:00",
+      "reason": "921MB母带超128MB上限，改交60秒720p成品（7MB）；影像类型标注为混合（仿真+实拍+动画+采访）",
+      "changed_fields": [
+        "download_url",
+        "summary_cn",
+        "reels_angle"
+      ]
+    },
+    {
+      "event_id": "evt-20261013-0059",
+      "seq": 59,
+      "item_id": "ai-pelkey-impact-statement",
+      "version": 3,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-13T22:32:15+08:00",
+      "reason": "回填影像类型/事件日期/拍摄日期/原始上传日期；增加精华截取建议（看片精选）",
+      "changed_fields": [
+        "structured_fields",
+        "_recommended_segment"
+      ]
+    },
+    {
+      "event_id": "evt-20261013-0060",
+      "seq": 60,
+      "item_id": "arcade-gov-flappy",
+      "version": 3,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-13T22:32:15+08:00",
+      "reason": "回填影像类型/事件日期/拍摄日期/原始上传日期",
+      "changed_fields": [
+        "structured_fields"
+      ]
+    },
+    {
+      "event_id": "evt-20261013-0061",
+      "seq": 61,
+      "item_id": "b1-ai-arm",
+      "version": 2,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-13T22:32:15+08:00",
+      "reason": "回填影像类型/事件日期/拍摄日期/原始上传日期",
+      "changed_fields": [
+        "structured_fields"
+      ]
+    },
+    {
+      "event_id": "evt-20261013-0062",
+      "seq": 62,
+      "item_id": "b1-art-painting",
+      "version": 2,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-13T22:32:15+08:00",
+      "reason": "回填影像类型/事件日期/拍摄日期/原始上传日期；增加精华截取建议（看片精选）",
+      "changed_fields": [
+        "structured_fields",
+        "_recommended_segment"
+      ]
+    },
+    {
+      "event_id": "evt-20261013-0063",
+      "seq": 63,
+      "item_id": "b1-crypto-btc",
+      "version": 2,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-13T22:32:15+08:00",
+      "reason": "回填影像类型/事件日期/拍摄日期/原始上传日期；增加精华截取建议（看片精选）",
+      "changed_fields": [
+        "structured_fields",
+        "_recommended_segment"
+      ]
+    },
+    {
+      "event_id": "evt-20261013-0064",
+      "seq": 64,
+      "item_id": "b1-drone-ingenuity",
+      "version": 4,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-13T22:32:15+08:00",
+      "reason": "回填影像类型/事件日期/拍摄日期/原始上传日期",
+      "changed_fields": [
+        "structured_fields"
+      ]
+    },
+    {
+      "event_id": "evt-20261013-0065",
+      "seq": 65,
+      "item_id": "b1-film-duck",
+      "version": 3,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-13T22:32:15+08:00",
+      "reason": "回填影像类型/事件日期/拍摄日期/原始上传日期；增加精华截取建议（看片精选）",
+      "changed_fields": [
+        "structured_fields",
+        "_recommended_segment"
+      ]
+    },
+    {
+      "event_id": "evt-20261013-0066",
+      "seq": 66,
+      "item_id": "b1-game-room",
+      "version": 2,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-13T22:32:15+08:00",
+      "reason": "回填影像类型/事件日期/拍摄日期/原始上传日期；增加精华截取建议（看片精选）",
+      "changed_fields": [
+        "structured_fields",
+        "_recommended_segment"
+      ]
+    },
+    {
+      "event_id": "evt-20261013-0067",
+      "seq": 67,
+      "item_id": "b1-sci-perseverance",
+      "version": 3,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-13T22:32:15+08:00",
+      "reason": "回填影像类型/事件日期/拍摄日期/原始上传日期；增加精华截取建议（看片精选）",
+      "changed_fields": [
+        "structured_fields",
+        "_recommended_segment"
+      ]
+    },
+    {
+      "event_id": "evt-20261013-0068",
+      "seq": 68,
+      "item_id": "b1-sec-voa",
+      "version": 3,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-13T22:32:15+08:00",
+      "reason": "回填影像类型/事件日期/拍摄日期/原始上传日期",
+      "changed_fields": [
+        "structured_fields"
+      ]
+    },
+    {
+      "event_id": "evt-20261013-0069",
+      "seq": 69,
+      "item_id": "b1-sport-stadium",
+      "version": 2,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-13T22:32:15+08:00",
+      "reason": "回填影像类型/事件日期/拍摄日期/原始上传日期；增加精华截取建议（看片精选）",
+      "changed_fields": [
+        "structured_fields",
+        "_recommended_segment"
+      ]
+    },
+    {
+      "event_id": "evt-20261013-0070",
+      "seq": 70,
+      "item_id": "b2-ai-robot",
+      "version": 2,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-13T22:32:15+08:00",
+      "reason": "回填影像类型/事件日期/拍摄日期/原始上传日期",
+      "changed_fields": [
+        "structured_fields"
+      ]
+    },
+    {
+      "event_id": "evt-20261013-0071",
+      "seq": 71,
+      "item_id": "b2-art-pumpkin",
+      "version": 2,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-13T22:32:15+08:00",
+      "reason": "回填影像类型/事件日期/拍摄日期/原始上传日期；增加精华截取建议（看片精选）",
+      "changed_fields": [
+        "structured_fields",
+        "_recommended_segment"
+      ]
+    },
+    {
+      "event_id": "evt-20261013-0072",
+      "seq": 72,
+      "item_id": "b2-crypto-ebsi",
+      "version": 2,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-13T22:32:15+08:00",
+      "reason": "回填影像类型/事件日期/拍摄日期/原始上传日期；增加精华截取建议（看片精选）",
+      "changed_fields": [
+        "structured_fields",
+        "_recommended_segment"
+      ]
+    },
+    {
+      "event_id": "evt-20261013-0073",
+      "seq": 73,
+      "item_id": "b2-drone-blm",
+      "version": 3,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-13T22:32:15+08:00",
+      "reason": "回填影像类型/事件日期/拍摄日期/原始上传日期",
+      "changed_fields": [
+        "structured_fields"
+      ]
+    },
+    {
+      "event_id": "evt-20261013-0074",
+      "seq": 74,
+      "item_id": "b2-film-notld",
+      "version": 3,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-13T22:32:15+08:00",
+      "reason": "回填影像类型/事件日期/拍摄日期/原始上传日期；增加精华截取建议（看片精选）",
+      "changed_fields": [
+        "structured_fields",
+        "_recommended_segment"
+      ]
+    },
+    {
+      "event_id": "evt-20261013-0075",
+      "seq": 75,
+      "item_id": "b2-game-arcade",
+      "version": 2,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-13T22:32:15+08:00",
+      "reason": "回填影像类型/事件日期/拍摄日期/原始上传日期；增加精华截取建议（看片精选）",
+      "changed_fields": [
+        "structured_fields",
+        "_recommended_segment"
+      ]
+    },
+    {
+      "event_id": "evt-20261013-0076",
+      "seq": 76,
+      "item_id": "b2-news-euro",
+      "version": 2,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-13T22:32:15+08:00",
+      "reason": "回填影像类型/事件日期/拍摄日期/原始上传日期；增加精华截取建议（看片精选）",
+      "changed_fields": [
+        "structured_fields",
+        "_recommended_segment"
+      ]
+    },
+    {
+      "event_id": "evt-20261013-0077",
+      "seq": 77,
+      "item_id": "b2-sci-snoopy",
+      "version": 3,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-13T22:32:15+08:00",
+      "reason": "回填影像类型/事件日期/拍摄日期/原始上传日期；增加精华截取建议（看片精选）",
+      "changed_fields": [
+        "structured_fields",
+        "_recommended_segment"
+      ]
+    },
+    {
+      "event_id": "evt-20261013-0078",
+      "seq": 78,
+      "item_id": "b2-sec-voiceclone",
+      "version": 2,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-13T22:32:15+08:00",
+      "reason": "回填影像类型/事件日期/拍摄日期/原始上传日期；增加精华截取建议（看片精选）",
+      "changed_fields": [
+        "structured_fields",
+        "_recommended_segment"
+      ]
+    },
+    {
+      "event_id": "evt-20261013-0079",
+      "seq": 79,
+      "item_id": "b2-sport-ws1959",
+      "version": 3,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-13T22:32:15+08:00",
+      "reason": "回填影像类型/事件日期/拍摄日期/原始上传日期；增加精华截取建议（看片精选）",
+      "changed_fields": [
+        "structured_fields",
+        "_recommended_segment"
+      ]
+    },
+    {
+      "event_id": "evt-20261013-0080",
+      "seq": 80,
+      "item_id": "c1-aerial-firefighting",
+      "version": 3,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-13T22:32:15+08:00",
+      "reason": "回填影像类型/事件日期/拍摄日期/原始上传日期；增加精华截取建议（看片精选）",
+      "changed_fields": [
+        "structured_fields",
+        "_recommended_segment"
+      ]
+    },
+    {
+      "event_id": "evt-20261013-0081",
+      "seq": 81,
+      "item_id": "c1-hurricane-maria-sat",
+      "version": 3,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-13T22:32:15+08:00",
+      "reason": "回填影像类型/事件日期/拍摄日期/原始上传日期",
+      "changed_fields": [
+        "structured_fields"
+      ]
+    },
+    {
+      "event_id": "evt-20261013-0082",
+      "seq": 82,
+      "item_id": "c1-romanians-vote-queue",
+      "version": 3,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-13T22:32:15+08:00",
+      "reason": "回填影像类型/事件日期/拍摄日期/原始上传日期；增加精华截取建议（看片精选）",
+      "changed_fields": [
+        "structured_fields",
+        "_recommended_segment"
+      ]
+    },
+    {
+      "event_id": "evt-20261013-0083",
+      "seq": 83,
+      "item_id": "c1-satyarthi-nobel",
+      "version": 3,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-13T22:32:15+08:00",
+      "reason": "回填影像类型/事件日期/拍摄日期/原始上传日期；增加精华截取建议（看片精选）",
+      "changed_fields": [
+        "structured_fields",
+        "_recommended_segment"
+      ]
+    },
+    {
+      "event_id": "evt-20261013-0084",
+      "seq": 84,
+      "item_id": "c1-scam-watch-ftc",
+      "version": 3,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-13T22:32:15+08:00",
+      "reason": "回填影像类型/事件日期/拍摄日期/原始上传日期；增加精华截取建议（看片精选）",
+      "changed_fields": [
+        "structured_fields",
+        "_recommended_segment"
+      ]
+    },
+    {
+      "event_id": "evt-20261013-0085",
+      "seq": 85,
+      "item_id": "c2-archive-scan-robot",
+      "version": 3,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-13T22:32:15+08:00",
+      "reason": "回填影像类型/事件日期/拍摄日期/原始上传日期；增加精华截取建议（看片精选）",
+      "changed_fields": [
+        "structured_fields",
+        "_recommended_segment"
+      ]
+    },
+    {
+      "event_id": "evt-20261013-0086",
+      "seq": 86,
+      "item_id": "c2-oakland-oaks-1918",
+      "version": 3,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-13T22:32:15+08:00",
+      "reason": "回填影像类型/事件日期/拍摄日期/原始上传日期；增加精华截取建议（看片精选）",
+      "changed_fields": [
+        "structured_fields",
+        "_recommended_segment"
+      ]
+    },
+    {
+      "event_id": "evt-20261013-0087",
+      "seq": 87,
+      "item_id": "c2-sdo-x54-flare",
+      "version": 3,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-13T22:32:15+08:00",
+      "reason": "回填影像类型/事件日期/拍摄日期/原始上传日期；增加精华截取建议（看片精选）",
+      "changed_fields": [
+        "structured_fields",
+        "_recommended_segment"
+      ]
+    },
+    {
+      "event_id": "evt-20261013-0088",
+      "seq": 88,
+      "item_id": "c2-x45a-ucav-demo",
+      "version": 3,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-13T22:32:15+08:00",
+      "reason": "回填影像类型/事件日期/拍摄日期/原始上传日期；增加精华截取建议（看片精选）",
+      "changed_fields": [
+        "structured_fields",
+        "_recommended_segment"
+      ]
+    },
+    {
+      "event_id": "evt-20261013-0089",
+      "seq": 89,
+      "item_id": "drone-spain-eclipse-2026",
+      "version": 3,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-13T22:32:15+08:00",
+      "reason": "回填影像类型/事件日期/拍摄日期/原始上传日期；增加精华截取建议（看片精选）",
+      "changed_fields": [
+        "structured_fields",
+        "_recommended_segment"
+      ]
+    },
+    {
+      "event_id": "evt-20261013-0090",
+      "seq": 90,
+      "item_id": "nasa-apophis-flyby-vertical",
+      "version": 3,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-13T22:32:15+08:00",
+      "reason": "回填影像类型/事件日期/拍摄日期/原始上传日期",
+      "changed_fields": [
+        "structured_fields"
+      ]
+    },
+    {
+      "event_id": "evt-20261013-0091",
+      "seq": 91,
+      "item_id": "texas-tn-football-game",
+      "version": 3,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-13T22:32:15+08:00",
+      "reason": "回填影像类型/事件日期/拍摄日期/原始上传日期",
+      "changed_fields": [
+        "structured_fields"
+      ]
+    },
+    {
+      "event_id": "evt-20261013-0092",
+      "seq": 92,
+      "item_id": "wh-trump-accounts-5000",
+      "version": 3,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-13T22:32:15+08:00",
+      "reason": "回填影像类型/事件日期/拍摄日期/原始上传日期",
+      "changed_fields": [
+        "structured_fields"
+      ]
+    },
+    {
+      "event_id": "evt-20261014-0093",
+      "seq": 93,
+      "item_id": "ai-pelkey-impact-statement",
+      "version": 4,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-14T03:39:32+08:00",
+      "reason": "补齐事件日期/拍摄日期（回填时未知，现已从Commons文件页核实）: 事件日期2025-05-01取自Commons文件页ImageDescription原文“During the sentencing of the shooter on 5/1/25”；拍摄日期2025-05-05为文件页extmetadata DateTimeOriginal",
+      "changed_fields": [
+        "_event_date",
+        "_filmed_date"
+      ]
+    },
+    {
+      "event_id": "evt-20261014-0094",
+      "seq": 94,
+      "item_id": "texas-tn-football-game",
+      "version": 4,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-14T03:39:32+08:00",
+      "reason": "补齐事件日期/拍摄日期（回填时未知，现已从Commons文件页核实）: 白宫官方视频，文件页分类“Videos taken on 2026-09-27”，extmetadata DateTimeOriginal=2026-09-27，上传同日",
+      "changed_fields": [
+        "_event_date",
+        "_filmed_date"
+      ]
+    },
+    {
+      "event_id": "evt-20261014-0095",
+      "seq": 95,
+      "item_id": "c100-suas-strike-training",
+      "version": 1,
+      "type": "added",
+      "status": "active",
+      "occurred_at": "2026-10-14T08:57:24+08:00",
+      "reason": "每日采集入库：美军C100无人机打击训练实拍（陆军官方）",
+      "changed_fields": null
+    },
+    {
+      "event_id": "evt-20261014-0096",
+      "seq": 96,
+      "item_id": "ai-evolution-humanity-tech",
+      "version": 1,
+      "type": "added",
+      "status": "active",
+      "occurred_at": "2026-10-14T08:57:24+08:00",
+      "reason": "每日采集入库：AI生成短片：人类与科技的演化之旅",
+      "changed_fields": null
+    },
+    {
+      "event_id": "evt-20261014-0097",
+      "seq": 97,
+      "item_id": "nasa-minute-20261010",
+      "version": 1,
+      "type": "added",
+      "status": "active",
+      "occurred_at": "2026-10-14T08:57:24+08:00",
+      "reason": "每日采集入库：NASA一周速览（10月10日）：Artemis II与空间站",
+      "changed_fields": null
+    },
+    {
+      "event_id": "evt-20261014-0098",
+      "seq": 98,
+      "item_id": "fbi-shinyhunters-arrest",
+      "version": 1,
+      "type": "added",
+      "status": "active",
+      "occurred_at": "2026-10-14T08:57:24+08:00",
+      "reason": "每日采集入库：FBI宣布逮捕黑客组织ShinyHunters头目",
+      "changed_fields": null
+    },
+    {
+      "event_id": "evt-20261014-0099",
+      "seq": 99,
+      "item_id": "milk-pinball-ad-70s",
+      "version": 1,
+      "type": "added",
+      "status": "active",
+      "occurred_at": "2026-10-14T08:57:24+08:00",
+      "reason": "每日采集入库：70年代牛奶广告：弹球机复古风",
+      "changed_fields": null
+    },
+    {
+      "event_id": "evt-20261014-0100",
+      "seq": 100,
+      "item_id": "jazz-rhythm-1930",
+      "version": 1,
+      "type": "added",
+      "status": "active",
+      "occurred_at": "2026-10-14T08:57:24+08:00",
+      "reason": "每日采集入库：1930年黑白卡通《Jazz Rhythm》片段",
+      "changed_fields": null
+    },
+    {
+      "event_id": "evt-20261014-0101",
+      "seq": 101,
+      "item_id": "olympiaturm-munich-2024",
+      "version": 1,
+      "type": "added",
+      "status": "active",
+      "occurred_at": "2026-10-14T08:57:24+08:00",
+      "reason": "每日采集入库：慕尼黑奥林匹克塔竖屏短片（291米）",
+      "changed_fields": null
+    },
+    {
+      "event_id": "evt-20261014-0102",
+      "seq": 102,
+      "item_id": "revoy-kynitia-timelapse",
+      "version": 1,
+      "type": "added",
+      "status": "active",
+      "occurred_at": "2026-10-14T08:57:24+08:00",
+      "reason": "每日采集入库：数字绘画延时：David Revoy画《Kynitia》",
+      "changed_fields": null
+    },
+    {
+      "event_id": "evt-20261014-0103",
+      "seq": 103,
+      "item_id": "ineq-america-billionaires",
+      "version": 1,
+      "type": "added",
+      "status": "active",
+      "occurred_at": "2026-10-14T08:57:24+08:00",
+      "reason": "每日采集入库：美国贫富差距动画：亿万富翁的税率",
+      "changed_fields": null
+    },
+    {
+      "event_id": "evt-20261014-0104",
+      "seq": 104,
+      "item_id": "test-retraction-01",
+      "version": 1,
+      "type": "added",
+      "status": "active",
+      "occurred_at": "2026-10-14T10:53:24+08:00",
+      "reason": "联调测试：撤回流程验证专用素材入库（is_test=true，不用于正式发布）",
+      "changed_fields": null,
+      "is_test": true
+    },
+    {
+      "event_id": "evt-20261014-0105",
+      "seq": 105,
+      "item_id": "test-retraction-01",
+      "version": 2,
+      "type": "retracted",
+      "status": "retracted",
+      "occurred_at": "2026-10-14T11:14:55+08:00",
+      "reason": "联调测试：执行撤回验证第2步，测试素材撤回（is_test=true，不用于正式发布）",
+      "changed_fields": [
+        "status",
+        "version"
+      ],
+      "is_test": true,
+      "_retracted": {
+        "reason": "联调测试撤回验证",
+        "retracted_at": "2026-10-14T11:14:55+08:00"
+      }
+    },
+    {
+      "event_id": "evt-20261014-0106",
+      "seq": 106,
+      "item_id": "nasa-minute-20261010",
+      "version": 2,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-14T16:38:19+08:00",
+      "reason": "联调修正：_recommended_segment 由数组改为约定的对象格式（秒数不变）",
+      "changed_fields": [
+        "_recommended_segment"
+      ]
+    },
+    {
+      "event_id": "evt-20261014-0107",
+      "seq": 107,
+      "item_id": "fbi-shinyhunters-arrest",
+      "version": 2,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-14T16:38:19+08:00",
+      "reason": "联调修正：_recommended_segment 由数组改为约定的对象格式（秒数不变）",
+      "changed_fields": [
+        "_recommended_segment"
+      ]
+    },
+    {
+      "event_id": "evt-20261014-0108",
+      "seq": 108,
+      "item_id": "jazz-rhythm-1930",
+      "version": 2,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-14T16:38:19+08:00",
+      "reason": "联调修正：_recommended_segment 由数组改为约定的对象格式（秒数不变）",
+      "changed_fields": [
+        "_recommended_segment"
+      ]
+    },
+    {
+      "event_id": "evt-20261014-0109",
+      "seq": 109,
+      "item_id": "revoy-kynitia-timelapse",
+      "version": 2,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-14T16:38:19+08:00",
+      "reason": "联调修正：_recommended_segment 由数组改为约定的对象格式（秒数不变）",
+      "changed_fields": [
+        "_recommended_segment"
+      ]
+    },
+    {
+      "event_id": "evt-20261014-0110",
+      "seq": 110,
+      "item_id": "ineq-america-billionaires",
+      "version": 2,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-14T16:38:19+08:00",
+      "reason": "联调修正：_recommended_segment 由数组改为约定的对象格式（秒数不变）",
+      "changed_fields": [
+        "_recommended_segment"
+      ]
+    },
+    {
+      "event_id": "evt-20261014-0111",
+      "seq": 111,
+      "item_id": "nasa-minute-20261010",
+      "version": 3,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-14T16:41:24+08:00",
+      "reason": "联调补充：公有领域授权依据（_authorization）与作者核实",
+      "changed_fields": [
+        "_authorization",
+        "author"
+      ]
+    },
+    {
+      "event_id": "evt-20261014-0112",
+      "seq": 112,
+      "item_id": "nasa-apophis-flyby-vertical",
+      "version": 4,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-14T16:41:24+08:00",
+      "reason": "联调补充：公有领域授权依据（_authorization）与作者核实",
+      "changed_fields": [
+        "_authorization",
+        "author"
+      ]
+    },
+    {
+      "event_id": "evt-20261014-0113",
+      "seq": 113,
+      "item_id": "c2-sdo-x54-flare",
+      "version": 4,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-14T16:41:24+08:00",
+      "reason": "联调补充：公有领域授权依据（_authorization）与作者核实",
+      "changed_fields": [
+        "_authorization",
+        "author"
+      ]
+    },
+    {
+      "event_id": "evt-20261014-0114",
+      "seq": 114,
+      "item_id": "c1-hurricane-maria-sat",
+      "version": 4,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-14T16:41:24+08:00",
+      "reason": "联调补充：公有领域授权依据（_authorization）与作者核实",
+      "changed_fields": [
+        "_authorization",
+        "author"
+      ]
+    },
+    {
+      "event_id": "evt-20261014-0115",
+      "seq": 115,
+      "item_id": "b2-sci-snoopy",
+      "version": 4,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-14T16:41:24+08:00",
+      "reason": "联调补充：公有领域授权依据（_authorization）与作者核实",
+      "changed_fields": [
+        "_authorization",
+        "author"
+      ]
+    },
+    {
+      "event_id": "evt-20261014-0116",
+      "seq": 116,
+      "item_id": "b1-sci-perseverance",
+      "version": 4,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-14T16:41:24+08:00",
+      "reason": "联调补充：公有领域授权依据（_authorization）与作者核实",
+      "changed_fields": [
+        "_authorization",
+        "author"
+      ]
+    },
+    {
+      "event_id": "evt-20261014-0117",
+      "seq": 117,
+      "item_id": "b1-drone-ingenuity",
+      "version": 5,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-14T16:41:24+08:00",
+      "reason": "联调补充：公有领域授权依据（_authorization）与作者核实",
+      "changed_fields": [
+        "_authorization",
+        "author"
+      ]
+    },
+    {
+      "event_id": "evt-20261014-0118",
+      "seq": 118,
+      "item_id": "c2-archive-scan-robot",
+      "version": 4,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-14T16:41:24+08:00",
+      "reason": "联调补充：公有领域授权依据（_authorization）与作者核实",
+      "changed_fields": [
+        "_authorization",
+        "author"
+      ]
+    },
+    {
+      "event_id": "evt-20261014-0119",
+      "seq": 119,
+      "item_id": "c100-suas-strike-training",
+      "version": 2,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-14T16:42:29+08:00",
+      "reason": "联调补充：公有领域授权依据（_authorization）与作者核实",
+      "changed_fields": [
+        "_authorization",
+        "author"
+      ]
+    },
+    {
+      "event_id": "evt-20261014-0120",
+      "seq": 120,
+      "item_id": "fbi-shinyhunters-arrest",
+      "version": 3,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-14T16:42:29+08:00",
+      "reason": "联调补充：公有领域授权依据（_authorization）与作者核实",
+      "changed_fields": [
+        "_authorization"
+      ]
+    },
+    {
+      "event_id": "evt-20261014-0121",
+      "seq": 121,
+      "item_id": "wh-trump-accounts-5000",
+      "version": 4,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-14T16:42:29+08:00",
+      "reason": "联调补充：公有领域授权依据（_authorization）与作者核实",
+      "changed_fields": [
+        "_authorization"
+      ]
+    },
+    {
+      "event_id": "evt-20261014-0122",
+      "seq": 122,
+      "item_id": "texas-tn-football-game",
+      "version": 5,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-14T16:42:29+08:00",
+      "reason": "联调补充：公有领域授权依据（_authorization）与作者核实",
+      "changed_fields": [
+        "_authorization"
+      ]
+    },
+    {
+      "event_id": "evt-20261014-0123",
+      "seq": 123,
+      "item_id": "arcade-gov-flappy",
+      "version": 4,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-14T16:42:29+08:00",
+      "reason": "联调补充：公有领域授权依据（_authorization）与作者核实",
+      "changed_fields": [
+        "_authorization"
+      ]
+    },
+    {
+      "event_id": "evt-20261014-0124",
+      "seq": 124,
+      "item_id": "c1-scam-watch-ftc",
+      "version": 4,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-14T16:42:29+08:00",
+      "reason": "联调补充：公有领域授权依据（_authorization）与作者核实",
+      "changed_fields": [
+        "_authorization",
+        "author"
+      ]
+    },
+    {
+      "event_id": "evt-20261014-0125",
+      "seq": 125,
+      "item_id": "b2-drone-blm",
+      "version": 4,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-14T16:42:29+08:00",
+      "reason": "联调补充：公有领域授权依据（_authorization）与作者核实",
+      "changed_fields": [
+        "_authorization",
+        "author"
+      ]
+    },
+    {
+      "event_id": "evt-20261014-0126",
+      "seq": 126,
+      "item_id": "b1-sec-voa",
+      "version": 4,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-14T16:42:29+08:00",
+      "reason": "联调补充：公有领域授权依据（_authorization）与作者核实",
+      "changed_fields": [
+        "_authorization",
+        "author"
+      ]
+    },
+    {
+      "event_id": "evt-20261014-0127",
+      "seq": 127,
+      "item_id": "c2-x45a-ucav-demo",
+      "version": 4,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-14T16:42:29+08:00",
+      "reason": "联调补充：公有领域授权依据（_authorization）与作者核实",
+      "changed_fields": [
+        "_authorization",
+        "author"
+      ]
+    },
+    {
+      "event_id": "evt-20261014-0128",
+      "seq": 128,
+      "item_id": "jazz-rhythm-1930",
+      "version": 3,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-14T16:43:34+08:00",
+      "reason": "联调补充：公有领域授权依据（_authorization）与作者核实",
+      "changed_fields": [
+        "_authorization",
+        "author"
+      ]
+    },
+    {
+      "event_id": "evt-20261014-0129",
+      "seq": 129,
+      "item_id": "c2-oakland-oaks-1918",
+      "version": 4,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-14T16:43:34+08:00",
+      "reason": "联调补充：公有领域授权依据（_authorization）与作者核实",
+      "changed_fields": [
+        "_authorization",
+        "author"
+      ]
+    },
+    {
+      "event_id": "evt-20261014-0130",
+      "seq": 130,
+      "item_id": "b2-film-notld",
+      "version": 4,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-14T16:43:34+08:00",
+      "reason": "联调补充：公有领域授权依据（_authorization）与作者核实",
+      "changed_fields": [
+        "_authorization",
+        "author"
+      ]
+    },
+    {
+      "event_id": "evt-20261014-0131",
+      "seq": 131,
+      "item_id": "b2-sport-ws1959",
+      "version": 4,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-14T16:43:34+08:00",
+      "reason": "联调补充：公有领域授权依据（_authorization）与作者核实",
+      "changed_fields": [
+        "_authorization",
+        "author"
+      ]
+    },
+    {
+      "event_id": "evt-20261014-0132",
+      "seq": 132,
+      "item_id": "b1-film-duck",
+      "version": 4,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-14T16:43:34+08:00",
+      "reason": "联调补充：公有领域授权依据（_authorization）与作者核实",
+      "changed_fields": [
+        "_authorization",
+        "author"
+      ]
+    },
+    {
+      "event_id": "evt-20261014-0133",
+      "seq": 133,
+      "item_id": "ai-pelkey-impact-statement",
+      "version": 5,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-14T16:43:34+08:00",
+      "reason": "联调补充：作者核实（Stacey Wales）；公有领域依据仍待查",
+      "changed_fields": [
+        "author"
+      ]
+    },
+    {
+      "event_id": "evt-20261014-0134",
+      "seq": 134,
+      "item_id": "c1-satyarthi-nobel",
+      "version": 4,
+      "type": "retracted",
+      "status": "retracted",
+      "occurred_at": "2026-10-14T16:55:06+08:00",
+      "reason": "版权存疑撤回：来源页显示该动画由多许可图片合成（含CC BY-SA、GFDL等非公有领域素材），与Public domain声明矛盾，无法提供有效PD依据",
+      "changed_fields": [
+        "status",
+        "version"
+      ],
+      "_retracted": {
+        "reason": "版权存疑：公有领域声明与来源页记载矛盾",
+        "retracted_at": "2026-10-14T16:55:06+08:00"
+      }
+    },
+    {
+      "event_id": "evt-20261014-0135",
+      "seq": 135,
+      "item_id": "ineq-america-billionaires",
+      "version": 3,
+      "type": "retracted",
+      "status": "retracted",
+      "occurred_at": "2026-10-14T16:55:06+08:00",
+      "reason": "版权存疑撤回：核查发现该素材实为2026年商业动画（YouTube频道politizane《Inequality in America》系列），未见作者释出公有领域声明，Public domain标注依据不明",
+      "changed_fields": [
+        "status",
+        "version"
+      ],
+      "_retracted": {
+        "reason": "版权存疑：公有领域声明与来源页记载矛盾",
+        "retracted_at": "2026-10-14T16:55:06+08:00"
+      }
+    },
+    {
+      "event_id": "evt-20261014-0136",
+      "seq": 136,
+      "item_id": "nasa-apophis-flyby-vertical",
+      "version": 5,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-14T17:09:57+08:00",
+      "reason": "联调补署名：NASA SVS官方要求署名“NASA's Goddard Space Flight Center Conceptual Image Lab”，_attribution补完整文字，_authorization.attribution_required=true",
+      "changed_fields": [
+        "attribution",
+        "_authorization"
+      ]
+    },
+    {
+      "event_id": "evt-20261014-0137",
+      "seq": 137,
+      "item_id": "ai-pelkey-impact-statement",
+      "version": 6,
+      "type": "retracted",
+      "status": "retracted",
+      "occurred_at": "2026-10-14T17:14:29+08:00",
+      "reason": "版权存疑撤回：文件页PD-algorithm模板要求“无人类独创性”，但同一文件页描述记载脚本由Stacey Wales编写、图片人工搜集、音频取自生前采访、经数小时精心编辑，两者互斥，PD标注不成立；权利人未释出免费许可",
+      "changed_fields": [
+        "status",
+        "version"
+      ],
+      "_retracted": {
+        "reason": "版权存疑撤回",
+        "retracted_at": "2026-10-14T17:14:29+08:00"
+      }
+    },
+    {
+      "event_id": "evt-20261014-0138",
+      "seq": 138,
+      "item_id": "ai-evolution-humanity-tech",
+      "version": 2,
+      "type": "retracted",
+      "status": "retracted",
+      "occurred_at": "2026-10-14T17:14:29+08:00",
+      "reason": "文件失效撤回：该文件已于2026-10-14被Commons管理员删除，下载地址与文件页均返回404，无法交付；且许可状态无法核实",
+      "changed_fields": [
+        "status",
+        "version"
+      ],
+      "_retracted": {
+        "reason": "文件失效撤回",
+        "retracted_at": "2026-10-14T17:14:29+08:00"
+      }
+    },
+    {
+      "event_id": "evt-20261014-0139",
+      "seq": 139,
+      "item_id": "milk-pinball-ad-70s",
+      "version": 2,
+      "type": "retracted",
+      "status": "retracted",
+      "occurred_at": "2026-10-14T17:14:29+08:00",
+      "reason": "版权存疑撤回：70年代电视广告，主张的PD-US-1978-89依据仅为上传者单方主张，无“出版时未附版权声明”的实证，无法确认公有领域；按零风险策略撤回",
+      "changed_fields": [
+        "status",
+        "version"
+      ],
+      "_retracted": {
+        "reason": "版权存疑撤回",
+        "retracted_at": "2026-10-14T17:14:29+08:00"
+      }
+    },
+    {
+      "event_id": "evt-20261015-0140",
+      "seq": 140,
+      "item_id": "wh-biden-inflation-reduction-remarks",
+      "version": 1,
+      "type": "added",
+      "status": "active",
+      "occurred_at": "2026-10-15T08:45:00+08:00",
+      "reason": "新增入库：新闻/财经垂类：白宫官方PD，白宫YouTube发布拜登就《通胀削减法案》发表讲话（2022），挂钩本周美国9月CPI超预期+社保金上调新闻；精华窗口[5,50]",
+      "changed_fields": [
+        "__added__"
+      ]
+    },
+    {
+      "event_id": "evt-20261015-0141",
+      "seq": 141,
+      "item_id": "wales-trust-ai-klf2026",
+      "version": 1,
+      "type": "added",
+      "status": "active",
+      "occurred_at": "2026-10-15T08:45:00+08:00",
+      "reason": "新增入库：AI垂类：CC BY-SA 4.0，DC Books发布吉米·威尔士KLF 2026对谈《Can We Trust AI》；母带321MB超128MiB红线，已自剪45秒720p成品（clips/a2_wales_clip.mp4）交付，主地址指向成品，母带记_master_url；挂钩本周AI代理晚宴+8州诉OpenAI新闻",
+      "changed_fields": [
+        "__added__"
+      ]
+    },
+    {
+      "event_id": "evt-20261015-0142",
+      "seq": 142,
+      "item_id": "vp-vance-bitcoin2025",
+      "version": 1,
+      "type": "added",
+      "status": "active",
+      "occurred_at": "2026-10-15T08:45:00+08:00",
+      "reason": "新增入库：加密资产垂类：白宫官方PD竖屏短视频，万斯在2025比特币大会演讲，纯政策表态无诈骗/炒作元素；挂钩本周CPI致比特币跌破8.3万美元+美联储10月28日议息会议",
+      "changed_fields": [
+        "__added__"
+      ]
+    },
+    {
+      "event_id": "evt-20261015-0143",
+      "seq": 143,
+      "item_id": "robo-war-robot-car-gurugram",
+      "version": 1,
+      "type": "added",
+      "status": "active",
+      "occurred_at": "2026-10-15T08:45:00+08:00",
+      "reason": "新增入库：无人系统垂类：CC BY-SA 4.0，创客Dev Jadiya 2026-10-12上传的Robo War备赛自制遥控小车实拍，18秒竖屏",
+      "changed_fields": [
+        "__added__"
+      ]
+    },
+    {
+      "event_id": "evt-20261015-0144",
+      "seq": 144,
+      "item_id": "nasa-perseverance-how-drives",
+      "version": 1,
+      "type": "added",
+      "status": "active",
+      "occurred_at": "2026-10-15T08:45:00+08:00",
+      "reason": "新增入库：科学垂类：NASA JPL官方PD《How Perseverance Drives on Mars》（~large 104MB衍生版），混合采访+3D仿真；挂钩10/12毅力号创异星行驶里程纪录；精华窗口[95,140]",
+      "changed_fields": [
+        "__added__"
+      ]
+    },
+    {
+      "event_id": "evt-20261015-0145",
+      "seq": 145,
+      "item_id": "nbc-graceland-fraud-investigation",
+      "version": 1,
+      "type": "added",
+      "status": "active",
+      "occurred_at": "2026-10-15T08:45:00+08:00",
+      "reason": "新增入库：网络安全垂类：CC BY 3.0，NBC News竖屏调查《谁想偷走猫王的Graceland庄园》，防骗教育叙事；挂钩本周数字安全热点；精华窗口[5,50]",
+      "changed_fields": [
+        "__added__"
+      ]
+    },
+    {
+      "event_id": "evt-20261015-0146",
+      "seq": 146,
+      "item_id": "neogeo-mvs-restoration-parts",
+      "version": 1,
+      "type": "added",
+      "status": "active",
+      "occurred_at": "2026-10-15T08:45:00+08:00",
+      "reason": "新增入库：游戏垂类：CC BY 3.0，Retro Tech复古街机收藏开箱（Neo Geo MVS街机柜修复零件），无实机游玩主体内容；精华窗口[5,40]",
+      "changed_fields": [
+        "__added__"
+      ]
+    },
+    {
+      "event_id": "evt-20261015-0147",
+      "seq": 147,
+      "item_id": "prelinger-beanys-drive-in-1952",
+      "version": 1,
+      "type": "added",
+      "status": "active",
+      "occurred_at": "2026-10-15T08:45:00+08:00",
+      "reason": "新增入库：影视垂类：Prelinger Archives CC0释出的1952年汽车餐厅彩色家庭电影；以招牌“汉堡20美分”物价对比挂钩本周通胀新闻；精华窗口[120,180]",
+      "changed_fields": [
+        "__added__"
+      ]
+    },
+    {
+      "event_id": "evt-20261015-0148",
+      "seq": 148,
+      "item_id": "lathe-finland-woodworking",
+      "version": 1,
+      "type": "added",
+      "status": "active",
+      "occurred_at": "2026-10-15T08:45:00+08:00",
+      "reason": "新增入库：艺术设计垂类：Vikebe CC0释出的芬兰传统脚踏木工车床实拍，18秒竖屏，常青慢手艺选题",
+      "changed_fields": [
+        "__added__"
+      ]
+    },
+    {
+      "event_id": "evt-20261015-0149",
+      "seq": 149,
+      "item_id": "b2-film-notld",
+      "version": 5,
+      "type": "retracted",
+      "status": "retracted",
+      "occurred_at": "2026-10-15T14:55:54+08:00",
+      "reason": "内容太旧且不符合上游要求，经用户确认批量撤回",
+      "changed_fields": [
+        "status",
+        "version"
+      ],
+      "_retracted": {
+        "reason": "内容太旧且不符合上游要求",
+        "retracted_at": "2026-10-15T14:55:54+08:00"
+      }
+    },
+    {
+      "event_id": "evt-20261015-0150",
+      "seq": 150,
+      "item_id": "b2-sci-snoopy",
+      "version": 5,
+      "type": "retracted",
+      "status": "retracted",
+      "occurred_at": "2026-10-15T14:55:54+08:00",
+      "reason": "内容太旧且不符合上游要求，经用户确认批量撤回",
+      "changed_fields": [
+        "status",
+        "version"
+      ],
+      "_retracted": {
+        "reason": "内容太旧且不符合上游要求",
+        "retracted_at": "2026-10-15T14:55:54+08:00"
+      }
+    },
+    {
+      "event_id": "evt-20261015-0151",
+      "seq": 151,
+      "item_id": "b2-sec-voiceclone",
+      "version": 3,
+      "type": "retracted",
+      "status": "retracted",
+      "occurred_at": "2026-10-15T14:55:54+08:00",
+      "reason": "内容太旧且不符合上游要求，经用户确认批量撤回",
+      "changed_fields": [
+        "status",
+        "version"
+      ],
+      "_retracted": {
+        "reason": "内容太旧且不符合上游要求",
+        "retracted_at": "2026-10-15T14:55:54+08:00"
+      }
+    },
+    {
+      "event_id": "evt-20261015-0152",
+      "seq": 152,
+      "item_id": "b2-crypto-ebsi",
+      "version": 3,
+      "type": "retracted",
+      "status": "retracted",
+      "occurred_at": "2026-10-15T14:55:54+08:00",
+      "reason": "内容太旧且不符合上游要求，经用户确认批量撤回",
+      "changed_fields": [
+        "status",
+        "version"
+      ],
+      "_retracted": {
+        "reason": "内容太旧且不符合上游要求",
+        "retracted_at": "2026-10-15T14:55:54+08:00"
+      }
+    },
+    {
+      "event_id": "evt-20261015-0153",
+      "seq": 153,
+      "item_id": "b2-sport-ws1959",
+      "version": 5,
+      "type": "retracted",
+      "status": "retracted",
+      "occurred_at": "2026-10-15T14:55:54+08:00",
+      "reason": "内容太旧且不符合上游要求，经用户确认批量撤回",
+      "changed_fields": [
+        "status",
+        "version"
+      ],
+      "_retracted": {
+        "reason": "内容太旧且不符合上游要求",
+        "retracted_at": "2026-10-15T14:55:54+08:00"
+      }
+    },
+    {
+      "event_id": "evt-20261015-0154",
+      "seq": 154,
+      "item_id": "b2-drone-blm",
+      "version": 5,
+      "type": "retracted",
+      "status": "retracted",
+      "occurred_at": "2026-10-15T14:55:54+08:00",
+      "reason": "内容太旧且不符合上游要求，经用户确认批量撤回",
+      "changed_fields": [
+        "status",
+        "version"
+      ],
+      "_retracted": {
+        "reason": "内容太旧且不符合上游要求",
+        "retracted_at": "2026-10-15T14:55:54+08:00"
+      }
+    },
+    {
+      "event_id": "evt-20261015-0155",
+      "seq": 155,
+      "item_id": "b2-ai-robot",
+      "version": 3,
+      "type": "retracted",
+      "status": "retracted",
+      "occurred_at": "2026-10-15T14:55:54+08:00",
+      "reason": "内容太旧且不符合上游要求，经用户确认批量撤回",
+      "changed_fields": [
+        "status",
+        "version"
+      ],
+      "_retracted": {
+        "reason": "内容太旧且不符合上游要求",
+        "retracted_at": "2026-10-15T14:55:54+08:00"
+      }
+    },
+    {
+      "event_id": "evt-20261015-0156",
+      "seq": 156,
+      "item_id": "b2-art-pumpkin",
+      "version": 3,
+      "type": "retracted",
+      "status": "retracted",
+      "occurred_at": "2026-10-15T14:55:54+08:00",
+      "reason": "内容太旧且不符合上游要求，经用户确认批量撤回",
+      "changed_fields": [
+        "status",
+        "version"
+      ],
+      "_retracted": {
+        "reason": "内容太旧且不符合上游要求",
+        "retracted_at": "2026-10-15T14:55:54+08:00"
+      }
+    },
+    {
+      "event_id": "evt-20261015-0157",
+      "seq": 157,
+      "item_id": "b2-news-euro",
+      "version": 3,
+      "type": "retracted",
+      "status": "retracted",
+      "occurred_at": "2026-10-15T14:55:54+08:00",
+      "reason": "内容太旧且不符合上游要求，经用户确认批量撤回",
+      "changed_fields": [
+        "status",
+        "version"
+      ],
+      "_retracted": {
+        "reason": "内容太旧且不符合上游要求",
+        "retracted_at": "2026-10-15T14:55:54+08:00"
+      }
+    },
+    {
+      "event_id": "evt-20261015-0158",
+      "seq": 158,
+      "item_id": "b2-game-arcade",
+      "version": 3,
+      "type": "retracted",
+      "status": "retracted",
+      "occurred_at": "2026-10-15T14:55:54+08:00",
+      "reason": "内容太旧且不符合上游要求，经用户确认批量撤回",
+      "changed_fields": [
+        "status",
+        "version"
+      ],
+      "_retracted": {
+        "reason": "内容太旧且不符合上游要求",
+        "retracted_at": "2026-10-15T14:55:54+08:00"
+      }
+    },
+    {
+      "event_id": "evt-20261015-0159",
+      "seq": 159,
+      "item_id": "b1-film-duck",
+      "version": 5,
+      "type": "retracted",
+      "status": "retracted",
+      "occurred_at": "2026-10-15T14:55:54+08:00",
+      "reason": "内容太旧且不符合上游要求，经用户确认批量撤回",
+      "changed_fields": [
+        "status",
+        "version"
+      ],
+      "_retracted": {
+        "reason": "内容太旧且不符合上游要求",
+        "retracted_at": "2026-10-15T14:55:54+08:00"
+      }
+    },
+    {
+      "event_id": "evt-20261015-0160",
+      "seq": 160,
+      "item_id": "b1-ai-arm",
+      "version": 3,
+      "type": "retracted",
+      "status": "retracted",
+      "occurred_at": "2026-10-15T14:55:54+08:00",
+      "reason": "内容太旧且不符合上游要求，经用户确认批量撤回",
+      "changed_fields": [
+        "status",
+        "version"
+      ],
+      "_retracted": {
+        "reason": "内容太旧且不符合上游要求",
+        "retracted_at": "2026-10-15T14:55:54+08:00"
+      }
+    },
+    {
+      "event_id": "evt-20261015-0161",
+      "seq": 161,
+      "item_id": "b1-game-room",
+      "version": 3,
+      "type": "retracted",
+      "status": "retracted",
+      "occurred_at": "2026-10-15T14:55:54+08:00",
+      "reason": "内容太旧且不符合上游要求，经用户确认批量撤回",
+      "changed_fields": [
+        "status",
+        "version"
+      ],
+      "_retracted": {
+        "reason": "内容太旧且不符合上游要求",
+        "retracted_at": "2026-10-15T14:55:54+08:00"
+      }
+    },
+    {
+      "event_id": "evt-20261015-0162",
+      "seq": 162,
+      "item_id": "b1-crypto-btc",
+      "version": 3,
+      "type": "retracted",
+      "status": "retracted",
+      "occurred_at": "2026-10-15T14:55:54+08:00",
+      "reason": "内容太旧且不符合上游要求，经用户确认批量撤回",
+      "changed_fields": [
+        "status",
+        "version"
+      ],
+      "_retracted": {
+        "reason": "内容太旧且不符合上游要求",
+        "retracted_at": "2026-10-15T14:55:54+08:00"
+      }
+    },
+    {
+      "event_id": "evt-20261015-0163",
+      "seq": 163,
+      "item_id": "b1-sci-perseverance",
+      "version": 5,
+      "type": "retracted",
+      "status": "retracted",
+      "occurred_at": "2026-10-15T14:55:54+08:00",
+      "reason": "内容太旧且不符合上游要求，经用户确认批量撤回",
+      "changed_fields": [
+        "status",
+        "version"
+      ],
+      "_retracted": {
+        "reason": "内容太旧且不符合上游要求",
+        "retracted_at": "2026-10-15T14:55:54+08:00"
+      }
+    },
+    {
+      "event_id": "evt-20261015-0164",
+      "seq": 164,
+      "item_id": "b1-sec-voa",
+      "version": 5,
+      "type": "retracted",
+      "status": "retracted",
+      "occurred_at": "2026-10-15T14:55:54+08:00",
+      "reason": "内容太旧且不符合上游要求，经用户确认批量撤回",
+      "changed_fields": [
+        "status",
+        "version"
+      ],
+      "_retracted": {
+        "reason": "内容太旧且不符合上游要求",
+        "retracted_at": "2026-10-15T14:55:54+08:00"
+      }
+    },
+    {
+      "event_id": "evt-20261015-0165",
+      "seq": 165,
+      "item_id": "b1-drone-ingenuity",
+      "version": 6,
+      "type": "retracted",
+      "status": "retracted",
+      "occurred_at": "2026-10-15T14:55:54+08:00",
+      "reason": "内容太旧且不符合上游要求，经用户确认批量撤回",
+      "changed_fields": [
+        "status",
+        "version"
+      ],
+      "_retracted": {
+        "reason": "内容太旧且不符合上游要求",
+        "retracted_at": "2026-10-15T14:55:54+08:00"
+      }
+    },
+    {
+      "event_id": "evt-20261015-0166",
+      "seq": 166,
+      "item_id": "b1-art-painting",
+      "version": 3,
+      "type": "retracted",
+      "status": "retracted",
+      "occurred_at": "2026-10-15T14:55:54+08:00",
+      "reason": "内容太旧且不符合上游要求，经用户确认批量撤回",
+      "changed_fields": [
+        "status",
+        "version"
+      ],
+      "_retracted": {
+        "reason": "内容太旧且不符合上游要求",
+        "retracted_at": "2026-10-15T14:55:54+08:00"
+      }
+    },
+    {
+      "event_id": "evt-20261015-0167",
+      "seq": 167,
+      "item_id": "b1-sport-stadium",
+      "version": 3,
+      "type": "retracted",
+      "status": "retracted",
+      "occurred_at": "2026-10-15T14:55:54+08:00",
+      "reason": "内容太旧且不符合上游要求，经用户确认批量撤回",
+      "changed_fields": [
+        "status",
+        "version"
+      ],
+      "_retracted": {
+        "reason": "内容太旧且不符合上游要求",
+        "retracted_at": "2026-10-15T14:55:54+08:00"
+      }
+    },
+    {
+      "event_id": "evt-20261015-0168",
+      "seq": 168,
+      "item_id": "wh-biden-inflation-reduction-remarks",
+      "version": 2,
+      "type": "retracted",
+      "status": "retracted",
+      "occurred_at": "2026-10-15T20:17:36+08:00",
+      "reason": "不符合新入库硬门槛：原始上传日期早于近3年（2023-10-15之前），经用户确认批量撤回",
+      "changed_fields": [
+        "status",
+        "version"
+      ],
+      "_retracted": {
+        "reason": "原始上传日期早于近3年，不符合要求",
+        "retracted_at": "2026-10-15T20:17:36+08:00"
+      }
+    },
+    {
+      "event_id": "evt-20261015-0169",
+      "seq": 169,
+      "item_id": "nasa-perseverance-how-drives",
+      "version": 2,
+      "type": "retracted",
+      "status": "retracted",
+      "occurred_at": "2026-10-15T20:17:36+08:00",
+      "reason": "不符合新入库硬门槛：原始上传日期早于近3年（2023-10-15之前），经用户确认批量撤回",
+      "changed_fields": [
+        "status",
+        "version"
+      ],
+      "_retracted": {
+        "reason": "原始上传日期早于近3年，不符合要求",
+        "retracted_at": "2026-10-15T20:17:36+08:00"
+      }
+    },
+    {
+      "event_id": "evt-20261015-0170",
+      "seq": 170,
+      "item_id": "prelinger-beanys-drive-in-1952",
+      "version": 2,
+      "type": "retracted",
+      "status": "retracted",
+      "occurred_at": "2026-10-15T20:17:36+08:00",
+      "reason": "不符合新入库硬门槛：原始上传日期早于近3年（2023-10-15之前），经用户确认批量撤回",
+      "changed_fields": [
+        "status",
+        "version"
+      ],
+      "_retracted": {
+        "reason": "原始上传日期早于近3年，不符合要求",
+        "retracted_at": "2026-10-15T20:17:36+08:00"
+      }
+    },
+    {
+      "event_id": "evt-20261015-0171",
+      "seq": 171,
+      "item_id": "revoy-kynitia-timelapse",
+      "version": 3,
+      "type": "retracted",
+      "status": "retracted",
+      "occurred_at": "2026-10-15T20:17:36+08:00",
+      "reason": "不符合新入库硬门槛：原始上传日期早于近3年（2023-10-15之前），经用户确认批量撤回",
+      "changed_fields": [
+        "status",
+        "version"
+      ],
+      "_retracted": {
+        "reason": "原始上传日期早于近3年，不符合要求",
+        "retracted_at": "2026-10-15T20:17:36+08:00"
+      }
+    },
+    {
+      "event_id": "evt-20261015-0172",
+      "seq": 172,
+      "item_id": "c2-sdo-x54-flare",
+      "version": 5,
+      "type": "retracted",
+      "status": "retracted",
+      "occurred_at": "2026-10-15T20:17:36+08:00",
+      "reason": "不符合新入库硬门槛：原始上传日期早于近3年（2023-10-15之前），经用户确认批量撤回",
+      "changed_fields": [
+        "status",
+        "version"
+      ],
+      "_retracted": {
+        "reason": "原始上传日期早于近3年，不符合要求",
+        "retracted_at": "2026-10-15T20:17:36+08:00"
+      }
+    },
+    {
+      "event_id": "evt-20261015-0173",
+      "seq": 173,
+      "item_id": "c2-x45a-ucav-demo",
+      "version": 5,
+      "type": "retracted",
+      "status": "retracted",
+      "occurred_at": "2026-10-15T20:17:36+08:00",
+      "reason": "不符合新入库硬门槛：原始上传日期早于近3年（2023-10-15之前），经用户确认批量撤回",
+      "changed_fields": [
+        "status",
+        "version"
+      ],
+      "_retracted": {
+        "reason": "原始上传日期早于近3年，不符合要求",
+        "retracted_at": "2026-10-15T20:17:36+08:00"
+      }
+    },
+    {
+      "event_id": "evt-20261015-0174",
+      "seq": 174,
+      "item_id": "c2-archive-scan-robot",
+      "version": 5,
+      "type": "retracted",
+      "status": "retracted",
+      "occurred_at": "2026-10-15T20:17:36+08:00",
+      "reason": "不符合新入库硬门槛：原始上传日期早于近3年（2023-10-15之前），经用户确认批量撤回",
+      "changed_fields": [
+        "status",
+        "version"
+      ],
+      "_retracted": {
+        "reason": "原始上传日期早于近3年，不符合要求",
+        "retracted_at": "2026-10-15T20:17:36+08:00"
+      }
+    },
+    {
+      "event_id": "evt-20261015-0175",
+      "seq": 175,
+      "item_id": "c2-oakland-oaks-1918",
+      "version": 5,
+      "type": "retracted",
+      "status": "retracted",
+      "occurred_at": "2026-10-15T20:17:36+08:00",
+      "reason": "不符合新入库硬门槛：原始上传日期早于近3年（2023-10-15之前），经用户确认批量撤回",
+      "changed_fields": [
+        "status",
+        "version"
+      ],
+      "_retracted": {
+        "reason": "原始上传日期早于近3年，不符合要求",
+        "retracted_at": "2026-10-15T20:17:36+08:00"
+      }
+    },
+    {
+      "event_id": "evt-20261015-0176",
+      "seq": 176,
+      "item_id": "c1-hurricane-maria-sat",
+      "version": 5,
+      "type": "retracted",
+      "status": "retracted",
+      "occurred_at": "2026-10-15T20:17:36+08:00",
+      "reason": "不符合新入库硬门槛：原始上传日期早于近3年（2023-10-15之前），经用户确认批量撤回",
+      "changed_fields": [
+        "status",
+        "version"
+      ],
+      "_retracted": {
+        "reason": "原始上传日期早于近3年，不符合要求",
+        "retracted_at": "2026-10-15T20:17:36+08:00"
+      }
+    },
+    {
+      "event_id": "evt-20261015-0177",
+      "seq": 177,
+      "item_id": "c1-scam-watch-ftc",
+      "version": 5,
+      "type": "retracted",
+      "status": "retracted",
+      "occurred_at": "2026-10-15T20:17:36+08:00",
+      "reason": "不符合新入库硬门槛：原始上传日期早于近3年（2023-10-15之前），经用户确认批量撤回",
+      "changed_fields": [
+        "status",
+        "version"
+      ],
+      "_retracted": {
+        "reason": "原始上传日期早于近3年，不符合要求",
+        "retracted_at": "2026-10-15T20:17:36+08:00"
+      }
+    },
+    {
+      "event_id": "evt-20261015-0178",
+      "seq": 178,
+      "item_id": "c1-aerial-firefighting",
+      "version": 4,
+      "type": "retracted",
+      "status": "retracted",
+      "occurred_at": "2026-10-15T20:17:36+08:00",
+      "reason": "不符合新入库硬门槛：原始上传日期早于近3年（2023-10-15之前），经用户确认批量撤回",
+      "changed_fields": [
+        "status",
+        "version"
+      ],
+      "_retracted": {
+        "reason": "原始上传日期早于近3年，不符合要求",
+        "retracted_at": "2026-10-15T20:17:36+08:00"
+      }
+    },
+    {
+      "event_id": "evt-20261015-0179",
+      "seq": 179,
+      "item_id": "c1-romanians-vote-queue",
+      "version": 4,
+      "type": "retracted",
+      "status": "retracted",
+      "occurred_at": "2026-10-15T20:17:36+08:00",
+      "reason": "不符合新入库硬门槛：原始上传日期早于近3年（2023-10-15之前），经用户确认批量撤回",
+      "changed_fields": [
+        "status",
+        "version"
+      ],
+      "_retracted": {
+        "reason": "原始上传日期早于近3年，不符合要求",
+        "retracted_at": "2026-10-15T20:17:36+08:00"
+      }
+    },
+    {
+      "event_id": "evt-20261015-0180",
+      "seq": 180,
+      "item_id": "iss-fifa-worldcup-2026",
+      "version": 1,
+      "type": "added",
+      "status": "active",
+      "occurred_at": "2026-10-15T20:30:50+08:00",
+      "reason": "手动增补采集入库",
+      "changed_fields": null
+    },
+    {
+      "event_id": "evt-20261015-0181",
+      "seq": 181,
+      "item_id": "artemis-avatar-vertical",
+      "version": 1,
+      "type": "added",
+      "status": "active",
+      "occurred_at": "2026-10-15T20:30:50+08:00",
+      "reason": "手动增补采集入库",
+      "changed_fields": null
+    },
+    {
+      "event_id": "evt-20261015-0182",
+      "seq": 182,
+      "item_id": "artemis-ii-humanity",
+      "version": 1,
+      "type": "added",
+      "status": "active",
+      "occurred_at": "2026-10-15T20:30:50+08:00",
+      "reason": "手动增补采集入库",
+      "changed_fields": null
+    },
+    {
+      "event_id": "evt-20261015-0183",
+      "seq": 183,
+      "item_id": "spain-eclipse-timelapse-2026",
+      "version": 1,
+      "type": "added",
+      "status": "active",
+      "occurred_at": "2026-10-15T20:30:50+08:00",
+      "reason": "手动增补采集入库",
+      "changed_fields": null
+    },
+    {
+      "event_id": "evt-20261016-0184",
+      "seq": 184,
+      "item_id": "dvids-17fab-uas-training-20261016",
+      "version": 1,
+      "type": "added",
+      "status": "active",
+      "occurred_at": "2026-10-16T09:28:00+08:00",
+      "reason": "DVIDS 17th FAB无人机系统训练（竖屏41秒，PD）入库",
+      "changed_fields": null
+    },
+    {
+      "event_id": "evt-20261016-0185",
+      "seq": 185,
+      "item_id": "webb-frb-20240304b-20261008",
+      "version": 1,
+      "type": "added",
+      "status": "active",
+      "occurred_at": "2026-10-16T09:28:00+08:00",
+      "reason": "ESA/Webb FRB 20240304B深场平移（30秒，CC BY 4.0）入库",
+      "changed_fields": null
+    },
+    {
+      "event_id": "evt-20261016-0186",
+      "seq": 186,
+      "item_id": "dvids-cybersec-awareness-20261016",
+      "version": 1,
+      "type": "added",
+      "status": "active",
+      "occurred_at": "2026-10-16T09:28:00+08:00",
+      "reason": "DVIDS网络安全意识月CIO寄语（100秒，PD）入库",
+      "changed_fields": null
+    },
+    {
+      "event_id": "evt-20261016-0187",
+      "seq": 187,
+      "item_id": "dvids-coastguard-engine-swap-20261016",
+      "version": 1,
+      "type": "added",
+      "status": "active",
+      "occurred_at": "2026-10-16T09:28:00+08:00",
+      "reason": "海岸警卫队换发动机45秒精华版入库（母带133.5MiB，成品放clips/）",
+      "changed_fields": null
+    },
+    {
+      "event_id": "evt-20261016-0188",
+      "seq": 188,
+      "item_id": "dvids-1-228th-avn-regt-rescue-20261015",
+      "version": 1,
+      "type": "added",
+      "status": "active",
+      "occurred_at": "2026-10-16T19:04:46+08:00",
+      "reason": "DVIDS直升机救援实拍入库（1080p/83秒/102MB，军事航空装备垂类首批）",
+      "changed_fields": null
+    },
+    {
+      "event_id": "evt-20261016-0189",
+      "seq": 189,
+      "item_id": "usgs-precipitation-radar-mosaic-20260324",
+      "version": 1,
+      "type": "added",
+      "status": "active",
+      "occurred_at": "2026-10-16T19:04:46+08:00",
+      "reason": "USGS降水雷达拼图延时入库（720p/518秒/65MB，科学可视化）",
+      "changed_fields": null
+    },
+    {
+      "event_id": "evt-20261016-0190",
+      "seq": 190,
+      "item_id": "dvids-1-228th-avn-regt-rescue-20261015",
+      "version": 2,
+      "type": "modified",
+      "status": "active",
+      "occurred_at": "2026-10-16T19:13:36+08:00",
+      "reason": "分类修正为16个约定名称之一（军事/装备→科技/新闻）",
+      "changed_fields": [
+        "category",
+        "version"
+      ]
+    },
+    {
+      "event_id": "evt-20261017-0191",
+      "seq": 191,
+      "item_id": "nasa-crew12-postflight-20261017",
+      "version": 1,
+      "type": "added",
+      "status": "active",
+      "occurred_at": "2026-10-17T09:31:40+08:00",
+      "reason": "2026-10-17 每日采集新增（科技/新闻）"
+    },
+    {
+      "event_id": "evt-20261017-0192",
+      "seq": 192,
+      "item_id": "commons-jimmywales-ai-20261017",
+      "version": 1,
+      "type": "added",
+      "status": "active",
+      "occurred_at": "2026-10-17T09:31:40+08:00",
+      "reason": "2026-10-17 每日采集新增（科技/教育）"
+    },
+    {
+      "event_id": "evt-20261017-0193",
+      "seq": 193,
+      "item_id": "archive-amirtaaki-bitcoin-20261017",
+      "version": 1,
+      "type": "added",
+      "status": "active",
+      "occurred_at": "2026-10-17T09:31:40+08:00",
+      "reason": "2026-10-17 每日采集新增（财经/科普）"
+    },
+    {
+      "event_id": "evt-20261017-0194",
+      "seq": 194,
+      "item_id": "nasa-crew12-farewell-hatch-20261017",
+      "version": 1,
+      "type": "added",
+      "status": "active",
+      "occurred_at": "2026-10-17T09:31:40+08:00",
+      "reason": "2026-10-17 每日采集新增（科技/航天）"
+    },
+    {
+      "event_id": "evt-20261017-0195",
+      "seq": 195,
+      "item_id": "commons-cybersmart-mfa-20261017",
+      "version": 1,
+      "type": "added",
+      "status": "active",
+      "occurred_at": "2026-10-17T09:31:40+08:00",
+      "reason": "2026-10-17 每日采集新增（科技/安全教育）"
+    },
+    {
+      "event_id": "evt-20261017-0196",
+      "seq": 196,
+      "item_id": "commons-wasteland-jamboree-20261017",
+      "version": 1,
+      "type": "added",
+      "status": "active",
+      "occurred_at": "2026-10-17T09:31:40+08:00",
+      "reason": "2026-10-17 每日采集新增（游戏/生活方式）"
+    },
+    {
+      "event_id": "evt-20261017-0197",
+      "seq": 197,
+      "item_id": "commons-xinzhilei-siff-jury-20261017",
+      "version": 1,
+      "type": "added",
+      "status": "active",
+      "occurred_at": "2026-10-17T09:31:40+08:00",
+      "reason": "2026-10-17 每日采集新增（影视/文化）"
+    },
+    {
+      "event_id": "evt-20261017-0198",
+      "seq": 198,
+      "item_id": "commons-golakganj-stadium-20261017",
+      "version": 1,
+      "type": "added",
+      "status": "active",
+      "occurred_at": "2026-10-17T09:31:40+08:00",
+      "reason": "2026-10-17 每日采集新增（体育/建筑）"
+    },
+    {
+      "event_id": "evt-20261017-0199",
+      "seq": 199,
+      "item_id": "eso-webb-ngc7129-20261017",
+      "version": 1,
+      "type": "added",
+      "status": "active",
+      "occurred_at": "2026-10-17T09:31:40+08:00",
+      "reason": "2026-10-17 每日采集新增（文化/艺术）"
+    },
+    {
+      "event_id": "evt-20261017-0200",
+      "seq": 200,
+      "item_id": "usgs-biscuit-basin-explosion-20261017",
+      "version": 1,
+      "type": "added",
+      "status": "active",
+      "occurred_at": "2026-10-17T09:31:40+08:00",
+      "reason": "2026-10-17 每日采集新增（自然/风光）"
+    },
+    {
+      "event_id": "evt-20261017-0201",
+      "seq": 201,
+      "item_id": "dvids-uss-san-antonio-20261017",
+      "version": 1,
+      "type": "added",
+      "status": "active",
+      "occurred_at": "2026-10-17T09:31:40+08:00",
+      "reason": "2026-10-17 每日采集新增（军事/装备）"
+    }
+  ]
 }
