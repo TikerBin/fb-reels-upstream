@@ -1,7 +1,7 @@
 {
  "updated_at": "2026-10-17T22:21:24+08:00",
  "event_count": 228,
- "next_seq": 229,
+ "next_seq": 239,
  "events": [
   {
    "event_id": "evt-20261013-0001",
@@ -3087,6 +3087,106 @@
    "changed_fields": [
     "all"
    ]
+  },
+  {
+   "event_id": "evt-20261018-0229",
+   "seq": 229,
+   "item_id": "dvids-henderson-fire-20261017",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-18T09:54:40+08:00",
+   "reason": "2026-10-18 每日采集入库（科技/新闻）"
+  },
+  {
+   "event_id": "evt-20261018-0230",
+   "seq": 230,
+   "item_id": "commons-perseverance-ai-drive-20261018",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-18T09:54:40+08:00",
+   "reason": "2026-10-18 每日采集入库（科技/教育）"
+  },
+  {
+   "event_id": "evt-20261018-0231",
+   "seq": 231,
+   "item_id": "usgs-uas-moab-carbon-20261018",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-18T09:54:40+08:00",
+   "reason": "2026-10-18 每日采集入库（科技/无人机）"
+  },
+  {
+   "event_id": "evt-20261018-0232",
+   "seq": 232,
+   "item_id": "eso-webb-macs-j0454-20261018",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-18T09:54:40+08:00",
+   "reason": "2026-10-18 每日采集入库（科技/航天）"
+  },
+  {
+   "event_id": "evt-20261018-0233",
+   "seq": 233,
+   "item_id": "commons-quantum-jam-20261018",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-18T09:54:40+08:00",
+   "reason": "2026-10-18 每日采集入库（游戏/生活方式）"
+  },
+  {
+   "event_id": "evt-20261018-0234",
+   "seq": 234,
+   "item_id": "commons-evelyn-brent-20261018",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-18T09:54:40+08:00",
+   "reason": "2026-10-18 每日采集入库（影视/文化）"
+  },
+  {
+   "event_id": "evt-20261018-0235",
+   "seq": 235,
+   "item_id": "commons-olympics-1924-20261018",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-18T09:54:40+08:00",
+   "reason": "2026-10-18 每日采集入库（体育/历史）"
+  },
+  {
+   "event_id": "evt-20261018-0236",
+   "seq": 236,
+   "item_id": "commons-converse-column-20261018",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-18T09:54:40+08:00",
+   "reason": "2026-10-18 每日采集入库（文化/艺术）"
+  },
+  {
+   "event_id": "evt-20261018-0237",
+   "seq": 237,
+   "item_id": "usgs-polar-bear-collar-cam-20261018",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-18T09:54:40+08:00",
+   "reason": "2026-10-18 每日采集入库（自然/风光）"
+  },
+  {
+   "event_id": "evt-20261018-0238",
+   "seq": 238,
+   "item_id": "dvids-golden-knights-nightjump-20261017",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-18T09:54:40+08:00",
+   "reason": "2026-10-18 每日采集入库（军事/装备）"
   }
  ]
 }
