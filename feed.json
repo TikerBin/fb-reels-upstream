@@ -9,12 +9,12 @@
   {
    "vertical": "新闻/财经",
    "community": "Everyday News and Money Discussion",
-   "count": 4
+   "count": 5
   },
   {
    "vertical": "AI",
    "community": "AI Tools and Everyday Uses",
-   "count": 3
+   "count": 4
   },
   {
    "vertical": "加密资产",
@@ -29,22 +29,22 @@
   {
    "vertical": "军事航空装备",
    "community": "Robotics and Automation Brief",
-   "count": 3
+   "count": 4
   },
   {
    "vertical": "科学",
    "community": "Science Worth Understanding",
-   "count": 11
+   "count": 12
   },
   {
    "vertical": "纯自然风景/野生动物",
    "community": "Science Worth Understanding",
-   "count": 2
+   "count": 3
   },
   {
    "vertical": "海洋生物/深海",
    "community": "Science Worth Understanding",
-   "count": 0
+   "count": 1
   },
   {
    "vertical": "网络安全",
@@ -54,30 +54,396 @@
   {
    "vertical": "游戏",
    "community": "Next Game Brief",
-   "count": 4
+   "count": 5
   },
   {
    "vertical": "影视",
    "community": "Screen Stories Brief",
-   "count": 3
+   "count": 4
   },
   {
    "vertical": "体育",
    "community": "Beyond the Score Brief",
-   "count": 5
+   "count": 6
   },
   {
    "vertical": "国家公园旅行/户外",
    "community": "Beyond the Score Brief",
-   "count": 0
+   "count": 1
   },
   {
    "vertical": "艺术设计",
    "community": "Design Worth Noticing",
-   "count": 4
+   "count": 5
   }
  ],
  "items": [
+  {
+   "id": "commons-trump-hebron-gaggle-20261019",
+   "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/commons-trump-hebron-gaggle-20261019_26s.mp4",
+   "title": "特朗普抵达肯塔基州赫布伦：停机坪即兴记者问答（26秒）",
+   "summary": "白宫 2026-10-18 发布的公有领域实拍（事件 2026-10-17）：特朗普抵达肯塔基州赫布伦后在停机坪与随行记者团即兴问答（press gaggle），26 秒 1080p 实拍转 720p 成品。",
+   "content_text": "内容总结：白宫 2026-10-18 发布的公有领域实拍（事件 2026-10-17）：特朗普抵达肯塔基州赫布伦后在停机坪与随行记者团即兴问答（press gaggle），26 秒 1080p 实拍转 720p 成品。\n内容类型：科技/新闻\n对应社群：Everyday News and Money Discussion\n许可证：Public domain（无需署名）\nReels角度：美国大选前政治新闻 b-roll：可做时政口播类 Reels 背景素材\n热点挂钩：2026-10-18 发布的新片；呼应中期选举前 16 天（11 月 3 日投票）特朗普助选行程新闻热度。\n规格：26秒，1280x720，约6.4MB",
+   "date_published": "2026-10-19T09:40:59+08:00",
+   "tags": [
+    "科技/新闻",
+    "Everyday News and Money Discussion",
+    "2026-10-18 发布的新片；呼应中期选举前 16 天（11 月 3 日投票）特朗普助选行程新闻热度。"
+   ],
+   "attachments": [
+    {
+     "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/commons-trump-hebron-gaggle-20261019_26s.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 6746653,
+     "duration_in_seconds": 26
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_source_url": "https://commons.wikimedia.org/wiki/File:President_Trump_Gaggles_with_Press_Upon_Arrival_at_Hebron,_KY,_Oct._17,_2026.webm",
+   "_master_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/President_Trump_Gaggles_with_Press_Upon_Arrival_at_Hebron%2C_KY%2C_Oct._17%2C_2026.webm",
+   "_footage_type": "真实拍摄",
+   "_event_date": "2026-10-17",
+   "_original_upload_date": "2026-10-18",
+   "_recommended_segment": {
+    "start_seconds": 0,
+    "end_seconds": 26
+   }
+  },
+  {
+   "id": "commons-hannah-fry-ai-maths-20261019",
+   "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/commons-hannah-fry-ai-maths-20261019_60s.mp4",
+   "title": "汉娜·弗莱谈 AI 与数学：AI 真的比人更懂数学吗（60秒竖屏）",
+   "summary": "英国皇家学会 2026-10-15 发布（CC BY 4.0）：数学家、科普作家汉娜·弗莱出镜讲解 AI 在数学领域的能力与边界（母带 87 秒竖屏 4K），取 [10,70] 60 秒精华转 720×1280 成品，英文字幕烧录。署名：The Royal Society。",
+   "content_text": "内容总结：英国皇家学会 2026-10-15 发布（CC BY 4.0）：数学家、科普作家汉娜·弗莱出镜讲解 AI 在数学领域的能力与边界（母带 87 秒竖屏 4K），取 [10,70] 60 秒精华转 720×1280 成品，英文字幕烧录。署名：The Royal Society。\n内容类型：科技/教育\n对应社群：AI Tools and Everyday Uses\n许可证：CC BY 4.0（发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/4.0/）\nReels角度：'AI 会做数学题，但它懂数学吗'——顶级科普人出镜的 AI 思辨短片，原生竖屏\n热点挂钩：呼应本周 AI 大模型密集发布（Gemini 4 Argon、DeepSeek V4.1 Flash、Meta Muse Spark Open）。\n规格：60秒，720x1280，约12.7MB",
+   "date_published": "2026-10-19T09:40:59+08:00",
+   "tags": [
+    "科技/教育",
+    "AI Tools and Everyday Uses",
+    "呼应本周 AI 大模型密集发布（Gemini 4 Argon、DeepSeek V4.1 Flash、Meta Muse Spark Open）。"
+   ],
+   "attachments": [
+    {
+     "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/commons-hannah-fry-ai-maths-20261019_60s.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 13298711,
+     "duration_in_seconds": 60
+    }
+   ],
+   "_license": "CC BY 4.0",
+   "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/4.0/",
+   "_version": 1,
+   "_author": "The Royal Society",
+   "_source_url": "https://commons.wikimedia.org/wiki/File:Is_AI_better_at_maths_than_people%3F_-_Hannah_Fry_-science_-ai_-maths.webm",
+   "_license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "_master_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Is_AI_better_at_maths_than_people%3F_-_Hannah_Fry_-science_-ai_-maths.webm",
+   "_footage_type": "真实拍摄（人物出镜讲解）",
+   "_original_upload_date": "2026-10-15",
+   "_recommended_segment": {
+    "start_seconds": 0,
+    "end_seconds": 60
+   }
+  },
+  {
+   "id": "noirlab-comet-rs61-20261019",
+   "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/noirlab-comet-rs61-20261019_30s.mp4",
+   "title": "彗星 C/2023 RS61（PanSTARRS）轨道可视化（30秒）",
+   "summary": "NOIRLab 2026-10-07 发布（CC BY 4.0）：彗星 C/2023 RS61 (PanSTARRS) 轨道运行三维可视化动画，展示彗星在太阳系中的运行轨迹。1080p 成品。署名：NOIRLab/NSF/AURA。",
+   "content_text": "内容总结：NOIRLab 2026-10-07 发布（CC BY 4.0）：彗星 C/2023 RS61 (PanSTARRS) 轨道运行三维可视化动画，展示彗星在太阳系中的运行轨迹。1080p 成品。署名：NOIRLab/NSF/AURA。\n内容类型：科技/航天\n对应社群：Science Worth Understanding\n许可证：CC BY 4.0（发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/4.0/）\nReels角度：'30 秒看一颗彗星的太空之旅'——新彗星轨道可视化，科普向\n热点挂钩：新发现彗星题材；深空可视化常青题材。\n规格：30秒，1280x720，约7.1MB",
+   "date_published": "2026-10-19T09:40:59+08:00",
+   "tags": [
+    "科技/航天",
+    "Science Worth Understanding",
+    "新发现彗星题材；深空可视化常青题材。"
+   ],
+   "attachments": [
+    {
+     "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/noirlab-comet-rs61-20261019_30s.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 7454923,
+     "duration_in_seconds": 30
+    }
+   ],
+   "_license": "CC BY 4.0",
+   "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/4.0/",
+   "_version": 1,
+   "_author": "NOIRLab/NSF/AURA",
+   "_source_url": "https://noirlab.edu/public/videos/c2023_RS61_B/",
+   "_license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "_master_url": "https://storage.noirlab.edu/media/archives/videos/hd_1080_screen/c2023_RS61_B.mp4",
+   "_footage_type": "动画（彗星轨道仿真可视化）",
+   "_original_upload_date": "2026-10-07",
+   "_recommended_segment": {
+    "start_seconds": 0,
+    "end_seconds": 30
+   }
+  },
+  {
+   "id": "commons-yokota-esports-20261019",
+   "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/commons-yokota-esports-20261019_60s.mp4",
+   "title": "横田基地电竞锦标赛：美军太平洋空军的电竞文化（60秒）",
+   "summary": "美国空军第 374 军机联队 2026-07-18 上传的公有领域实拍：横田基地'电竞与桌游锦标赛'现场，AFN 电视新闻报道太平洋空军电竞锦标赛（马里奥赛车、使命召唤等项目），官兵参赛实拍与采访。1080p webm 转 720p 成品。",
+   "content_text": "内容总结：美国空军第 374 军机联队 2026-07-18 上传的公有领域实拍：横田基地'电竞与桌游锦标赛'现场，AFN 电视新闻报道太平洋空军电竞锦标赛（马里奥赛车、使命召唤等项目），官兵参赛实拍与采访。1080p webm 转 720p 成品。\n内容类型：游戏/生活方式\n对应社群：Next Game Brief\n许可证：Public domain（无需署名）\nReels角度：当兵也要打电竞：军营电竞锦标赛纪实，游戏生活方式猎奇向\n热点挂钩：军营电竞文化猎奇题材；无直接当日热点挂钩。\n规格：60秒，1280x720，约13.9MB",
+   "date_published": "2026-10-19T09:40:59+08:00",
+   "tags": [
+    "游戏/生活方式",
+    "Next Game Brief",
+    "军营电竞文化猎奇题材；无直接当日热点挂钩。"
+   ],
+   "attachments": [
+    {
+     "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/commons-yokota-esports-20261019_60s.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 14568622,
+     "duration_in_seconds": 60
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_source_url": "https://commons.wikimedia.org/wiki/File:374th_FSS_Esports_and_Tabletop_Tournaments_(950584).webm",
+   "_master_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/374th_FSS_Esports_and_Tabletop_Tournaments_%28950584%29.webm",
+   "_footage_type": "真实拍摄（活动报道）",
+   "_event_date": "2026-01",
+   "_original_upload_date": "2026-07-18",
+   "_recommended_segment": {
+    "start_seconds": 0,
+    "end_seconds": 60
+   }
+  },
+  {
+   "id": "commons-bandmaster-1930-20261019",
+   "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/commons-bandmaster-1930-20261019_60s.mp4",
+   "title": "1930 年 Krazy Kat 默片卡通《乐队指挥》（60秒精华）",
+   "summary": "1930 年上映的 Krazy Kat 系列无声动画短片《The Bandmaster》（母带约 7.6 分钟）60 秒精华：动物乐队游行演奏的黑白默片卡通（导演 Manny Gould）。640×360 webm 转 720p 成品。",
+   "content_text": "内容总结：1930 年上映的 Krazy Kat 系列无声动画短片《The Bandmaster》（母带约 7.6 分钟）60 秒精华：动物乐队游行演奏的黑白默片卡通（导演 Manny Gould）。640×360 webm 转 720p 成品。\n内容类型：影视/文化\n对应社群：Screen Stories Brief\n许可证：Public domain（无需署名）\nReels角度：96 年前的动画片长这样——默片时代卡通影史考古，怀旧向\n热点挂钩：1930 年作品 2026 年 1 月进入公有领域；默片动画影史常青题材。\n规格：60秒，1280x720，约14.3MB",
+   "date_published": "2026-10-19T09:40:59+08:00",
+   "tags": [
+    "影视/文化",
+    "Screen Stories Brief",
+    "1930 年作品 2026 年 1 月进入公有领域；默片动画影史常青题材。"
+   ],
+   "attachments": [
+    {
+     "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/commons-bandmaster-1930-20261019_60s.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 14987488,
+     "duration_in_seconds": 60
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_source_url": "https://commons.wikimedia.org/wiki/File:The_Bandmaster_(1930).webm",
+   "_master_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/The_Bandmaster_%281930%29.webm",
+   "_footage_type": "动画（1930 年默片卡通）",
+   "_event_date": "1930",
+   "_original_upload_date": "2026-10-08",
+   "_recommended_segment": {
+    "start_seconds": 0,
+    "end_seconds": 60
+   }
+  },
+  {
+   "id": "commons-baseball-on-ice-1924-20261019",
+   "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/commons-baseball-on-ice-1924-20261019_60s.mp4",
+   "title": "1924 年多伦多：女人们在冰上打棒球（60秒）",
+   "summary": "英国 Pathé 1924 年新闻片（母带 60 秒）：'Baseball On Ice'，加拿大多伦多女子在冰上打棒球的黑白历史影像，含 Pathé 原版标题卡。480×360 webm 转 720p 成品。",
+   "content_text": "内容总结：英国 Pathé 1924 年新闻片（母带 60 秒）：'Baseball On Ice'，加拿大多伦多女子在冰上打棒球的黑白历史影像，含 Pathé 原版标题卡。480×360 webm 转 720p 成品。\n内容类型：体育/历史\n对应社群：Beyond the Score Brief\n许可证：Public domain（无需署名）\nReels角度：100 年前的'冰上棒球'——女子冰上棒球历史影像，体育史猎奇向\n热点挂钩：呼应本周 MLB 美联冠军赛（ALCS）季后赛热度。\n规格：60秒，1280x720，约12.9MB",
+   "date_published": "2026-10-19T09:40:59+08:00",
+   "tags": [
+    "体育/历史",
+    "Beyond the Score Brief",
+    "呼应本周 MLB 美联冠军赛（ALCS）季后赛热度。"
+   ],
+   "attachments": [
+    {
+     "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/commons-baseball-on-ice-1924-20261019_60s.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 13477784,
+     "duration_in_seconds": 60
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_source_url": "https://commons.wikimedia.org/wiki/File:Baseball_On_Ice_-_British_Path%C3%A9.webm",
+   "_master_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Baseball_On_Ice_-_British_Path%C3%A9.webm",
+   "_footage_type": "历史影像（1924 年新闻片）",
+   "_event_date": "1924",
+   "_original_upload_date": "2026-08-15",
+   "_recommended_segment": {
+    "start_seconds": 0,
+    "end_seconds": 60
+   }
+  },
+  {
+   "id": "eso-magellanic-clouds-20261019",
+   "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/eso-magellanic-clouds-20261019_60s.mp4",
+   "title": "飞越麦哲伦星云：ESO 深红外巡天可视化（60秒）",
+   "summary": "ESO 2026-09-14 发布（CC BY 4.0，本周图片 potw2637a）：'Flying over the Magellanic Clouds'，VISTA 望远镜深红外巡天数据制作的麦哲伦星云三维飞越动画（母带 65 秒 4K）60 秒精华转 720p 成品，英文解说字幕烧录。署名：ESO。",
+   "content_text": "内容总结：ESO 2026-09-14 发布（CC BY 4.0，本周图片 potw2637a）：'Flying over the Magellanic Clouds'，VISTA 望远镜深红外巡天数据制作的麦哲伦星云三维飞越动画（母带 65 秒 4K）60 秒精华转 720p 成品，英文解说字幕烧录。署名：ESO。\n内容类型：文化/艺术\n对应社群：Design Worth Noticing\n许可证：CC BY 4.0（发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/4.0/）\nReels角度：20 万光年外的'星空油画'——深空影像的艺术之美，视觉系 Reels\n热点挂钩：深空影像艺术常青题材；无直接当日热点挂钩。\n规格：60秒，1280x720，约29.9MB",
+   "date_published": "2026-10-19T09:40:59+08:00",
+   "tags": [
+    "文化/艺术",
+    "Design Worth Noticing",
+    "深空影像艺术常青题材；无直接当日热点挂钩。"
+   ],
+   "attachments": [
+    {
+     "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/eso-magellanic-clouds-20261019_60s.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 31334004,
+     "duration_in_seconds": 60
+    }
+   ],
+   "_license": "CC BY 4.0",
+   "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/4.0/",
+   "_version": 1,
+   "_author": "ESO",
+   "_source_url": "https://www.eso.org/public/videos/potw2637a/",
+   "_license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "_master_url": "https://cdn.eso.org/videos/ultra_hd/potw2637a.mp4",
+   "_footage_type": "混合（真实巡天观测数据 + 三维飞越动画）",
+   "_original_upload_date": "2026-09-14",
+   "_recommended_segment": {
+    "start_seconds": 0,
+    "end_seconds": 60
+   }
+  },
+  {
+   "id": "nps-harlequin-ducks-20261019",
+   "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/nps-harlequin-ducks-20261019_44s.mp4",
+   "title": "冰川国家公园：急流中的丑鸭（44秒竖屏）",
+   "summary": "美国国家公园管理局 2026-10-14 发布（公有领域，署名 NPS）：'Glacier's Harlequin Ducks'，冰川国家公园湍急溪流中丑鸭（harlequin duck）戏水实拍，竖屏烧录字幕。720p mp4 成品。",
+   "content_text": "内容总结：美国国家公园管理局 2026-10-14 发布（公有领域，署名 NPS）：'Glacier's Harlequin Ducks'，冰川国家公园湍急溪流中丑鸭（harlequin duck）戏水实拍，竖屏烧录字幕。720p mp4 成品。\n内容类型：自然/风光\n对应社群：Science Worth Understanding\n许可证：Public domain（无需署名）\nReels角度：急流中的'小丑鸭'——国家公园野生动物近距离实拍，治愈向\n热点挂钩：野生动物常青高互动题材；无直接当日热点挂钩。\n规格：44秒，1280x720，约2.8MB",
+   "date_published": "2026-10-19T09:40:59+08:00",
+   "tags": [
+    "自然/风光",
+    "Science Worth Understanding",
+    "野生动物常青高互动题材；无直接当日热点挂钩。"
+   ],
+   "attachments": [
+    {
+     "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/nps-harlequin-ducks-20261019_44s.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 2919673,
+     "duration_in_seconds": 44
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_source_url": "https://www.nps.gov/media/video/view.htm?id=B04AB373-8C8E-4974-8545-DA61AFE47348",
+   "_master_url": "https://www.nps.gov/nps-audiovideo/audiovideo/f23501ad-57f6-4a5d-aef0-47c024da0ffe720p.mp4",
+   "_footage_type": "真实拍摄（野生动物纪实）",
+   "_filmed_date": "2025-08",
+   "_original_upload_date": "2026-10-14",
+   "_recommended_segment": {
+    "start_seconds": 0,
+    "end_seconds": 44
+   }
+  },
+  {
+   "id": "noaa-polychaete-worm-20261019",
+   "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/noaa-polychaete-worm-20261019_60s.mp4",
+   "title": "深海多毛类蠕虫：NOAA 大洋洲 ROV 实拍（60秒）",
+   "summary": "NOAA 海洋探索 2026-09-07 发布（公有领域）：'Polychaete Worm'，2026 年美属萨摩亚ROV+测绘考察第 8 潜次采集的深海多毛类蠕虫海底爬行实拍（母带 113 秒）60 秒精华。640×360 转 720p 成品。",
+   "content_text": "内容总结：NOAA 海洋探索 2026-09-07 发布（公有领域）：'Polychaete Worm'，2026 年美属萨摩亚ROV+测绘考察第 8 潜次采集的深海多毛类蠕虫海底爬行实拍（母带 113 秒）60 秒精华。640×360 转 720p 成品。\n内容类型：自然/海洋生物\n对应社群：Science Worth Understanding\n许可证：Public domain（无需署名）\nReels角度：深海'毛毛虫'在爬行——ROV 带你看6000米级深海生物，猎奇向\n热点挂钩：深海生物猎奇常青题材；NOAA 美属萨摩亚 2026 考察新影像。\n规格：60秒，1280x720，约26.1MB",
+   "date_published": "2026-10-19T09:40:59+08:00",
+   "tags": [
+    "自然/海洋生物",
+    "Science Worth Understanding",
+    "深海生物猎奇常青题材；NOAA 美属萨摩亚 2026 考察新影像。"
+   ],
+   "attachments": [
+    {
+     "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/noaa-polychaete-worm-20261019_60s.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 27343035,
+     "duration_in_seconds": 60
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_source_url": "https://oceanexplorer.noaa.gov/multimedia/polychaete-worm-3/",
+   "_master_url": "https://oceanexplorer.noaa.gov/wp-content/uploads/2026/10/ex2606-dive08-worm-640x360-1.mp4",
+   "_footage_type": "真实拍摄（ROV 深海实拍）",
+   "_event_date": "2026-09",
+   "_original_upload_date": "2026-09-07",
+   "_recommended_segment": {
+    "start_seconds": 0,
+    "end_seconds": 60
+   }
+  },
+  {
+   "id": "nps-fall-aspen-grove-20261019",
+   "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/nps-fall-aspen-grove-20261019_60s.mp4",
+   "title": "大峡谷秋色：金黄白杨林（60秒）",
+   "summary": "美国国家公园管理局 2026-10-01 发布（公有领域，署名 NPS/John Wishart）：'Fall Aspen Grove (Legacy Minute)'，大峡谷国家公园秋季金黄白杨林风光（母带 68 秒）60 秒精华。720p 成品。",
+   "content_text": "内容总结：美国国家公园管理局 2026-10-01 发布（公有领域，署名 NPS/John Wishart）：'Fall Aspen Grove (Legacy Minute)'，大峡谷国家公园秋季金黄白杨林风光（母带 68 秒）60 秒精华。720p 成品。\n内容类型：旅行/户外\n对应社群：Beyond the Score Brief\n许可证：Public domain（无需署名）\nReels角度：大峡谷的秋天是金色的——国家公园秋叶季风光，旅行种草向\n热点挂钩：10 月北美秋叶季正当时；国家公园秋游话题。\n规格：60秒，1280x720，约43.6MB",
+   "date_published": "2026-10-19T09:40:59+08:00",
+   "tags": [
+    "旅行/户外",
+    "Beyond the Score Brief",
+    "10 月北美秋叶季正当时；国家公园秋游话题。"
+   ],
+   "attachments": [
+    {
+     "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/nps-fall-aspen-grove-20261019_60s.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 45710453,
+     "duration_in_seconds": 60
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_source_url": "https://www.nps.gov/media/video/view.htm?id=D7947C84-461B-4A9C-8038-4DC72E7FCC76",
+   "_master_url": "https://www.nps.gov/nps-audiovideo/audiovideo/32094332-ef30-4897-841b-1d4276aaac9a720p.mp4",
+   "_footage_type": "真实拍摄（自然风光）",
+   "_event_date": "2026-10",
+   "_original_upload_date": "2026-10-01",
+   "_recommended_segment": {
+    "start_seconds": 0,
+    "end_seconds": 60
+   }
+  },
+  {
+   "id": "dvids-f15e-flyover-20261019",
+   "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/dvids-f15e-flyover-20261019_60s.mp4",
+   "title": "F-15E 战机编队 × KC-46A 空中加油（60秒精华）",
+   "summary": "美国空军 2026-10-18 发布的公有领域实拍（母带 134 秒）60 秒精华：第 4 战斗机联队F-15E 与第 916 空中加油联队 KC-46A 在北卡罗来纳州上空编队飞行、空中加油，支援 Freedom Fest 飞行表演（事件 2026-09-12）。1080p 转 720p 成品。",
+   "content_text": "内容总结：美国空军 2026-10-18 发布的公有领域实拍（母带 134 秒）60 秒精华：第 4 战斗机联队F-15E 与第 916 空中加油联队 KC-46A 在北卡罗来纳州上空编队飞行、空中加油，支援 Freedom Fest 飞行表演（事件 2026-09-12）。1080p 转 720p 成品。\n内容类型：军事/装备\n对应社群：Robotics and Automation Brief\n许可证：Public domain（无需署名）\nReels角度：战机编队空中加油第一视角——军事航空装备视觉系，重装备向\n热点挂钩：呼应本周罗斯福号航母抵达横须贺、Keen Sword 27 美日联合军演新闻。\n规格：60秒，1280x720，约7.4MB",
+   "date_published": "2026-10-19T09:40:59+08:00",
+   "tags": [
+    "军事/装备",
+    "Robotics and Automation Brief",
+    "呼应本周罗斯福号航母抵达横须贺、Keen Sword 27 美日联合军演新闻。"
+   ],
+   "attachments": [
+    {
+     "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/dvids-f15e-flyover-20261019_60s.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 7733320,
+     "duration_in_seconds": 60
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_source_url": "https://www.dvidshub.net/video/1026718/b-roll-f-15e-strike-eagles-kc-46a-pegasus-support-freedom-fest-flyover",
+   "_master_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112079079/DOD_112079079.mp4",
+   "_footage_type": "真实拍摄（空中编队/加油实拍）",
+   "_event_date": "2026-09-12",
+   "_original_upload_date": "2026-10-18",
+   "_recommended_segment": {
+    "start_seconds": 0,
+    "end_seconds": 60
+   }
+  },
   {
    "id": "dvids-henderson-fire-20261017",
    "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/dvids-henderson-fire-20261017_60s.mp4",

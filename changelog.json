@@ -1,7 +1,7 @@
 {
  "updated_at": "2026-10-17T22:21:24+08:00",
  "event_count": 228,
- "next_seq": 239,
+ "next_seq": 250,
  "events": [
   {
    "event_id": "evt-20261013-0001",
@@ -3187,6 +3187,116 @@
    "status": "active",
    "occurred_at": "2026-10-18T09:54:40+08:00",
    "reason": "2026-10-18 每日采集入库（军事/装备）"
+  },
+  {
+   "event_id": "evt-20261019-0239",
+   "seq": 239,
+   "item_id": "commons-trump-hebron-gaggle-20261019",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-19T09:40:59+08:00",
+   "reason": "2026-10-19 每日采集入库（科技/新闻）"
+  },
+  {
+   "event_id": "evt-20261019-0240",
+   "seq": 240,
+   "item_id": "commons-hannah-fry-ai-maths-20261019",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-19T09:40:59+08:00",
+   "reason": "2026-10-19 每日采集入库（科技/教育）"
+  },
+  {
+   "event_id": "evt-20261019-0241",
+   "seq": 241,
+   "item_id": "noirlab-comet-rs61-20261019",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-19T09:40:59+08:00",
+   "reason": "2026-10-19 每日采集入库（科技/航天）"
+  },
+  {
+   "event_id": "evt-20261019-0242",
+   "seq": 242,
+   "item_id": "commons-yokota-esports-20261019",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-19T09:40:59+08:00",
+   "reason": "2026-10-19 每日采集入库（游戏/生活方式）"
+  },
+  {
+   "event_id": "evt-20261019-0243",
+   "seq": 243,
+   "item_id": "commons-bandmaster-1930-20261019",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-19T09:40:59+08:00",
+   "reason": "2026-10-19 每日采集入库（影视/文化）"
+  },
+  {
+   "event_id": "evt-20261019-0244",
+   "seq": 244,
+   "item_id": "commons-baseball-on-ice-1924-20261019",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-19T09:40:59+08:00",
+   "reason": "2026-10-19 每日采集入库（体育/历史）"
+  },
+  {
+   "event_id": "evt-20261019-0245",
+   "seq": 245,
+   "item_id": "eso-magellanic-clouds-20261019",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-19T09:40:59+08:00",
+   "reason": "2026-10-19 每日采集入库（文化/艺术）"
+  },
+  {
+   "event_id": "evt-20261019-0246",
+   "seq": 246,
+   "item_id": "nps-harlequin-ducks-20261019",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-19T09:40:59+08:00",
+   "reason": "2026-10-19 每日采集入库（自然/风光）"
+  },
+  {
+   "event_id": "evt-20261019-0247",
+   "seq": 247,
+   "item_id": "noaa-polychaete-worm-20261019",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-19T09:40:59+08:00",
+   "reason": "2026-10-19 每日采集入库（自然/海洋生物）"
+  },
+  {
+   "event_id": "evt-20261019-0248",
+   "seq": 248,
+   "item_id": "nps-fall-aspen-grove-20261019",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-19T09:40:59+08:00",
+   "reason": "2026-10-19 每日采集入库（旅行/户外）"
+  },
+  {
+   "event_id": "evt-20261019-0249",
+   "seq": 249,
+   "item_id": "dvids-f15e-flyover-20261019",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-19T09:40:59+08:00",
+   "reason": "2026-10-19 每日采集入库（军事/装备）"
   }
  ]
 }

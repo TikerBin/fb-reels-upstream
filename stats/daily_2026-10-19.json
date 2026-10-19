@@ -1,0 +1,199 @@
+{
+ "date": "2026-10-19",
+ "timezone": "Asia/Shanghai",
+ "stats_until": "2026-10-19T09:41:17+08:00",
+ "last_event_seq": 249,
+ "category_basis": "LATEST_AT_STATS_UNTIL",
+ "update_completed": true,
+ "failure_reason": null,
+ "pending_review_note": "上游无审核环节（采集→验货→入库），pending_review恒为0",
+ "opening_inventory": 51,
+ "closing_inventory": 62,
+ "total_events_today": 11,
+ "note": "added：仅新素材ID首次入库（changelog中type=added事件，每个ID仅一次）；已有ID的字段补录、分类修正等记modified，不计入added。事件按occurred_at归属自然日（Asia/Shanghai）；modified按本日发生该变化的素材身份去重；同一素材多类变化在各列分别计数，不可直接相加；测试条目（is_test）不计入；last_event_seq为构建本日报所用完整changelog的最大序号（含测试事件，空历史为0）；分类归属口径见category_basis",
+ "categories": {
+  "影视/文化": {
+   "valid": 4,
+   "pending_review": 0,
+   "added": 1,
+   "modified": 0,
+   "retracted": 0,
+   "expired": 0,
+   "restored": 0
+  },
+  "科技/航天科普": {
+   "valid": 4,
+   "pending_review": 0,
+   "added": 0,
+   "modified": 0,
+   "retracted": 0,
+   "expired": 0,
+   "restored": 0
+  },
+  "科技/安全教育": {
+   "valid": 4,
+   "pending_review": 0,
+   "added": 0,
+   "modified": 0,
+   "retracted": 0,
+   "expired": 0,
+   "restored": 0
+  },
+  "科技/财经科普": {
+   "valid": 1,
+   "pending_review": 0,
+   "added": 0,
+   "modified": 0,
+   "retracted": 0,
+   "expired": 0,
+   "restored": 0
+  },
+  "体育/历史": {
+   "valid": 3,
+   "pending_review": 0,
+   "added": 1,
+   "modified": 0,
+   "retracted": 0,
+   "expired": 0,
+   "restored": 0
+  },
+  "科技/无人机": {
+   "valid": 4,
+   "pending_review": 0,
+   "added": 0,
+   "modified": 0,
+   "retracted": 0,
+   "expired": 0,
+   "restored": 0
+  },
+  "科技/教育": {
+   "valid": 4,
+   "pending_review": 0,
+   "added": 1,
+   "modified": 0,
+   "retracted": 0,
+   "expired": 0,
+   "restored": 0
+  },
+  "文化/手工": {
+   "valid": 2,
+   "pending_review": 0,
+   "added": 0,
+   "modified": 0,
+   "retracted": 0,
+   "expired": 0,
+   "restored": 0
+  },
+  "游戏/生活方式": {
+   "valid": 5,
+   "pending_review": 0,
+   "added": 1,
+   "modified": 0,
+   "retracted": 0,
+   "expired": 0,
+   "restored": 0
+  },
+  "财经/科普": {
+   "valid": 2,
+   "pending_review": 0,
+   "added": 0,
+   "modified": 0,
+   "retracted": 0,
+   "expired": 0,
+   "restored": 0
+  },
+  "科技/创客": {
+   "valid": 2,
+   "pending_review": 0,
+   "added": 0,
+   "modified": 0,
+   "retracted": 0,
+   "expired": 0,
+   "restored": 0
+  },
+  "科技/航天": {
+   "valid": 8,
+   "pending_review": 0,
+   "added": 1,
+   "modified": 0,
+   "retracted": 0,
+   "expired": 0,
+   "restored": 0
+  },
+  "科技/新闻": {
+   "valid": 5,
+   "pending_review": 0,
+   "added": 1,
+   "modified": 0,
+   "retracted": 0,
+   "expired": 0,
+   "restored": 0
+  },
+  "体育/建筑": {
+   "valid": 2,
+   "pending_review": 0,
+   "added": 0,
+   "modified": 0,
+   "retracted": 0,
+   "expired": 0,
+   "restored": 0
+  },
+  "文化/艺术": {
+   "valid": 3,
+   "pending_review": 0,
+   "added": 1,
+   "modified": 0,
+   "retracted": 0,
+   "expired": 0,
+   "restored": 0
+  },
+  "游戏/怀旧文化": {
+   "valid": 0,
+   "pending_review": 0,
+   "added": 0,
+   "modified": 0,
+   "retracted": 0,
+   "expired": 0,
+   "restored": 0
+  },
+  "自然/风光": {
+   "valid": 3,
+   "pending_review": 0,
+   "added": 1,
+   "modified": 0,
+   "retracted": 0,
+   "expired": 0,
+   "restored": 0
+  },
+  "自然/海洋生物": {
+   "valid": 1,
+   "pending_review": 0,
+   "added": 1,
+   "modified": 0,
+   "retracted": 0,
+   "expired": 0,
+   "restored": 0
+  },
+  "旅行/户外": {
+   "valid": 1,
+   "pending_review": 0,
+   "added": 1,
+   "modified": 0,
+   "retracted": 0,
+   "expired": 0,
+   "restored": 0
+  },
+  "军事/装备": {
+   "valid": 4,
+   "pending_review": 0,
+   "added": 1,
+   "modified": 0,
+   "retracted": 0,
+   "expired": 0,
+   "restored": 0
+  }
+ },
+ "self_check": "合同字段自检通过",
+ "test_items": 1,
+ "test_items_note": "联调测试条目 test-retraction-01（is_test=true，仅用于撤回流程验证）不计入库存与各分类统计；正式发布流程须过滤该标记"
+}
