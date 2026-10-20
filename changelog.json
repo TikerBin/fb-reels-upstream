@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-10-20T20:49:26+08:00",
- "event_count": 324,
- "next_seq": 325,
+ "updated_at": "2026-10-20T20:51:20+08:00",
+ "event_count": 326,
+ "next_seq": 327,
  "events": [
   {
    "event_id": "evt-20261013-0001",
@@ -4228,6 +4228,37 @@
    "reason": "下游技术验收修正：clips/交付文件实测为MP4（ftyp/ffprobe h264），mime声明仍沿用原webm的video/webm；修正源数据mime为真实的video/mp4，未重编码、未换文件，_master_url仍保留原webm地址，来源/许可/日期不变",
    "changed_fields": [
     "mime",
+    "version"
+   ]
+  },
+  {
+   "event_id": "evt-20261020-0325",
+   "seq": 325,
+   "item_id": "commons-3dprint-timelapse-20261020",
+   "version": 4,
+   "type": "modified",
+   "status": "active",
+   "occurred_at": "2026-10-20T20:51:20+08:00",
+   "reason": "下游三帧验收修正：打印物体在三帧中难以可靠确定为『人像』，标题/摘要/角度统一改用可确认的『带树状支撑的造型摆件』，不猜具体物件或人物（『笔筒/2026年款』已于seq319去除）",
+   "changed_fields": [
+    "title",
+    "summary_cn",
+    "reels_angle",
+    "version"
+   ]
+  },
+  {
+   "event_id": "evt-20261020-0326",
+   "seq": 326,
+   "item_id": "commons-drawing-ibispaint-20261020",
+   "version": 2,
+   "type": "modified",
+   "status": "active",
+   "occurred_at": "2026-10-20T20:51:20+08:00",
+   "reason": "下游三帧验收修正：原『红蓝分色人像/女性面部』与实际画面不符（三帧为动漫风格人物绘制、主要可见黄色/蓝色上色），已改为只陈述实际内容的写法，未添加新事实",
+   "changed_fields": [
+    "title",
+    "summary_cn",
     "version"
    ]
   }
