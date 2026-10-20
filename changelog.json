@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-10-20T20:43:46+08:00",
- "event_count": 319,
- "next_seq": 320,
+ "updated_at": "2026-10-20T20:49:26+08:00",
+ "event_count": 324,
+ "next_seq": 325,
  "events": [
   {
    "event_id": "evt-20261013-0001",
@@ -4158,6 +4158,76 @@
     "title",
     "summary_cn",
     "reels_angle",
+    "version"
+   ]
+  },
+  {
+   "event_id": "evt-20261020-0320",
+   "seq": 320,
+   "item_id": "commons-canada-geese-20261020",
+   "version": 3,
+   "type": "modified",
+   "status": "active",
+   "occurred_at": "2026-10-20T20:49:26+08:00",
+   "reason": "下游技术验收修正：clips/交付文件实测为MP4（ftyp/ffprobe h264），mime声明仍沿用原webm的video/webm；修正源数据mime为真实的video/mp4，未重编码、未换文件，_master_url仍保留原webm地址，来源/许可/日期不变",
+   "changed_fields": [
+    "mime",
+    "version"
+   ]
+  },
+  {
+   "event_id": "evt-20261020-0321",
+   "seq": 321,
+   "item_id": "commons-moose-lachryphagy-20261020",
+   "version": 3,
+   "type": "modified",
+   "status": "active",
+   "occurred_at": "2026-10-20T20:49:26+08:00",
+   "reason": "下游技术验收修正：clips/交付文件实测为MP4（ftyp/ffprobe h264），mime声明仍沿用原webm的video/webm；修正源数据mime为真实的video/mp4，未重编码、未换文件，_master_url仍保留原webm地址，来源/许可/日期不变",
+   "changed_fields": [
+    "mime",
+    "version"
+   ]
+  },
+  {
+   "event_id": "evt-20261020-0322",
+   "seq": 322,
+   "item_id": "commons-f35c-launch-flightops-20261020",
+   "version": 3,
+   "type": "modified",
+   "status": "active",
+   "occurred_at": "2026-10-20T20:49:26+08:00",
+   "reason": "下游技术验收修正：clips/交付文件实测为MP4（ftyp/ffprobe h264），mime声明仍沿用原webm的video/webm；修正源数据mime为真实的video/mp4，未重编码、未换文件，_master_url仍保留原webm地址，来源/许可/日期不变",
+   "changed_fields": [
+    "mime",
+    "version"
+   ]
+  },
+  {
+   "event_id": "evt-20261020-0323",
+   "seq": 323,
+   "item_id": "commons-kc135-refuel-f35-20261020",
+   "version": 3,
+   "type": "modified",
+   "status": "active",
+   "occurred_at": "2026-10-20T20:49:26+08:00",
+   "reason": "下游技术验收修正：clips/交付文件实测为MP4（ftyp/ffprobe h264），mime声明仍沿用原webm的video/webm；修正源数据mime为真实的video/mp4，未重编码、未换文件，_master_url仍保留原webm地址，来源/许可/日期不变",
+   "changed_fields": [
+    "mime",
+    "version"
+   ]
+  },
+  {
+   "event_id": "evt-20261020-0324",
+   "seq": 324,
+   "item_id": "commons-redflag-alaska-f35c-20261020",
+   "version": 3,
+   "type": "modified",
+   "status": "active",
+   "occurred_at": "2026-10-20T20:49:26+08:00",
+   "reason": "下游技术验收修正：clips/交付文件实测为MP4（ftyp/ffprobe h264），mime声明仍沿用原webm的video/webm；修正源数据mime为真实的video/mp4，未重编码、未换文件，_master_url仍保留原webm地址，来源/许可/日期不变",
+   "changed_fields": [
+    "mime",
     "version"
    ]
   }

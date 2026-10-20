@@ -938,14 +938,14 @@
    "attachments": [
     {
      "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/commons-canada-geese-20261020_10s.mp4",
-     "mime_type": "video/webm",
+     "mime_type": "video/mp4",
      "size_in_bytes": 2399668,
      "duration_in_seconds": 9.97
     }
    ],
    "_license": "Public domain",
    "_attribution": "无需署名",
-   "_version": 2,
+   "_version": 3,
    "_author": "USFWS Mountain Prairie",
    "_source_url": "https://commons.wikimedia.org/wiki/File:Canada_Geese_on_Trail_Camera_(50222797812).webm",
    "_master_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Canada_Geese_on_Trail_Camera_%2850222797812%29.webm",
@@ -972,14 +972,14 @@
    "attachments": [
     {
      "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/commons-moose-lachryphagy-20261020_18s.mp4",
-     "mime_type": "video/webm",
+     "mime_type": "video/mp4",
      "size_in_bytes": 2066871,
      "duration_in_seconds": 17.83
     }
    ],
    "_license": "Public domain",
    "_attribution": "无需署名",
-   "_version": 2,
+   "_version": 3,
    "_author": "Vermont Fish and Wildlife Department",
    "_source_url": "https://commons.wikimedia.org/wiki/File:Moose_lachryphagy.webm",
    "_master_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Moose_lachryphagy.webm",
@@ -1101,14 +1101,14 @@
    "attachments": [
     {
      "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/commons-f35c-launch-flightops-20261020_55s.mp4",
-     "mime_type": "video/webm",
+     "mime_type": "video/mp4",
      "size_in_bytes": 8426263,
      "duration_in_seconds": 55.31
     }
    ],
    "_license": "Public domain",
    "_attribution": "无需署名",
-   "_version": 2,
+   "_version": 3,
    "_source_url": "https://www.dvidshub.net/video/1025348/u-s-marines-launch-u-s-marine-corps-f-35c-lightning-iis-for-flight-operations",
    "_master_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/U_S_Marines_launch_U_S_Marine_Corps_F-35C_Lightning_II%E2%80%99s_for_flight_operations_%281025348%29.webm",
    "_footage_type": "真实拍摄（战机地面/空中实拍）",
@@ -1134,14 +1134,14 @@
    "attachments": [
     {
      "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/commons-kc135-refuel-f35-20261020_17s.mp4",
-     "mime_type": "video/webm",
+     "mime_type": "video/mp4",
      "size_in_bytes": 903765,
      "duration_in_seconds": 16.81
     }
    ],
    "_license": "Public domain",
    "_attribution": "无需署名",
-   "_version": 2,
+   "_version": 3,
    "_source_url": "https://www.dvidshub.net/video/1024964/kc-135-refuels-f-35s-theater-security",
    "_master_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/KC-135_refuels_F-35s_for_theater_security_%281024964%29.webm",
    "_footage_type": "真实拍摄（空中加油实拍）",
@@ -1167,14 +1167,14 @@
    "attachments": [
     {
      "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/commons-redflag-alaska-f35c-20261020_30s.mp4",
-     "mime_type": "video/webm",
+     "mime_type": "video/mp4",
      "size_in_bytes": 4326164,
      "duration_in_seconds": 30.0
     }
    ],
    "_license": "Public domain",
    "_attribution": "无需署名",
-   "_version": 2,
+   "_version": 3,
    "_source_url": "https://www.dvidshub.net/video/1020946/vmfa-251-completes-familiarization-flights-red-flag-alaska-26",
    "_master_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/VMFA-251_completes_familiarization_flights_for_RED_FLAG-Alaska_26-3_%281020946%29.webm",
    "_footage_type": "真实拍摄（军演实拍）",
