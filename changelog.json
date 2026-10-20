@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-10-20T20:13:33+08:00",
- "event_count": 293,
- "next_seq": 294,
+ "updated_at": "2026-10-20T20:25:03+08:00",
+ "event_count": 306,
+ "next_seq": 307,
  "events": [
   {
    "event_id": "evt-20261013-0001",
@@ -3737,6 +3737,203 @@
    "status": "active",
    "occurred_at": "2026-10-20T20:13:04+08:00",
    "reason": "2026-10-20 手动采集入库（军事/装备）"
+  },
+  {
+   "event_id": "evt-20261020-0294",
+   "seq": 294,
+   "item_id": "archive-steamboat-willie-1928-20261020",
+   "version": 2,
+   "type": "modified",
+   "status": "active",
+   "occurred_at": "2026-10-20T20:25:03+08:00",
+   "reason": "下游验收修复：tags[2]（热点挂钩）216字符超200上限，缩短至200内；公有领域生效日期等关键事实已在摘要中保留",
+   "changed_fields": [
+    "trend_hook",
+    "version"
+   ]
+  },
+  {
+   "event_id": "evt-20261020-0295",
+   "seq": 295,
+   "item_id": "noaa-glass-sponge-20261020",
+   "version": 2,
+   "type": "modified",
+   "status": "active",
+   "occurred_at": "2026-10-20T20:25:03+08:00",
+   "reason": "下游验收修复：tags[2]（热点挂钩）213字符超200上限，缩短至200内；被压缩的热点事实（57个新物种、Nautilus科考）已补入摘要保留",
+   "changed_fields": [
+    "trend_hook",
+    "summary_cn",
+    "version"
+   ]
+  },
+  {
+   "event_id": "evt-20261020-0296",
+   "seq": 296,
+   "item_id": "esohubble-ngc4698-pan-20261020",
+   "version": 2,
+   "type": "modified",
+   "status": "active",
+   "occurred_at": "2026-10-20T20:25:03+08:00",
+   "reason": "下游验收修复：_recommended_segment 由数组改为数值对象{start_seconds,end_seconds}，坐标按交付文件实测时长核定（ffprobe实测）",
+   "changed_fields": [
+    "_recommended_segment",
+    "version"
+   ]
+  },
+  {
+   "event_id": "evt-20261020-0297",
+   "seq": 297,
+   "item_id": "noirlab-protosupercluster-20261020",
+   "version": 2,
+   "type": "modified",
+   "status": "active",
+   "occurred_at": "2026-10-20T20:25:03+08:00",
+   "reason": "下游验收修复：_recommended_segment 由数组改为数值对象{start_seconds,end_seconds}，坐标按交付文件实测时长核定（ffprobe实测）；同时修正影像类型（见下）",
+   "changed_fields": [
+    "_recommended_segment",
+    "_footage_type",
+    "version"
+   ]
+  },
+  {
+   "event_id": "evt-20261020-0298",
+   "seq": 298,
+   "item_id": "eso-s301-sgra-20261020",
+   "version": 2,
+   "type": "modified",
+   "status": "active",
+   "occurred_at": "2026-10-20T20:25:03+08:00",
+   "reason": "下游验收修复：_recommended_segment 由数组改为数值对象{start_seconds,end_seconds}，坐标按交付文件实测时长核定（ffprobe实测）；同时修正影像类型（见下）",
+   "changed_fields": [
+    "_recommended_segment",
+    "_footage_type",
+    "version"
+   ]
+  },
+  {
+   "event_id": "evt-20261020-0299",
+   "seq": 299,
+   "item_id": "commons-ibm-blockchain-kenya-drugs-20261020",
+   "version": 2,
+   "type": "modified",
+   "status": "active",
+   "occurred_at": "2026-10-20T20:25:03+08:00",
+   "reason": "下游验收修复：影像类型改为可映射的标准值'混合'（真实拍摄+动画/图形说明），详细组成解释保留在摘要中",
+   "changed_fields": [
+    "_footage_type",
+    "version"
+   ]
+  },
+  {
+   "event_id": "evt-20261020-0300",
+   "seq": 300,
+   "item_id": "commons-ibm-blockchain-textiles-20261020",
+   "version": 2,
+   "type": "modified",
+   "status": "active",
+   "occurred_at": "2026-10-20T20:25:03+08:00",
+   "reason": "下游验收修复：影像类型改为可映射的标准值'混合'（真实拍摄+动画/图形说明），详细组成解释保留在摘要中",
+   "changed_fields": [
+    "_footage_type",
+    "version"
+   ]
+  },
+  {
+   "event_id": "evt-20261020-0301",
+   "seq": 301,
+   "item_id": "commons-3dprint-timelapse-20261020",
+   "version": 2,
+   "type": "modified",
+   "status": "active",
+   "occurred_at": "2026-10-20T20:25:03+08:00",
+   "reason": "下游验收复核：内容为普通FDM 3D打印延时，无实质AI事实，不凑AI垂类；按真实内容（创客/自动化制造）改派社群至 Robotics and Automation Brief",
+   "changed_fields": [
+    "community",
+    "version"
+   ]
+  },
+  {
+   "event_id": "evt-20261020-0302",
+   "seq": 302,
+   "item_id": "commons-8sfs-drone-3dprint-20261020",
+   "version": 2,
+   "type": "modified",
+   "status": "active",
+   "occurred_at": "2026-10-20T20:25:03+08:00",
+   "reason": "下游验收复核：内容为美军3D打印制造无人机，属无人系统/军事制造，非AI工具应用；按真实内容改派社群至 Robotics and Automation Brief",
+   "changed_fields": [
+    "community",
+    "version"
+   ]
+  },
+  {
+   "event_id": "evt-20261020-0303",
+   "seq": 303,
+   "item_id": "nasa-swim-robots-20261020",
+   "version": 2,
+   "type": "modified",
+   "status": "active",
+   "occurred_at": "2026-10-20T20:25:03+08:00",
+   "reason": "下游验收复核：内容为NASA JPL自主水下机器人实测，属机器人/无人系统，非AI工具日常应用；按真实内容改派社群至 Robotics and Automation Brief",
+   "changed_fields": [
+    "community",
+    "version"
+   ]
+  },
+  {
+   "event_id": "evt-20261020-0304",
+   "seq": 304,
+   "item_id": "nps-bike-safety-in-zion-20261020",
+   "version": 2,
+   "type": "retracted",
+   "status": "retracted",
+   "occurred_at": "2026-10-20T20:25:03+08:00",
+   "reason": "下游验收修复：_source_url 为 NPS 官方 view.htm?id=<GUID> 形式，id 即对象标识，官方页面 og:url 亦为该地址，无无查询参数的规范替代链接，不满足来源地址规则；上游不放宽规则，撤回处理",
+   "changed_fields": [
+    "status",
+    "version"
+   ],
+   "_retracted": {
+    "reason": "source_url含查询参数且无合规替代链接（VIDEO_SOURCE_URL_INVALID）",
+    "retracted_at": "2026-10-20T20:25:03+08:00"
+   }
+  },
+  {
+   "event_id": "evt-20261020-0305",
+   "seq": 305,
+   "item_id": "nps-three-tips-for-camping-in-glacier-20261020",
+   "version": 2,
+   "type": "retracted",
+   "status": "retracted",
+   "occurred_at": "2026-10-20T20:25:03+08:00",
+   "reason": "下游验收修复：_source_url 为 NPS 官方 view.htm?id=<GUID> 形式，id 即对象标识，官方页面 og:url 亦为该地址，无无查询参数的规范替代链接，不满足来源地址规则；上游不放宽规则，撤回处理",
+   "changed_fields": [
+    "status",
+    "version"
+   ],
+   "_retracted": {
+    "reason": "source_url含查询参数且无合规替代链接（VIDEO_SOURCE_URL_INVALID）",
+    "retracted_at": "2026-10-20T20:25:03+08:00"
+   }
+  },
+  {
+   "event_id": "evt-20261020-0306",
+   "seq": 306,
+   "item_id": "nps-come-visit-grand-canyon-20261020",
+   "version": 2,
+   "type": "retracted",
+   "status": "retracted",
+   "occurred_at": "2026-10-20T20:25:03+08:00",
+   "reason": "下游验收修复：_source_url 为 NPS 官方 view.htm?id=<GUID> 形式，id 即对象标识，官方页面 og:url 亦为该地址，无无查询参数的规范替代链接，不满足来源地址规则；上游不放宽规则，撤回处理",
+   "changed_fields": [
+    "status",
+    "version"
+   ],
+   "_retracted": {
+    "reason": "source_url含查询参数且无合规替代链接（VIDEO_SOURCE_URL_INVALID）",
+    "retracted_at": "2026-10-20T20:25:03+08:00"
+   }
   }
  ]
 }
