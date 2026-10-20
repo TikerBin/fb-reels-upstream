@@ -9,7 +9,7 @@
   {
    "vertical": "新闻/财经",
    "community": "Everyday News and Money Discussion",
-   "count": 5
+   "count": 6
   },
   {
    "vertical": "AI",
@@ -29,7 +29,7 @@
   {
    "vertical": "军事航空装备",
    "community": "Robotics and Automation Brief",
-   "count": 4
+   "count": 5
   },
   {
    "vertical": "科学",
@@ -44,27 +44,27 @@
   {
    "vertical": "海洋生物/深海",
    "community": "Science Worth Understanding",
-   "count": 1
+   "count": 2
   },
   {
    "vertical": "网络安全",
    "community": "Digital Safety Explained",
-   "count": 4
+   "count": 5
   },
   {
    "vertical": "游戏",
    "community": "Next Game Brief",
-   "count": 5
+   "count": 6
   },
   {
    "vertical": "影视",
    "community": "Screen Stories Brief",
-   "count": 4
+   "count": 5
   },
   {
    "vertical": "体育",
    "community": "Beyond the Score Brief",
-   "count": 6
+   "count": 7
   },
   {
    "vertical": "国家公园旅行/户外",
@@ -74,10 +74,274 @@
   {
    "vertical": "艺术设计",
    "community": "Design Worth Noticing",
-   "count": 5
+   "count": 6
   }
  ],
  "items": [
+  {
+   "id": "dvids-cyber-warfare-20261020",
+   "url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112081153/DOD_112081153.mp4",
+   "title": "美陆军网络战项目任务宣传片：快速部署先进平台对抗对手（竖屏49秒）",
+   "summary": "美陆军网络战项目（PM Cyber Warfare）官方任务宣传片。竖屏短片，含士兵实拍镜头、数字特效字幕与像素化地球动画，英文字幕讲述快速部署先进平台、对抗对手的网络战能力。时长49秒，抽帧确认内容与标题一致。",
+   "content_text": "内容总结：美陆军网络战项目（PM Cyber Warfare）官方任务宣传片。竖屏短片，含士兵实拍镜头、数字特效字幕与像素化地球动画，英文字幕讲述快速部署先进平台、对抗对手的网络战能力。时长49秒，抽帧确认内容与标题一致。\n内容类型：科技/安全教育\n对应社群：Digital Safety Explained\n许可证：Public domain（无需署名）\nReels角度：网络战/国家级黑客攻防科普：用美军官方网络战宣传片切入，讲清\"网络空间已是第五战场\"，配文案可延伸到个人与企业网络安全防护意识。\n热点挂钩：本周 CrowdStrike 披露黑客使用中国开发的 AI 工具攻击韩国银行，国家级网络攻击话题升温；本片提供官方视角的网络战背景素材。\n规格：49秒，864x1080，约40.6MB",
+   "date_published": "2026-10-20T09:19:19+08:00",
+   "tags": [
+    "科技/安全教育",
+    "Digital Safety Explained",
+    "本周 CrowdStrike 披露黑客使用中国开发的 AI 工具攻击韩国银行，国家级网络攻击话题升温；本片提供官方视角的网络战背景素材。"
+   ],
+   "attachments": [
+    {
+     "url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112081153/DOD_112081153.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 42615098,
+     "duration_in_seconds": 49
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_source_url": "https://www.dvidshub.net/video/1026811/pm-cyber-warfare-mission-video",
+   "_footage_type": "混合（真实拍摄+数字特效）",
+   "_original_upload_date": "2026-10-19",
+   "_recommended_segment": {
+    "start_seconds": 0,
+    "end_seconds": 49
+   }
+  },
+  {
+   "id": "dvids-coastguard-repatriation-20261020",
+   "url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112082207/DOD_112082207.mp4",
+   "title": "美国海岸警卫队莫纳海峡拦截偷渡船、遣返63名多米尼加移民（夜视实拍54秒）",
+   "summary": "美国海岸警卫队官方影像：夜视/红外航拍记录在莫纳海峡拦截非法移民偷渡船的过程，可见超载小船与目标定位叠加画面；63名多米尼加移民随后被遣返。时长54秒，抽帧确认内容与标题一致。",
+   "content_text": "内容总结：美国海岸警卫队官方影像：夜视/红外航拍记录在莫纳海峡拦截非法移民偷渡船的过程，可见超载小船与目标定位叠加画面；63名多米尼加移民随后被遣返。时长54秒，抽帧确认内容与标题一致。\n内容类型：科技/新闻\n对应社群：Everyday News and Money Discussion\n许可证：Public domain（无需署名）\nReels角度：美国移民执法一线实拍：夜视拦截画面视觉冲击强，适合做\"边境执法纪实\"类短视频，配文案讲遣返流程与数据。\n热点挂钩：美国中期选举11月3日投票，移民与边境执法是白热化议题之一；本片为昨日（10月19日）发布的官方一线实拍，时效性强。\n规格：54秒，720x480，约48.2MB",
+   "date_published": "2026-10-20T09:19:19+08:00",
+   "tags": [
+    "科技/新闻",
+    "Everyday News and Money Discussion",
+    "美国中期选举11月3日投票，移民与边境执法是白热化议题之一；本片为昨日（10月19日）发布的官方一线实拍，时效性强。"
+   ],
+   "attachments": [
+    {
+     "url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112082207/DOD_112082207.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 50506026,
+     "duration_in_seconds": 54
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_source_url": "https://www.dvidshub.net/video/1026857/coast-guard-repatriates-63-aliens-dominican-republic-following-unlawful-migration-voyage-mona-passage",
+   "_footage_type": "真实拍摄",
+   "_event_date": "2026-10-16",
+   "_filmed_date": "2026-10-16",
+   "_original_upload_date": "2026-10-19",
+   "_recommended_segment": {
+    "start_seconds": 0,
+    "end_seconds": 54
+   }
+  },
+  {
+   "id": "noaa-seacuke-swimming-20261020",
+   "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/noaa-seacuke-swimming-20261020_30s.mp4",
+   "title": "深海紫色游泳海参在黑暗中优雅\"飞行\"",
+   "summary": "NOAA 海洋探索计划 2026 年美国萨摩亚 ROV+测绘科考航次（EX2606）第 3 潜拍摄：深海中一只紫色游泳海参（深海海参类）在 ROV 灯光下舒展身体、像伞一样起伏游动。母带 84 秒 640x360，本轮自剪 30 秒精华（母带 25–55 秒：近距离身体特写转全身游动），放大到 720p。",
+   "content_text": "内容总结：NOAA 海洋探索计划 2026 年美国萨摩亚 ROV+测绘科考航次（EX2606）第 3 潜拍摄：深海中一只紫色游泳海参（深海海参类）在 ROV 灯光下舒展身体、像伞一样起伏游动。母带 84 秒 640x360，本轮自剪 30 秒精华（母带 25–55 秒：近距离身体特写转全身游动），放大到 720p。\n内容类型：自然/海洋生物\n对应社群：Science Worth Understanding\n许可证：Public domain（无需署名）\nReels角度：反差萌：多数人以为海参只会趴在海底，这只却在深海里'游泳'——'海参居然会飞'式标题党天然适合 Reels；紫色半透明身体在黑暗中极具视觉冲击力，适合加字幕做'深海奇葩生物'系列。\n热点挂钩：鹦鹉螺号（Nautilus）2026 年最后一次科考 10 月 14 日出发（夏威夷海域 20 天、ROV 潜水至 6000 米），深海 ROV 影像正当季；本条为 NOAA 同期 2026 航次的 ROV 实拍，形成'深海探索季'话题联动。\n规格：30秒，1280x720，约10.4MB",
+   "date_published": "2026-10-20T09:19:19+08:00",
+   "tags": [
+    "自然/海洋生物",
+    "Science Worth Understanding",
+    "鹦鹉螺号（Nautilus）2026 年最后一次科考 10 月 14 日出发（夏威夷海域 20 天、ROV 潜水至 6000 米），深海 ROV 影像正当季；本条为 NOAA 同期 2026 航次的 ROV 实拍，形成'深海探索季'话题联动。"
+   ],
+   "attachments": [
+    {
+     "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/noaa-seacuke-swimming-20261020_30s.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 10917992,
+     "duration_in_seconds": 30
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_source_url": "https://oceanexplorer.noaa.gov/multimedia/sea-cucumber-swimming/",
+   "_master_url": "https://oceanexplorer.noaa.gov/wp-content/uploads/2026/09/ex2606-dive03-seacuke-640x360-1.mp4",
+   "_footage_type": "真实拍摄",
+   "_original_upload_date": "2026-08-29",
+   "_recommended_segment": {
+    "start_seconds": 0,
+    "end_seconds": 30
+   }
+  },
+  {
+   "id": "commons-ramstein-esports-20261020",
+   "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/game-ramstein-esports-20261020.mp4",
+   "title": "美军拉姆施泰因基地2025盟军电竞邀请赛纪实：赛场舞台、选手采访与颁奖",
+   "summary": "美国空军部电竞项目 2025 年 7 月 18-20 日在德国拉姆施泰因空军基地举办盟军电竞邀请赛，美空军、太空军等多军种队伍参赛。54 秒纪实短片含赛场舞台全景、选手采访与颁奖仪式镜头，无实机录像。",
+   "content_text": "内容总结：美国空军部电竞项目 2025 年 7 月 18-20 日在德国拉姆施泰因空军基地举办盟军电竞邀请赛，美空军、太空军等多军种队伍参赛。54 秒纪实短片含赛场舞台全景、选手采访与颁奖仪式镜头，无实机录像。\n内容类型：游戏/生活方式\n对应社群：Next Game Brief\n许可证：Public domain（无需署名）\nReels角度：电竞生活方式向：美军把电竞当正式体育项目运营，现场仪式感拉满；适合配“当兵也能打电竞比赛”类话题文案。\n热点挂钩：无直接挂钩（日常内容）\n规格：54秒，1920x1080，约18.4MB",
+   "date_published": "2026-10-20T09:19:19+08:00",
+   "tags": [
+    "游戏/生活方式",
+    "Next Game Brief",
+    "无直接挂钩（日常内容）"
+   ],
+   "attachments": [
+    {
+     "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/game-ramstein-esports-20261020.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 19245118,
+     "duration_in_seconds": 54
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_author": "Staff Sgt. Ryan Grossklag",
+   "_source_url": "https://commons.wikimedia.org/wiki/File:Ramstein_hosts_2025_Allied_Forces_Esports_Invitational_(720p_w-o_graphics)_(971185).webm",
+   "_master_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Ramstein_hosts_2025_Allied_Forces_Esports_Invitational_%28720p_w-o_graphics%29_%28971185%29.webm",
+   "_footage_type": "真实拍摄",
+   "_event_date": "2025-07-18",
+   "_original_upload_date": "2026-07-07",
+   "_recommended_segment": {
+    "start_seconds": 0,
+    "end_seconds": 54
+   }
+  },
+  {
+   "id": "commons-candid-stars-1920s-20261020",
+   "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/film-candid-stars-20261020.mp4",
+   "title": "1920年代好莱坞明星生活花絮：默片时代珍贵黑白影像",
+   "summary": "1920 年代默片时代明星生活花絮新闻短片：英文字幕卡介绍珍珠·怀特、玛丽安·戴维斯等影星的片场与居家日常，穿插制片厂外景、公寓内景及爱丽丝·乔伊斯弹钢琴的黑白影像。本条为母带（12 分 08 秒）290-350 秒精华剪辑，60 秒 720p。",
+   "content_text": "内容总结：1920 年代默片时代明星生活花絮新闻短片：英文字幕卡介绍珍珠·怀特、玛丽安·戴维斯等影星的片场与居家日常，穿插制片厂外景、公寓内景及爱丽丝·乔伊斯弹钢琴的黑白影像。本条为母带（12 分 08 秒）290-350 秒精华剪辑，60 秒 720p。\n内容类型：影视/文化\n对应社群：Screen Stories Brief\n许可证：Public domain（无需署名）\nReels角度：百年前的“明星 vlog”：默片时代顶流的真实生活反差感；英文字幕卡可配中文解说，做“100 年前的好莱坞”系列。\n热点挂钩：无直接挂钩（日常内容）\n规格：60秒，1282x720，约9.9MB",
+   "date_published": "2026-10-20T09:19:19+08:00",
+   "tags": [
+    "影视/文化",
+    "Screen Stories Brief",
+    "无直接挂钩（日常内容）"
+   ],
+   "attachments": [
+    {
+     "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/film-candid-stars-20261020.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 10371465,
+     "duration_in_seconds": 60
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_source_url": "https://commons.wikimedia.org/wiki/File:Candid_Moments_of_the_Stars_-_8mm_-_Silent_-_UHD.webm",
+   "_master_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/43/Candid_Moments_of_the_Stars_-_8mm_-_Silent_-_UHD.webm/Candid_Moments_of_the_Stars_-_8mm_-_Silent_-_UHD.webm.480p.vp9.webm",
+   "_footage_type": "真实拍摄",
+   "_original_upload_date": "2026-10-16",
+   "_recommended_segment": {
+    "start_seconds": 0,
+    "end_seconds": 60
+   }
+  },
+  {
+   "id": "dvids-marine-corps-marathon-20261020",
+   "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/sport-marine-corps-marathon-20261020.mp4",
+   "title": "第51届美国海军陆战队马拉松：父子同跑赛道实拍",
+   "summary": "美国海军陆战队第51届马拉松主题短片：MCAS Beaufort基地指挥官Trevor J. Felter上校与儿子Zarek讲述父子同跑第51届赛事的缘由，穿插马拉松赛道实拍——城市街道上的跑者大军、轮椅选手、补给站人群、跑鞋特写。该赛事旨在纪念阵亡军人、弘扬健身与陆战队价值观。成品为母带90.9秒中13-32秒精华段（19秒，720p）。",
+   "content_text": "内容总结：美国海军陆战队第51届马拉松主题短片：MCAS Beaufort基地指挥官Trevor J. Felter上校与儿子Zarek讲述父子同跑第51届赛事的缘由，穿插马拉松赛道实拍——城市街道上的跑者大军、轮椅选手、补给站人群、跑鞋特写。该赛事旨在纪念阵亡军人、弘扬健身与陆战队价值观。成品为母带90.9秒中13-32秒精华段（19秒，720p）。\n内容类型：体育/历史\n对应社群：Beyond the Score Brief\n许可证：Public domain（无需署名）\nReels角度：父子同跑的人情味故事+赛道实拍：以'为什么而跑'切入，纪念军人、坚持与家庭主题；19秒成品起落全是动态赛道画面（跑者、轮椅选手、补给站、跑鞋特写），适合配励志文案做体育精神类Reels。\n热点挂钩：挂钩NBA新赛季人事变动（Lakers裁掉Dalton Knecht）：职业体育圈人事更迭不断，而业余跑者为热爱与纪念而跑——'为谁而跑'的反差话题。\n规格：19秒，1280x720，约2.2MB",
+   "date_published": "2026-10-20T09:19:19+08:00",
+   "tags": [
+    "体育/历史",
+    "Beyond the Score Brief",
+    "挂钩NBA新赛季人事变动（Lakers裁掉Dalton Knecht）：职业体育圈人事更迭不断，而业余跑者为热爱与纪念而跑——'为谁而跑'的反差话题。"
+   ],
+   "attachments": [
+    {
+     "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/sport-marine-corps-marathon-20261020.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 2296350,
+     "duration_in_seconds": 19
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_author": "U.S. Marine Corps",
+   "_source_url": "https://www.dvidshub.net/video/1026821/51st-marine-corps-marathon-col-felter-int",
+   "_master_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112081293/DOD_112081293.mp4",
+   "_footage_type": "真实拍摄",
+   "_filmed_date": "2026-10-05",
+   "_original_upload_date": "2026-10-19",
+   "_recommended_segment": {
+    "start_seconds": 0,
+    "end_seconds": 19
+   }
+  },
+  {
+   "id": "noirlab-pa30-zoom-20261020",
+   "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/art-pa30-supernova-zoom-20261020.mp4",
+   "title": "飞向超新星遗迹Pa 30：宇宙中的烟花",
+   "summary": "NOIRLab发布的超新星遗迹Pa 30缩放可视化：镜头从浩瀚星野一路推进，最终定格在形如节日烟花的橙色放射状遗迹上（双子座北望远镜实测图像制作的动画缩放）。全长36.9秒，720p成品为母带完整转码。",
+   "content_text": "内容总结：NOIRLab发布的超新星遗迹Pa 30缩放可视化：镜头从浩瀚星野一路推进，最终定格在形如节日烟花的橙色放射状遗迹上（双子座北望远镜实测图像制作的动画缩放）。全长36.9秒，720p成品为母带完整转码。\n内容类型：文化/艺术\n对应社群：Design Worth Noticing\n许可证：CC BY 4.0（发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/4.0/）\nReels角度：宇宙级视觉奇观：37秒一镜式推进，从浩瀚星海一路缩放到形如节日烟花的超新星遗迹，视觉冲击极强，适合做'你不知道的宇宙'系列开场或纯视觉治愈类Reels；CC BY 4.0需按规范署名。\n热点挂钩：无直接挂钩（日常内容）\n规格：37秒，1280x720，约18.5MB",
+   "date_published": "2026-10-20T09:19:19+08:00",
+   "tags": [
+    "文化/艺术",
+    "Design Worth Noticing",
+    "无直接挂钩（日常内容）"
+   ],
+   "attachments": [
+    {
+     "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/art-pa30-supernova-zoom-20261020.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 19356711,
+     "duration_in_seconds": 37
+    }
+   ],
+   "_license": "CC BY 4.0",
+   "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/4.0/",
+   "_version": 1,
+   "_author": "International Gemini Observatory/NOIRLab/NSF/AURA",
+   "_source_url": "https://noirlab.edu/public/videos/noirlab2624b/",
+   "_license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "_master_url": "https://storage.noirlab.edu/media/archives/videos/ultra_hd/noirlab2624b.mp4",
+   "_footage_type": "动画",
+   "_original_upload_date": "2026-10-06",
+   "_recommended_segment": {
+    "start_seconds": 0,
+    "end_seconds": 37
+   }
+  },
+  {
+   "id": "dvids-marne-drivers-teaser-20261020",
+   "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/mil-marne-drivers-20261020.mp4",
+   "title": "美陆军第3步兵师战斗驾驶训练课程预告：军用工程车实拍",
+   "summary": "美军第3步兵师在佐治亚州斯图尔特堡新设 Marne 战斗驾驶训练课程的预告短片：军绿色涂装的军用挖掘机、自卸工程车在设有混凝土障碍桩的训练场上作业，士兵现场指挥调度，全程竖屏实拍。",
+   "content_text": "内容总结：美军第3步兵师在佐治亚州斯图尔特堡新设 Marne 战斗驾驶训练课程的预告短片：军绿色涂装的军用挖掘机、自卸工程车在设有混凝土障碍桩的训练场上作业，士兵现场指挥调度，全程竖屏实拍。\n内容类型：军事/装备\n对应社群：Robotics and Automation Brief\n许可证：Public domain（无需署名）\nReels角度：美军工兵'开大车'第一视角：军用挖掘机、自卸车在障碍赛道上的硬核作业，竖屏原生 15 秒，天然适配 Reels 短平快节奏；工程机械+军事双重看点，评论区易引发'这挖机比民用的猛'式讨论。\n热点挂钩：本周外媒曝出美国推迟向乌克兰交付'爱国者'防空导弹、美俄中三方峰会传闻不断，美军自身战备动向正处舆论焦点。这条 10 月 8 日实拍、10 月 19 日发布的美军本土训练新课程预告，可挂钩'美军在忙什么：本土练兵不停'角度，把装备训练素材与大新闻的关注度叠加，而非硬蹭导弹话题本身。\n规格：15秒，1080x1920，约18.2MB",
+   "date_published": "2026-10-20T09:19:19+08:00",
+   "tags": [
+    "军事/装备",
+    "Robotics and Automation Brief",
+    "本周外媒曝出美国推迟向乌克兰交付'爱国者'防空导弹、美俄中三方峰会传闻不断，美军自身战备动向正处舆论焦点。这条 10 月 8 日实拍、10 月 19 日发布的美军本土训练新课程预告，可挂钩'美军在忙什么：本土练兵不停'角度，把装备训练素材与大新闻的关注度叠加，而非硬蹭导弹话题本身。"
+   ],
+   "attachments": [
+    {
+     "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/mil-marne-drivers-20261020.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 19033532,
+     "duration_in_seconds": 15
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_source_url": "https://www.dvidshub.net/video/1026839/marne-combat-drivers-training-course-teaser",
+   "_master_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112081575/DOD_112081575.mp4",
+   "_footage_type": "真实拍摄",
+   "_event_date": "2026-10-08",
+   "_filmed_date": "2026-10-08",
+   "_original_upload_date": "2026-10-19",
+   "_recommended_segment": {
+    "start_seconds": 0,
+    "end_seconds": 15
+   }
+  },
   {
    "id": "commons-trump-hebron-gaggle-20261019",
    "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/commons-trump-hebron-gaggle-20261019_26s.mp4",

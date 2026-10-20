@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-10-19T13:56:01+08:00",
- "event_count": 249,
- "next_seq": 250,
+ "updated_at": "2026-10-20T09:19:19+08:00",
+ "event_count": 257,
+ "next_seq": 258,
  "events": [
   {
    "event_id": "evt-20261013-0001",
@@ -3297,6 +3297,86 @@
    "status": "active",
    "occurred_at": "2026-10-19T09:40:59+08:00",
    "reason": "2026-10-19 每日采集入库（军事/装备）"
+  },
+  {
+   "event_id": "evt-20261020-0250",
+   "seq": 250,
+   "item_id": "dvids-cyber-warfare-20261020",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-20T09:19:19+08:00",
+   "reason": "2026-10-20 每日采集入库（科技/安全教育）"
+  },
+  {
+   "event_id": "evt-20261020-0251",
+   "seq": 251,
+   "item_id": "dvids-coastguard-repatriation-20261020",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-20T09:19:19+08:00",
+   "reason": "2026-10-20 每日采集入库（科技/新闻）"
+  },
+  {
+   "event_id": "evt-20261020-0252",
+   "seq": 252,
+   "item_id": "noaa-seacuke-swimming-20261020",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-20T09:19:19+08:00",
+   "reason": "2026-10-20 每日采集入库（自然/海洋生物）"
+  },
+  {
+   "event_id": "evt-20261020-0253",
+   "seq": 253,
+   "item_id": "commons-ramstein-esports-20261020",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-20T09:19:19+08:00",
+   "reason": "2026-10-20 每日采集入库（游戏/生活方式）"
+  },
+  {
+   "event_id": "evt-20261020-0254",
+   "seq": 254,
+   "item_id": "commons-candid-stars-1920s-20261020",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-20T09:19:19+08:00",
+   "reason": "2026-10-20 每日采集入库（影视/文化）"
+  },
+  {
+   "event_id": "evt-20261020-0255",
+   "seq": 255,
+   "item_id": "dvids-marine-corps-marathon-20261020",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-20T09:19:19+08:00",
+   "reason": "2026-10-20 每日采集入库（体育/历史）"
+  },
+  {
+   "event_id": "evt-20261020-0256",
+   "seq": 256,
+   "item_id": "noirlab-pa30-zoom-20261020",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-20T09:19:19+08:00",
+   "reason": "2026-10-20 每日采集入库（文化/艺术）"
+  },
+  {
+   "event_id": "evt-20261020-0257",
+   "seq": 257,
+   "item_id": "dvids-marne-drivers-teaser-20261020",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-20T09:19:19+08:00",
+   "reason": "2026-10-20 每日采集入库（军事/装备）"
   }
  ]
 }
