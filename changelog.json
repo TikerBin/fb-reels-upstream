@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-10-20T09:19:19+08:00",
- "event_count": 257,
- "next_seq": 258,
+ "updated_at": "2026-10-20T20:13:33+08:00",
+ "event_count": 293,
+ "next_seq": 294,
  "events": [
   {
    "event_id": "evt-20261013-0001",
@@ -3377,6 +3377,366 @@
    "status": "active",
    "occurred_at": "2026-10-20T09:19:19+08:00",
    "reason": "2026-10-20 每日采集入库（军事/装备）"
+  },
+  {
+   "event_id": "evt-20261020-0258",
+   "seq": 258,
+   "item_id": "commons-3dprint-timelapse-20261020",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-20T20:13:04+08:00",
+   "reason": "2026-10-20 手动采集入库（科技/创客）"
+  },
+  {
+   "event_id": "evt-20261020-0259",
+   "seq": 259,
+   "item_id": "commons-8sfs-drone-3dprint-20261020",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-20T20:13:04+08:00",
+   "reason": "2026-10-20 手动采集入库（科技/无人机）"
+  },
+  {
+   "event_id": "evt-20261020-0260",
+   "seq": 260,
+   "item_id": "nasa-swim-robots-20261020",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-20T20:13:04+08:00",
+   "reason": "2026-10-20 手动采集入库（科技/教育）"
+  },
+  {
+   "event_id": "evt-20261020-0261",
+   "seq": 261,
+   "item_id": "commons-bitcoin-el-salvador-20261020",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-20T20:13:04+08:00",
+   "reason": "2026-10-20 手动采集入库（财经/科普）"
+  },
+  {
+   "event_id": "evt-20261020-0262",
+   "seq": 262,
+   "item_id": "commons-ibm-blockchain-kenya-drugs-20261020",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-20T20:13:04+08:00",
+   "reason": "2026-10-20 手动采集入库（财经/科普）"
+  },
+  {
+   "event_id": "evt-20261020-0263",
+   "seq": 263,
+   "item_id": "commons-ibm-blockchain-textiles-20261020",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-20T20:13:04+08:00",
+   "reason": "2026-10-20 手动采集入库（财经/科普）"
+  },
+  {
+   "event_id": "evt-20261020-0264",
+   "seq": 264,
+   "item_id": "nasa-artemis2-ml-rollback-drone-20261020",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-20T20:13:04+08:00",
+   "reason": "2026-10-20 手动采集入库（科技/无人机）"
+  },
+  {
+   "event_id": "evt-20261020-0265",
+   "seq": 265,
+   "item_id": "nasa-boeing-cft-rollout-drone-20261020",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-20T20:13:04+08:00",
+   "reason": "2026-10-20 手动采集入库（科技/无人机）"
+  },
+  {
+   "event_id": "evt-20261020-0266",
+   "seq": 266,
+   "item_id": "nasa-msfc-drone-photography-20261020",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-20T20:13:04+08:00",
+   "reason": "2026-10-20 手动采集入库（科技/无人机）"
+  },
+  {
+   "event_id": "evt-20261020-0267",
+   "seq": 267,
+   "item_id": "esohubble-ngc4698-pan-20261020",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-20T20:13:04+08:00",
+   "reason": "2026-10-20 手动采集入库（科技/航天）"
+  },
+  {
+   "event_id": "evt-20261020-0268",
+   "seq": 268,
+   "item_id": "noirlab-protosupercluster-20261020",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-20T20:13:04+08:00",
+   "reason": "2026-10-20 手动采集入库（科技/航天）"
+  },
+  {
+   "event_id": "evt-20261020-0269",
+   "seq": 269,
+   "item_id": "eso-s301-sgra-20261020",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-20T20:13:04+08:00",
+   "reason": "2026-10-20 手动采集入库（科技/航天）"
+  },
+  {
+   "event_id": "evt-20261020-0270",
+   "seq": 270,
+   "item_id": "commons-e3-crashed-burned-20261020",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-20T20:13:04+08:00",
+   "reason": "2026-10-20 手动采集入库（游戏/怀旧文化）"
+  },
+  {
+   "event_id": "evt-20261020-0271",
+   "seq": 271,
+   "item_id": "commons-haradas-bar-ep5-rival-20261020",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-20T20:13:04+08:00",
+   "reason": "2026-10-20 手动采集入库（游戏/生活方式）"
+  },
+  {
+   "event_id": "evt-20261020-0272",
+   "seq": 272,
+   "item_id": "commons-commodore1701-crt-repair-20261020",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-20T20:13:04+08:00",
+   "reason": "2026-10-20 手动采集入库（游戏/怀旧文化）"
+  },
+  {
+   "event_id": "evt-20261020-0273",
+   "seq": 273,
+   "item_id": "archive-steamboat-willie-1928-20261020",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-20T20:13:04+08:00",
+   "reason": "2026-10-20 手动采集入库（影视/文化）"
+  },
+  {
+   "event_id": "evt-20261020-0274",
+   "seq": 274,
+   "item_id": "archive-gold-rush-1925-20261020",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-20T20:13:04+08:00",
+   "reason": "2026-10-20 手动采集入库（影视/文化）"
+  },
+  {
+   "event_id": "evt-20261020-0275",
+   "seq": 275,
+   "item_id": "commons-mr-jones-at-the-ball-1908-20261020",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-20T20:13:04+08:00",
+   "reason": "2026-10-20 手动采集入库（影视/文化）"
+  },
+  {
+   "event_id": "evt-20261020-0276",
+   "seq": 276,
+   "item_id": "commons-budapest-marathon-festival-20261020",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-20T20:13:04+08:00",
+   "reason": "2026-10-20 手动采集入库（体育/历史）"
+  },
+  {
+   "event_id": "evt-20261020-0277",
+   "seq": 277,
+   "item_id": "commons-ulaanbaatar-marathon-20261020",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-20T20:13:04+08:00",
+   "reason": "2026-10-20 手动采集入库（体育/历史）"
+  },
+  {
+   "event_id": "evt-20261020-0278",
+   "seq": 278,
+   "item_id": "commons-kenan-stadium-aerial-20261020",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-20T20:13:04+08:00",
+   "reason": "2026-10-20 手动采集入库（体育/建筑）"
+  },
+  {
+   "event_id": "evt-20261020-0279",
+   "seq": 279,
+   "item_id": "commons-art-of-glass-20261020",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-20T20:13:04+08:00",
+   "reason": "2026-10-20 手动采集入库（文化/艺术）"
+  },
+  {
+   "event_id": "evt-20261020-0280",
+   "seq": 280,
+   "item_id": "commons-drawing-ibispaint-20261020",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-20T20:13:04+08:00",
+   "reason": "2026-10-20 手动采集入库（文化/艺术）"
+  },
+  {
+   "event_id": "evt-20261020-0281",
+   "seq": 281,
+   "item_id": "commons-hand-embroidery-veza-20261020",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-20T20:13:04+08:00",
+   "reason": "2026-10-20 手动采集入库（文化/手工）"
+  },
+  {
+   "event_id": "evt-20261020-0282",
+   "seq": 282,
+   "item_id": "commons-ruffed-grouse-20261020",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-20T20:13:04+08:00",
+   "reason": "2026-10-20 手动采集入库（自然/风光）"
+  },
+  {
+   "event_id": "evt-20261020-0283",
+   "seq": 283,
+   "item_id": "commons-canada-geese-20261020",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-20T20:13:04+08:00",
+   "reason": "2026-10-20 手动采集入库（自然/风光）"
+  },
+  {
+   "event_id": "evt-20261020-0284",
+   "seq": 284,
+   "item_id": "commons-moose-lachryphagy-20261020",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-20T20:13:04+08:00",
+   "reason": "2026-10-20 手动采集入库（自然/风光）"
+  },
+  {
+   "event_id": "evt-20261020-0285",
+   "seq": 285,
+   "item_id": "noaa-glass-sponge-20261020",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-20T20:13:04+08:00",
+   "reason": "2026-10-20 手动采集入库（自然/海洋生物）"
+  },
+  {
+   "event_id": "evt-20261020-0286",
+   "seq": 286,
+   "item_id": "noaa-brisingid-seastar-20261020",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-20T20:13:04+08:00",
+   "reason": "2026-10-20 手动采集入库（自然/海洋生物）"
+  },
+  {
+   "event_id": "evt-20261020-0287",
+   "seq": 287,
+   "item_id": "noaa-bamboo-coral-20261020",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-20T20:13:04+08:00",
+   "reason": "2026-10-20 手动采集入库（自然/海洋生物）"
+  },
+  {
+   "event_id": "evt-20261020-0288",
+   "seq": 288,
+   "item_id": "nps-bike-safety-in-zion-20261020",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-20T20:13:04+08:00",
+   "reason": "2026-10-20 手动采集入库（旅行/户外）"
+  },
+  {
+   "event_id": "evt-20261020-0289",
+   "seq": 289,
+   "item_id": "nps-three-tips-for-camping-in-glacier-20261020",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-20T20:13:04+08:00",
+   "reason": "2026-10-20 手动采集入库（旅行/户外）"
+  },
+  {
+   "event_id": "evt-20261020-0290",
+   "seq": 290,
+   "item_id": "nps-come-visit-grand-canyon-20261020",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-20T20:13:04+08:00",
+   "reason": "2026-10-20 手动采集入库（旅行/户外）"
+  },
+  {
+   "event_id": "evt-20261020-0291",
+   "seq": 291,
+   "item_id": "commons-f35c-launch-flightops-20261020",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-20T20:13:04+08:00",
+   "reason": "2026-10-20 手动采集入库（军事/装备）"
+  },
+  {
+   "event_id": "evt-20261020-0292",
+   "seq": 292,
+   "item_id": "commons-kc135-refuel-f35-20261020",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-20T20:13:04+08:00",
+   "reason": "2026-10-20 手动采集入库（军事/装备）"
+  },
+  {
+   "event_id": "evt-20261020-0293",
+   "seq": 293,
+   "item_id": "commons-redflag-alaska-f35c-20261020",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-20T20:13:04+08:00",
+   "reason": "2026-10-20 手动采集入库（军事/装备）"
   }
  ]
 }
