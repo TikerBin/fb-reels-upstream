@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-10-20T20:25:03+08:00",
- "event_count": 306,
- "next_seq": 307,
+ "updated_at": "2026-10-20T20:43:46+08:00",
+ "event_count": 319,
+ "next_seq": 320,
  "events": [
   {
    "event_id": "evt-20261013-0001",
@@ -3934,6 +3934,232 @@
     "reason": "source_url含查询参数且无合规替代链接（VIDEO_SOURCE_URL_INVALID）",
     "retracted_at": "2026-10-20T20:25:03+08:00"
    }
+  },
+  {
+   "event_id": "evt-20261020-0307",
+   "seq": 307,
+   "item_id": "nasa-swim-robots-20261020",
+   "version": 3,
+   "type": "modified",
+   "status": "active",
+   "occurred_at": "2026-10-20T20:43:46+08:00",
+   "reason": "下游验收修复：原下载域名在下游本机DNS解析到198.18/15保留网段、被SafeVideoFetcher拒绝（非原站404，不绕过安全校验）；按既有交付方式提供本轮已验货的仓库clips/镜像，原始地址保留在_master_url，来源/许可/日期不变，时长与片段坐标按交付文件实测",
+   "changed_fields": [
+    "download_url",
+    "_master_url",
+    "duration_s",
+    "bytes",
+    "version"
+   ]
+  },
+  {
+   "event_id": "evt-20261020-0308",
+   "seq": 308,
+   "item_id": "nasa-boeing-cft-rollout-drone-20261020",
+   "version": 2,
+   "type": "modified",
+   "status": "active",
+   "occurred_at": "2026-10-20T20:43:46+08:00",
+   "reason": "下游验收修复：原下载域名在下游本机DNS解析到198.18/15保留网段、被SafeVideoFetcher拒绝（非原站404，不绕过安全校验）；按既有交付方式提供本轮已验货的仓库clips/镜像，原始地址保留在_master_url，来源/许可/日期不变，时长与片段坐标按交付文件实测",
+   "changed_fields": [
+    "download_url",
+    "_master_url",
+    "duration_s",
+    "bytes",
+    "version",
+    "_recommended_segment"
+   ]
+  },
+  {
+   "event_id": "evt-20261020-0309",
+   "seq": 309,
+   "item_id": "nasa-msfc-drone-photography-20261020",
+   "version": 2,
+   "type": "modified",
+   "status": "active",
+   "occurred_at": "2026-10-20T20:43:46+08:00",
+   "reason": "下游验收修复：原下载域名在下游本机DNS解析到198.18/15保留网段、被SafeVideoFetcher拒绝（非原站404，不绕过安全校验）；按既有交付方式提供本轮已验货的仓库clips/镜像，原始地址保留在_master_url，来源/许可/日期不变，时长与片段坐标按交付文件实测",
+   "changed_fields": [
+    "download_url",
+    "_master_url",
+    "duration_s",
+    "bytes",
+    "version",
+    "_recommended_segment"
+   ]
+  },
+  {
+   "event_id": "evt-20261020-0310",
+   "seq": 310,
+   "item_id": "noirlab-protosupercluster-20261020",
+   "version": 3,
+   "type": "modified",
+   "status": "active",
+   "occurred_at": "2026-10-20T20:43:46+08:00",
+   "reason": "下游验收修复：原下载域名在下游本机DNS解析到198.18/15保留网段、被SafeVideoFetcher拒绝（非原站404，不绕过安全校验）；按既有交付方式提供本轮已验货的仓库clips/镜像，原始地址保留在_master_url，来源/许可/日期不变，时长与片段坐标按交付文件实测",
+   "changed_fields": [
+    "download_url",
+    "_master_url",
+    "duration_s",
+    "bytes",
+    "version"
+   ]
+  },
+  {
+   "event_id": "evt-20261020-0311",
+   "seq": 311,
+   "item_id": "noaa-glass-sponge-20261020",
+   "version": 3,
+   "type": "modified",
+   "status": "active",
+   "occurred_at": "2026-10-20T20:43:46+08:00",
+   "reason": "下游验收修复：原下载域名在下游本机DNS解析到198.18/15保留网段、被SafeVideoFetcher拒绝（非原站404，不绕过安全校验）；按既有交付方式提供本轮已验货的仓库clips/镜像，原始地址保留在_master_url，来源/许可/日期不变，时长与片段坐标按交付文件实测",
+   "changed_fields": [
+    "download_url",
+    "_master_url",
+    "duration_s",
+    "bytes",
+    "version",
+    "_recommended_segment"
+   ]
+  },
+  {
+   "event_id": "evt-20261020-0312",
+   "seq": 312,
+   "item_id": "noaa-brisingid-seastar-20261020",
+   "version": 2,
+   "type": "modified",
+   "status": "active",
+   "occurred_at": "2026-10-20T20:43:46+08:00",
+   "reason": "下游验收修复：原下载域名在下游本机DNS解析到198.18/15保留网段、被SafeVideoFetcher拒绝（非原站404，不绕过安全校验）；按既有交付方式提供本轮已验货的仓库clips/镜像，原始地址保留在_master_url，来源/许可/日期不变，时长与片段坐标按交付文件实测",
+   "changed_fields": [
+    "download_url",
+    "_master_url",
+    "duration_s",
+    "bytes",
+    "version"
+   ]
+  },
+  {
+   "event_id": "evt-20261020-0313",
+   "seq": 313,
+   "item_id": "noaa-bamboo-coral-20261020",
+   "version": 2,
+   "type": "modified",
+   "status": "active",
+   "occurred_at": "2026-10-20T20:43:46+08:00",
+   "reason": "下游验收修复：原下载域名在下游本机DNS解析到198.18/15保留网段、被SafeVideoFetcher拒绝（非原站404，不绕过安全校验）；按既有交付方式提供本轮已验货的仓库clips/镜像，原始地址保留在_master_url，来源/许可/日期不变，时长与片段坐标按交付文件实测",
+   "changed_fields": [
+    "download_url",
+    "_master_url",
+    "duration_s",
+    "bytes",
+    "version",
+    "_recommended_segment"
+   ]
+  },
+  {
+   "event_id": "evt-20261020-0314",
+   "seq": 314,
+   "item_id": "commons-canada-geese-20261020",
+   "version": 2,
+   "type": "modified",
+   "status": "active",
+   "occurred_at": "2026-10-20T20:43:46+08:00",
+   "reason": "下游验收修复：upload.wikimedia.org对下游触发429限流（非404，下游退避重试中）；提供本轮已验货缓存的仓库clips/镜像，原始地址保留在_master_url，来源/许可/日期不变，时长与片段坐标按交付文件实测修正",
+   "changed_fields": [
+    "download_url",
+    "_master_url",
+    "duration_s",
+    "bytes",
+    "version"
+   ]
+  },
+  {
+   "event_id": "evt-20261020-0315",
+   "seq": 315,
+   "item_id": "commons-moose-lachryphagy-20261020",
+   "version": 2,
+   "type": "modified",
+   "status": "active",
+   "occurred_at": "2026-10-20T20:43:46+08:00",
+   "reason": "下游验收修复：upload.wikimedia.org对下游触发429限流（非404，下游退避重试中）；提供本轮已验货缓存的仓库clips/镜像，原始地址保留在_master_url，来源/许可/日期不变，时长与片段坐标按交付文件实测修正",
+   "changed_fields": [
+    "download_url",
+    "_master_url",
+    "duration_s",
+    "bytes",
+    "version",
+    "_recommended_segment"
+   ]
+  },
+  {
+   "event_id": "evt-20261020-0316",
+   "seq": 316,
+   "item_id": "commons-f35c-launch-flightops-20261020",
+   "version": 2,
+   "type": "modified",
+   "status": "active",
+   "occurred_at": "2026-10-20T20:43:46+08:00",
+   "reason": "下游验收修复：upload.wikimedia.org对下游触发429限流（非404，下游退避重试中）；提供本轮已验货缓存的仓库clips/镜像，原始地址保留在_master_url，来源/许可/日期不变，时长与片段坐标按交付文件实测修正",
+   "changed_fields": [
+    "download_url",
+    "_master_url",
+    "duration_s",
+    "bytes",
+    "version"
+   ]
+  },
+  {
+   "event_id": "evt-20261020-0317",
+   "seq": 317,
+   "item_id": "commons-kc135-refuel-f35-20261020",
+   "version": 2,
+   "type": "modified",
+   "status": "active",
+   "occurred_at": "2026-10-20T20:43:46+08:00",
+   "reason": "下游验收修复：upload.wikimedia.org对下游触发429限流（非404，下游退避重试中）；提供本轮已验货缓存的仓库clips/镜像，原始地址保留在_master_url，来源/许可/日期不变，时长与片段坐标按交付文件实测修正",
+   "changed_fields": [
+    "download_url",
+    "_master_url",
+    "duration_s",
+    "bytes",
+    "version",
+    "_recommended_segment"
+   ]
+  },
+  {
+   "event_id": "evt-20261020-0318",
+   "seq": 318,
+   "item_id": "commons-redflag-alaska-f35c-20261020",
+   "version": 2,
+   "type": "modified",
+   "status": "active",
+   "occurred_at": "2026-10-20T20:43:46+08:00",
+   "reason": "下游验收修复：upload.wikimedia.org对下游触发429限流（非404，下游退避重试中）；提供本轮已验货缓存的仓库clips/镜像，原始地址保留在_master_url，来源/许可/日期不变，时长与片段坐标按交付文件实测修正",
+   "changed_fields": [
+    "download_url",
+    "_master_url",
+    "duration_s",
+    "bytes",
+    "version"
+   ]
+  },
+  {
+   "event_id": "evt-20261020-0319",
+   "seq": 319,
+   "item_id": "commons-3dprint-timelapse-20261020",
+   "version": 3,
+   "type": "modified",
+   "status": "active",
+   "occurred_at": "2026-10-20T20:43:46+08:00",
+   "reason": "下游抽帧验收纠正：原标题/摘要/角度中的『笔筒』『2026年款』为照抄上传者自述、无画面支持；经完整下载原片并抽帧亲验（4s/13s/23s），实际画面为带树状支撑的人像造型摆件，已按实际画面改正；该素材无AI事实，社群已于seq301按真实内容改派",
+   "changed_fields": [
+    "title",
+    "summary_cn",
+    "reels_angle",
+    "version"
+   ]
   }
  ]
 }

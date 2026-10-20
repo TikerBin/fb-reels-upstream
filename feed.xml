@@ -5,16 +5,16 @@
 <link>https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main</link>
 <description>每日更新的 Facebook Reels 可用视频素材：下载地址、内容总结、内容类型、许可证。全部为公有领域或 CC 协议合法素材。</description>
 <language>zh-CN</language>
-<lastBuildDate>Tue, 20 Oct 2026 12:25:11 +0000</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2026 12:43:50 +0000</lastBuildDate>
 <item>
-<title>FDM 3D打印机延时打印笔筒（2026年款）</title>
+<title>FDM 3D打印机延时打印人像造型摆件（树状支撑）</title>
 <link>https://upload.wikimedia.org/wikipedia/commons/9/91/3D_printing_time-lapse_2026.webm</link>
 <guid isPermaLink="false">commons-3dprint-timelapse-20261020</guid>
 <pubDate>Tue, 20 Oct 2026 20:12:59 +0800</pubDate>
 <category>科技/创客</category>
 <category>Robotics and Automation Brief</category>
 <enclosure url="https://upload.wikimedia.org/wikipedia/commons/9/91/3D_printing_time-lapse_2026.webm" length="17857424" type="video/webm"/>
-<description><![CDATA[【内容总结】一台2026年款FDM 3D打印机打印笔筒（Claes Lindhardt风格）的25秒延时实拍：打印头逐层高速移动、树状支撑结构成型，桌面近景、节奏明快。<br/>【内容类型】科技/创客<br/>【对应社群】Robotics and Automation Brief<br/>【许可证】Public domain（无需署名）<br/>【Reels角度】“25秒看3D打印机造出一个笔筒”：延时节奏自带爽感，前3秒用打印头高速移动抓眼；配中文字幕讲解FDM原理与创客周末项目灵感。<br/>【热点挂钩】Dream Labs 10月20日宣布完成9000万美元种子轮、推出机器人基础模型Dream-1的公开API——具身智能从云端走向物理世界；与此同时3D打印正把“造机器人”的能力交到普通人手里。<br/>【规格】24.79秒，1920x1080，约17.0MB]]></description>
+<description><![CDATA[【内容总结】Bambu Lab FDM 3D打印机腔内固定机位延时实拍（约25秒）：银灰色耗材逐层成型一尊人像造型摆件——人物立姿立于岩石造型底座之上，细高部位由树状支撑托起，打印头高速往复、层纹清晰。普通3D打印过程，无AI相关内容。<br/>【内容类型】科技/创客<br/>【对应社群】Robotics and Automation Brief<br/>【许可证】Public domain（无需署名）<br/>【Reels角度】“25秒看一尊人像摆件在打印机里长出来”：延时节奏自带爽感，前3秒用打印头高速移动抓眼；配中文字幕讲解FDM逐层成型与树状支撑的作用、创客周末项目灵感。<br/>【热点挂钩】Dream Labs 10月20日宣布完成9000万美元种子轮、推出机器人基础模型Dream-1的公开API——具身智能从云端走向物理世界；与此同时3D打印正把“造机器人”的能力交到普通人手里。<br/>【规格】24.79秒，1920x1080，约17.0MB]]></description>
 <_license>Public domain</_license>
 <_attribution>无需署名</_attribution>
 <_source_url>https://commons.wikimedia.org/wiki/File:3D_printing_time-lapse_2026.webm</_source_url>
@@ -36,13 +36,13 @@
 </item>
 <item>
 <title>NASA JPL微型泳动机器人SWIM：为探索冰卫星海洋而生</title>
-<link>https://images-assets.nasa.gov/video/Underwater%20Robots%20for%20Space%20Exploration%20-%20videographer%20of%20the%20year/Underwater%20Robots%20for%20Space%20Exploration%20-%20videographer%20of%20the%20year~medium.mp4</link>
+<link>https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/nasa-swim-robots-20261020_76s.mp4</link>
 <guid isPermaLink="false">nasa-swim-robots-20261020</guid>
 <pubDate>Tue, 20 Oct 2026 20:12:59 +0800</pubDate>
 <category>科技/教育</category>
 <category>Robotics and Automation Brief</category>
-<enclosure url="https://images-assets.nasa.gov/video/Underwater%20Robots%20for%20Space%20Exploration%20-%20videographer%20of%20the%20year/Underwater%20Robots%20for%20Space%20Exploration%20-%20videographer%20of%20the%20year~medium.mp4" length="37304451" type="video/mp4"/>
-<description><![CDATA[【内容总结】NASA JPL微型自主泳动机器人SWIM在加州理工泳池实测：水面/水下多机位实拍，穿插机器人群探索冰卫星海洋的动画示意；全片英文字幕。<br/>【内容类型】科技/教育<br/>【对应社群】Robotics and Automation Brief<br/>【许可证】Public domain（无需署名）<br/>【Reels角度】“NASA在泳池里测试外星探险机器人”：推荐段[10,70]秒跳过黑场标题卡，前3秒用泳动机器人特写+字幕“这是在为木卫二造潜水员”抓眼；配中文解说讲自主机器人群概念（SWIM）。<br/>【热点挂钩】Dream Labs 10月20日推出机器人基础模型Dream-1 API（9000万美元种子轮），AI大举进军物理世界；NASA JPL的SWIM微型泳动机器人展示自主机器人的另一个前沿：未来探索冰卫星海洋。<br/>【规格】75.65秒，1280x720，约35.6MB]]></description>
+<enclosure url="https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/nasa-swim-robots-20261020_76s.mp4" length="15443825" type="video/mp4"/>
+<description><![CDATA[【内容总结】NASA JPL微型自主泳动机器人SWIM在加州理工泳池实测：水面/水下多机位实拍，穿插机器人群探索冰卫星海洋的动画示意；全片英文字幕。<br/>【内容类型】科技/教育<br/>【对应社群】Robotics and Automation Brief<br/>【许可证】Public domain（无需署名）<br/>【Reels角度】“NASA在泳池里测试外星探险机器人”：推荐段[10,70]秒跳过黑场标题卡，前3秒用泳动机器人特写+字幕“这是在为木卫二造潜水员”抓眼；配中文解说讲自主机器人群概念（SWIM）。<br/>【热点挂钩】Dream Labs 10月20日推出机器人基础模型Dream-1 API（9000万美元种子轮），AI大举进军物理世界；NASA JPL的SWIM微型泳动机器人展示自主机器人的另一个前沿：未来探索冰卫星海洋。<br/>【规格】75.65秒，1280x720，约14.7MB]]></description>
 <_license>Public domain</_license>
 <_attribution>无需署名</_attribution>
 <_source_url>https://images.nasa.gov/details/Underwater%20Robots%20for%20Space%20Exploration%20-%20videographer%20of%20the%20year</_source_url>
@@ -109,26 +109,26 @@
 </item>
 <item>
 <title>无人机追拍：波音“星际客机”载人飞船转运前往发射台</title>
-<link>https://images-assets.nasa.gov/video/KSC-20240504-MH-MTD01-0001-Boeing_CFT_Rollout_for_Launch_DRONE-M6517/KSC-20240504-MH-MTD01-0001-Boeing_CFT_Rollout_for_Launch_DRONE-M6517~medium.mp4</link>
+<link>https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/nasa-boeing-cft-rollout-drone-20261020_45s.mp4</link>
 <guid isPermaLink="false">nasa-boeing-cft-rollout-drone-20261020</guid>
 <pubDate>Tue, 20 Oct 2026 20:12:59 +0800</pubDate>
 <category>科技/无人机</category>
 <category>Robotics and Automation Brief</category>
-<enclosure url="https://images-assets.nasa.gov/video/KSC-20240504-MH-MTD01-0001-Boeing_CFT_Rollout_for_Launch_DRONE-M6517/KSC-20240504-MH-MTD01-0001-Boeing_CFT_Rollout_for_Launch_DRONE-M6517~medium.mp4" length="65209340" type="video/mp4"/>
-<description><![CDATA[【内容总结】2024年5月4日，NASA肯尼迪航天中心无人机航拍记录波音Starliner（星际客机）载人飞船 atop ULA Atlas V火箭、从垂直总装厂房转运（rollout）前往卡纳维拉尔角SLC-41发射台的全过程。这是NASA商业载人计划波音载人首飞测试（CFT）发射前的转运，首批两名NASA宇航员Butch Wilmore与Suni Williams将乘该飞船前往国际空间站。画面含发射台近距离、火箭全景、避雷塔环绕等无人机视角（213秒，720p）。<br/>【内容类型】科技/无人机<br/>【对应社群】Robotics and Automation Brief<br/>【许可证】Public domain（无需署名）<br/>【Reels角度】载人飞船出厂记——无人机追拍星际客机+Atlas V火箭转运上发射台，配文案讲商业载人航天的无人机保障视角。<br/>【热点挂钩】本周美国海军宣布追加最高8000万美元推进MQ-25舰载无人加油机（uasvision 10-20），无人系统正从消费级产品变为关键基础设施；FCC 10月新规已生效、10月29日频谱投票在即，美国商用无人机生态加速重塑。<br/>【规格】213.47秒，1280x720，约62.2MB]]></description>
+<enclosure url="https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/nasa-boeing-cft-rollout-drone-20261020_45s.mp4" length="9377221" type="video/mp4"/>
+<description><![CDATA[【内容总结】2024年5月4日，NASA肯尼迪航天中心无人机航拍记录波音Starliner（星际客机）载人飞船 atop ULA Atlas V火箭、从垂直总装厂房转运（rollout）前往卡纳维拉尔角SLC-41发射台的全过程。这是NASA商业载人计划波音载人首飞测试（CFT）发射前的转运，首批两名NASA宇航员Butch Wilmore与Suni Williams将乘该飞船前往国际空间站。画面含发射台近距离、火箭全景、避雷塔环绕等无人机视角（213秒，720p）。<br/>【内容类型】科技/无人机<br/>【对应社群】Robotics and Automation Brief<br/>【许可证】Public domain（无需署名）<br/>【Reels角度】载人飞船出厂记——无人机追拍星际客机+Atlas V火箭转运上发射台，配文案讲商业载人航天的无人机保障视角。<br/>【热点挂钩】本周美国海军宣布追加最高8000万美元推进MQ-25舰载无人加油机（uasvision 10-20），无人系统正从消费级产品变为关键基础设施；FCC 10月新规已生效、10月29日频谱投票在即，美国商用无人机生态加速重塑。<br/>【规格】45.0秒，1280x720，约8.9MB]]></description>
 <_license>Public domain</_license>
 <_attribution>无需署名</_attribution>
 <_source_url>https://images.nasa.gov/details/KSC-20240504-MH-MTD01-0001-Boeing_CFT_Rollout_for_Launch_DRONE-M6517</_source_url>
 </item>
 <item>
 <title>上帝视角巡礼NASA马歇尔航天中心：无人机航拍园区</title>
-<link>https://images-assets.nasa.gov/video/MSFC_2025_2028_DronePhotography_1080p/MSFC_2025_2028_DronePhotography_1080p~medium.mp4</link>
+<link>https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/nasa-msfc-drone-photography-20261020_45s.mp4</link>
 <guid isPermaLink="false">nasa-msfc-drone-photography-20261020</guid>
 <pubDate>Tue, 20 Oct 2026 20:12:59 +0800</pubDate>
 <category>科技/无人机</category>
 <category>Robotics and Automation Brief</category>
-<enclosure url="https://images-assets.nasa.gov/video/MSFC_2025_2028_DronePhotography_1080p/MSFC_2025_2028_DronePhotography_1080p~medium.mp4" length="65176940" type="video/mp4"/>
-<description><![CDATA[【内容总结】NASA摄影师2024年底使用无人机航拍阿拉巴马州亨茨维尔马歇尔航天中心园区，2025年2月28日发布。出镜设施包括：4200中央园区、先进推进实验室、先进制造大楼、X射线标定设施、历史红石试验场、亨茨维尔运营支持中心/有效载荷运营中心、月球尘埃模拟场、4600工程综合体等（220秒，720p）。<br/>【内容类型】科技/无人机<br/>【对应社群】Robotics and Automation Brief<br/>【许可证】Public domain（无需署名）<br/>【Reels角度】NASA火箭大本营鸟瞰——无人机航拍马歇尔园区，配文案讲“无人机巡检”如何成为工业标配。<br/>【热点挂钩】CSX铁路10月19日刚验证半自动无人机巡检空车皮（railway-usa），“无人机巡检”正成为美国重工业标配；NASA马歇尔园区的无人机测绘巡礼是同一趋势的航天版本。<br/>【规格】220.27秒，1280x720，约62.2MB]]></description>
+<enclosure url="https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/nasa-msfc-drone-photography-20261020_45s.mp4" length="11207222" type="video/mp4"/>
+<description><![CDATA[【内容总结】NASA摄影师2024年底使用无人机航拍阿拉巴马州亨茨维尔马歇尔航天中心园区，2025年2月28日发布。出镜设施包括：4200中央园区、先进推进实验室、先进制造大楼、X射线标定设施、历史红石试验场、亨茨维尔运营支持中心/有效载荷运营中心、月球尘埃模拟场、4600工程综合体等（220秒，720p）。<br/>【内容类型】科技/无人机<br/>【对应社群】Robotics and Automation Brief<br/>【许可证】Public domain（无需署名）<br/>【Reels角度】NASA火箭大本营鸟瞰——无人机航拍马歇尔园区，配文案讲“无人机巡检”如何成为工业标配。<br/>【热点挂钩】CSX铁路10月19日刚验证半自动无人机巡检空车皮（railway-usa），“无人机巡检”正成为美国重工业标配；NASA马歇尔园区的无人机测绘巡礼是同一趋势的航天版本。<br/>【规格】45.0秒，1280x720，约10.7MB]]></description>
 <_license>Public domain</_license>
 <_attribution>无需署名</_attribution>
 <_source_url>https://images.nasa.gov/details/MSFC_2025_2028_DronePhotography_1080p</_source_url>
@@ -150,13 +150,13 @@
 </item>
 <item>
 <title>3D animation of most distant galaxy proto-supercluster</title>
-<link>https://storage.noirlab.edu/media/archives/videos/hd_1080_screen/ODIN_Protoclusters_3D.mp4</link>
+<link>https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/noirlab-protosupercluster-20261020_27s.mp4</link>
 <guid isPermaLink="false">noirlab-protosupercluster-20261020</guid>
 <pubDate>Tue, 20 Oct 2026 20:12:59 +0800</pubDate>
 <category>科技/航天</category>
 <category>Science Worth Understanding</category>
-<enclosure url="https://storage.noirlab.edu/media/archives/videos/hd_1080_screen/ODIN_Protoclusters_3D.mp4" length="70659939" type="video/mp4"/>
-<description><![CDATA[【内容总结】基于ODIN巡天数据制作的三维动画，展示迄今发现的最遥远星系原超星系团COSMOS-z3.1-A：松散星系集合在三维空间中的分布与密度云，未来将并合成稳定的超星系团。<br/>【内容类型】科技/航天<br/>【对应社群】Science Worth Understanding<br/>【许可证】CC BY 4.0（发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/4.0/）<br/>【Reels角度】“宇宙最大的建筑工地”——旋转的3D星系团模型+密度云，配字幕解释原超星系团概念；科普讲解型，适合加旁白。<br/>【热点挂钩】直接挂钩10月19日“This Week in Orbit: October 2026”报道：“新发现的遥远超星系团可能为自相互作用暗物质提供新线索”——本条正是原超星系团COSMOS-z3.1-A的三维可视化，天然配对。<br/>【规格】26.69秒，1920x1080，约67.4MB]]></description>
+<enclosure url="https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/noirlab-protosupercluster-20261020_27s.mp4" length="4118961" type="video/mp4"/>
+<description><![CDATA[【内容总结】基于ODIN巡天数据制作的三维动画，展示迄今发现的最遥远星系原超星系团COSMOS-z3.1-A：松散星系集合在三维空间中的分布与密度云，未来将并合成稳定的超星系团。<br/>【内容类型】科技/航天<br/>【对应社群】Science Worth Understanding<br/>【许可证】CC BY 4.0（发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/4.0/）<br/>【Reels角度】“宇宙最大的建筑工地”——旋转的3D星系团模型+密度云，配字幕解释原超星系团概念；科普讲解型，适合加旁白。<br/>【热点挂钩】直接挂钩10月19日“This Week in Orbit: October 2026”报道：“新发现的遥远超星系团可能为自相互作用暗物质提供新线索”——本条正是原超星系团COSMOS-z3.1-A的三维可视化，天然配对。<br/>【规格】26.69秒，1920x1080，约3.9MB]]></description>
 <_license>CC BY 4.0</_license>
 <_attribution>发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/4.0/</_attribution>
 <_author>CTIO/NOIRLab/DOE/NSF/AURA/DSS2/NSF–DOE Vera C. Rubin Observatory; original 3D model by A. Ortiz (Purdue), motion graphics R. Proctor</_author>
@@ -369,13 +369,13 @@
 </item>
 <item>
 <title>红外相机实拍：黄昏池塘边的加拿大雁群（USFWS）</title>
-<link>https://upload.wikimedia.org/wikipedia/commons/6/6f/Canada_Geese_on_Trail_Camera_%2850222797812%29.webm</link>
+<link>https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/commons-canada-geese-20261020_10s.mp4</link>
 <guid isPermaLink="false">commons-canada-geese-20261020</guid>
 <pubDate>Tue, 20 Oct 2026 20:12:59 +0800</pubDate>
 <category>自然/风光</category>
 <category>Science Worth Understanding</category>
-<enclosure url="https://upload.wikimedia.org/wikipedia/commons/6/6f/Canada_Geese_on_Trail_Camera_%2850222797812%29.webm" length="6881255" type="video/webm"/>
-<description><![CDATA[【内容总结】USFWS布设的红外相机实拍（10秒，1280×720）：2020年7月31日黄昏，一群加拿大雁在池塘湿地边的草地上觅食、踱步，背景针叶林与枯木湿地，带相机时间戳水印。<br/>【内容类型】自然/风光<br/>【对应社群】Science Worth Understanding<br/>【许可证】Public domain（无需署名）<br/>【Reels角度】红外相机的'偷拍视角'真实感强；雁群黄昏群像安静治愈，适合'下班后的湿地'类文案；10秒可直接发。<br/>【热点挂钩】10月北美水禽秋季迁徙高峰；呼应本周'暖冬干旱致熊闯入人类社区'新闻——野生动物与人类活动范围季节性重叠话题。<br/>【规格】9.966秒，1280x720，约6.6MB]]></description>
+<enclosure url="https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/commons-canada-geese-20261020_10s.mp4" length="2399668" type="video/webm"/>
+<description><![CDATA[【内容总结】USFWS布设的红外相机实拍（10秒，1280×720）：2020年7月31日黄昏，一群加拿大雁在池塘湿地边的草地上觅食、踱步，背景针叶林与枯木湿地，带相机时间戳水印。<br/>【内容类型】自然/风光<br/>【对应社群】Science Worth Understanding<br/>【许可证】Public domain（无需署名）<br/>【Reels角度】红外相机的'偷拍视角'真实感强；雁群黄昏群像安静治愈，适合'下班后的湿地'类文案；10秒可直接发。<br/>【热点挂钩】10月北美水禽秋季迁徙高峰；呼应本周'暖冬干旱致熊闯入人类社区'新闻——野生动物与人类活动范围季节性重叠话题。<br/>【规格】9.97秒，1280x720，约2.3MB]]></description>
 <_license>Public domain</_license>
 <_attribution>无需署名</_attribution>
 <_author>USFWS Mountain Prairie</_author>
@@ -383,13 +383,13 @@
 </item>
 <item>
 <title>红外夜视：驼鹿近距离特写（飞蛾吸食驼鹿眼泪行为记录）</title>
-<link>https://upload.wikimedia.org/wikipedia/commons/4/40/Moose_lachryphagy.webm</link>
+<link>https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/commons-moose-lachryphagy-20261020_18s.mp4</link>
 <guid isPermaLink="false">commons-moose-lachryphagy-20261020</guid>
 <pubDate>Tue, 20 Oct 2026 20:12:59 +0800</pubDate>
 <category>自然/风光</category>
 <category>Science Worth Understanding</category>
-<enclosure url="https://upload.wikimedia.org/wikipedia/commons/4/40/Moose_lachryphagy.webm" length="5729101" type="video/webm"/>
-<description><![CDATA[【内容总结】佛蒙特州鱼类和野生动物部红外相机夜视画面（18秒，竖屏）：一头驼鹿夜间走近镜头、直视后低头觅食；视频自带字幕称记录到飞蛾吸食驼鹿眼泪（lachryphagy）行为。<br/>【内容类型】自然/风光<br/>【对应社群】Science Worth Understanding<br/>【许可证】Public domain（无需署名）<br/>【Reels角度】竖屏原生适配Reels；驼鹿夜视直视镜头冲击力强；'飞蛾喝驼鹿眼泪'是天然奇闻钩子，适合引导评论互动。<br/>【热点挂钩】红外相机野生动物研究话题；本周美国野生动物新闻密集（科州通道/熊冲突），'如何观察而不打扰野生动物'为通用挂钩。<br/>【规格】17.865秒，720x1280，约5.5MB]]></description>
+<enclosure url="https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/commons-moose-lachryphagy-20261020_18s.mp4" length="2066871" type="video/webm"/>
+<description><![CDATA[【内容总结】佛蒙特州鱼类和野生动物部红外相机夜视画面（18秒，竖屏）：一头驼鹿夜间走近镜头、直视后低头觅食；视频自带字幕称记录到飞蛾吸食驼鹿眼泪（lachryphagy）行为。<br/>【内容类型】自然/风光<br/>【对应社群】Science Worth Understanding<br/>【许可证】Public domain（无需署名）<br/>【Reels角度】竖屏原生适配Reels；驼鹿夜视直视镜头冲击力强；'飞蛾喝驼鹿眼泪'是天然奇闻钩子，适合引导评论互动。<br/>【热点挂钩】红外相机野生动物研究话题；本周美国野生动物新闻密集（科州通道/熊冲突），'如何观察而不打扰野生动物'为通用挂钩。<br/>【规格】17.83秒，720x1280，约2.0MB]]></description>
 <_license>Public domain</_license>
 <_attribution>无需署名</_attribution>
 <_author>Vermont Fish and Wildlife Department</_author>
@@ -397,78 +397,78 @@
 </item>
 <item>
 <title>3,825 米深海中的巨型玻璃海绵</title>
-<link>https://oceanexplorer.noaa.gov/wp-content/uploads/2026/10/ex2606-dive07-sponge.mp4</link>
+<link>https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/noaa-glass-sponge-20261020_60s.mp4</link>
 <guid isPermaLink="false">noaa-glass-sponge-20261020</guid>
 <pubDate>Tue, 20 Oct 2026 20:12:59 +0800</pubDate>
 <category>自然/海洋生物</category>
 <category>Science Worth Understanding</category>
-<enclosure url="https://oceanexplorer.noaa.gov/wp-content/uploads/2026/10/ex2606-dive07-sponge.mp4" length="73528981" type="video/mp4"/>
-<description><![CDATA[【内容总结】NOAA 海洋探索计划 2026 年美国萨摩亚 ROV+测绘科考航次（EX2606）第 7 潜、ROV 实拍：美属萨摩亚 Muliāva 海山 3,825 米（2.4 英里）水深处，一只约 2 米高、50 厘米宽的大型玻璃海绵 Caulophacus sp.，洁白的身体立在细长的柄上。片中交替展示其多孔的身体表面特写与深海礁盘环境全景。本周深海探索正热：Schmidt Ocean Institute公布57个深海新物种；Nautilus号2026年最后一次科考10月14日启程，赴夏威夷海域20天远征、ROV下潜6000米。<br/>【内容类型】自然/海洋生物<br/>【对应社群】Science Worth Understanding<br/>【许可证】Public domain（无需署名）<br/>【Reels角度】视觉冲击型：黑暗深海中一朵洁白'玻璃花'独自绽放——'海绵居然长成这样'式标题，适合加字幕做'深海奇葩生物'系列；画面高清、配色极简，适合竖屏配乐剪辑。<br/>【热点挂钩】挂钩本周两大真实热点：（1）Schmidt Ocean Institute公布57个深海新物种（含'洛基'海参，sciencealert 10-19报道），深海生物多样性发现加速；（2）Nautilus号2026年最后一次科考10月14日启程、20天夏威夷海域远征、ROV下潜6000米，同属NOAA体系的深海探索正当季。<br/>【规格】142.04秒，1920x1080，约70.1MB]]></description>
+<enclosure url="https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/noaa-glass-sponge-20261020_60s.mp4" length="6306487" type="video/mp4"/>
+<description><![CDATA[【内容总结】NOAA 海洋探索计划 2026 年美国萨摩亚 ROV+测绘科考航次（EX2606）第 7 潜、ROV 实拍：美属萨摩亚 Muliāva 海山 3,825 米（2.4 英里）水深处，一只约 2 米高、50 厘米宽的大型玻璃海绵 Caulophacus sp.，洁白的身体立在细长的柄上。片中交替展示其多孔的身体表面特写与深海礁盘环境全景。本周深海探索正热：Schmidt Ocean Institute公布57个深海新物种；Nautilus号2026年最后一次科考10月14日启程，赴夏威夷海域20天远征、ROV下潜6000米。<br/>【内容类型】自然/海洋生物<br/>【对应社群】Science Worth Understanding<br/>【许可证】Public domain（无需署名）<br/>【Reels角度】视觉冲击型：黑暗深海中一朵洁白'玻璃花'独自绽放——'海绵居然长成这样'式标题，适合加字幕做'深海奇葩生物'系列；画面高清、配色极简，适合竖屏配乐剪辑。<br/>【热点挂钩】挂钩本周两大真实热点：（1）Schmidt Ocean Institute公布57个深海新物种（含'洛基'海参，sciencealert 10-19报道），深海生物多样性发现加速；（2）Nautilus号2026年最后一次科考10月14日启程、20天夏威夷海域远征、ROV下潜6000米，同属NOAA体系的深海探索正当季。<br/>【规格】60.03秒，1920x1080，约6.0MB]]></description>
 <_license>Public domain</_license>
 <_attribution>无需署名</_attribution>
 <_source_url>https://oceanexplorer.noaa.gov/multimedia/large-deep-sea-glass-sponge/</_source_url>
 </item>
 <item>
 <title>深海羽毛腕海星，玄武岩上张开双臂</title>
-<link>https://oceanexplorer.noaa.gov/wp-content/uploads/2026/10/ex2606-dive07-seastar.mp4</link>
+<link>https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/noaa-brisingid-seastar-20261020_59s.mp4</link>
 <guid isPermaLink="false">noaa-brisingid-seastar-20261020</guid>
 <pubDate>Tue, 20 Oct 2026 20:12:59 +0800</pubDate>
 <category>自然/海洋生物</category>
 <category>Science Worth Understanding</category>
-<enclosure url="https://oceanexplorer.noaa.gov/wp-content/uploads/2026/10/ex2606-dive07-seastar.mp4" length="31189886" type="video/mp4"/>
-<description><![CDATA[【内容总结】NOAA 海洋探索计划 2026 年美国萨摩亚 ROV+测绘科考航次（EX2606）第 7 潜、ROV 实拍：一只 Brisingid 海星（Brisingidae，腕足羽毛状的深海海星）栖息在深色玄武岩礁石上，六只细长的腕上布满细密'羽毛'，在 ROV 灯光下缓缓舒展。全长 59 秒，整段交付。<br/>【内容类型】自然/海洋生物<br/>【对应社群】Science Worth Understanding<br/>【许可证】Public domain（无需署名）<br/>【Reels角度】治愈系美学：白色羽毛腕在深色岩石衬托下极具反差美感，'深海中的白色精灵'式标题；整段不足 1 分钟，适合完整直发、加轻柔配乐。<br/>【热点挂钩】挂钩本周真实热点：Schmidt Ocean Institute 公布 57 个深海新物种，其中棘皮动物（海参、海百合等）占 22 个新种（sciencealert 10-19 报道）——深海'星'系家族再添新发现；另有 Nautilus 号 2026 年最后一次远征 10 月 14 日启航（ROV 潜水至 6000 米），深海 ROV 影像正当季。<br/>【规格】59.46秒，1920x1080，约29.7MB]]></description>
+<enclosure url="https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/noaa-brisingid-seastar-20261020_59s.mp4" length="17699965" type="video/mp4"/>
+<description><![CDATA[【内容总结】NOAA 海洋探索计划 2026 年美国萨摩亚 ROV+测绘科考航次（EX2606）第 7 潜、ROV 实拍：一只 Brisingid 海星（Brisingidae，腕足羽毛状的深海海星）栖息在深色玄武岩礁石上，六只细长的腕上布满细密'羽毛'，在 ROV 灯光下缓缓舒展。全长 59 秒，整段交付。<br/>【内容类型】自然/海洋生物<br/>【对应社群】Science Worth Understanding<br/>【许可证】Public domain（无需署名）<br/>【Reels角度】治愈系美学：白色羽毛腕在深色岩石衬托下极具反差美感，'深海中的白色精灵'式标题；整段不足 1 分钟，适合完整直发、加轻柔配乐。<br/>【热点挂钩】挂钩本周真实热点：Schmidt Ocean Institute 公布 57 个深海新物种，其中棘皮动物（海参、海百合等）占 22 个新种（sciencealert 10-19 报道）——深海'星'系家族再添新发现；另有 Nautilus 号 2026 年最后一次远征 10 月 14 日启航（ROV 潜水至 6000 米），深海 ROV 影像正当季。<br/>【规格】59.46秒，1920x1080，约16.9MB]]></description>
 <_license>Public domain</_license>
 <_attribution>无需署名</_attribution>
 <_source_url>https://oceanexplorer.noaa.gov/multimedia/brisingid-sea-star-7/</_source_url>
 </item>
 <item>
 <title>打破深度记录的超高竹珊瑚</title>
-<link>https://oceanexplorer.noaa.gov/wp-content/uploads/2026/10/ex2606-dive06-coral.mp4</link>
+<link>https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/noaa-bamboo-coral-20261020_45s.mp4</link>
 <guid isPermaLink="false">noaa-bamboo-coral-20261020</guid>
 <pubDate>Tue, 20 Oct 2026 20:12:59 +0800</pubDate>
 <category>自然/海洋生物</category>
 <category>Science Worth Understanding</category>
-<enclosure url="https://oceanexplorer.noaa.gov/wp-content/uploads/2026/10/ex2606-dive06-coral.mp4" length="71424399" type="video/mp4"/>
-<description><![CDATA[【内容总结】NOAA 海洋探索计划 2026 年美国萨摩亚 ROV+测绘科考航次（EX2606）第 6 潜、ROV 实拍：一株极高的竹珊瑚（疑似 Bathygorgia 属），白色笔直主干上伸出羽毛状水螅体；其生活水深比该属预期更深，可能打破该属的栖息深度记录。片中可见 ROV 机械臂采集珊瑚小样本进行科研的真实瞬间。<br/>【内容类型】自然/海洋生物<br/>【对应社群】Science Worth Understanding<br/>【许可证】Public domain（无需署名）<br/>【Reels角度】知识型反差：'深海里居然有这么高的树'式标题（竹珊瑚形似白树）；机械臂采集瞬间是真实科研画面，能引发'这么美的东西科学家要切走研究'的讨论，适合引导评论。<br/>【热点挂钩】挂钩本周真实热点：(1) phys.org 10-20 报道——深海科考队重返太平洋 CCZ 锰结核区，评估 5.5 年前采矿试验对海底生态的影响，深海海山/深海礁采矿争议升温，本条竹珊瑚正是此类深海栖息地的代表；(2) Nautilus 号 2026 年最后一次远征 10 月 14 日启航（ROV 潜水至 6000 米），深海 ROV 影像正当季。<br/>【规格】137.54秒，1920x1080，约68.1MB]]></description>
+<enclosure url="https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/noaa-bamboo-coral-20261020_45s.mp4" length="4854238" type="video/mp4"/>
+<description><![CDATA[【内容总结】NOAA 海洋探索计划 2026 年美国萨摩亚 ROV+测绘科考航次（EX2606）第 6 潜、ROV 实拍：一株极高的竹珊瑚（疑似 Bathygorgia 属），白色笔直主干上伸出羽毛状水螅体；其生活水深比该属预期更深，可能打破该属的栖息深度记录。片中可见 ROV 机械臂采集珊瑚小样本进行科研的真实瞬间。<br/>【内容类型】自然/海洋生物<br/>【对应社群】Science Worth Understanding<br/>【许可证】Public domain（无需署名）<br/>【Reels角度】知识型反差：'深海里居然有这么高的树'式标题（竹珊瑚形似白树）；机械臂采集瞬间是真实科研画面，能引发'这么美的东西科学家要切走研究'的讨论，适合引导评论。<br/>【热点挂钩】挂钩本周真实热点：(1) phys.org 10-20 报道——深海科考队重返太平洋 CCZ 锰结核区，评估 5.5 年前采矿试验对海底生态的影响，深海海山/深海礁采矿争议升温，本条竹珊瑚正是此类深海栖息地的代表；(2) Nautilus 号 2026 年最后一次远征 10 月 14 日启航（ROV 潜水至 6000 米），深海 ROV 影像正当季。<br/>【规格】45.01秒，1920x1080，约4.6MB]]></description>
 <_license>Public domain</_license>
 <_attribution>无需署名</_attribution>
 <_source_url>https://oceanexplorer.noaa.gov/multimedia/very-tall-bamboo-coral/</_source_url>
 </item>
 <item>
 <title>F-35C 战机座舱特写与起飞：海军陆战队飞行作业实拍（55秒）</title>
-<link>https://upload.wikimedia.org/wikipedia/commons/4/48/U_S_Marines_launch_U_S_Marine_Corps_F-35C_Lightning_II%E2%80%99s_for_flight_operations_%281025348%29.webm</link>
+<link>https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/commons-f35c-launch-flightops-20261020_55s.mp4</link>
 <guid isPermaLink="false">commons-f35c-launch-flightops-20261020</guid>
 <pubDate>Tue, 20 Oct 2026 20:12:59 +0800</pubDate>
 <category>军事/装备</category>
 <category>Robotics and Automation Brief</category>
-<enclosure url="https://upload.wikimedia.org/wikipedia/commons/4/48/U_S_Marines_launch_U_S_Marine_Corps_F-35C_Lightning_II%E2%80%99s_for_flight_operations_%281025348%29.webm" length="11711854" type="video/webm"/>
-<description><![CDATA[【内容总结】美国军方 2026-10-06 发布的公有领域实拍（55 秒，1080p）：海军陆战队 F-35C Lightning II 隐身战斗机飞行作业，含座舱框/飞行员近景（座舱框上"DO NOT CUT CANOPY"警告牌清晰可见、舱内悬挂星条旗）与战机空中飞行画面。DVIDS 编号 1025348，拍摄 2026-09-07。<br/>【内容类型】军事/装备<br/>【对应社群】Robotics and Automation Brief<br/>【许可证】Public domain（无需署名）<br/>【Reels角度】第五代隐身战机座舱近景+升空——军事航空装备视觉系，重装备向；座舱警告牌细节适合特写剪辑。<br/>【热点挂钩】呼应本周 F-22 指挥 YFQ-44A 无人僚机的"空中四分卫"新闻（10月初试飞成功）以及美日 Keen Sword 27 联合军演（10月19-29日）——同为五代机实操画面。<br/>【规格】55秒，1920x1080，约11.2MB]]></description>
+<enclosure url="https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/commons-f35c-launch-flightops-20261020_55s.mp4" length="8426263" type="video/webm"/>
+<description><![CDATA[【内容总结】美国军方 2026-10-06 发布的公有领域实拍（55 秒，1080p）：海军陆战队 F-35C Lightning II 隐身战斗机飞行作业，含座舱框/飞行员近景（座舱框上"DO NOT CUT CANOPY"警告牌清晰可见、舱内悬挂星条旗）与战机空中飞行画面。DVIDS 编号 1025348，拍摄 2026-09-07。<br/>【内容类型】军事/装备<br/>【对应社群】Robotics and Automation Brief<br/>【许可证】Public domain（无需署名）<br/>【Reels角度】第五代隐身战机座舱近景+升空——军事航空装备视觉系，重装备向；座舱警告牌细节适合特写剪辑。<br/>【热点挂钩】呼应本周 F-22 指挥 YFQ-44A 无人僚机的"空中四分卫"新闻（10月初试飞成功）以及美日 Keen Sword 27 联合军演（10月19-29日）——同为五代机实操画面。<br/>【规格】55.31秒，1920x1080，约8.0MB]]></description>
 <_license>Public domain</_license>
 <_attribution>无需署名</_attribution>
 <_source_url>https://www.dvidshub.net/video/1025348/u-s-marines-launch-u-s-marine-corps-f-35c-lightning-iis-for-flight-operations</_source_url>
 </item>
 <item>
 <title>KC-135 空中加油 F-35：战区支援第一视角（竖屏17秒）</title>
-<link>https://upload.wikimedia.org/wikipedia/commons/e/e0/KC-135_refuels_F-35s_for_theater_security_%281024964%29.webm</link>
+<link>https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/commons-kc135-refuel-f35-20261020_17s.mp4</link>
 <guid isPermaLink="false">commons-kc135-refuel-f35-20261020</guid>
 <pubDate>Tue, 20 Oct 2026 20:12:59 +0800</pubDate>
 <category>军事/装备</category>
 <category>Robotics and Automation Brief</category>
-<enclosure url="https://upload.wikimedia.org/wikipedia/commons/e/e0/KC-135_refuels_F-35s_for_theater_security_%281024964%29.webm" length="3796279" type="video/webm"/>
-<description><![CDATA[【内容总结】美国军方 2026-10-01 发布的公有领域实拍（17 秒，竖屏 1080×1920）：KC-135 加油机为 F-35 战斗机空中加油，含座舱内视角、机组人员特写与加油吊杆接近 F-35 的第一视角画面，背景为荒漠地貌。DVIDS 编号 1024964，拍摄 2026-09-27。竖屏直供 Reels。<br/>【内容类型】军事/装备<br/>【对应社群】Robotics and Automation Brief<br/>【许可证】Public domain（无需署名）<br/>【Reels角度】空中加油第一视角——军事航空装备视觉系，竖屏天然适配 Reels。<br/>【热点挂钩】呼应本周美日 Keen Sword 27 大规模联合军演（10月19-29日，约300架飞机参演）与美空军增购 22 架 F-15EX 的新闻——空中加油是远程作战的支柱。<br/>【规格】17秒，1080x1920，约3.6MB]]></description>
+<enclosure url="https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/commons-kc135-refuel-f35-20261020_17s.mp4" length="903765" type="video/webm"/>
+<description><![CDATA[【内容总结】美国军方 2026-10-01 发布的公有领域实拍（17 秒，竖屏 1080×1920）：KC-135 加油机为 F-35 战斗机空中加油，含座舱内视角、机组人员特写与加油吊杆接近 F-35 的第一视角画面，背景为荒漠地貌。DVIDS 编号 1024964，拍摄 2026-09-27。竖屏直供 Reels。<br/>【内容类型】军事/装备<br/>【对应社群】Robotics and Automation Brief<br/>【许可证】Public domain（无需署名）<br/>【Reels角度】空中加油第一视角——军事航空装备视觉系，竖屏天然适配 Reels。<br/>【热点挂钩】呼应本周美日 Keen Sword 27 大规模联合军演（10月19-29日，约300架飞机参演）与美空军增购 22 架 F-15EX 的新闻——空中加油是远程作战的支柱。<br/>【规格】16.81秒，1080x1920，约0.9MB]]></description>
 <_license>Public domain</_license>
 <_attribution>无需署名</_attribution>
 <_source_url>https://www.dvidshub.net/video/1024964/kc-135-refuels-f-35s-theater-security</_source_url>
 </item>
 <item>
 <title>红旗-阿拉斯加 26 演习：VMFA-251 的 F-35C 适应性飞行（30秒）</title>
-<link>https://upload.wikimedia.org/wikipedia/commons/8/8e/VMFA-251_completes_familiarization_flights_for_RED_FLAG-Alaska_26-3_%281020946%29.webm</link>
+<link>https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/commons-redflag-alaska-f35c-20261020_30s.mp4</link>
 <guid isPermaLink="false">commons-redflag-alaska-f35c-20261020</guid>
 <pubDate>Tue, 20 Oct 2026 20:12:59 +0800</pubDate>
 <category>军事/装备</category>
 <category>Robotics and Automation Brief</category>
-<enclosure url="https://upload.wikimedia.org/wikipedia/commons/8/8e/VMFA-251_completes_familiarization_flights_for_RED_FLAG-Alaska_26-3_%281020946%29.webm" length="8629381" type="video/webm"/>
-<description><![CDATA[【内容总结】美国军方 2026-08-30 发布的公有领域实拍（30 秒，1080p）：海军陆战队第 251 战斗机攻击中队（VMFA-251）的 F-35C Lightning II 在阿拉斯加基地滑行、起飞，备战 Red Flag-Alaska 26 演习；机身"DW"尾码、"VMFA-251"涂装清晰，画面带"ZABARR JONES REPORTING / HUMPHREYS"记者署名水印。DVIDS 编号 1020946，拍摄 2026-08-27。<br/>【内容类型】军事/装备<br/>【对应社群】Robotics and Automation Brief<br/>【许可证】Public domain（无需署名）<br/>【Reels角度】军演题材战机滑行/起飞——军事航空装备视觉系，演习叙事完整。<br/>【热点挂钩】本周美日 Keen Sword 27 联合军演进行中（10月19-29日，57,000人参演）——同类太平洋地区大型空战演习的五代机参演画面。<br/>【规格】30秒，1920x1080，约8.2MB]]></description>
+<enclosure url="https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/commons-redflag-alaska-f35c-20261020_30s.mp4" length="4326164" type="video/webm"/>
+<description><![CDATA[【内容总结】美国军方 2026-08-30 发布的公有领域实拍（30 秒，1080p）：海军陆战队第 251 战斗机攻击中队（VMFA-251）的 F-35C Lightning II 在阿拉斯加基地滑行、起飞，备战 Red Flag-Alaska 26 演习；机身"DW"尾码、"VMFA-251"涂装清晰，画面带"ZABARR JONES REPORTING / HUMPHREYS"记者署名水印。DVIDS 编号 1020946，拍摄 2026-08-27。<br/>【内容类型】军事/装备<br/>【对应社群】Robotics and Automation Brief<br/>【许可证】Public domain（无需署名）<br/>【Reels角度】军演题材战机滑行/起飞——军事航空装备视觉系，演习叙事完整。<br/>【热点挂钩】本周美日 Keen Sword 27 联合军演进行中（10月19-29日，57,000人参演）——同类太平洋地区大型空战演习的五代机参演画面。<br/>【规格】30.0秒，1920x1080，约4.1MB]]></description>
 <_license>Public domain</_license>
 <_attribution>无需署名</_attribution>
 <_source_url>https://www.dvidshub.net/video/1020946/vmfa-251-completes-familiarization-flights-red-flag-alaska-26</_source_url>
