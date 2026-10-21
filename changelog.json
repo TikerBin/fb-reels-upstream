@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-21T10:06:15+08:00",
+ "updated_at": "2026-10-21T18:51:41+08:00",
  "event_count": 363,
  "next_seq": 364,
  "events": [
@@ -4274,7 +4274,11 @@
    "changed_fields": [
     "status",
     "version"
-   ]
+   ],
+   "_retracted": {
+    "reason": "遗留条目来源地址不合规：_source_url 为 NPS 官方 view.htm?id=<GUID> 形式，id 即对象标识，官方页面 og:url 亦为该地址，无无查询参数的规范替代链接，与 2026-10-20 已撤回 3 条 NPS 条目同类，不满足来源地址规则；上游不放宽规则，撤回处理",
+    "retracted_at": "2026-10-21T08:50:50+08:00"
+   }
   },
   {
    "event_id": "evt-20261021-0328",
@@ -4288,7 +4292,11 @@
    "changed_fields": [
     "status",
     "version"
-   ]
+   ],
+   "_retracted": {
+    "reason": "遗留条目来源地址不合规：_source_url 为 NPS 官方 view.htm?id=<GUID> 形式，id 即对象标识，官方页面 og:url 亦为该地址，无无查询参数的规范替代链接，与 2026-10-20 已撤回 3 条 NPS 条目同类，不满足来源地址规则；上游不放宽规则，撤回处理",
+    "retracted_at": "2026-10-21T08:50:50+08:00"
+   }
   },
   {
    "event_id": "evt-20261021-0329",
