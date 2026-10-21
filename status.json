@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-21T18:52:17+08:00",
+ "updated_at": "2026-10-21T19:05:02+08:00",
  "count": 177,
  "note": "全量最新状态快照，按 id 查询。条目含完整内容快照，移出最新列表的老条目仍可在此查到完整内容。",
  "items": [
@@ -135,8 +135,8 @@
   {
    "id": "commons-david-strom-backup-cyber-20261021",
    "status": "active",
-   "version": 1,
-   "date_modified": "2026-10-21T09:56:36+08:00",
+   "version": 2,
+   "date_modified": "2026-10-21T19:05:02+08:00",
    "in_latest_feed": true,
    "retract_reason": "",
    "title": "网络弹性访谈：数据备份与恢复如何抵御勒索软件（theCUBE）",
@@ -147,23 +147,24 @@
    "license_url": "https://creativecommons.org/licenses/by/3.0/",
    "author": "SiliconANGLE theCUBE",
    "source_url": "https://commons.wikimedia.org/wiki/File:David_Strom_about_the_intersection_of_data_protection%2C_specifically_backup_and_recovery%2C_and_general_cybersecurity%2C_SiliconANGLE_Media_-_Cyber_Resiliency_Summit_%28Air_gaps%2C_Tools%2C_...%29.webm",
-   "download_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/David_Strom_about_the_intersection_of_data_protection%2C_specifically_backup_and_recovery%2C_and_general_cybersecurity%2C_SiliconANGLE_Media_-_Cyber_Resiliency_Summit_%28Air_gaps%2C_Tools%2C_...%29.webm",
+   "download_url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/commons-david-strom-backup-cyber-20261021_60s.mp4",
    "attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/3.0/",
    "reels_angle": "“备份是防勒索软件的最后保险”：截取 120–180 秒备份与恢复主题段；配中文配音转述核心观点（备份策略=网络弹性），做成企业/个人数据安全科普，面向对勒索软件新闻有感知的受众。",
    "trend_hook": "本周无直接关联热点；属常备网安科普素材，勒索软件与数据备份是持续性高关注议题，可配合相关新闻复用。",
-   "duration_s": 953,
-   "width": 1920,
-   "height": 1080,
-   "bytes": 110973070,
-   "mime": "video/webm",
+   "duration_s": 60.03,
+   "width": 1280,
+   "height": 720,
+   "bytes": 5399690,
+   "mime": "video/mp4",
    "pub_date": "2026-10-21T09:56:36+08:00",
    "_footage_type": "真实拍摄",
    "_event_date": "2023-12-13",
    "_original_upload_date": "2024-09-29",
    "_recommended_segment": {
-    "end_seconds": 180,
-    "start_seconds": 120
-   }
+    "start_seconds": 0,
+    "end_seconds": 60.03
+   },
+   "_master_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/David_Strom_about_the_intersection_of_data_protection%2C_specifically_backup_and_recovery%2C_and_general_cybersecurity%2C_SiliconANGLE_Media_-_Cyber_Resiliency_Summit_%28Air_gaps%2C_Tools%2C_...%29.webm"
   },
   {
    "id": "commons-counter-uas-flytrap-20261021",
@@ -832,8 +833,8 @@
   {
    "id": "archive-last-warning-1928-20261021",
    "status": "active",
-   "version": 1,
-   "date_modified": "2026-10-21T09:56:36+08:00",
+   "version": 2,
+   "date_modified": "2026-10-21T19:05:02+08:00",
    "in_latest_feed": true,
    "retract_reason": "",
    "title": "保罗·莱尼遗作《最后的警告》（1928）默片",
@@ -842,23 +843,24 @@
    "community": "Screen Stories Brief",
    "license": "Public domain",
    "source_url": "https://archive.org/details/the-last-warning-1928-paul-leni-silent-version",
-   "download_url": "https://archive.org/download/the-last-warning-1928-paul-leni-silent-version/the-last-warning-1928-upload.mp4",
+   "download_url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/archive-last-warning-1928-20261021_60s.mp4",
    "attribution": "无需署名",
    "reels_angle": "“1928年的悬疑片长这样”：默片时代的剧院谋杀案，40分钟处的后台对峙戏一张一弛；配字幕讲导演保罗·莱尼（《蜡像馆》）的遗作故事，影迷向+猎奇向通吃。",
    "trend_hook": "《辛普森一家》Apu近十年首次发声（新配音演员接棒）引发经典动画配音史讨论；一批1927-1928年默片新版数字化登陆archive.org——配音演员出现之前，演员全靠表情和镜头讲故事。",
-   "duration_s": 4637,
+   "duration_s": 60.0,
    "width": 1280,
    "height": 720,
-   "bytes": 91642403,
+   "bytes": 4376110,
    "mime": "video/mp4",
    "pub_date": "2026-10-21T09:56:36+08:00",
    "_footage_type": "历史影像",
    "_event_date": "1928",
    "_original_upload_date": "2026-10-17",
    "_recommended_segment": {
-    "start_seconds": 2400,
-    "end_seconds": 2460
-   }
+    "start_seconds": 0,
+    "end_seconds": 60
+   },
+   "_master_url": "https://archive.org/download/the-last-warning-1928-paul-leni-silent-version/the-last-warning-1928-upload.mp4"
   },
   {
    "id": "archive-joan-of-arc-1928-20261021",
@@ -1018,8 +1020,8 @@
   {
    "id": "eso-webb-ic348-pan-20261021",
    "status": "active",
-   "version": 1,
-   "date_modified": "2026-10-21T09:56:36+08:00",
+   "version": 2,
+   "date_modified": "2026-10-21T19:05:02+08:00",
    "in_latest_feed": true,
    "retract_reason": "",
    "title": "韦布望远镜：IC 348恒星形成区平移影像",
@@ -1030,14 +1032,14 @@
    "license_url": "https://creativecommons.org/licenses/by/4.0/",
    "author": "ESA/Webb, NASA, CSA, K. Luhman, C. Alves De Oliveira, M. Zamani (ESA/Webb), N. Bartmann (ESA/Webb); Music: Stellardrone - Twilight",
    "source_url": "https://esawebb.org/videos/weic2619b/",
-   "download_url": "https://cdn.esawebb.org/archives/videos/ultra_hd/weic2619b.mp4",
+   "download_url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/eso-webb-ic348-pan-20261021_30s.mp4",
    "attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/4.0/",
    "reels_angle": "“把深空星野当壁纸播30秒”：韦布望远镜的星云影像本身就是顶级视觉艺术，平移运镜自带呼吸感；配极简字幕+空灵音乐，走治愈美学路线。",
    "trend_hook": "詹姆斯·韦布望远镜最新一批星空影像公开：IC 348恒星形成区的NIRCam全景，平移运镜把深空星野做成可挂画的视觉艺术——科学影像正在成为新的公共美学。",
-   "duration_s": 30,
-   "width": 3840,
-   "height": 2160,
-   "bytes": 115804039,
+   "duration_s": 30.02,
+   "width": 1280,
+   "height": 720,
+   "bytes": 4065230,
    "mime": "video/mp4",
    "pub_date": "2026-10-21T09:56:36+08:00",
    "_footage_type": "混合（真实 Webb NIRCam 观测影像 + 平移运镜动画）",
@@ -1045,7 +1047,8 @@
    "_recommended_segment": {
     "start_seconds": 0,
     "end_seconds": 30
-   }
+   },
+   "_master_url": "https://cdn.esawebb.org/archives/videos/ultra_hd/weic2619b.mp4"
   },
   {
    "id": "commons-wp25-billboard-20261021",

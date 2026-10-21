@@ -213,10 +213,10 @@
   },
   {
    "id": "commons-david-strom-backup-cyber-20261021",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/David_Strom_about_the_intersection_of_data_protection%2C_specifically_backup_and_recovery%2C_and_general_cybersecurity%2C_SiliconANGLE_Media_-_Cyber_Resiliency_Summit_%28Air_gaps%2C_Tools%2C_...%29.webm",
+   "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/commons-david-strom-backup-cyber-20261021_60s.mp4",
    "title": "网络弹性访谈：数据备份与恢复如何抵御勒索软件（theCUBE）",
    "summary": "SiliconANGLE theCUBE 2023 年 12 月“Cyber Resiliency Summit”访谈（15 分 53 秒）：主持人 Dave Vellante 对话网安记者 David Strom，讨论数据保护、备份与恢复的交叉点，以及备份策略如何构成网络弹性的最后一道防线。画面为演播室双人访谈，配 “NAVIGATING THE ROAD TO CYBER RESILIENCY” 字幕条，右下角有 Dell Technologies 赞助标识。",
-   "content_text": "内容总结：SiliconANGLE theCUBE 2023 年 12 月“Cyber Resiliency Summit”访谈（15 分 53 秒）：主持人 Dave Vellante 对话网安记者 David Strom，讨论数据保护、备份与恢复的交叉点，以及备份策略如何构成网络弹性的最后一道防线。画面为演播室双人访谈，配 “NAVIGATING THE ROAD TO CYBER RESILIENCY” 字幕条，右下角有 Dell Technologies 赞助标识。\n内容类型：科技/安全教育\n对应社群：Digital Safety Explained\n许可证：CC BY 3.0（发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/3.0/）\nReels角度：“备份是防勒索软件的最后保险”：截取 120–180 秒备份与恢复主题段；配中文配音转述核心观点（备份策略=网络弹性），做成企业/个人数据安全科普，面向对勒索软件新闻有感知的受众。\n热点挂钩：本周无直接关联热点；属常备网安科普素材，勒索软件与数据备份是持续性高关注议题，可配合相关新闻复用。\n规格：953秒，1920x1080，约105.8MB",
+   "content_text": "内容总结：SiliconANGLE theCUBE 2023 年 12 月“Cyber Resiliency Summit”访谈（15 分 53 秒）：主持人 Dave Vellante 对话网安记者 David Strom，讨论数据保护、备份与恢复的交叉点，以及备份策略如何构成网络弹性的最后一道防线。画面为演播室双人访谈，配 “NAVIGATING THE ROAD TO CYBER RESILIENCY” 字幕条，右下角有 Dell Technologies 赞助标识。\n内容类型：科技/安全教育\n对应社群：Digital Safety Explained\n许可证：CC BY 3.0（发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/3.0/）\nReels角度：“备份是防勒索软件的最后保险”：截取 120–180 秒备份与恢复主题段；配中文配音转述核心观点（备份策略=网络弹性），做成企业/个人数据安全科普，面向对勒索软件新闻有感知的受众。\n热点挂钩：本周无直接关联热点；属常备网安科普素材，勒索软件与数据备份是持续性高关注议题，可配合相关新闻复用。\n规格：60.03秒，1280x720，约5.1MB",
    "date_published": "2026-10-21T09:56:36+08:00",
    "tags": [
     "科技/安全教育",
@@ -225,24 +225,25 @@
    ],
    "attachments": [
     {
-     "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/David_Strom_about_the_intersection_of_data_protection%2C_specifically_backup_and_recovery%2C_and_general_cybersecurity%2C_SiliconANGLE_Media_-_Cyber_Resiliency_Summit_%28Air_gaps%2C_Tools%2C_...%29.webm",
-     "mime_type": "video/webm",
-     "size_in_bytes": 110973070,
-     "duration_in_seconds": 953
+     "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/commons-david-strom-backup-cyber-20261021_60s.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 5399690,
+     "duration_in_seconds": 60.03
     }
    ],
    "_license": "CC BY 3.0",
    "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/3.0/",
-   "_version": 1,
+   "_version": 2,
    "_author": "SiliconANGLE theCUBE",
    "_source_url": "https://commons.wikimedia.org/wiki/File:David_Strom_about_the_intersection_of_data_protection%2C_specifically_backup_and_recovery%2C_and_general_cybersecurity%2C_SiliconANGLE_Media_-_Cyber_Resiliency_Summit_%28Air_gaps%2C_Tools%2C_...%29.webm",
    "_license_url": "https://creativecommons.org/licenses/by/3.0/",
+   "_master_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/David_Strom_about_the_intersection_of_data_protection%2C_specifically_backup_and_recovery%2C_and_general_cybersecurity%2C_SiliconANGLE_Media_-_Cyber_Resiliency_Summit_%28Air_gaps%2C_Tools%2C_...%29.webm",
    "_footage_type": "真实拍摄",
    "_event_date": "2023-12-13",
    "_original_upload_date": "2024-09-29",
    "_recommended_segment": {
-    "end_seconds": 180,
-    "start_seconds": 120
+    "start_seconds": 0,
+    "end_seconds": 60.03
    }
   },
   {
@@ -932,10 +933,10 @@
   },
   {
    "id": "archive-last-warning-1928-20261021",
-   "url": "https://archive.org/download/the-last-warning-1928-paul-leni-silent-version/the-last-warning-1928-upload.mp4",
+   "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/archive-last-warning-1928-20261021_60s.mp4",
    "title": "保罗·莱尼遗作《最后的警告》（1928）默片",
    "summary": "保罗·莱尼1928年遗作、默片悬疑《最后的警告》完整版（77分钟，91.6MB）：剧院后台谋杀谜案，群戏调度与字幕卡“Where's Miss Barbara?”，40分钟处为连续的后台追逐与人物对峙戏。公有领域（CC PDM 1.0）；已验片并给出60秒精华窗口（2400-2460秒）。",
-   "content_text": "内容总结：保罗·莱尼1928年遗作、默片悬疑《最后的警告》完整版（77分钟，91.6MB）：剧院后台谋杀谜案，群戏调度与字幕卡“Where's Miss Barbara?”，40分钟处为连续的后台追逐与人物对峙戏。公有领域（CC PDM 1.0）；已验片并给出60秒精华窗口（2400-2460秒）。\n内容类型：影视/文化\n对应社群：Screen Stories Brief\n许可证：Public domain（无需署名）\nReels角度：“1928年的悬疑片长这样”：默片时代的剧院谋杀案，40分钟处的后台对峙戏一张一弛；配字幕讲导演保罗·莱尼（《蜡像馆》）的遗作故事，影迷向+猎奇向通吃。\n热点挂钩：《辛普森一家》Apu近十年首次发声（新配音演员接棒）引发经典动画配音史讨论；一批1927-1928年默片新版数字化登陆archive.org——配音演员出现之前，演员全靠表情和镜头讲故事。\n规格：4637秒，1280x720，约87.4MB",
+   "content_text": "内容总结：保罗·莱尼1928年遗作、默片悬疑《最后的警告》完整版（77分钟，91.6MB）：剧院后台谋杀谜案，群戏调度与字幕卡“Where's Miss Barbara?”，40分钟处为连续的后台追逐与人物对峙戏。公有领域（CC PDM 1.0）；已验片并给出60秒精华窗口（2400-2460秒）。\n内容类型：影视/文化\n对应社群：Screen Stories Brief\n许可证：Public domain（无需署名）\nReels角度：“1928年的悬疑片长这样”：默片时代的剧院谋杀案，40分钟处的后台对峙戏一张一弛；配字幕讲导演保罗·莱尼（《蜡像馆》）的遗作故事，影迷向+猎奇向通吃。\n热点挂钩：《辛普森一家》Apu近十年首次发声（新配音演员接棒）引发经典动画配音史讨论；一批1927-1928年默片新版数字化登陆archive.org——配音演员出现之前，演员全靠表情和镜头讲故事。\n规格：60.0秒，1280x720，约4.2MB",
    "date_published": "2026-10-21T09:56:36+08:00",
    "tags": [
     "影视/文化",
@@ -944,22 +945,23 @@
    ],
    "attachments": [
     {
-     "url": "https://archive.org/download/the-last-warning-1928-paul-leni-silent-version/the-last-warning-1928-upload.mp4",
+     "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/archive-last-warning-1928-20261021_60s.mp4",
      "mime_type": "video/mp4",
-     "size_in_bytes": 91642403,
-     "duration_in_seconds": 4637
+     "size_in_bytes": 4376110,
+     "duration_in_seconds": 60.0
     }
    ],
    "_license": "Public domain",
    "_attribution": "无需署名",
-   "_version": 1,
+   "_version": 2,
    "_source_url": "https://archive.org/details/the-last-warning-1928-paul-leni-silent-version",
+   "_master_url": "https://archive.org/download/the-last-warning-1928-paul-leni-silent-version/the-last-warning-1928-upload.mp4",
    "_footage_type": "历史影像",
    "_event_date": "1928",
    "_original_upload_date": "2026-10-17",
    "_recommended_segment": {
-    "start_seconds": 2400,
-    "end_seconds": 2460
+    "start_seconds": 0,
+    "end_seconds": 60
    }
   },
   {
@@ -1124,10 +1126,10 @@
   },
   {
    "id": "eso-webb-ic348-pan-20261021",
-   "url": "https://cdn.esawebb.org/archives/videos/ultra_hd/weic2619b.mp4",
+   "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/eso-webb-ic348-pan-20261021_30s.mp4",
    "title": "韦布望远镜：IC 348恒星形成区平移影像",
    "summary": "ESA/Webb发布的IC 348恒星形成区NIRCam影像平移视频（30秒，4K）：褐矮星搜寻项目的大幅星野在镜头下缓缓移动，星云纹理与星点如油画笔触。CC BY 4.0，Rights含Creative Commons Attribution 4.0已核验。",
-   "content_text": "内容总结：ESA/Webb发布的IC 348恒星形成区NIRCam影像平移视频（30秒，4K）：褐矮星搜寻项目的大幅星野在镜头下缓缓移动，星云纹理与星点如油画笔触。CC BY 4.0，Rights含Creative Commons Attribution 4.0已核验。\n内容类型：文化/艺术\n对应社群：Design Worth Noticing\n许可证：CC BY 4.0（发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/4.0/）\nReels角度：“把深空星野当壁纸播30秒”：韦布望远镜的星云影像本身就是顶级视觉艺术，平移运镜自带呼吸感；配极简字幕+空灵音乐，走治愈美学路线。\n热点挂钩：詹姆斯·韦布望远镜最新一批星空影像公开：IC 348恒星形成区的NIRCam全景，平移运镜把深空星野做成可挂画的视觉艺术——科学影像正在成为新的公共美学。\n规格：30秒，3840x2160，约110.4MB",
+   "content_text": "内容总结：ESA/Webb发布的IC 348恒星形成区NIRCam影像平移视频（30秒，4K）：褐矮星搜寻项目的大幅星野在镜头下缓缓移动，星云纹理与星点如油画笔触。CC BY 4.0，Rights含Creative Commons Attribution 4.0已核验。\n内容类型：文化/艺术\n对应社群：Design Worth Noticing\n许可证：CC BY 4.0（发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/4.0/）\nReels角度：“把深空星野当壁纸播30秒”：韦布望远镜的星云影像本身就是顶级视觉艺术，平移运镜自带呼吸感；配极简字幕+空灵音乐，走治愈美学路线。\n热点挂钩：詹姆斯·韦布望远镜最新一批星空影像公开：IC 348恒星形成区的NIRCam全景，平移运镜把深空星野做成可挂画的视觉艺术——科学影像正在成为新的公共美学。\n规格：30.02秒，1280x720，约3.9MB",
    "date_published": "2026-10-21T09:56:36+08:00",
    "tags": [
     "文化/艺术",
@@ -1136,18 +1138,19 @@
    ],
    "attachments": [
     {
-     "url": "https://cdn.esawebb.org/archives/videos/ultra_hd/weic2619b.mp4",
+     "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/eso-webb-ic348-pan-20261021_30s.mp4",
      "mime_type": "video/mp4",
-     "size_in_bytes": 115804039,
-     "duration_in_seconds": 30
+     "size_in_bytes": 4065230,
+     "duration_in_seconds": 30.02
     }
    ],
    "_license": "CC BY 4.0",
    "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/4.0/",
-   "_version": 1,
+   "_version": 2,
    "_author": "ESA/Webb, NASA, CSA, K. Luhman, C. Alves De Oliveira, M. Zamani (ESA/Webb), N. Bartmann (ESA/Webb); Music: Stellardrone - Twilight",
    "_source_url": "https://esawebb.org/videos/weic2619b/",
    "_license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "_master_url": "https://cdn.esawebb.org/archives/videos/ultra_hd/weic2619b.mp4",
    "_footage_type": "混合（真实 Webb NIRCam 观测影像 + 平移运镜动画）",
    "_original_upload_date": "2026-09-15",
    "_recommended_segment": {

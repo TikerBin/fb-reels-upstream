@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-10-21T18:51:41+08:00",
- "event_count": 363,
- "next_seq": 364,
+ "updated_at": "2026-10-21T19:05:02+08:00",
+ "event_count": 366,
+ "next_seq": 367,
  "events": [
   {
    "event_id": "evt-20261013-0001",
@@ -4652,6 +4652,64 @@
     "duration_s",
     "width",
     "height"
+   ]
+  },
+  {
+   "event_id": "evt-20261021-0364",
+   "seq": 364,
+   "item_id": "eso-webb-ic348-pan-20261021",
+   "version": 2,
+   "type": "modified",
+   "status": "active",
+   "occurred_at": "2026-10-21T19:05:02+08:00",
+   "reason": "下游验收修复：cdn.esawebb.org 在下游DNS解析到198.18保留网段被SafeVideoFetcher拒绝（非原站404，不绕过安全校验）；下载母带验货（115804039字节与声明逐字节吻合、实测30.000s）后按既有方式提供720p全片镜像至clips/，原始地址保留_master_url，来源/许可/署名/日期不变，片段坐标{0,30}对应交付文件不变",
+   "changed_fields": [
+    "download_url",
+    "_master_url",
+    "duration_s",
+    "bytes",
+    "width",
+    "height",
+    "version"
+   ]
+  },
+  {
+   "event_id": "evt-20261021-0365",
+   "seq": 365,
+   "item_id": "commons-david-strom-backup-cyber-20261021",
+   "version": 2,
+   "type": "modified",
+   "status": "active",
+   "occurred_at": "2026-10-21T19:05:02+08:00",
+   "reason": "下游验收修复：母带实测953.008s（大小110973070字节与声明吻合，未虚报）超过下游SourceVideoProbe 600s硬上限，只填推荐片段无法通过；交付文件为按原推荐窗口自剪的母带120–180s片段（720p转制），交付坐标已从0起算{0,60.03}，原始地址保留_master_url，来源/许可/署名/日期不变",
+   "changed_fields": [
+    "download_url",
+    "_master_url",
+    "duration_s",
+    "bytes",
+    "width",
+    "height",
+    "mime",
+    "_recommended_segment",
+    "version"
+   ]
+  },
+  {
+   "event_id": "evt-20261021-0366",
+   "seq": 366,
+   "item_id": "archive-last-warning-1928-20261021",
+   "version": 2,
+   "type": "modified",
+   "status": "active",
+   "occurred_at": "2026-10-21T19:05:02+08:00",
+   "reason": "下游验收修复：母带实测4637.39s（大小91642403字节与声明吻合，未虚报）超过下游SourceVideoProbe 600s硬上限；交付文件为按原推荐窗口自剪的母带2400–2460s片段，交付坐标已从0起算{0,60}，原始地址保留_master_url，来源/许可/署名/日期不变",
+   "changed_fields": [
+    "download_url",
+    "_master_url",
+    "duration_s",
+    "bytes",
+    "_recommended_segment",
+    "version"
    ]
   }
  ]
