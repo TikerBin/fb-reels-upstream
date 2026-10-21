@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-10-21T08:50:50+08:00",
- "event_count": 328,
- "next_seq": 329,
+ "updated_at": "2026-10-21T10:06:15+08:00",
+ "event_count": 363,
+ "next_seq": 364,
  "events": [
   {
    "event_id": "evt-20261013-0001",
@@ -4288,6 +4288,362 @@
    "changed_fields": [
     "status",
     "version"
+   ]
+  },
+  {
+   "event_id": "evt-20261021-0329",
+   "seq": 329,
+   "item_id": "commons-income-inequality-20261021",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-21T09:56:36+08:00",
+   "reason": "2026-10-21 每日采集入库（财经/科普）"
+  },
+  {
+   "event_id": "evt-20261021-0330",
+   "seq": 330,
+   "item_id": "commons-trump-guilfoyle-resign-20261021",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-21T09:56:36+08:00",
+   "reason": "2026-10-21 每日采集入库（科技/新闻）"
+  },
+  {
+   "event_id": "evt-20261021-0331",
+   "seq": 331,
+   "item_id": "commons-gen-ai-biographies-20261021",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-21T09:56:36+08:00",
+   "reason": "2026-10-21 每日采集入库（科技/教育）"
+  },
+  {
+   "event_id": "evt-20261021-0332",
+   "seq": 332,
+   "item_id": "commons-rsa-crypto-pad-demo-20261021",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-21T09:56:36+08:00",
+   "reason": "2026-10-21 每日采集入库（科技/安全教育）"
+  },
+  {
+   "event_id": "evt-20261021-0333",
+   "seq": 333,
+   "item_id": "commons-david-strom-backup-cyber-20261021",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-21T09:56:36+08:00",
+   "reason": "2026-10-21 每日采集入库（科技/安全教育）"
+  },
+  {
+   "event_id": "evt-20261021-0334",
+   "seq": 334,
+   "item_id": "commons-counter-uas-flytrap-20261021",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-21T09:56:36+08:00",
+   "reason": "2026-10-21 每日采集入库（科技/无人机）"
+  },
+  {
+   "event_id": "evt-20261021-0335",
+   "seq": 335,
+   "item_id": "commons-eclipse-gdansk-drone-20261021",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-21T09:56:36+08:00",
+   "reason": "2026-10-21 每日采集入库（科技/无人机）"
+  },
+  {
+   "event_id": "evt-20261021-0336",
+   "seq": 336,
+   "item_id": "dvids-uss-boxer-flightops-20261021",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-21T09:56:36+08:00",
+   "reason": "2026-10-21 每日采集入库（军事/装备）"
+  },
+  {
+   "event_id": "evt-20261021-0337",
+   "seq": 337,
+   "item_id": "dvids-19th-mxs-broll-20261021",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-21T09:56:36+08:00",
+   "reason": "2026-10-21 每日采集入库（军事/装备）"
+  },
+  {
+   "event_id": "evt-20261021-0338",
+   "seq": 338,
+   "item_id": "commons-marrakech-airshow-20261021",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-21T09:56:36+08:00",
+   "reason": "2026-10-21 每日采集入库（军事/装备）"
+  },
+  {
+   "event_id": "evt-20261021-0339",
+   "seq": 339,
+   "item_id": "webb-ic348-zoom-20261021",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-21T09:56:36+08:00",
+   "reason": "2026-10-21 每日采集入库（科技/航天科普）"
+  },
+  {
+   "event_id": "evt-20261021-0340",
+   "seq": 340,
+   "item_id": "webb-arp263-pan-20261021",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-21T09:56:36+08:00",
+   "reason": "2026-10-21 每日采集入库（科技/航天科普）"
+  },
+  {
+   "event_id": "evt-20261021-0341",
+   "seq": 341,
+   "item_id": "nasa-iss-olympics-20261021",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-21T09:56:36+08:00",
+   "reason": "2026-10-21 每日采集入库（科技/航天）"
+  },
+  {
+   "event_id": "evt-20261021-0342",
+   "seq": 342,
+   "item_id": "commons-kilauea-49th-20261021",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-21T09:56:36+08:00",
+   "reason": "2026-10-21 每日采集入库（自然/风光）"
+  },
+  {
+   "event_id": "evt-20261021-0343",
+   "seq": 343,
+   "item_id": "commons-alaska-aurora-20261021",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-21T09:56:36+08:00",
+   "reason": "2026-10-21 每日采集入库（自然/风光）"
+  },
+  {
+   "event_id": "evt-20261021-0344",
+   "seq": 344,
+   "item_id": "commons-kullaojan-waterfall-20261021",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-21T09:56:36+08:00",
+   "reason": "2026-10-21 每日采集入库（自然/风光）"
+  },
+  {
+   "event_id": "evt-20261021-0345",
+   "seq": 345,
+   "item_id": "noaa-crossota-jelly-20261021",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-21T09:56:36+08:00",
+   "reason": "2026-10-21 每日采集入库（自然/海洋生物）"
+  },
+  {
+   "event_id": "evt-20261021-0346",
+   "seq": 346,
+   "item_id": "noaa-bamboo-coral-20261021",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-21T09:56:36+08:00",
+   "reason": "2026-10-21 每日采集入库（自然/海洋生物）"
+  },
+  {
+   "event_id": "evt-20261021-0347",
+   "seq": 347,
+   "item_id": "noaa-stalked-crinoid-20261021",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-21T09:56:36+08:00",
+   "reason": "2026-10-21 每日采集入库（自然/海洋生物）"
+  },
+  {
+   "event_id": "evt-20261021-0348",
+   "seq": 348,
+   "item_id": "commons-grandcanyon-throughbox-20261021",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-21T09:56:36+08:00",
+   "reason": "2026-10-21 每日采集入库（旅行/户外）"
+  },
+  {
+   "event_id": "evt-20261021-0349",
+   "seq": 349,
+   "item_id": "commons-grandcanyon-rapid-20261021",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-21T09:56:36+08:00",
+   "reason": "2026-10-21 每日采集入库（旅行/户外）"
+  },
+  {
+   "event_id": "evt-20261021-0350",
+   "seq": 350,
+   "item_id": "commons-grandcanyon-cottonwood-20261021",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-21T09:56:36+08:00",
+   "reason": "2026-10-21 每日采集入库（旅行/户外）"
+  },
+  {
+   "event_id": "evt-20261021-0351",
+   "seq": 351,
+   "item_id": "archive-atari-lynx-ad-20261021",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-21T09:56:36+08:00",
+   "reason": "2026-10-21 每日采集入库（游戏/怀旧文化）"
+  },
+  {
+   "event_id": "evt-20261021-0352",
+   "seq": 352,
+   "item_id": "archive-atari-st-ad-20261021",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-21T09:56:36+08:00",
+   "reason": "2026-10-21 每日采集入库（游戏/怀旧文化）"
+  },
+  {
+   "event_id": "evt-20261021-0353",
+   "seq": 353,
+   "item_id": "archive-electrocop-lynx-ad-20261021",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-21T09:56:36+08:00",
+   "reason": "2026-10-21 每日采集入库（游戏/怀旧文化）"
+  },
+  {
+   "event_id": "evt-20261021-0354",
+   "seq": 354,
+   "item_id": "archive-berlin-symphony-1927-20261021",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-21T09:56:36+08:00",
+   "reason": "2026-10-21 每日采集入库（影视/文化）"
+  },
+  {
+   "event_id": "evt-20261021-0355",
+   "seq": 355,
+   "item_id": "archive-last-warning-1928-20261021",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-21T09:56:36+08:00",
+   "reason": "2026-10-21 每日采集入库（影视/文化）"
+  },
+  {
+   "event_id": "evt-20261021-0356",
+   "seq": 356,
+   "item_id": "archive-joan-of-arc-1928-20261021",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-21T09:56:36+08:00",
+   "reason": "2026-10-21 每日采集入库（影视/文化）"
+  },
+  {
+   "event_id": "evt-20261021-0357",
+   "seq": 357,
+   "item_id": "commons-afn-naples-soccer-20261021",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-21T09:56:36+08:00",
+   "reason": "2026-10-21 每日采集入库（体育/历史）"
+  },
+  {
+   "event_id": "evt-20261021-0358",
+   "seq": 358,
+   "item_id": "commons-allstar-soccer-tour-20261021",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-21T09:56:36+08:00",
+   "reason": "2026-10-21 每日采集入库（体育/历史）"
+  },
+  {
+   "event_id": "evt-20261021-0359",
+   "seq": 359,
+   "item_id": "commons-firehouse-olympics-20261021",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-21T09:56:36+08:00",
+   "reason": "2026-10-21 每日采集入库（体育/历史）"
+  },
+  {
+   "event_id": "evt-20261021-0360",
+   "seq": 360,
+   "item_id": "commons-comic-strip-krita-20261021",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-21T09:56:36+08:00",
+   "reason": "2026-10-21 每日采集入库（文化/艺术）"
+  },
+  {
+   "event_id": "evt-20261021-0361",
+   "seq": 361,
+   "item_id": "eso-webb-ic348-pan-20261021",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-21T09:56:36+08:00",
+   "reason": "2026-10-21 每日采集入库（文化/艺术）"
+  },
+  {
+   "event_id": "evt-20261021-0362",
+   "seq": 362,
+   "item_id": "commons-wp25-billboard-20261021",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-21T09:56:36+08:00",
+   "reason": "2026-10-21 每日采集入库（文化/艺术）"
+  },
+  {
+   "event_id": "evt-20261021-0363",
+   "seq": 363,
+   "item_id": "webb-arp263-pan-20261021",
+   "version": 2,
+   "type": "modified",
+   "status": "active",
+   "occurred_at": "2026-10-21T10:06:15+08:00",
+   "reason": "GitHub 100MB 单文件限制：4K 母带镜像（107.7MB）转码为 1080p（13.6MB），内容不变；_master_url 保留原地址",
+   "changed_fields": [
+    "bytes",
+    "duration_s",
+    "width",
+    "height"
    ]
   }
  ]

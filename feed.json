@@ -9,12 +9,12 @@
   {
    "vertical": "新闻/财经",
    "community": "Everyday News and Money Discussion",
-   "count": 6
+   "count": 8
   },
   {
    "vertical": "AI",
    "community": "AI Tools and Everyday Uses",
-   "count": 4
+   "count": 5
   },
   {
    "vertical": "加密资产",
@@ -24,60 +24,1170 @@
   {
    "vertical": "无人系统",
    "community": "Robotics and Automation Brief",
-   "count": 12
+   "count": 14
   },
   {
    "vertical": "军事航空装备",
    "community": "Robotics and Automation Brief",
-   "count": 8
+   "count": 11
   },
   {
    "vertical": "科学",
    "community": "Science Worth Understanding",
-   "count": 15
+   "count": 18
   },
   {
    "vertical": "纯自然风景/野生动物",
    "community": "Science Worth Understanding",
-   "count": 5
+   "count": 8
   },
   {
    "vertical": "海洋生物/深海",
    "community": "Science Worth Understanding",
-   "count": 5
+   "count": 8
   },
   {
    "vertical": "网络安全",
    "community": "Digital Safety Explained",
-   "count": 5
+   "count": 7
   },
   {
    "vertical": "游戏",
    "community": "Next Game Brief",
-   "count": 9
+   "count": 12
   },
   {
    "vertical": "影视",
    "community": "Screen Stories Brief",
-   "count": 8
+   "count": 11
   },
   {
    "vertical": "体育",
    "community": "Beyond the Score Brief",
-   "count": 10
+   "count": 13
   },
   {
    "vertical": "国家公园旅行/户外",
    "community": "Beyond the Score Brief",
-   "count": 0
+   "count": 3
   },
   {
    "vertical": "艺术设计",
    "community": "Design Worth Noticing",
-   "count": 9
+   "count": 12
   }
  ],
  "items": [
+  {
+   "id": "commons-income-inequality-20261021",
+   "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/commons-income-inequality-20261021_60s.mp4",
+   "title": "美国收入不平等数据动画：收入曲线与可能的解决方案（60秒精华）",
+   "summary": "politizane 频道 2026 年 9 月发布的数据可视化动画（11 分 15 秒母片，本条为自剪 720p 60 秒精华）：以美国家庭收入百分位曲线开场，展示税前/税后/支出后收入分布，随后叠加住房、医疗等支出层，最后呈现\"可能的解决方案\"章节——SNAP 食品券、住房补贴等救助手段与顶层 1%/0.1%/0.01% 收入柱对比。全程无人物出镜，动画图表+手绘风指针。",
+   "content_text": "内容总结：politizane 频道 2026 年 9 月发布的数据可视化动画（11 分 15 秒母片，本条为自剪 720p 60 秒精华）：以美国家庭收入百分位曲线开场，展示税前/税后/支出后收入分布，随后叠加住房、医疗等支出层，最后呈现\"可能的解决方案\"章节——SNAP 食品券、住房补贴等救助手段与顶层 1%/0.1%/0.01% 收入柱对比。全程无人物出镜，动画图表+手绘风指针。\n内容类型：财经/科普\n对应社群：Everyday News and Money Discussion\n许可证：Public domain（无需署名）\nReels角度：“美国顶层 1% 与普通人收入差多少”：60 秒只讲动画最抓人的“解决方案”段落，用柱状图对比 1%/0.1%/0.01% 收入，结尾定格在 SNAP/住房补贴字样；配中文旁白解释收入不平等与福利政策的关系。\n热点挂钩：美国本周 SNAP 食品券与医疗补助面临削减争议，收入不平等话题再度升温；这段 2026 年 9 月新发布的数据动画正好展示收入曲线与 SNAP 等救助手段，是天然的财经科普素材。\n规格：60秒，1280x720，约8.2MB",
+   "date_published": "2026-10-21T09:56:36+08:00",
+   "tags": [
+    "财经/科普",
+    "Everyday News and Money Discussion",
+    "美国本周 SNAP 食品券与医疗补助面临削减争议，收入不平等话题再度升温；这段 2026 年 9 月新发布的数据动画正好展示收入曲线与 SNAP 等救助手段，是天然的财经科普素材。"
+   ],
+   "attachments": [
+    {
+     "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/commons-income-inequality-20261021_60s.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 8572541,
+     "duration_in_seconds": 60
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_source_url": "https://commons.wikimedia.org/wiki/File:Income_Inequality_in_America_(Part_1_of_2).webm",
+   "_master_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Income_Inequality_in_America_%28Part_1_of_2%29.webm",
+   "_footage_type": "动画",
+   "_event_date": "2026-09-16",
+   "_original_upload_date": "2026-09-21",
+   "_recommended_segment": {
+    "end_seconds": 60,
+    "start_seconds": 0
+   }
+  },
+  {
+   "id": "commons-trump-guilfoyle-resign-20261021",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Trump_Asks_Kimberly_Guilfoyle_To_Resign.webm",
+   "title": "白宫要求驻希腊大使 Kimberly Guilfoyle 辞职（Mo News 新闻剪辑）",
+   "summary": "Mo News 2026 年 10 月 13 日制作的竖屏新闻剪辑（23 秒）：白宫要求美国驻希腊大使 Kimberly Guilfoyle 辞职。画面为新闻拼贴——Guilfoyle 听证会旧画面、白宫新闻发布会现场、大字标题“Trump Asks Kimberly Guilfoyle To Resign”及“THE PRESIDENT SAID”“SHE HAS BEEN A WONDERFUL”等字幕条。事实性新闻报道，无评论配音倾向。",
+   "content_text": "内容总结：Mo News 2026 年 10 月 13 日制作的竖屏新闻剪辑（23 秒）：白宫要求美国驻希腊大使 Kimberly Guilfoyle 辞职。画面为新闻拼贴——Guilfoyle 听证会旧画面、白宫新闻发布会现场、大字标题“Trump Asks Kimberly Guilfoyle To Resign”及“THE PRESIDENT SAID”“SHE HAS BEEN A WONDERFUL”等字幕条。事实性新闻报道，无评论配音倾向。\n内容类型：科技/新闻\n对应社群：Everyday News and Money Discussion\n许可证：CC BY 4.0（发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/4.0/）\nReels角度：“白宫又换人了”：23 秒竖屏新闻快讯体，标题党式大字标题自带流量；配中文配音补全辞职原因（一句话：白宫要求其辞去驻希腊大使职务），做成时政快讯。\n热点挂钩：10 月 13 日白宫人事新闻，正值美乌恢复对俄打击情报共享、法国骚乱等大新闻同周；美国政治人事变动类短视频在时政受众中稳定有量。\n规格：23秒，1080x1920，约2.2MB",
+   "date_published": "2026-10-21T09:56:36+08:00",
+   "tags": [
+    "科技/新闻",
+    "Everyday News and Money Discussion",
+    "10 月 13 日白宫人事新闻，正值美乌恢复对俄打击情报共享、法国骚乱等大新闻同周；美国政治人事变动类短视频在时政受众中稳定有量。"
+   ],
+   "attachments": [
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Trump_Asks_Kimberly_Guilfoyle_To_Resign.webm",
+     "mime_type": "video/webm",
+     "size_in_bytes": 2267429,
+     "duration_in_seconds": 23
+    }
+   ],
+   "_license": "CC BY 4.0",
+   "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/4.0/",
+   "_version": 1,
+   "_author": "Mo News",
+   "_source_url": "https://commons.wikimedia.org/wiki/File:Trump_Asks_Kimberly_Guilfoyle_To_Resign.webm",
+   "_license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "_footage_type": "真实拍摄",
+   "_event_date": "2026-10-13",
+   "_original_upload_date": "2026-10-19",
+   "_recommended_segment": {
+    "end_seconds": 23,
+    "start_seconds": 0
+   }
+  },
+  {
+   "id": "commons-gen-ai-biographies-20261021",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Gen_AI_Biographies_Rosie_Stephenson-Goodknight.webm",
+   "title": "实测：用 ChatGPT/Gemini 给维基百科人物传记写导语（WikiCredCon 2026）",
+   "summary": "WikiCredCon 2026 会议实录（4 分 08 秒）：Rosie Stephenson-Goodknight 展示用生成式 AI 扩写维基百科历史女性人物传记导语的研究——在 75 篇短导语条目上测试 ChatGPT 与 Gemini，发现结构化提示词能同时提升质量。画面为演讲者近景与实验数据表格幻灯片（ORES 评分对比）交替。",
+   "content_text": "内容总结：WikiCredCon 2026 会议实录（4 分 08 秒）：Rosie Stephenson-Goodknight 展示用生成式 AI 扩写维基百科历史女性人物传记导语的研究——在 75 篇短导语条目上测试 ChatGPT 与 Gemini，发现结构化提示词能同时提升质量。画面为演讲者近景与实验数据表格幻灯片（ORES 评分对比）交替。\n内容类型：科技/教育\n对应社群：AI Tools and Everyday Uses\n许可证：CC BY-SA 4.0（发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by-sa/4.0/）\nReels角度：“AI 写维基百科，靠谱吗”：截取 55–115 秒实验数据表格段落，用表格画面佐证“结构化提示词提升质量”的结论；配中文讲解，做成 AI 工具实测类内容，呼应“AI 日常应用”定位。\n热点挂钩：生成式 AI 日常应用持续受关注（NVDA 等 AI 链本周活跃）；这段 2026 年会议实录展示了 AI 在知识生产中的真实用法，不是概念炒作。\n规格：248秒，1920x1080，约22.2MB",
+   "date_published": "2026-10-21T09:56:36+08:00",
+   "tags": [
+    "科技/教育",
+    "AI Tools and Everyday Uses",
+    "生成式 AI 日常应用持续受关注（NVDA 等 AI 链本周活跃）；这段 2026 年会议实录展示了 AI 在知识生产中的真实用法，不是概念炒作。"
+   ],
+   "attachments": [
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Gen_AI_Biographies_Rosie_Stephenson-Goodknight.webm",
+     "mime_type": "video/webm",
+     "size_in_bytes": 23330805,
+     "duration_in_seconds": 248
+    }
+   ],
+   "_license": "CC BY-SA 4.0",
+   "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by-sa/4.0/",
+   "_version": 1,
+   "_author": "WikiCred",
+   "_source_url": "https://commons.wikimedia.org/wiki/File:Gen_AI_Biographies_Rosie_Stephenson-Goodknight.webm",
+   "_license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "_footage_type": "真实拍摄",
+   "_event_date": "2026-04-11",
+   "_original_upload_date": "2026-06-04",
+   "_recommended_segment": {
+    "end_seconds": 115,
+    "start_seconds": 55
+   }
+  },
+  {
+   "id": "commons-rsa-crypto-pad-demo-20261021",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/RSA_Crypto_Pad_Demo.webm",
+   "title": "RSA 加密演示：公钥加密、私钥解密全过程（屏幕录制）",
+   "summary": "2009 年录制的 RSA 加密教学屏幕录制（89 秒，2026 年 10 月上传至 Commons）：用 Windows 风格“User/Server”两个文件夹演示——生成密钥对、公钥加密文档、把加密文件拖到 Server 文件夹、私钥解密，全程配英文字幕讲解（“The user will use the 'public' key…the server will use the 'private' key”）。画面直观，适合做加密原理可视化。",
+   "content_text": "内容总结：2009 年录制的 RSA 加密教学屏幕录制（89 秒，2026 年 10 月上传至 Commons）：用 Windows 风格“User/Server”两个文件夹演示——生成密钥对、公钥加密文档、把加密文件拖到 Server 文件夹、私钥解密，全程配英文字幕讲解（“The user will use the 'public' key…the server will use the 'private' key”）。画面直观，适合做加密原理可视化。\n内容类型：科技/安全教育\n对应社群：Digital Safety Explained\n许可证：Public domain（无需署名）\nReels角度：“你每天都在用的加密，原理 30 秒看懂”：截取 25–55 秒密钥对生成与加解密核心段；配中文配音讲解公钥/私钥分工，做成网安入门科普，结尾关联“为什么 HTTPS 是安全的”。\n热点挂钩：本周无直接关联热点；属常备网安科普素材，RSA/SSL 原理是网络安全教育的基础知识点，可随时配合数据泄露类新闻使用。\n规格：90秒，640x360，约1.6MB",
+   "date_published": "2026-10-21T09:56:36+08:00",
+   "tags": [
+    "科技/安全教育",
+    "Digital Safety Explained",
+    "本周无直接关联热点；属常备网安科普素材，RSA/SSL 原理是网络安全教育的基础知识点，可随时配合数据泄露类新闻使用。"
+   ],
+   "attachments": [
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/RSA_Crypto_Pad_Demo.webm",
+     "mime_type": "video/webm",
+     "size_in_bytes": 1727605,
+     "duration_in_seconds": 90
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_source_url": "https://commons.wikimedia.org/wiki/File:RSA_Crypto_Pad_Demo.webm",
+   "_footage_type": "真实拍摄",
+   "_event_date": "2009-03-03",
+   "_original_upload_date": "2026-10-02",
+   "_recommended_segment": {
+    "end_seconds": 55,
+    "start_seconds": 25
+   }
+  },
+  {
+   "id": "commons-david-strom-backup-cyber-20261021",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/David_Strom_about_the_intersection_of_data_protection%2C_specifically_backup_and_recovery%2C_and_general_cybersecurity%2C_SiliconANGLE_Media_-_Cyber_Resiliency_Summit_%28Air_gaps%2C_Tools%2C_...%29.webm",
+   "title": "网络弹性访谈：数据备份与恢复如何抵御勒索软件（theCUBE）",
+   "summary": "SiliconANGLE theCUBE 2023 年 12 月“Cyber Resiliency Summit”访谈（15 分 53 秒）：主持人 Dave Vellante 对话网安记者 David Strom，讨论数据保护、备份与恢复的交叉点，以及备份策略如何构成网络弹性的最后一道防线。画面为演播室双人访谈，配 “NAVIGATING THE ROAD TO CYBER RESILIENCY” 字幕条，右下角有 Dell Technologies 赞助标识。",
+   "content_text": "内容总结：SiliconANGLE theCUBE 2023 年 12 月“Cyber Resiliency Summit”访谈（15 分 53 秒）：主持人 Dave Vellante 对话网安记者 David Strom，讨论数据保护、备份与恢复的交叉点，以及备份策略如何构成网络弹性的最后一道防线。画面为演播室双人访谈，配 “NAVIGATING THE ROAD TO CYBER RESILIENCY” 字幕条，右下角有 Dell Technologies 赞助标识。\n内容类型：科技/安全教育\n对应社群：Digital Safety Explained\n许可证：CC BY 3.0（发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/3.0/）\nReels角度：“备份是防勒索软件的最后保险”：截取 120–180 秒备份与恢复主题段；配中文配音转述核心观点（备份策略=网络弹性），做成企业/个人数据安全科普，面向对勒索软件新闻有感知的受众。\n热点挂钩：本周无直接关联热点；属常备网安科普素材，勒索软件与数据备份是持续性高关注议题，可配合相关新闻复用。\n规格：953秒，1920x1080，约105.8MB",
+   "date_published": "2026-10-21T09:56:36+08:00",
+   "tags": [
+    "科技/安全教育",
+    "Digital Safety Explained",
+    "本周无直接关联热点；属常备网安科普素材，勒索软件与数据备份是持续性高关注议题，可配合相关新闻复用。"
+   ],
+   "attachments": [
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/David_Strom_about_the_intersection_of_data_protection%2C_specifically_backup_and_recovery%2C_and_general_cybersecurity%2C_SiliconANGLE_Media_-_Cyber_Resiliency_Summit_%28Air_gaps%2C_Tools%2C_...%29.webm",
+     "mime_type": "video/webm",
+     "size_in_bytes": 110973070,
+     "duration_in_seconds": 953
+    }
+   ],
+   "_license": "CC BY 3.0",
+   "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/3.0/",
+   "_version": 1,
+   "_author": "SiliconANGLE theCUBE",
+   "_source_url": "https://commons.wikimedia.org/wiki/File:David_Strom_about_the_intersection_of_data_protection%2C_specifically_backup_and_recovery%2C_and_general_cybersecurity%2C_SiliconANGLE_Media_-_Cyber_Resiliency_Summit_%28Air_gaps%2C_Tools%2C_...%29.webm",
+   "_license_url": "https://creativecommons.org/licenses/by/3.0/",
+   "_footage_type": "真实拍摄",
+   "_event_date": "2023-12-13",
+   "_original_upload_date": "2024-09-29",
+   "_recommended_segment": {
+    "end_seconds": 180,
+    "start_seconds": 120
+   }
+  },
+  {
+   "id": "commons-counter-uas-flytrap-20261021",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/New_Counter-UAS_tech_put_to_the_test_during_Project_Flytrap_%28966545%29.webm",
+   "title": "美军 Project Flytrap 反无人机技术野外测试",
+   "summary": "美陆军第2骑兵团在 Project Flytrap 演习中测试新型反无人机（C-UAS）技术（约52秒，竖屏）：1LT Jake Licht 出镜讲解，士兵在野外草地操作反无人机设备，采访+测试实拍。美陆军公共事务拍摄。",
+   "content_text": "内容总结：美陆军第2骑兵团在 Project Flytrap 演习中测试新型反无人机（C-UAS）技术（约52秒，竖屏）：1LT Jake Licht 出镜讲解，士兵在野外草地操作反无人机设备，采访+测试实拍。美陆军公共事务拍摄。\n内容类型：科技/无人机\n对应社群：Robotics and Automation Brief\n许可证：Public domain（无需署名）\nReels角度：“无人机满天飞的时代，怎么反制无人机”：美军实测反无人机装备第一视角，竖屏天然适配 Reels，配字幕讲 C-UAS 工作原理。\n热点挂钩：低空经济与无人机攻防持续升温——美军 7 月野外实测新一代反无人机技术，看士兵怎么“打无人机”。\n规格：51.92秒，1080x1920，约18.7MB",
+   "date_published": "2026-10-21T09:56:36+08:00",
+   "tags": [
+    "科技/无人机",
+    "Robotics and Automation Brief",
+    "低空经济与无人机攻防持续升温——美军 7 月野外实测新一代反无人机技术，看士兵怎么“打无人机”。"
+   ],
+   "attachments": [
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/New_Counter-UAS_tech_put_to_the_test_during_Project_Flytrap_%28966545%29.webm",
+     "mime_type": "video/webm",
+     "size_in_bytes": 19593727,
+     "duration_in_seconds": 51.92
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_source_url": "https://commons.wikimedia.org/wiki/File:New_Counter-UAS_tech_put_to_the_test_during_Project_Flytrap_(966545).webm",
+   "_footage_type": "真实拍摄",
+   "_original_upload_date": "2026-07-09",
+   "_recommended_segment": {
+    "start_seconds": 0,
+    "end_seconds": 51.92
+   }
+  },
+  {
+   "id": "commons-eclipse-gdansk-drone-20261021",
+   "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/commons-eclipse-gdansk-drone-20261021_60s.mp4",
+   "title": "日食之日无人机航拍波兰格但斯克（自剪60秒）",
+   "summary": "2026 年 8 月 12 日日食期间 DJI Air 3S 航拍波兰格但斯克（自剪 60 秒成品，取母带 15–75 秒）：老城全景、圣母大教堂剪影、摩天轮与码头，日食光线下的金色时刻。原母带 136 MiB，已按规则自剪 720p 成品。",
+   "content_text": "内容总结：2026 年 8 月 12 日日食期间 DJI Air 3S 航拍波兰格但斯克（自剪 60 秒成品，取母带 15–75 秒）：老城全景、圣母大教堂剪影、摩天轮与码头，日食光线下的金色时刻。原母带 136 MiB，已按规则自剪 720p 成品。\n内容类型：科技/无人机\n对应社群：Robotics and Automation Brief\n许可证：CC BY 4.0（发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/4.0/）\nReels角度：“无人机带你看日食那天的格但斯克”：日食余晖+老城航拍，金色时刻画面极易出片，配乐+地标字幕。\n热点挂钩：2026 年 8 月 12 日欧洲日食——无人机视角重看那天的格但斯克。\n规格：60.03秒，1280x720，约16.6MB",
+   "date_published": "2026-10-21T09:56:36+08:00",
+   "tags": [
+    "科技/无人机",
+    "Robotics and Automation Brief",
+    "2026 年 8 月 12 日欧洲日食——无人机视角重看那天的格但斯克。"
+   ],
+   "attachments": [
+    {
+     "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/commons-eclipse-gdansk-drone-20261021_60s.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 17415633,
+     "duration_in_seconds": 60.03
+    }
+   ],
+   "_license": "CC BY 4.0",
+   "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/4.0/",
+   "_version": 1,
+   "_author": "Kadr tu i tam",
+   "_source_url": "https://commons.wikimedia.org/wiki/File:ZA%C4%86MIENIE_S%C5%81O%C5%83CA_2026_nad_GDA%C5%83SKIEM_z_DRONA!_Solar_eclipse_2026_in_Poland_-_DJI_Air_3S.webm",
+   "_license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "_master_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/ZA%C4%86MIENIE_S%C5%81O%C5%83CA_2026_nad_GDA%C5%83SKIEM_z_DRONA%21_Solar_eclipse_2026_in_Poland_-_DJI_Air_3S.webm",
+   "_footage_type": "真实拍摄（DJI Air 3S 航拍）",
+   "_event_date": "2026-08-12",
+   "_filmed_date": "2026-08-12",
+   "_original_upload_date": "2026-08-16",
+   "_recommended_segment": {
+    "start_seconds": 0,
+    "end_seconds": 60
+   }
+  },
+  {
+   "id": "dvids-uss-boxer-flightops-20261021",
+   "url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112084035/DOD_112084035.mp4",
+   "title": "两栖攻击舰 USS Boxer 甲板飞行作业",
+   "summary": "USS Boxer（LHD-4）两栖攻击舰甲板飞行作业实拍（约44秒）：直升机接近甲板悬停，黄衣引导员手势指挥，舰上航空作业完整流程。DVIDS 2026-10-20 发布。",
+   "content_text": "内容总结：USS Boxer（LHD-4）两栖攻击舰甲板飞行作业实拍（约44秒）：直升机接近甲板悬停，黄衣引导员手势指挥，舰上航空作业完整流程。DVIDS 2026-10-20 发布。\n内容类型：军事/装备\n对应社群：Robotics and Automation Brief\n许可证：Public domain（无需署名）\nReels角度：“两栖攻击舰的一天”：直升机起降甲板第一视角，军事装备纪实向。\n热点挂钩：美军两栖攻击舰日常舰载机起降实拍；航母/舰载机题材在军事爱好者受众中稳定有量，属常备军事装备素材。\n规格：44.23秒，1920x1080，约46.9MB",
+   "date_published": "2026-10-21T09:56:36+08:00",
+   "tags": [
+    "军事/装备",
+    "Robotics and Automation Brief",
+    "美军两栖攻击舰日常舰载机起降实拍；航母/舰载机题材在军事爱好者受众中稳定有量，属常备军事装备素材。"
+   ],
+   "attachments": [
+    {
+     "url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112084035/DOD_112084035.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 49225729,
+     "duration_in_seconds": 44.23
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_source_url": "https://www.dvidshub.net/video/1026955/uss-boxer-conducts-flight-operations",
+   "_footage_type": "真实拍摄",
+   "_original_upload_date": "2026-10-20",
+   "_recommended_segment": {
+    "start_seconds": 0,
+    "end_seconds": 44.23
+   }
+  },
+  {
+   "id": "dvids-19th-mxs-broll-20261021",
+   "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/dvids-19th-mxs-broll-20261021_60s.mp4",
+   "title": "第19维修中队地勤日常（自剪60秒）",
+   "summary": "小石城空军基地第19维修中队地勤 B-roll（自剪60秒，取母带 10–70 秒）：机务人员检修起落架、清洗部件、车间协作，展现“飞机能上天靠的是他们”。母带 484 MiB，已按规则自剪 720p 成品。DVIDS 2026-10-20 发布，内容拍摄于 2026-09-29。",
+   "content_text": "内容总结：小石城空军基地第19维修中队地勤 B-roll（自剪60秒，取母带 10–70 秒）：机务人员检修起落架、清洗部件、车间协作，展现“飞机能上天靠的是他们”。母带 484 MiB，已按规则自剪 720p 成品。DVIDS 2026-10-20 发布，内容拍摄于 2026-09-29。\n内容类型：军事/装备\n对应社群：Robotics and Automation Brief\n许可证：Public domain（无需署名）\nReels角度：“飞机能上天，靠的是他们”：地勤维修纪实，装备幕后故事向。\n热点挂钩：美军第19维修中队地勤作业实拍；军机维护幕后题材，可配合军机动态新闻复用。\n规格：60.03秒，1280x720，约18.5MB",
+   "date_published": "2026-10-21T09:56:36+08:00",
+   "tags": [
+    "军事/装备",
+    "Robotics and Automation Brief",
+    "美军第19维修中队地勤作业实拍；军机维护幕后题材，可配合军机动态新闻复用。"
+   ],
+   "attachments": [
+    {
+     "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/dvids-19th-mxs-broll-20261021_60s.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 19381805,
+     "duration_in_seconds": 60.03
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_source_url": "https://www.dvidshub.net/video/1026974/19th-mxs-broll-package",
+   "_master_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112084625/DOD_112084625.mp4",
+   "_footage_type": "真实拍摄",
+   "_filmed_date": "2026-09-29",
+   "_original_upload_date": "2026-10-20",
+   "_recommended_segment": {
+    "start_seconds": 0,
+    "end_seconds": 60
+   }
+  },
+  {
+   "id": "commons-marrakech-airshow-20261021",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Marrakech_Air_Show_2026_%281025700%29.webm",
+   "title": "2026 马拉喀什航展飞行表演",
+   "summary": "2026 马拉喀什航展实拍（约18秒，竖屏）：直升机拖曳摩洛哥国旗通场、战斗机双机编队掠过、彩色拉烟。美空军 Staff Sgt. Brooke Rogers 拍摄，2026-10-08 上传。",
+   "content_text": "内容总结：2026 马拉喀什航展实拍（约18秒，竖屏）：直升机拖曳摩洛哥国旗通场、战斗机双机编队掠过、彩色拉烟。美空军 Staff Sgt. Brooke Rogers 拍摄，2026-10-08 上传。\n内容类型：军事/装备\n对应社群：Robotics and Automation Brief\n许可证：Public domain（无需署名）\nReels角度：“航展最燃18秒”：双机编队+拉烟，竖屏直接可用，配乐即可发。\n热点挂钩：2026年马拉喀什国际航展现场实拍；国际航展季军机展示题材，航空爱好者受众稳定。\n规格：17.87秒，1080x1918，约3.0MB",
+   "date_published": "2026-10-21T09:56:36+08:00",
+   "tags": [
+    "军事/装备",
+    "Robotics and Automation Brief",
+    "2026年马拉喀什国际航展现场实拍；国际航展季军机展示题材，航空爱好者受众稳定。"
+   ],
+   "attachments": [
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Marrakech_Air_Show_2026_%281025700%29.webm",
+     "mime_type": "video/webm",
+     "size_in_bytes": 3182180,
+     "duration_in_seconds": 17.87
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_source_url": "https://commons.wikimedia.org/wiki/File:Marrakech_Air_Show_2026_(1025700).webm",
+   "_footage_type": "真实拍摄",
+   "_original_upload_date": "2026-10-08",
+   "_recommended_segment": {
+    "start_seconds": 0,
+    "end_seconds": 17.87
+   }
+  },
+  {
+   "id": "webb-ic348-zoom-20261021",
+   "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/webb-ic348-zoom-20261021.mp4",
+   "title": "韦伯望远镜飞进恒星形成区 IC 348",
+   "summary": "韦伯望远镜 IC 348 恒星形成区缩放视频（60秒）：从广域星野推近英仙座年轻星团，尘埃带与新生恒星的红外细节层层展开。ESA/Webb 2026-09-15 发布。",
+   "content_text": "内容总结：韦伯望远镜 IC 348 恒星形成区缩放视频（60秒）：从广域星野推近英仙座年轻星团，尘埃带与新生恒星的红外细节层层展开。ESA/Webb 2026-09-15 发布。\n内容类型：科技/航天科普\n对应社群：Science Worth Understanding\n许可证：CC BY 4.0（发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/4.0/）\nReels角度：“60秒飞进恒星幼儿园”：缩放镜头自带沉浸感，配解说讲恒星如何诞生。\n热点挂钩：韦伯 9 月新发布——镜头推近 1000 光年外的恒星“产房”IC 348。\n规格：60秒，1280x720，约17.3MB",
+   "date_published": "2026-10-21T09:56:36+08:00",
+   "tags": [
+    "科技/航天科普",
+    "Science Worth Understanding",
+    "韦伯 9 月新发布——镜头推近 1000 光年外的恒星“产房”IC 348。"
+   ],
+   "attachments": [
+    {
+     "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/webb-ic348-zoom-20261021.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 18102464,
+     "duration_in_seconds": 60
+    }
+   ],
+   "_license": "CC BY 4.0",
+   "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/4.0/",
+   "_version": 1,
+   "_author": "ESA/Webb, NASA, CSA, JPL-Caltech, DSS2, K. Luhman, C. Alves De Oliveira, N. Bartmann (ESA/Webb), A. Kamkar, L. Cieza, E. Slawik, N. Risinger, M. Zamani (ESA/Webb)",
+   "_source_url": "https://esawebb.org/videos/weic2619d/",
+   "_license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "_master_url": "https://cdn.esawebb.org/archives/videos/ultra_hd/weic2619d.mp4",
+   "_footage_type": "真实拍摄（韦伯望远镜深空成像的缩放视频）",
+   "_original_upload_date": "2026-09-15",
+   "_recommended_segment": {
+    "start_seconds": 0,
+    "end_seconds": 60.0
+   }
+  },
+  {
+   "id": "webb-arp263-pan-20261021",
+   "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/webb-arp263-pan-20261021.mp4",
+   "title": "韦伯望远镜看交互星系 Arp 263",
+   "summary": "韦伯望远镜 Arp 263 交互星系平移视频（30秒）：两个正在相互作用的星系，潮汐尾与恒星形成区清晰可见，深空细节丰富。ESA/Webb 2026-08-27 发布。",
+   "content_text": "内容总结：韦伯望远镜 Arp 263 交互星系平移视频（30秒）：两个正在相互作用的星系，潮汐尾与恒星形成区清晰可见，深空细节丰富。ESA/Webb 2026-08-27 发布。\n内容类型：科技/航天科普\n对应社群：Science Worth Understanding\n许可证：CC BY 4.0（发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/4.0/）\nReels角度：“两个星系相撞是什么样子”：30 秒看星系碰撞现场，配解说讲潮汐力。\n热点挂钩：ESO 2026年8月发布的韦伯深空影像；星系可视化是科学类常青题材。\n规格：30秒，1920x1080，约12.9MB",
+   "date_published": "2026-10-21T09:56:36+08:00",
+   "tags": [
+    "科技/航天科普",
+    "Science Worth Understanding",
+    "ESO 2026年8月发布的韦伯深空影像；星系可视化是科学类常青题材。"
+   ],
+   "attachments": [
+    {
+     "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/webb-arp263-pan-20261021.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 13575974,
+     "duration_in_seconds": 30
+    }
+   ],
+   "_license": "CC BY 4.0",
+   "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/4.0/",
+   "_version": 2,
+   "_author": "ESA/Webb, NASA & CSA, A. Leroy, N. Bartmann (ESA/Webb)",
+   "_source_url": "https://esawebb.org/videos/potm2608a/",
+   "_license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "_master_url": "https://cdn.esawebb.org/archives/videos/ultra_hd/potm2608a.mp4",
+   "_footage_type": "真实拍摄（韦伯望远镜深空成像的平移视频）",
+   "_original_upload_date": "2026-08-27",
+   "_recommended_segment": {
+    "start_seconds": 0,
+    "end_seconds": 30.0
+   }
+  },
+  {
+   "id": "nasa-iss-olympics-20261021",
+   "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/nasa-iss-olympics-20261021.mp4",
+   "title": "国际空间站上的“太空奥运会”",
+   "summary": "国际空间站宇航员举办的“太空奥运会”（约133秒）：2024 年 7 月巴黎奥运期间，ISS 乘组身穿蓝色 NASA T 恤，在失重舱内进行体操翻腾、趣味接力等比赛，含空间站外部镜头。NASA 官方发布。",
+   "content_text": "内容总结：国际空间站宇航员举办的“太空奥运会”（约133秒）：2024 年 7 月巴黎奥运期间，ISS 乘组身穿蓝色 NASA T 恤，在失重舱内进行体操翻腾、趣味接力等比赛，含空间站外部镜头。NASA 官方发布。\n内容类型：科技/航天\n对应社群：Science Worth Understanding\n许可证：Public domain（无需署名）\nReels角度：“失重环境下的奥运会”：宇航员翻跟头、玩接力，反差萌拉满，配欢快 BGM。\n热点挂钩：2024 巴黎奥运期间，空间站宇航员也办了一场“奥运会”——失重版体操你见过吗。\n规格：133.3秒，1280x720，约36.8MB",
+   "date_published": "2026-10-21T09:56:36+08:00",
+   "tags": [
+    "科技/航天",
+    "Science Worth Understanding",
+    "2024 巴黎奥运期间，空间站宇航员也办了一场“奥运会”——失重版体操你见过吗。"
+   ],
+   "attachments": [
+    {
+     "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/nasa-iss-olympics-20261021.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 38616681,
+     "duration_in_seconds": 133.3
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_source_url": "https://images.nasa.gov/details/Olympics%20on%20the%20International%20Space%20Station",
+   "_master_url": "https://images-assets.nasa.gov/video/Olympics%20on%20the%20International%20Space%20Station/Olympics%20on%20the%20International%20Space%20Station~medium.mp4",
+   "_footage_type": "真实拍摄",
+   "_event_date": "2024-07-26",
+   "_original_upload_date": "2024-07-26",
+   "_recommended_segment": {
+    "start_seconds": 25,
+    "end_seconds": 85
+   }
+  },
+  {
+   "id": "commons-kilauea-49th-20261021",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/K%C4%ABlauea%E2%80%99s_49th_Eruptive_Episode_%28CIRA_2026-06-15_-_labels%29.webm",
+   "title": "卫星视角：基拉韦厄火山第49次喷发期",
+   "summary": "GOES-18 卫星视角基拉韦厄火山第 49 次喷发期（6秒延时）：夏威夷大岛上空火温异常热点，云层之下熔岩活动的卫星热成像，画面时间戳 2026-06-14。NOAA/CIRA 制作。",
+   "content_text": "内容总结：GOES-18 卫星视角基拉韦厄火山第 49 次喷发期（6秒延时）：夏威夷大岛上空火温异常热点，云层之下熔岩活动的卫星热成像，画面时间戳 2026-06-14。NOAA/CIRA 制作。\n内容类型：自然/风光\n对应社群：Science Worth Understanding\n许可证：Public domain（无需署名）\nReels角度：“从太空看火山喷发”：卫星热成像+夏威夷地图，6 秒信息量拉满，配解说讲火山监测。\n热点挂钩：夏威夷本周发生 6.0 级地震——基拉韦厄今年已喷发数十次，卫星视角看这座地球上最活跃火山的“心跳”。\n规格：6.01秒，1920x1080，约6.2MB",
+   "date_published": "2026-10-21T09:56:36+08:00",
+   "tags": [
+    "自然/风光",
+    "Science Worth Understanding",
+    "夏威夷本周发生 6.0 级地震——基拉韦厄今年已喷发数十次，卫星视角看这座地球上最活跃火山的“心跳”。"
+   ],
+   "attachments": [
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/K%C4%ABlauea%E2%80%99s_49th_Eruptive_Episode_%28CIRA_2026-06-15_-_labels%29.webm",
+     "mime_type": "video/webm",
+     "size_in_bytes": 6546106,
+     "duration_in_seconds": 6.01
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_source_url": "https://commons.wikimedia.org/wiki/File:K%C4%ABlauea%E2%80%99s_49th_Eruptive_Episode_(CIRA_2026-06-15_-_labels).webm",
+   "_footage_type": "真实拍摄（GOES-18 卫星影像延时）",
+   "_event_date": "2026-06-14",
+   "_filmed_date": "2026-06-14",
+   "_original_upload_date": "2026-06-15",
+   "_recommended_segment": {
+    "start_seconds": 0,
+    "end_seconds": 6.01
+   }
+  },
+  {
+   "id": "commons-alaska-aurora-20261021",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Alaskan_Aurora_Time_Lapse_%28SVS15077%29.webm",
+   "title": "阿拉斯加极光延时",
+   "summary": "阿拉斯加极光延时（约24秒）：绿色极光带在针叶林地平线上方舞动，星空璀璨，NASA 科学可视化工作室（SVS15077）制作。",
+   "content_text": "内容总结：阿拉斯加极光延时（约24秒）：绿色极光带在针叶林地平线上方舞动，星空璀璨，NASA 科学可视化工作室（SVS15077）制作。\n内容类型：自然/风光\n对应社群：Science Worth Understanding\n许可证：Public domain（无需署名）\nReels角度：“24 秒看极光跳舞”：延时摄影天然适合短视频，配空灵 BGM。\n热点挂钩：阿拉斯加极光延时摄影；北半球秋冬极光季自然奇观题材热度稳定。\n规格：24.34秒，4240x2832，约12.1MB",
+   "date_published": "2026-10-21T09:56:36+08:00",
+   "tags": [
+    "自然/风光",
+    "Science Worth Understanding",
+    "阿拉斯加极光延时摄影；北半球秋冬极光季自然奇观题材热度稳定。"
+   ],
+   "attachments": [
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Alaskan_Aurora_Time_Lapse_%28SVS15077%29.webm",
+     "mime_type": "video/webm",
+     "size_in_bytes": 12640029,
+     "duration_in_seconds": 24.34
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_source_url": "https://commons.wikimedia.org/wiki/File:Alaskan_Aurora_Time_Lapse_(SVS15077).webm",
+   "_footage_type": "真实拍摄（极光延时摄影）",
+   "_original_upload_date": "2026-08-21",
+   "_recommended_segment": {
+    "start_seconds": 0,
+    "end_seconds": 24.34
+   }
+  },
+  {
+   "id": "commons-kullaojan-waterfall-20261021",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Kullaojan_putous_7.webm",
+   "title": "芬兰 Kullaoja 苔藓瀑布",
+   "summary": "芬兰 Kullaoja 瀑布实拍（约10秒）：苔藓覆盖的岩石间多级跌水，绿意环绕的北欧溪流，水声治愈。",
+   "content_text": "内容总结：芬兰 Kullaoja 瀑布实拍（约10秒）：苔藓覆盖的岩石间多级跌水，绿意环绕的北欧溪流，水声治愈。\n内容类型：自然/风光\n对应社群：Science Worth Understanding\n许可证：Public domain（无需署名）\nReels角度：“10 秒治愈系瀑布”：白噪音+绿意，纯放松向，适合配自然音。\n热点挂钩：芬兰Kullaojan瀑布实拍；北欧自然风光常备素材，治愈系风景受众稳定。\n规格：9.72秒，1920x1080，约27.8MB",
+   "date_published": "2026-10-21T09:56:36+08:00",
+   "tags": [
+    "自然/风光",
+    "Science Worth Understanding",
+    "芬兰Kullaojan瀑布实拍；北欧自然风光常备素材，治愈系风景受众稳定。"
+   ],
+   "attachments": [
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Kullaojan_putous_7.webm",
+     "mime_type": "video/webm",
+     "size_in_bytes": 29125492,
+     "duration_in_seconds": 9.72
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_source_url": "https://commons.wikimedia.org/wiki/File:Kullaojan_putous_7.webm",
+   "_footage_type": "真实拍摄",
+   "_original_upload_date": "2026-09-23",
+   "_recommended_segment": {
+    "start_seconds": 0,
+    "end_seconds": 9.72
+   }
+  },
+  {
+   "id": "noaa-crossota-jelly-20261021",
+   "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/noaa-crossota-jelly-20261021.mp4",
+   "title": "2480 米深海 Crossota 水母",
+   "summary": "美属萨摩亚海山 2480 米深处 Crossota 水母 ROV 实拍（约111秒）：深海中半透明水母缓缓游动、触手舒展，火山岩海底为背景。NOAA 海洋探索 2026 年 9 月考察影像。",
+   "content_text": "内容总结：美属萨摩亚海山 2480 米深处 Crossota 水母 ROV 实拍（约111秒）：深海中半透明水母缓缓游动、触手舒展，火山岩海底为背景。NOAA 海洋探索 2026 年 9 月考察影像。\n内容类型：自然/海洋生物\n对应社群：Science Worth Understanding\n许可证：Public domain（无需署名）\nReels角度：“2480 米深海的水母长这样”：深海生物猎奇向，前 3 秒用水母特写抓眼。\n热点挂钩：NOAA 9 月美属萨摩亚深海考察新影像——阳光到不了的 2480 米，生活长这样。\n规格：111.08秒，640x360，约20.2MB",
+   "date_published": "2026-10-21T09:56:36+08:00",
+   "tags": [
+    "自然/海洋生物",
+    "Science Worth Understanding",
+    "NOAA 9 月美属萨摩亚深海考察新影像——阳光到不了的 2480 米，生活长这样。"
+   ],
+   "attachments": [
+    {
+     "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/noaa-crossota-jelly-20261021.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 21154377,
+     "duration_in_seconds": 111.08
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_source_url": "https://oceanexplorer.noaa.gov/multimedia/crossota-jelly/",
+   "_master_url": "https://oceanexplorer.noaa.gov/wp-content/uploads/2026/09/ex2606-dive05-jelly-640x360-1.mp4",
+   "_footage_type": "真实拍摄",
+   "_original_upload_date": "2026-09-04",
+   "_recommended_segment": {
+    "start_seconds": 40,
+    "end_seconds": 100
+   }
+  },
+  {
+   "id": "noaa-bamboo-coral-20261021",
+   "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/noaa-bamboo-coral-20261021.mp4",
+   "title": "深海竹节鞭珊瑚近距离",
+   "summary": "竹节鞭珊瑚 ROV 近距离实拍（约270秒）：深海海底白色鞭状珊瑚挺立，水螅体特写如雪花绽放。NOAA 海洋探索 2026 年 9 月考察影像。",
+   "content_text": "内容总结：竹节鞭珊瑚 ROV 近距离实拍（约270秒）：深海海底白色鞭状珊瑚挺立，水螅体特写如雪花绽放。NOAA 海洋探索 2026 年 9 月考察影像。\n内容类型：自然/海洋生物\n对应社群：Science Worth Understanding\n许可证：Public domain（无需署名）\nReels角度：“深海里的‘雪花’”：珊瑚水螅体微距特写，美学向。\n热点挂钩：NOAA 9 月美属萨摩亚深海考察新影像——深海珊瑚的水螅体像雪花一样绽放。\n规格：270.2秒，640x360，约49.0MB",
+   "date_published": "2026-10-21T09:56:36+08:00",
+   "tags": [
+    "自然/海洋生物",
+    "Science Worth Understanding",
+    "NOAA 9 月美属萨摩亚深海考察新影像——深海珊瑚的水螅体像雪花一样绽放。"
+   ],
+   "attachments": [
+    {
+     "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/noaa-bamboo-coral-20261021.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 51411970,
+     "duration_in_seconds": 270.2
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_source_url": "https://oceanexplorer.noaa.gov/multimedia/bamboo-whip-coral/",
+   "_master_url": "https://oceanexplorer.noaa.gov/wp-content/uploads/2026/09/ex2606_dive05_bamboocorals-640x360-1.mp4",
+   "_footage_type": "真实拍摄",
+   "_original_upload_date": "2026-09-04",
+   "_recommended_segment": {
+    "start_seconds": 40,
+    "end_seconds": 100
+   }
+  },
+  {
+   "id": "noaa-stalked-crinoid-20261021",
+   "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/noaa-stalked-crinoid-20261021.mp4",
+   "title": "深海有柄海百合绽放",
+   "summary": "有柄海百合 ROV 特写（约85秒）：2485 米深处，羽状腕足如蕨叶般舒展，附着于海底岩石。海百合是延续 4 亿多年的“活化石”。NOAA 海洋探索 2026 年 9 月考察影像。",
+   "content_text": "内容总结：有柄海百合 ROV 特写（约85秒）：2485 米深处，羽状腕足如蕨叶般舒展，附着于海底岩石。海百合是延续 4 亿多年的“活化石”。NOAA 海洋探索 2026 年 9 月考察影像。\n内容类型：自然/海洋生物\n对应社群：Science Worth Understanding\n许可证：Public domain（无需署名）\nReels角度：“活化石在深海开花”：海百合是延续 4 亿多年的“活化石”，科普向。\n热点挂钩：NOAA 9 月美属萨摩亚考察——延续 4 亿多年的“活化石”海百合在 2485 米深海绽放。\n规格：85.25秒，640x360，约15.5MB",
+   "date_published": "2026-10-21T09:56:36+08:00",
+   "tags": [
+    "自然/海洋生物",
+    "Science Worth Understanding",
+    "NOAA 9 月美属萨摩亚考察——延续 4 亿多年的“活化石”海百合在 2485 米深海绽放。"
+   ],
+   "attachments": [
+    {
+     "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/noaa-stalked-crinoid-20261021.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 16219561,
+     "duration_in_seconds": 85.25
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_source_url": "https://oceanexplorer.noaa.gov/multimedia/stalked-crinoid/",
+   "_master_url": "https://oceanexplorer.noaa.gov/wp-content/uploads/2026/09/ex2606-dive05-crinoid-640x360-1.mp4",
+   "_footage_type": "真实拍摄",
+   "_original_upload_date": "2026-09-04",
+   "_recommended_segment": {
+    "start_seconds": 10,
+    "end_seconds": 60
+   }
+  },
+  {
+   "id": "commons-grandcanyon-throughbox-20261021",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Through_the_Box_-_Sep_8%2C_2026_%2855520854953%29.webm",
+   "title": "科罗拉多河穿越大峡谷 The Box",
+   "summary": "科罗拉多河穿越大峡谷 “The Box” 段（约42秒）：峡谷底部漂流视角，洪水冲积的浮木滩与陡峭岩壁。大峡谷国家公园官方 2026-09-30 发布，拍摄于 9 月 8 日。",
+   "content_text": "内容总结：科罗拉多河穿越大峡谷 “The Box” 段（约42秒）：峡谷底部漂流视角，洪水冲积的浮木滩与陡峭岩壁。大峡谷国家公园官方 2026-09-30 发布，拍摄于 9 月 8 日。\n内容类型：旅行/户外\n对应社群：Beyond the Score Brief\n许可证：Public domain（无需署名）\nReels角度：“大峡谷漂流第一视角”：户外探险向，配漂流解说。\n热点挂钩：大峡谷徒步实拍；美国国家公园秋季旅行季，户外徒步题材热度高。\n规格：42.03秒，1920x1080，约78.5MB",
+   "date_published": "2026-10-21T09:56:36+08:00",
+   "tags": [
+    "旅行/户外",
+    "Beyond the Score Brief",
+    "大峡谷徒步实拍；美国国家公园秋季旅行季，户外徒步题材热度高。"
+   ],
+   "attachments": [
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Through_the_Box_-_Sep_8%2C_2026_%2855520854953%29.webm",
+     "mime_type": "video/webm",
+     "size_in_bytes": 82363573,
+     "duration_in_seconds": 42.03
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_source_url": "https://commons.wikimedia.org/wiki/File:Through_the_Box_-_Sep_8,_2026_(55520854953).webm",
+   "_footage_type": "真实拍摄",
+   "_filmed_date": "2026-09-08",
+   "_original_upload_date": "2026-09-30",
+   "_recommended_segment": {
+    "start_seconds": 0,
+    "end_seconds": 42.03
+   }
+  },
+  {
+   "id": "commons-grandcanyon-rapid-20261021",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/New_Rapid_below_Phantom_Ranch_-_Sep_8%2C_2026_%2855521141985%29.webm",
+   "title": "幻影农场下方科罗拉多河急流",
+   "summary": "幻影农场下方科罗拉多河新急流（约18秒）：河水翻涌、碎石滩与峡谷峭壁。大峡谷国家公园官方 2026-09-30 发布，拍摄于 9 月 8 日。",
+   "content_text": "内容总结：幻影农场下方科罗拉多河新急流（约18秒）：河水翻涌、碎石滩与峡谷峭壁。大峡谷国家公园官方 2026-09-30 发布，拍摄于 9 月 8 日。\n内容类型：旅行/户外\n对应社群：Beyond the Score Brief\n许可证：Public domain（无需署名）\nReels角度：“18 秒听大峡谷的水声”：急流白噪音向。\n热点挂钩：大峡谷科罗拉多河急流实拍；国家公园秋季旅行季户外题材。\n规格：17.9秒，1920x1080，约35.7MB",
+   "date_published": "2026-10-21T09:56:36+08:00",
+   "tags": [
+    "旅行/户外",
+    "Beyond the Score Brief",
+    "大峡谷科罗拉多河急流实拍；国家公园秋季旅行季户外题材。"
+   ],
+   "attachments": [
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/New_Rapid_below_Phantom_Ranch_-_Sep_8%2C_2026_%2855521141985%29.webm",
+     "mime_type": "video/webm",
+     "size_in_bytes": 37425355,
+     "duration_in_seconds": 17.9
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_source_url": "https://commons.wikimedia.org/wiki/File:New_Rapid_below_Phantom_Ranch_-_Sep_8,_2026_(55521141985).webm",
+   "_footage_type": "真实拍摄",
+   "_filmed_date": "2026-09-08",
+   "_original_upload_date": "2026-09-30",
+   "_recommended_segment": {
+    "start_seconds": 0,
+    "end_seconds": 17.9
+   }
+  },
+  {
+   "id": "commons-grandcanyon-cottonwood-20261021",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Below_Cottonwood_Campground_-_Sep_8%2C_2026_%2855520929329%29.webm",
+   "title": "大峡谷棉白杨营地徒步道",
+   "summary": "棉白杨营地下方徒步道（约29秒）：背包客行走于大峡谷荒漠小径，红岩峭壁与蓝天。大峡谷国家公园官方 2026-09-30 发布，拍摄于 9 月 8 日。",
+   "content_text": "内容总结：棉白杨营地下方徒步道（约29秒）：背包客行走于大峡谷荒漠小径，红岩峭壁与蓝天。大峡谷国家公园官方 2026-09-30 发布，拍摄于 9 月 8 日。\n内容类型：旅行/户外\n对应社群：Beyond the Score Brief\n许可证：Public domain（无需署名）\nReels角度：“徒步者的天堂”：户外徒步种草向。\n热点挂钩：大峡谷棉白杨营地周边实拍；国家公园秋季露营旅行题材。\n规格：29.17秒，1920x1080，约89.8MB",
+   "date_published": "2026-10-21T09:56:36+08:00",
+   "tags": [
+    "旅行/户外",
+    "Beyond the Score Brief",
+    "大峡谷棉白杨营地周边实拍；国家公园秋季露营旅行题材。"
+   ],
+   "attachments": [
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Below_Cottonwood_Campground_-_Sep_8%2C_2026_%2855520929329%29.webm",
+     "mime_type": "video/webm",
+     "size_in_bytes": 94137257,
+     "duration_in_seconds": 29.17
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_source_url": "https://commons.wikimedia.org/wiki/File:Below_Cottonwood_Campground_-_Sep_8,_2026_(55520929329).webm",
+   "_footage_type": "真实拍摄",
+   "_filmed_date": "2026-09-08",
+   "_original_upload_date": "2026-09-30",
+   "_recommended_segment": {
+    "start_seconds": 0,
+    "end_seconds": 29.17
+   }
+  },
+  {
+   "id": "archive-atari-lynx-ad-20261021",
+   "url": "https://archive.org/download/atari-lynx-atari-1992-uk-tv-advert/Atari%20Lynx%20%28Atari%2C%201992%29%20UK%20TV%20advert.mp4",
+   "title": "1992年英国电视广告：雅达利Lynx掌机",
+   "summary": "1992年在英国播出的雅达利Lynx掌上游戏机电视广告（30秒）：少年玩家特写、掌机屏幕游戏画面、机身展示，结尾列出英国各大零售商（Dixons、John Lewis、Virgin等）与建议零售价84.99英镑。实拍广告，非游戏实机录像。",
+   "content_text": "内容总结：1992年在英国播出的雅达利Lynx掌上游戏机电视广告（30秒）：少年玩家特写、掌机屏幕游戏画面、机身展示，结尾列出英国各大零售商（Dixons、John Lewis、Virgin等）与建议零售价84.99英镑。实拍广告，非游戏实机录像。\n内容类型：游戏/怀旧文化\n对应社群：Next Game Brief\n许可证：CC BY 4.0（发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/4.0/）\nReels角度：“1992年，一台掌机卖84.99英镑”：90年代英国电视广告原汁原味复刻，结尾零售商名单堪称时代切片；配字幕盘点Lynx与Game Boy的掌机大战，怀旧+冷知识双钩子。\n热点挂钩：美国零售怀旧话题升温：复古游戏硬件在二手市场回暖，80-90年代品牌被Z世代重新发现——这批1990-1992年英国电视游戏广告刚完成数字化，完整保留当年售价与门店信息。\n规格：30秒，640x480，约1.8MB",
+   "date_published": "2026-10-21T09:56:36+08:00",
+   "tags": [
+    "游戏/怀旧文化",
+    "Next Game Brief",
+    "美国零售怀旧话题升温：复古游戏硬件在二手市场回暖，80-90年代品牌被Z世代重新发现——这批1990-1992年英国电视游戏广告刚完成数字化，完整保留当年售价与门店信息。"
+   ],
+   "attachments": [
+    {
+     "url": "https://archive.org/download/atari-lynx-atari-1992-uk-tv-advert/Atari%20Lynx%20%28Atari%2C%201992%29%20UK%20TV%20advert.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 1844152,
+     "duration_in_seconds": 30
+    }
+   ],
+   "_license": "CC BY 4.0",
+   "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/4.0/",
+   "_version": 1,
+   "_author": "Joseph Roberts UK",
+   "_source_url": "https://archive.org/details/atari-lynx-atari-1992-uk-tv-advert",
+   "_license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "_footage_type": "真实拍摄",
+   "_event_date": "1992",
+   "_original_upload_date": "2026-08-04",
+   "_recommended_segment": {
+    "start_seconds": 0,
+    "end_seconds": 30
+   }
+  },
+  {
+   "id": "archive-atari-st-ad-20261021",
+   "url": "https://archive.org/download/atari-st-atari-1991-uk-tv-advert/Atari%20ST%20%28Atari%2C%201991%29%20UK%20TV%20advert.mp4",
+   "title": "1991年英国电视广告：雅达利ST电脑",
+   "summary": "1991年在英国播出的雅达利ST家用电脑电视广告（30秒）：演员演绎、ST电脑与Discovery Xtra软件包装展示，标注售价399.99英镑起，结尾Atari ST品牌标识。实拍广告，无游戏实机内容。",
+   "content_text": "内容总结：1991年在英国播出的雅达利ST家用电脑电视广告（30秒）：演员演绎、ST电脑与Discovery Xtra软件包装展示，标注售价399.99英镑起，结尾Atari ST品牌标识。实拍广告，无游戏实机内容。\n内容类型：游戏/怀旧文化\n对应社群：Next Game Brief\n许可证：CC BY 4.0（发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/4.0/）\nReels角度：“1991年，一台电脑399英镑，还送软件包”：16位电脑时代的电视广告美学，演员+产品包装的复古推销话术；配字幕对比当年电脑与今日手机算力，怀旧反差感拉满。\n热点挂钩：美国零售怀旧话题升温：复古游戏硬件在二手市场回暖，80-90年代品牌被Z世代重新发现——这批1990-1992年英国电视游戏广告刚完成数字化，完整保留当年售价与门店信息。\n规格：30秒，640x480，约4.6MB",
+   "date_published": "2026-10-21T09:56:36+08:00",
+   "tags": [
+    "游戏/怀旧文化",
+    "Next Game Brief",
+    "美国零售怀旧话题升温：复古游戏硬件在二手市场回暖，80-90年代品牌被Z世代重新发现——这批1990-1992年英国电视游戏广告刚完成数字化，完整保留当年售价与门店信息。"
+   ],
+   "attachments": [
+    {
+     "url": "https://archive.org/download/atari-st-atari-1991-uk-tv-advert/Atari%20ST%20%28Atari%2C%201991%29%20UK%20TV%20advert.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 4787682,
+     "duration_in_seconds": 30
+    }
+   ],
+   "_license": "CC BY 4.0",
+   "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/4.0/",
+   "_version": 1,
+   "_author": "Joseph Roberts UK",
+   "_source_url": "https://archive.org/details/atari-st-atari-1991-uk-tv-advert",
+   "_license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "_footage_type": "真实拍摄",
+   "_event_date": "1991",
+   "_original_upload_date": "2026-08-04",
+   "_recommended_segment": {
+    "start_seconds": 0,
+    "end_seconds": 30
+   }
+  },
+  {
+   "id": "archive-electrocop-lynx-ad-20261021",
+   "url": "https://archive.org/download/electrocop-lynx-atari-1990-uk-tv-advert/Electrocop%2C%20Lynx%20%28Atari%2C%201990%29%20UK%20TV%20advert.mp4",
+   "title": "1990年英国电视广告：雅达利Lynx《Electrocop》",
+   "summary": "1990年英国电视广告：少年手持雅达利Lynx掌机，砖墙背景打出弹孔特效呼应《Electrocop》游戏主题，结尾产品定格展示四款游戏包装盒，标注Lynx售价179.99英镑、游戏29.99英镑起。实拍广告，非游戏实机录像。",
+   "content_text": "内容总结：1990年英国电视广告：少年手持雅达利Lynx掌机，砖墙背景打出弹孔特效呼应《Electrocop》游戏主题，结尾产品定格展示四款游戏包装盒，标注Lynx售价179.99英镑、游戏29.99英镑起。实拍广告，非游戏实机录像。\n内容类型：游戏/怀旧文化\n对应社群：Next Game Brief\n许可证：CC BY 4.0（发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/4.0/）\nReels角度：“10秒广告，弹孔打在砖墙上”：1990年掌机广告的暴力美学前身；定格结尾四款游戏封面+价格表，配字幕玩“你认识几款”互动，评论区自然开聊。\n热点挂钩：美国零售怀旧话题升温：复古游戏硬件在二手市场回暖，80-90年代品牌被Z世代重新发现——这批1990-1992年英国电视游戏广告刚完成数字化，完整保留当年售价与门店信息。\n规格：10秒，640x480，约0.9MB",
+   "date_published": "2026-10-21T09:56:36+08:00",
+   "tags": [
+    "游戏/怀旧文化",
+    "Next Game Brief",
+    "美国零售怀旧话题升温：复古游戏硬件在二手市场回暖，80-90年代品牌被Z世代重新发现——这批1990-1992年英国电视游戏广告刚完成数字化，完整保留当年售价与门店信息。"
+   ],
+   "attachments": [
+    {
+     "url": "https://archive.org/download/electrocop-lynx-atari-1990-uk-tv-advert/Electrocop%2C%20Lynx%20%28Atari%2C%201990%29%20UK%20TV%20advert.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 942786,
+     "duration_in_seconds": 10
+    }
+   ],
+   "_license": "CC BY 4.0",
+   "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/4.0/",
+   "_version": 1,
+   "_author": "Joseph Roberts UK",
+   "_source_url": "https://archive.org/details/electrocop-lynx-atari-1990-uk-tv-advert",
+   "_license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "_footage_type": "真实拍摄",
+   "_event_date": "1990",
+   "_original_upload_date": "2026-08-04",
+   "_recommended_segment": {
+    "start_seconds": 0,
+    "end_seconds": 10
+   }
+  },
+  {
+   "id": "archive-berlin-symphony-1927-20261021",
+   "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/archive-berlin-symphony-1927-20261021_60s.mp4",
+   "title": "《柏林：城市交响曲》（1927）60秒精华",
+   "summary": "沃尔特·鲁特曼1927年城市交响纪录片《柏林：大城市交响曲》60秒自剪精华（取自影片25分钟处）：1920年代柏林街头人群、戴礼帽的行人、街景众生相，黑白默片质感。公有领域（CC PDM 1.0），母带1077MB已自剪720p成品。",
+   "content_text": "内容总结：沃尔特·鲁特曼1927年城市交响纪录片《柏林：大城市交响曲》60秒自剪精华（取自影片25分钟处）：1920年代柏林街头人群、戴礼帽的行人、街景众生相，黑白默片质感。公有领域（CC PDM 1.0），母带1077MB已自剪720p成品。\n内容类型：影视/文化\n对应社群：Screen Stories Brief\n许可证：Public domain（无需署名）\nReels角度：“1927年的柏林街头，比今天还挤”：百年前的众生相快剪，礼帽+人群+街景三连击；配字幕讲“城市交响曲”这一纪录片类型的开山之作，电影史冷知识+视觉冲击。\n热点挂钩：《辛普森一家》Apu近十年首次发声（新配音演员接棒）引发经典动画配音史讨论；一批1927-1928年默片新版数字化登陆archive.org——配音演员出现之前，演员全靠表情和镜头讲故事。\n规格：60秒，1280x932，约40.0MB",
+   "date_published": "2026-10-21T09:56:36+08:00",
+   "tags": [
+    "影视/文化",
+    "Screen Stories Brief",
+    "《辛普森一家》Apu近十年首次发声（新配音演员接棒）引发经典动画配音史讨论；一批1927-1928年默片新版数字化登陆archive.org——配音演员出现之前，演员全靠表情和镜头讲故事。"
+   ],
+   "attachments": [
+    {
+     "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/archive-berlin-symphony-1927-20261021_60s.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 41962040,
+     "duration_in_seconds": 60
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_source_url": "https://archive.org/details/berlin-symphony-of-a-great-city-1927-tmdb222",
+   "_master_url": "https://archive.org/download/berlin-symphony-of-a-great-city-1927-tmdb222/Berlin%20-%20Symphony%20of%20a%20Great%20City%20%281927%29.mp4",
+   "_footage_type": "历史影像",
+   "_event_date": "1927",
+   "_original_upload_date": "2026-10-19",
+   "_recommended_segment": {
+    "start_seconds": 0,
+    "end_seconds": 60
+   }
+  },
+  {
+   "id": "archive-last-warning-1928-20261021",
+   "url": "https://archive.org/download/the-last-warning-1928-paul-leni-silent-version/the-last-warning-1928-upload.mp4",
+   "title": "保罗·莱尼遗作《最后的警告》（1928）默片",
+   "summary": "保罗·莱尼1928年遗作、默片悬疑《最后的警告》完整版（77分钟，91.6MB）：剧院后台谋杀谜案，群戏调度与字幕卡“Where's Miss Barbara?”，40分钟处为连续的后台追逐与人物对峙戏。公有领域（CC PDM 1.0）；已验片并给出60秒精华窗口（2400-2460秒）。",
+   "content_text": "内容总结：保罗·莱尼1928年遗作、默片悬疑《最后的警告》完整版（77分钟，91.6MB）：剧院后台谋杀谜案，群戏调度与字幕卡“Where's Miss Barbara?”，40分钟处为连续的后台追逐与人物对峙戏。公有领域（CC PDM 1.0）；已验片并给出60秒精华窗口（2400-2460秒）。\n内容类型：影视/文化\n对应社群：Screen Stories Brief\n许可证：Public domain（无需署名）\nReels角度：“1928年的悬疑片长这样”：默片时代的剧院谋杀案，40分钟处的后台对峙戏一张一弛；配字幕讲导演保罗·莱尼（《蜡像馆》）的遗作故事，影迷向+猎奇向通吃。\n热点挂钩：《辛普森一家》Apu近十年首次发声（新配音演员接棒）引发经典动画配音史讨论；一批1927-1928年默片新版数字化登陆archive.org——配音演员出现之前，演员全靠表情和镜头讲故事。\n规格：4637秒，1280x720，约87.4MB",
+   "date_published": "2026-10-21T09:56:36+08:00",
+   "tags": [
+    "影视/文化",
+    "Screen Stories Brief",
+    "《辛普森一家》Apu近十年首次发声（新配音演员接棒）引发经典动画配音史讨论；一批1927-1928年默片新版数字化登陆archive.org——配音演员出现之前，演员全靠表情和镜头讲故事。"
+   ],
+   "attachments": [
+    {
+     "url": "https://archive.org/download/the-last-warning-1928-paul-leni-silent-version/the-last-warning-1928-upload.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 91642403,
+     "duration_in_seconds": 4637
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_source_url": "https://archive.org/details/the-last-warning-1928-paul-leni-silent-version",
+   "_footage_type": "历史影像",
+   "_event_date": "1928",
+   "_original_upload_date": "2026-10-17",
+   "_recommended_segment": {
+    "start_seconds": 2400,
+    "end_seconds": 2460
+   }
+  },
+  {
+   "id": "archive-joan-of-arc-1928-20261021",
+   "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/archive-joan-of-arc-1928-20261021_60s.mp4",
+   "title": "《圣女贞德蒙难记》（1928）60秒精华",
+   "summary": "德莱叶1928年《圣女贞德蒙难记》60秒自剪精华（取自影片15分钟处）：法语字幕卡、鲁内·玛丽亚·法尔科内蒂饰演贞德的标志性面部特写、法官审判镜头，极端特写美学。公有领域（CC PDM 1.0），母带415MB已自剪720p成品。",
+   "content_text": "内容总结：德莱叶1928年《圣女贞德蒙难记》60秒自剪精华（取自影片15分钟处）：法语字幕卡、鲁内·玛丽亚·法尔科内蒂饰演贞德的标志性面部特写、法官审判镜头，极端特写美学。公有领域（CC PDM 1.0），母带415MB已自剪720p成品。\n内容类型：影视/文化\n对应社群：Screen Stories Brief\n许可证：Public domain（无需署名）\nReels角度：“影史最伟大的特写，没有之一”：法尔科内蒂那张脸撑满60秒，配字幕讲德莱叶如何用特写拍完整部电影；默片表演教科书，艺术向Reels天然素材。\n热点挂钩：《辛普森一家》Apu近十年首次发声（新配音演员接棒）引发经典动画配音史讨论；一批1927-1928年默片新版数字化登陆archive.org——配音演员出现之前，演员全靠表情和镜头讲故事。\n规格：60秒，1280x960，约7.7MB",
+   "date_published": "2026-10-21T09:56:36+08:00",
+   "tags": [
+    "影视/文化",
+    "Screen Stories Brief",
+    "《辛普森一家》Apu近十年首次发声（新配音演员接棒）引发经典动画配音史讨论；一批1927-1928年默片新版数字化登陆archive.org——配音演员出现之前，演员全靠表情和镜头讲故事。"
+   ],
+   "attachments": [
+    {
+     "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/archive-joan-of-arc-1928-20261021_60s.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 8124409,
+     "duration_in_seconds": 60
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_source_url": "https://archive.org/details/the-passion-of-joan-of-arc-1928-french",
+   "_master_url": "https://archive.org/download/the-passion-of-joan-of-arc-1928-french/The%20Passion%20of%20Joan%20of%20Arc%20%281928%29%20FRENCH.ia.mp4",
+   "_footage_type": "历史影像",
+   "_event_date": "1928",
+   "_original_upload_date": "2026-10-20",
+   "_recommended_segment": {
+    "start_seconds": 0,
+    "end_seconds": 60
+   }
+  },
+  {
+   "id": "commons-afn-naples-soccer-20261021",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/AFN_Naples_News_-_NSA_Naples_Soccer_Game_%281005987%29.webm",
+   "title": "AFN新闻：那不勒斯美军基地足球赛",
+   "summary": "美军AFN新闻60秒短片：那不勒斯海军基地（NSA Naples）业余足球赛，两队列队、教练与球员互动、赛后合影，球场为基地内人工草皮。公有领域（美军作品），非职业赛事。",
+   "content_text": "内容总结：美军AFN新闻60秒短片：那不勒斯海军基地（NSA Naples）业余足球赛，两队列队、教练与球员互动、赛后合影，球场为基地内人工草皮。公有领域（美军作品），非职业赛事。\n内容类型：体育/历史\n对应社群：Beyond the Score Brief\n许可证：Public domain（无需署名）\nReels角度：“El Clásico之外，足球的另一面”：军营里的业余联赛同样热血，列队+合影仪式感拉满；挂钩国家德比热搜，配字幕讲“足球属于每一个踢球的人”。\n热点挂钩：El Clásico（巴萨vs皇马）登顶美国Google热搜，足球话题正热；这批美军AFN新闻足球短片记录了军营业余联赛与球迷文化——职业赛场之外，足球同样是普通人的节日。\n规格：60秒，1920x1080，约20.5MB",
+   "date_published": "2026-10-21T09:56:36+08:00",
+   "tags": [
+    "体育/历史",
+    "Beyond the Score Brief",
+    "El Clásico（巴萨vs皇马）登顶美国Google热搜，足球话题正热；这批美军AFN新闻足球短片记录了军营业余联赛与球迷文化——职业赛场之外，足球同样是普通人的节日。"
+   ],
+   "attachments": [
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/AFN_Naples_News_-_NSA_Naples_Soccer_Game_%281005987%29.webm",
+     "mime_type": "video/webm",
+     "size_in_bytes": 21461893,
+     "duration_in_seconds": 60
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_source_url": "https://commons.wikimedia.org/wiki/File:AFN_Naples_News_-_NSA_Naples_Soccer_Game_(1005987).webm",
+   "_footage_type": "真实拍摄",
+   "_original_upload_date": "2026-09-24",
+   "_recommended_segment": {
+    "start_seconds": 0,
+    "end_seconds": 60
+   }
+  },
+  {
+   "id": "commons-allstar-soccer-tour-20261021",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/All-Star_Soccer_Tour_%281021700%29.webm",
+   "title": "AFN新闻：全明星足球巡回赛",
+   "summary": "美军AFN新闻60秒短片“全明星足球巡回赛”：户外球场训练与对抗画面、酒吧内球迷观赛欢呼场景穿插，记录军营足球文化与球迷氛围。公有领域（美军作品），非职业赛事画面。",
+   "content_text": "内容总结：美军AFN新闻60秒短片“全明星足球巡回赛”：户外球场训练与对抗画面、酒吧内球迷观赛欢呼场景穿插，记录军营足球文化与球迷氛围。公有领域（美军作品），非职业赛事画面。\n内容类型：体育/历史\n对应社群：Beyond the Score Brief\n许可证：Public domain（无需署名）\nReels角度：“球场上踢，酒吧里喊”：训练对抗+球迷酒吧双线剪辑，60秒塞满足球文化；挂钩国家德比热搜，配字幕做“你的主队酒吧是哪一家”互动提问。\n热点挂钩：El Clásico（巴萨vs皇马）登顶美国Google热搜，足球话题正热；这批美军AFN新闻足球短片记录了军营业余联赛与球迷文化——职业赛场之外，足球同样是普通人的节日。\n规格：60秒，1920x1080，约40.9MB",
+   "date_published": "2026-10-21T09:56:36+08:00",
+   "tags": [
+    "体育/历史",
+    "Beyond the Score Brief",
+    "El Clásico（巴萨vs皇马）登顶美国Google热搜，足球话题正热；这批美军AFN新闻足球短片记录了军营业余联赛与球迷文化——职业赛场之外，足球同样是普通人的节日。"
+   ],
+   "attachments": [
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/All-Star_Soccer_Tour_%281021700%29.webm",
+     "mime_type": "video/webm",
+     "size_in_bytes": 42882558,
+     "duration_in_seconds": 60
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_source_url": "https://commons.wikimedia.org/wiki/File:All-Star_Soccer_Tour_(1021700).webm",
+   "_footage_type": "真实拍摄",
+   "_original_upload_date": "2026-09-03",
+   "_recommended_segment": {
+    "start_seconds": 0,
+    "end_seconds": 60
+   }
+  },
+  {
+   "id": "commons-firehouse-olympics-20261021",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Fire_House_Olympics_%281026421%29.webm",
+   "title": "AFN大邱新闻：消防站奥运会趣味赛",
+   "summary": "美军AFN大邱新闻30秒短片：镇海消防站举办趣味“消防奥运会”，消防员保龄球瓶趣味赛、消防检查员Hyong Chun Yi出镜介绍，轻松幽默。公有领域（美军作品）。",
+   "content_text": "内容总结：美军AFN大邱新闻30秒短片：镇海消防站举办趣味“消防奥运会”，消防员保龄球瓶趣味赛、消防检查员Hyong Chun Yi出镜介绍，轻松幽默。公有领域（美军作品）。\n内容类型：体育/历史\n对应社群：Beyond the Score Brief\n许可证：Public domain（无需署名）\nReels角度：“消防员的奥运会：保龄球瓶当标靶”：30秒趣味体育短片，反差萌拉满；体育垂类里的轻松调剂，配字幕玩“你单位的趣味运动会”话题。\n热点挂钩：El Clásico（巴萨vs皇马）登顶美国Google热搜之余，体育的另一面是普通人的快乐——镇海消防站的趣味“奥运会”证明：竞技精神不在领奖台，在消防站的空地上。\n规格：30秒，1920x1080，约18.4MB",
+   "date_published": "2026-10-21T09:56:36+08:00",
+   "tags": [
+    "体育/历史",
+    "Beyond the Score Brief",
+    "El Clásico（巴萨vs皇马）登顶美国Google热搜之余，体育的另一面是普通人的快乐——镇海消防站的趣味“奥运会”证明：竞技精神不在领奖台，在消防站的空地上。"
+   ],
+   "attachments": [
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Fire_House_Olympics_%281026421%29.webm",
+     "mime_type": "video/webm",
+     "size_in_bytes": 19264579,
+     "duration_in_seconds": 30
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_source_url": "https://commons.wikimedia.org/wiki/File:Fire_House_Olympics_(1026421).webm",
+   "_footage_type": "真实拍摄",
+   "_original_upload_date": "2026-10-15",
+   "_recommended_segment": {
+    "start_seconds": 0,
+    "end_seconds": 30
+   }
+  },
+  {
+   "id": "commons-comic-strip-krita-20261021",
+   "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/commons-comic-strip-krita-20261021_60s.mp4",
+   "title": "Krita漫画教程：从零画出四格漫画（60秒）",
+   "summary": "开源绘画软件Krita官方漫画教程60秒自剪（取自原片2050-2110秒）：漫画家David Revoy演示对话框绘制，“LEGEND SAYS THIS WATERFALL HIDES A SECRET CAVE!”气泡从无到有。CC BY-SA 4.0，母带296MB已自剪720p成品。",
+   "content_text": "内容总结：开源绘画软件Krita官方漫画教程60秒自剪（取自原片2050-2110秒）：漫画家David Revoy演示对话框绘制，“LEGEND SAYS THIS WATERFALL HIDES A SECRET CAVE!”气泡从无到有。CC BY-SA 4.0，母带296MB已自剪720p成品。\n内容类型：文化/艺术\n对应社群：Design Worth Noticing\n许可证：CC BY-SA 4.0（发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by-sa/4.0/）\nReels角度：“60秒，看一个对话框诞生”：气泡框+手写体的绘制过程极具治愈感；配字幕讲“免费开源软件也能画商业漫画”，设计工具向+过程美学双杀。\n热点挂钩：独立创作工具热度不减：开源绘画软件Krita的漫画教程展示了零成本创作完整漫画的可能——这正是“人人都是创作者”时代的注脚。\n规格：60秒，1280x720，约1.5MB",
+   "date_published": "2026-10-21T09:56:36+08:00",
+   "tags": [
+    "文化/艺术",
+    "Design Worth Noticing",
+    "独立创作工具热度不减：开源绘画软件Krita的漫画教程展示了零成本创作完整漫画的可能——这正是“人人都是创作者”时代的注脚。"
+   ],
+   "attachments": [
+    {
+     "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/commons-comic-strip-krita-20261021_60s.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 1535608,
+     "duration_in_seconds": 60
+    }
+   ],
+   "_license": "CC BY-SA 4.0",
+   "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by-sa/4.0/",
+   "_version": 1,
+   "_author": "David Revoy",
+   "_source_url": "https://commons.wikimedia.org/wiki/File:Tutorial-_a_Comic_strip_from_A_to_Z_with_Krita.webm",
+   "_license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "_master_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Tutorial-_a_Comic_strip_from_A_to_Z_with_Krita.webm",
+   "_footage_type": "真实拍摄",
+   "_original_upload_date": "2026-06-12",
+   "_recommended_segment": {
+    "start_seconds": 0,
+    "end_seconds": 60
+   }
+  },
+  {
+   "id": "eso-webb-ic348-pan-20261021",
+   "url": "https://cdn.esawebb.org/archives/videos/ultra_hd/weic2619b.mp4",
+   "title": "韦布望远镜：IC 348恒星形成区平移影像",
+   "summary": "ESA/Webb发布的IC 348恒星形成区NIRCam影像平移视频（30秒，4K）：褐矮星搜寻项目的大幅星野在镜头下缓缓移动，星云纹理与星点如油画笔触。CC BY 4.0，Rights含Creative Commons Attribution 4.0已核验。",
+   "content_text": "内容总结：ESA/Webb发布的IC 348恒星形成区NIRCam影像平移视频（30秒，4K）：褐矮星搜寻项目的大幅星野在镜头下缓缓移动，星云纹理与星点如油画笔触。CC BY 4.0，Rights含Creative Commons Attribution 4.0已核验。\n内容类型：文化/艺术\n对应社群：Design Worth Noticing\n许可证：CC BY 4.0（发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/4.0/）\nReels角度：“把深空星野当壁纸播30秒”：韦布望远镜的星云影像本身就是顶级视觉艺术，平移运镜自带呼吸感；配极简字幕+空灵音乐，走治愈美学路线。\n热点挂钩：詹姆斯·韦布望远镜最新一批星空影像公开：IC 348恒星形成区的NIRCam全景，平移运镜把深空星野做成可挂画的视觉艺术——科学影像正在成为新的公共美学。\n规格：30秒，3840x2160，约110.4MB",
+   "date_published": "2026-10-21T09:56:36+08:00",
+   "tags": [
+    "文化/艺术",
+    "Design Worth Noticing",
+    "詹姆斯·韦布望远镜最新一批星空影像公开：IC 348恒星形成区的NIRCam全景，平移运镜把深空星野做成可挂画的视觉艺术——科学影像正在成为新的公共美学。"
+   ],
+   "attachments": [
+    {
+     "url": "https://cdn.esawebb.org/archives/videos/ultra_hd/weic2619b.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 115804039,
+     "duration_in_seconds": 30
+    }
+   ],
+   "_license": "CC BY 4.0",
+   "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/4.0/",
+   "_version": 1,
+   "_author": "ESA/Webb, NASA, CSA, K. Luhman, C. Alves De Oliveira, M. Zamani (ESA/Webb), N. Bartmann (ESA/Webb); Music: Stellardrone - Twilight",
+   "_source_url": "https://esawebb.org/videos/weic2619b/",
+   "_license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "_footage_type": "混合（真实 Webb NIRCam 观测影像 + 平移运镜动画）",
+   "_original_upload_date": "2026-09-15",
+   "_recommended_segment": {
+    "start_seconds": 0,
+    "end_seconds": 30
+   }
+  },
+  {
+   "id": "commons-wp25-billboard-20261021",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/WP25_Times_Square_billboard.webm",
+   "title": "维基百科25周年时代广场广告牌延时",
+   "summary": "维基百科25周年“Knowledge is human”时代广场巨型广告牌30秒延时实拍：拼图logo元素穿越名画（《创世纪》之手、眼睛特写等），公共艺术装置的视觉轮播。CC BY-SA 4.0，作者Wikimedia Foundation（文件页署名）。",
+   "content_text": "内容总结：维基百科25周年“Knowledge is human”时代广场巨型广告牌30秒延时实拍：拼图logo元素穿越名画（《创世纪》之手、眼睛特写等），公共艺术装置的视觉轮播。CC BY-SA 4.0，作者Wikimedia Foundation（文件页署名）。\n内容类型：文化/艺术\n对应社群：Design Worth Noticing\n许可证：CC BY-SA 4.0（发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by-sa/4.0/）\nReels角度：“时代广场的广告牌，轮播的是人类知识”：名画+拼图元素的公共艺术快闪，30秒信息密度极高；配字幕讲维基25周年，知识共享理念的街头表达。\n热点挂钩：维基百科25周年：时代广场巨型广告牌“Knowledge is human”公共艺术装置延时，拼图元素穿越名画——当知识共享成为街头艺术，路人都会停下脚步。\n规格：30秒，2304x1980，约16.7MB",
+   "date_published": "2026-10-21T09:56:36+08:00",
+   "tags": [
+    "文化/艺术",
+    "Design Worth Noticing",
+    "维基百科25周年：时代广场巨型广告牌“Knowledge is human”公共艺术装置延时，拼图元素穿越名画——当知识共享成为街头艺术，路人都会停下脚步。"
+   ],
+   "attachments": [
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/WP25_Times_Square_billboard.webm",
+     "mime_type": "video/webm",
+     "size_in_bytes": 17542719,
+     "duration_in_seconds": 30
+    }
+   ],
+   "_license": "CC BY-SA 4.0",
+   "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by-sa/4.0/",
+   "_version": 1,
+   "_author": "Wikimedia Foundation",
+   "_source_url": "https://commons.wikimedia.org/wiki/File:WP25_Times_Square_billboard.webm",
+   "_license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "_footage_type": "真实拍摄",
+   "_original_upload_date": "2026-03-25",
+   "_recommended_segment": {
+    "start_seconds": 0,
+    "end_seconds": 30
+   }
+  },
   {
    "id": "commons-3dprint-timelapse-20261020",
    "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/3D_printing_time-lapse_2026.webm",
