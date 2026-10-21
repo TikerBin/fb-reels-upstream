@@ -39,7 +39,7 @@
   {
    "vertical": "纯自然风景/野生动物",
    "community": "Science Worth Understanding",
-   "count": 6
+   "count": 5
   },
   {
    "vertical": "海洋生物/深海",
@@ -69,7 +69,7 @@
   {
    "vertical": "国家公园旅行/户外",
    "community": "Beyond the Score Brief",
-   "count": 1
+   "count": 0
   },
   {
    "vertical": "艺术设计",
@@ -1684,39 +1684,6 @@
    }
   },
   {
-   "id": "nps-harlequin-ducks-20261019",
-   "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/nps-harlequin-ducks-20261019_44s.mp4",
-   "title": "冰川国家公园：急流中的丑鸭（44秒竖屏）",
-   "summary": "美国国家公园管理局 2026-10-14 发布（公有领域，署名 NPS）：'Glacier's Harlequin Ducks'，冰川国家公园湍急溪流中丑鸭（harlequin duck）戏水实拍，竖屏烧录字幕。720p mp4 成品。",
-   "content_text": "内容总结：美国国家公园管理局 2026-10-14 发布（公有领域，署名 NPS）：'Glacier's Harlequin Ducks'，冰川国家公园湍急溪流中丑鸭（harlequin duck）戏水实拍，竖屏烧录字幕。720p mp4 成品。\n内容类型：自然/风光\n对应社群：Science Worth Understanding\n许可证：Public domain（无需署名）\nReels角度：急流中的'小丑鸭'——国家公园野生动物近距离实拍，治愈向\n热点挂钩：野生动物常青高互动题材；无直接当日热点挂钩。\n规格：44秒，1280x720，约2.8MB",
-   "date_published": "2026-10-19T09:40:59+08:00",
-   "tags": [
-    "自然/风光",
-    "Science Worth Understanding",
-    "野生动物常青高互动题材；无直接当日热点挂钩。"
-   ],
-   "attachments": [
-    {
-     "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/nps-harlequin-ducks-20261019_44s.mp4",
-     "mime_type": "video/mp4",
-     "size_in_bytes": 2919673,
-     "duration_in_seconds": 44
-    }
-   ],
-   "_license": "Public domain",
-   "_attribution": "无需署名",
-   "_version": 1,
-   "_source_url": "https://www.nps.gov/media/video/view.htm?id=B04AB373-8C8E-4974-8545-DA61AFE47348",
-   "_master_url": "https://www.nps.gov/nps-audiovideo/audiovideo/f23501ad-57f6-4a5d-aef0-47c024da0ffe720p.mp4",
-   "_footage_type": "真实拍摄（野生动物纪实）",
-   "_filmed_date": "2025-08",
-   "_original_upload_date": "2026-10-14",
-   "_recommended_segment": {
-    "start_seconds": 0,
-    "end_seconds": 44
-   }
-  },
-  {
    "id": "noaa-polychaete-worm-20261019",
    "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/noaa-polychaete-worm-20261019_60s.mp4",
    "title": "深海多毛类蠕虫：NOAA 大洋洲 ROV 实拍（60秒）",
@@ -1744,39 +1711,6 @@
    "_footage_type": "真实拍摄（ROV 深海实拍）",
    "_event_date": "2026-09",
    "_original_upload_date": "2026-09-07",
-   "_recommended_segment": {
-    "start_seconds": 0,
-    "end_seconds": 60
-   }
-  },
-  {
-   "id": "nps-fall-aspen-grove-20261019",
-   "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/nps-fall-aspen-grove-20261019_60s.mp4",
-   "title": "大峡谷秋色：金黄白杨林（60秒）",
-   "summary": "美国国家公园管理局 2026-10-01 发布（公有领域，署名 NPS/John Wishart）：'Fall Aspen Grove (Legacy Minute)'，大峡谷国家公园秋季金黄白杨林风光（母带 68 秒）60 秒精华。720p 成品。",
-   "content_text": "内容总结：美国国家公园管理局 2026-10-01 发布（公有领域，署名 NPS/John Wishart）：'Fall Aspen Grove (Legacy Minute)'，大峡谷国家公园秋季金黄白杨林风光（母带 68 秒）60 秒精华。720p 成品。\n内容类型：旅行/户外\n对应社群：Beyond the Score Brief\n许可证：Public domain（无需署名）\nReels角度：大峡谷的秋天是金色的——国家公园秋叶季风光，旅行种草向\n热点挂钩：10 月北美秋叶季正当时；国家公园秋游话题。\n规格：60秒，1280x720，约43.6MB",
-   "date_published": "2026-10-19T09:40:59+08:00",
-   "tags": [
-    "旅行/户外",
-    "Beyond the Score Brief",
-    "10 月北美秋叶季正当时；国家公园秋游话题。"
-   ],
-   "attachments": [
-    {
-     "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/nps-fall-aspen-grove-20261019_60s.mp4",
-     "mime_type": "video/mp4",
-     "size_in_bytes": 45710453,
-     "duration_in_seconds": 60
-    }
-   ],
-   "_license": "Public domain",
-   "_attribution": "无需署名",
-   "_version": 1,
-   "_source_url": "https://www.nps.gov/media/video/view.htm?id=D7947C84-461B-4A9C-8038-4DC72E7FCC76",
-   "_master_url": "https://www.nps.gov/nps-audiovideo/audiovideo/32094332-ef30-4897-841b-1d4276aaac9a720p.mp4",
-   "_footage_type": "真实拍摄（自然风光）",
-   "_event_date": "2026-10",
-   "_original_upload_date": "2026-10-01",
    "_recommended_segment": {
     "start_seconds": 0,
     "end_seconds": 60

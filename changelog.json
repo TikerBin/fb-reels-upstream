@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-10-20T20:51:20+08:00",
- "event_count": 326,
- "next_seq": 327,
+ "updated_at": "2026-10-21T08:50:50+08:00",
+ "event_count": 328,
+ "next_seq": 329,
  "events": [
   {
    "event_id": "evt-20261013-0001",
@@ -4259,6 +4259,34 @@
    "changed_fields": [
     "title",
     "summary_cn",
+    "version"
+   ]
+  },
+  {
+   "event_id": "evt-20261021-0327",
+   "seq": 327,
+   "item_id": "nps-harlequin-ducks-20261019",
+   "version": 2,
+   "type": "retracted",
+   "status": "retracted",
+   "occurred_at": "2026-10-21T08:50:50+08:00",
+   "reason": "遗留条目来源地址不合规：_source_url 为 NPS 官方 view.htm?id=<GUID> 形式，id 即对象标识，官方页面 og:url 亦为该地址，无无查询参数的规范替代链接，与 2026-10-20 已撤回 3 条 NPS 条目同类，不满足来源地址规则；上游不放宽规则，撤回处理",
+   "changed_fields": [
+    "status",
+    "version"
+   ]
+  },
+  {
+   "event_id": "evt-20261021-0328",
+   "seq": 328,
+   "item_id": "nps-fall-aspen-grove-20261019",
+   "version": 2,
+   "type": "retracted",
+   "status": "retracted",
+   "occurred_at": "2026-10-21T08:50:50+08:00",
+   "reason": "遗留条目来源地址不合规：_source_url 为 NPS 官方 view.htm?id=<GUID> 形式，id 即对象标识，官方页面 og:url 亦为该地址，无无查询参数的规范替代链接，与 2026-10-20 已撤回 3 条 NPS 条目同类，不满足来源地址规则；上游不放宽规则，撤回处理",
+   "changed_fields": [
+    "status",
     "version"
    ]
   }
