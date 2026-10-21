@@ -1,15 +1,15 @@
 {
  "date": "2026-10-21",
  "timezone": "Asia/Shanghai",
- "stats_until": "2026-10-21T19:05:02+08:00",
- "last_event_seq": 366,
+ "stats_until": "2026-10-21T19:12:11+08:00",
+ "last_event_seq": 367,
  "category_basis": "LATEST_AT_STATS_UNTIL",
  "update_completed": true,
  "failure_reason": null,
  "pending_review_note": "上游无审核环节（采集→验货→入库），pending_review恒为0",
  "opening_inventory": 103,
  "closing_inventory": 135,
- "total_events_today": 40,
+ "total_events_today": 41,
  "note": "added：仅新素材ID首次入库（changelog中type=added事件，每个ID仅一次）；已有ID的字段补录、分类修正等记modified，不计入added。事件按occurred_at归属自然日（Asia/Shanghai）；modified按本日发生该变化的素材身份去重；同一素材多类变化在各列分别计数，不可直接相加；测试条目（is_test）不计入；last_event_seq为构建本日报所用完整changelog的最大序号（含测试事件，空历史为0）；分类归属口径见category_basis",
  "categories": {
   "影视/文化": {

@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-10-21T19:05:02+08:00",
- "event_count": 366,
- "next_seq": 367,
+ "updated_at": "2026-10-21T19:11:56+08:00",
+ "event_count": 367,
+ "next_seq": 368,
  "events": [
   {
    "event_id": "evt-20261013-0001",
@@ -4708,6 +4708,20 @@
     "_master_url",
     "duration_s",
     "bytes",
+    "_recommended_segment",
+    "version"
+   ]
+  },
+  {
+   "event_id": "evt-20261021-0367",
+   "seq": 367,
+   "item_id": "commons-david-strom-backup-cyber-20261021",
+   "version": 3,
+   "type": "modified",
+   "status": "active",
+   "occurred_at": "2026-10-21T19:11:56+08:00",
+   "reason": "下游验收修正：交付文件ffprobe实测时长60.026267s，原_recommended_segment.end_seconds=60.03系四舍五入、超出真实文件0.003733s，被严格比较判VIDEO_SEGMENT_INVALID；改为确定落在文件内的60.0（start=0不变）。文件、声明时长、大小、许可、来源均未改，未重编码。后续推荐坐标一律向下截断到文件内，禁止向上舍入超界",
+   "changed_fields": [
     "_recommended_segment",
     "version"
    ]

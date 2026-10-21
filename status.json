@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-21T19:05:02+08:00",
+ "updated_at": "2026-10-21T19:12:11+08:00",
  "count": 177,
  "note": "全量最新状态快照，按 id 查询。条目含完整内容快照，移出最新列表的老条目仍可在此查到完整内容。",
  "items": [
@@ -135,8 +135,8 @@
   {
    "id": "commons-david-strom-backup-cyber-20261021",
    "status": "active",
-   "version": 2,
-   "date_modified": "2026-10-21T19:05:02+08:00",
+   "version": 3,
+   "date_modified": "2026-10-21T19:11:56+08:00",
    "in_latest_feed": true,
    "retract_reason": "",
    "title": "网络弹性访谈：数据备份与恢复如何抵御勒索软件（theCUBE）",
@@ -162,7 +162,7 @@
    "_original_upload_date": "2024-09-29",
    "_recommended_segment": {
     "start_seconds": 0,
-    "end_seconds": 60.03
+    "end_seconds": 60.0
    },
    "_master_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/David_Strom_about_the_intersection_of_data_protection%2C_specifically_backup_and_recovery%2C_and_general_cybersecurity%2C_SiliconANGLE_Media_-_Cyber_Resiliency_Summit_%28Air_gaps%2C_Tools%2C_...%29.webm"
   },
