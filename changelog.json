@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-10-21T19:11:56+08:00",
- "event_count": 367,
- "next_seq": 368,
+ "updated_at": "2026-10-22T10:17:12+08:00",
+ "event_count": 401,
+ "next_seq": 402,
  "events": [
   {
    "event_id": "evt-20261013-0001",
@@ -4725,6 +4725,346 @@
     "_recommended_segment",
     "version"
    ]
+  },
+  {
+   "event_id": "evt-20261022-0368",
+   "seq": 368,
+   "item_id": "a-vance-nc-rally-20261022",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-22T10:17:12+08:00",
+   "reason": "2026-10-22 每日采集入库（科技/新闻）"
+  },
+  {
+   "event_id": "evt-20261022-0369",
+   "seq": 369,
+   "item_id": "a-dvids-panama-aid-20261022",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-22T10:17:12+08:00",
+   "reason": "2026-10-22 每日采集入库（科技/新闻）"
+  },
+  {
+   "event_id": "evt-20261022-0370",
+   "seq": 370,
+   "item_id": "a-nasa-ai-townhall-20261022",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-22T10:17:12+08:00",
+   "reason": "2026-10-22 每日采集入库（科技/教育）"
+  },
+  {
+   "event_id": "evt-20261022-0371",
+   "seq": 371,
+   "item_id": "a-aprigf-algobreach-20261022",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-22T10:17:12+08:00",
+   "reason": "2026-10-22 每日采集入库（科技/教育）"
+  },
+  {
+   "event_id": "evt-20261022-0372",
+   "seq": 372,
+   "item_id": "a-aprigf-connected-not-safe-20261022",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-22T10:17:12+08:00",
+   "reason": "2026-10-22 每日采集入库（科技/安全教育）"
+  },
+  {
+   "event_id": "evt-20261022-0373",
+   "seq": 373,
+   "item_id": "a-aprigf-appealing-hate-speech-20261022",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-22T10:17:12+08:00",
+   "reason": "2026-10-22 每日采集入库（科技/安全教育）"
+  },
+  {
+   "event_id": "evt-20261022-0374",
+   "seq": 374,
+   "item_id": "a-dp06-fedimint-20261022",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-22T10:17:12+08:00",
+   "reason": "2026-10-22 每日采集入库（科技/财经科普）"
+  },
+  {
+   "event_id": "evt-20261022-0375",
+   "seq": 375,
+   "item_id": "b-lha120-n44-zoom-20261022",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-22T10:17:12+08:00",
+   "reason": "2026-10-22 每日采集入库（科技/航天科普）"
+  },
+  {
+   "event_id": "evt-20261022-0376",
+   "seq": 376,
+   "item_id": "b-irs3-transition-20261022",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-22T10:17:12+08:00",
+   "reason": "2026-10-22 每日采集入库（科技/航天科普）"
+  },
+  {
+   "event_id": "evt-20261022-0377",
+   "seq": 377,
+   "item_id": "b-trifid-1997-2026-20261022",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-22T10:17:12+08:00",
+   "reason": "2026-10-22 每日采集入库（科技/航天科普）"
+  },
+  {
+   "event_id": "evt-20261022-0378",
+   "seq": 378,
+   "item_id": "b-mumlavsky-waterfall-20261022",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-22T10:17:12+08:00",
+   "reason": "2026-10-22 每日采集入库（自然/风光）"
+  },
+  {
+   "event_id": "evt-20261022-0379",
+   "seq": 379,
+   "item_id": "b-iceland-aurora-20261022",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-22T10:17:12+08:00",
+   "reason": "2026-10-22 每日采集入库（自然/风光）"
+  },
+  {
+   "event_id": "evt-20261022-0380",
+   "seq": 380,
+   "item_id": "b-albany-wildlife-birdsong-20261022",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-22T10:17:12+08:00",
+   "reason": "2026-10-22 每日采集入库（自然/风光）"
+  },
+  {
+   "event_id": "evt-20261022-0381",
+   "seq": 381,
+   "item_id": "b-noaa-stalked-sponge-20261022",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-22T10:17:12+08:00",
+   "reason": "2026-10-22 每日采集入库（自然/海洋生物）"
+  },
+  {
+   "event_id": "evt-20261022-0382",
+   "seq": 382,
+   "item_id": "b-noaa-unknown-isopod-20261022",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-22T10:17:12+08:00",
+   "reason": "2026-10-22 每日采集入库（自然/海洋生物）"
+  },
+  {
+   "event_id": "evt-20261022-0383",
+   "seq": 383,
+   "item_id": "b-noaa-iridogorgia-spiral-20261022",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-22T10:17:12+08:00",
+   "reason": "2026-10-22 每日采集入库（自然/海洋生物）"
+  },
+  {
+   "event_id": "evt-20261022-0384",
+   "seq": 384,
+   "item_id": "c-arcane-thunder-drone-20261022",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-22T10:17:12+08:00",
+   "reason": "2026-10-22 每日采集入库（科技/无人机）"
+  },
+  {
+   "event_id": "evt-20261022-0385",
+   "seq": 385,
+   "item_id": "c-blm-drone-training-20261022",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-22T10:17:12+08:00",
+   "reason": "2026-10-22 每日采集入库（科技/无人机）"
+  },
+  {
+   "event_id": "evt-20261022-0386",
+   "seq": 386,
+   "item_id": "c-wildfire-drone-recon-20261022",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-22T10:17:12+08:00",
+   "reason": "2026-10-22 每日采集入库（科技/无人机）"
+  },
+  {
+   "event_id": "evt-20261022-0387",
+   "seq": 387,
+   "item_id": "c-dvids-thunderbird8-20261022",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-22T10:17:12+08:00",
+   "reason": "2026-10-22 每日采集入库（军事/装备）"
+  },
+  {
+   "event_id": "evt-20261022-0388",
+   "seq": 388,
+   "item_id": "c-dvids-catm-training-20261022",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-22T10:17:12+08:00",
+   "reason": "2026-10-22 每日采集入库（军事/装备）"
+  },
+  {
+   "event_id": "evt-20261022-0389",
+   "seq": 389,
+   "item_id": "c-dvids-mosquito-bowl-20261022",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-22T10:17:12+08:00",
+   "reason": "2026-10-22 每日采集入库（影视/文化）"
+  },
+  {
+   "event_id": "evt-20261022-0390",
+   "seq": 390,
+   "item_id": "c-archive-fiery-firemen-20261022",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-22T10:17:12+08:00",
+   "reason": "2026-10-22 每日采集入库（影视/文化）"
+  },
+  {
+   "event_id": "evt-20261022-0391",
+   "seq": 391,
+   "item_id": "c-archive-peliculas-raras-20261022",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-22T10:17:12+08:00",
+   "reason": "2026-10-22 每日采集入库（影视/文化）"
+  },
+  {
+   "event_id": "evt-20261022-0392",
+   "seq": 392,
+   "item_id": "c-archive-driver1-ad-20261022",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-22T10:17:12+08:00",
+   "reason": "2026-10-22 每日采集入库（游戏/怀旧文化）"
+  },
+  {
+   "event_id": "evt-20261022-0393",
+   "seq": 393,
+   "item_id": "c-archive-cali-games-ad-20261022",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-22T10:17:12+08:00",
+   "reason": "2026-10-22 每日采集入库（游戏/怀旧文化）"
+  },
+  {
+   "event_id": "evt-20261022-0394",
+   "seq": 394,
+   "item_id": "c-archive-aid-ad-20261022",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-22T10:17:12+08:00",
+   "reason": "2026-10-22 每日采集入库（游戏/怀旧文化）"
+  },
+  {
+   "event_id": "evt-20261022-0395",
+   "seq": 395,
+   "item_id": "c-archive-wc1930-20261022",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-22T10:17:12+08:00",
+   "reason": "2026-10-22 每日采集入库（体育/历史）"
+  },
+  {
+   "event_id": "evt-20261022-0396",
+   "seq": 396,
+   "item_id": "d-fomalhaut-cs2-20261022",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-22T10:17:12+08:00",
+   "reason": "2026-10-22 每日采集入库（文化/艺术）"
+  },
+  {
+   "event_id": "evt-20261022-0397",
+   "seq": 397,
+   "item_id": "d-uranus-timelapse-20261022",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-22T10:17:12+08:00",
+   "reason": "2026-10-22 每日采集入库（文化/艺术）"
+  },
+  {
+   "event_id": "evt-20261022-0398",
+   "seq": 398,
+   "item_id": "d-helix-triple-view-20261022",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-22T10:17:12+08:00",
+   "reason": "2026-10-22 每日采集入库（文化/艺术）"
+  },
+  {
+   "event_id": "evt-20261022-0399",
+   "seq": 399,
+   "item_id": "d-rmnp-aerial-broll-20261022",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-22T10:17:12+08:00",
+   "reason": "2026-10-22 每日采集入库（旅行/户外）"
+  },
+  {
+   "event_id": "evt-20261022-0400",
+   "seq": 400,
+   "item_id": "d-grand-canyon-clouds-timelapse-20261022",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-22T10:17:12+08:00",
+   "reason": "2026-10-22 每日采集入库（旅行/户外）"
+  },
+  {
+   "event_id": "evt-20261022-0401",
+   "seq": 401,
+   "item_id": "d-grand-teton-spring-20261022",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-22T10:17:12+08:00",
+   "reason": "2026-10-22 每日采集入库（旅行/户外）"
   }
  ]
 }
