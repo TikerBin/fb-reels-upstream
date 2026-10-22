@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-21T08:50:50+08:00",
- "count": 42,
+ "updated_at": "2026-10-22T19:51:06+08:00",
+ "count": 46,
  "events": [
   {
    "event_id": "evt-20261014-0105",
@@ -757,6 +757,78 @@
    "_retracted": {
     "reason": "遗留条目来源地址不合规：_source_url 为 NPS 官方 view.htm?id=<GUID> 形式，id 即对象标识，官方页面 og:url 亦为该地址，无无查询参数的规范替代链接，与 2026-10-20 已撤回 3 条 NPS 条目同类，不满足来源地址规则；上游不放宽规则，撤回处理",
     "retracted_at": "2026-10-21T08:50:50+08:00"
+   }
+  },
+  {
+   "event_id": "evt-20261022-0402",
+   "seq": 402,
+   "item_id": "c-archive-driver1-ad-20261022",
+   "version": 2,
+   "type": "retracted",
+   "status": "retracted",
+   "occurred_at": "2026-10-22T19:51:06+08:00",
+   "reason": "许可灰区撤回（用户2026-10-22批准）：archive.org上传者自称CC BY 4.0，但内容为1999年PlayStation《Driver》电视广告、描述标注版权属GT Interactive，上传者无权以CC释出，许可链不成立",
+   "changed_fields": [
+    "status",
+    "version"
+   ],
+   "_retracted": {
+    "reason": "许可灰区撤回（用户2026-10-22批准）：archive.org上传者自称CC BY 4.0，但内容为1999年PlayStation《Driver》电视广告、描述标注版权属GT Interactive，上传者无权以CC释出，许可链不成立",
+    "retracted_at": "2026-10-22T19:51:06+08:00"
+   }
+  },
+  {
+   "event_id": "evt-20261022-0403",
+   "seq": 403,
+   "item_id": "c-archive-cali-games-ad-20261022",
+   "version": 2,
+   "type": "retracted",
+   "status": "retracted",
+   "occurred_at": "2026-10-22T19:51:06+08:00",
+   "reason": "许可灰区撤回（用户2026-10-22批准）：archive.org上传者自称CC BY 4.0，但内容为1990年世嘉Master System电视广告、描述标注版权属Sega Europe，上传者无权以CC释出，许可链不成立",
+   "changed_fields": [
+    "status",
+    "version"
+   ],
+   "_retracted": {
+    "reason": "许可灰区撤回（用户2026-10-22批准）：archive.org上传者自称CC BY 4.0，但内容为1990年世嘉Master System电视广告、描述标注版权属Sega Europe，上传者无权以CC释出，许可链不成立",
+    "retracted_at": "2026-10-22T19:51:06+08:00"
+   }
+  },
+  {
+   "event_id": "evt-20261022-0404",
+   "seq": 404,
+   "item_id": "c-archive-aid-ad-20261022",
+   "version": 2,
+   "type": "retracted",
+   "status": "retracted",
+   "occurred_at": "2026-10-22T19:51:06+08:00",
+   "reason": "许可灰区撤回（用户2026-10-22批准）：archive.org上传者自称CC BY 4.0，但内容为2001年PlayStation《Alone in the Dark》电视广告、描述标注版权属Infogrames，上传者无权以CC释出，许可链不成立",
+   "changed_fields": [
+    "status",
+    "version"
+   ],
+   "_retracted": {
+    "reason": "许可灰区撤回（用户2026-10-22批准）：archive.org上传者自称CC BY 4.0，但内容为2001年PlayStation《Alone in the Dark》电视广告、描述标注版权属Infogrames，上传者无权以CC释出，许可链不成立",
+    "retracted_at": "2026-10-22T19:51:06+08:00"
+   }
+  },
+  {
+   "event_id": "evt-20261022-0405",
+   "seq": 405,
+   "item_id": "c-archive-wc1930-20261022",
+   "version": 2,
+   "type": "retracted",
+   "status": "retracted",
+   "occurred_at": "2026-10-22T19:51:06+08:00",
+   "reason": "许可灰区撤回（用户2026-10-22批准）：1930年世界杯纪录片由匿名上传者标注CC BY-SA 4.0，96年前历史影像的原始权属与上传者处分权无法核实，许可链举证不成立",
+   "changed_fields": [
+    "status",
+    "version"
+   ],
+   "_retracted": {
+    "reason": "许可灰区撤回（用户2026-10-22批准）：1930年世界杯纪录片由匿名上传者标注CC BY-SA 4.0，96年前历史影像的原始权属与上传者处分权无法核实，许可链举证不成立",
+    "retracted_at": "2026-10-22T19:51:06+08:00"
    }
   }
  ],
