@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-10-22T19:51:06+08:00",
- "event_count": 405,
- "next_seq": 406,
+ "updated_at": "2026-10-23T09:29:46+08:00",
+ "event_count": 438,
+ "next_seq": 439,
  "events": [
   {
    "event_id": "evt-20261013-0001",
@@ -5137,6 +5137,336 @@
     "reason": "许可灰区撤回（用户2026-10-22批准）：1930年世界杯纪录片由匿名上传者标注CC BY-SA 4.0，96年前历史影像的原始权属与上传者处分权无法核实，许可链举证不成立",
     "retracted_at": "2026-10-22T19:51:06+08:00"
    }
+  },
+  {
+   "event_id": "evt-20261023-0406",
+   "seq": 406,
+   "item_id": "a-dvids-juneau-floodprep-20261023",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-23T09:29:46+08:00",
+   "reason": "2026-10-23 每日采集入库（科技/新闻）"
+  },
+  {
+   "event_id": "evt-20261023-0407",
+   "seq": 407,
+   "item_id": "a-trump-gaggle-wh-20261023",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-23T09:29:46+08:00",
+   "reason": "2026-10-23 每日采集入库（科技/新闻）"
+  },
+  {
+   "event_id": "evt-20261023-0408",
+   "seq": 408,
+   "item_id": "a-whistleblower-fraud-20261023",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-23T09:29:46+08:00",
+   "reason": "2026-10-23 每日采集入库（财经/科普）"
+  },
+  {
+   "event_id": "evt-20261023-0409",
+   "seq": 409,
+   "item_id": "a-dp04-earlyeth-20261023",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-23T09:29:46+08:00",
+   "reason": "2026-10-23 每日采集入库（财经/科普）"
+  },
+  {
+   "event_id": "evt-20261023-0410",
+   "seq": 410,
+   "item_id": "a-dp05-ethdev-crisis-20261023",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-23T09:29:46+08:00",
+   "reason": "2026-10-23 每日采集入库（财经/科普）"
+  },
+  {
+   "event_id": "evt-20261023-0411",
+   "seq": 411,
+   "item_id": "a-dp09-hamradio-pgp-20261023",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-23T09:29:46+08:00",
+   "reason": "2026-10-23 每日采集入库（财经/科普）"
+  },
+  {
+   "event_id": "evt-20261023-0412",
+   "seq": 412,
+   "item_id": "a-webb-n159-zoom-20261023",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-23T09:29:46+08:00",
+   "reason": "2026-10-23 每日采集入库（科技/航天科普）"
+  },
+  {
+   "event_id": "evt-20261023-0413",
+   "seq": 413,
+   "item_id": "a-n159-space-sparks-20261023",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-23T09:29:46+08:00",
+   "reason": "2026-10-23 每日采集入库（科技/航天科普）"
+  },
+  {
+   "event_id": "evt-20261023-0414",
+   "seq": 414,
+   "item_id": "a-rubin-seagull-nebula-20261023",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-23T09:29:46+08:00",
+   "reason": "2026-10-23 每日采集入库（科技/航天科普）"
+  },
+  {
+   "event_id": "evt-20261023-0415",
+   "seq": 415,
+   "item_id": "a-wildhorses-birdshoal-20261023",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-23T09:29:46+08:00",
+   "reason": "2026-10-23 每日采集入库（自然/风光）"
+  },
+  {
+   "event_id": "evt-20261023-0416",
+   "seq": 416,
+   "item_id": "a-sandgrouse-morocco-20261023",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-23T09:29:46+08:00",
+   "reason": "2026-10-23 每日采集入库（自然/风光）"
+  },
+  {
+   "event_id": "evt-20261023-0417",
+   "seq": 417,
+   "item_id": "a-albatross-midway-20261023",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-23T09:29:46+08:00",
+   "reason": "2026-10-23 每日采集入库（自然/风光）"
+  },
+  {
+   "event_id": "evt-20261023-0418",
+   "seq": 418,
+   "item_id": "a-caretta-balearic-20261023",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-23T09:29:46+08:00",
+   "reason": "2026-10-23 每日采集入库（自然/海洋生物）"
+  },
+  {
+   "event_id": "evt-20261023-0419",
+   "seq": 419,
+   "item_id": "a-jellyfish-blacksea-20261023",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-23T09:29:46+08:00",
+   "reason": "2026-10-23 每日采集入库（自然/海洋生物）"
+  },
+  {
+   "event_id": "evt-20261023-0420",
+   "seq": 420,
+   "item_id": "a-noaa-largest-sponge-20261023",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-23T09:29:46+08:00",
+   "reason": "2026-10-23 每日采集入库（自然/海洋生物）"
+  },
+  {
+   "event_id": "evt-20261023-0421",
+   "seq": 421,
+   "item_id": "a-cuas-drone-obstacle-course-20261023",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-23T09:29:46+08:00",
+   "reason": "2026-10-23 每日采集入库（科技/无人机）"
+  },
+  {
+   "event_id": "evt-20261023-0422",
+   "seq": 422,
+   "item_id": "a-drone-warfighter-competition-20261023",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-23T09:29:46+08:00",
+   "reason": "2026-10-23 每日采集入库（科技/无人机）"
+  },
+  {
+   "event_id": "evt-20261023-0423",
+   "seq": 423,
+   "item_id": "a-wiesbaden-drone-pilot-20261023",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-23T09:29:46+08:00",
+   "reason": "2026-10-23 每日采集入库（科技/创客）"
+  },
+  {
+   "event_id": "evt-20261023-0424",
+   "seq": 424,
+   "item_id": "a-f35-beverly-sunrise-20261023",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-23T09:29:46+08:00",
+   "reason": "2026-10-23 每日采集入库（军事/装备）"
+  },
+  {
+   "event_id": "evt-20261023-0425",
+   "seq": 425,
+   "item_id": "a-doc-b29-mcconnell-20261023",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-23T09:29:46+08:00",
+   "reason": "2026-10-23 每日采集入库（军事/装备）"
+  },
+  {
+   "event_id": "evt-20261023-0426",
+   "seq": 426,
+   "item_id": "a-gw-flight-operations-20261023",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-23T09:29:46+08:00",
+   "reason": "2026-10-23 每日采集入库（军事/装备）"
+  },
+  {
+   "event_id": "evt-20261023-0427",
+   "seq": 427,
+   "item_id": "a-ramstein-esports-invitational-20261023",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-23T09:29:46+08:00",
+   "reason": "2026-10-23 每日采集入库（游戏/生活方式）"
+  },
+  {
+   "event_id": "evt-20261023-0428",
+   "seq": 428,
+   "item_id": "a-yokota-esports-champions-20261023",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-23T09:29:46+08:00",
+   "reason": "2026-10-23 每日采集入库（游戏/生活方式）"
+  },
+  {
+   "event_id": "evt-20261023-0429",
+   "seq": 429,
+   "item_id": "a-green-screen-voa-20261023",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-23T09:29:46+08:00",
+   "reason": "2026-10-23 每日采集入库（影视/文化）"
+  },
+  {
+   "event_id": "evt-20261023-0430",
+   "seq": 430,
+   "item_id": "a-segno-animato-20261023",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-23T09:29:46+08:00",
+   "reason": "2026-10-23 每日采集入库（影视/文化）"
+  },
+  {
+   "event_id": "evt-20261023-0431",
+   "seq": 431,
+   "item_id": "a-mousetrap-1999-animation-20261023",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-23T09:29:46+08:00",
+   "reason": "2026-10-23 每日采集入库（影视/文化）"
+  },
+  {
+   "event_id": "evt-20261023-0432",
+   "seq": 432,
+   "item_id": "a-orlando-stadium-20261023",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-23T09:29:46+08:00",
+   "reason": "2026-10-23 每日采集入库（体育/建筑）"
+  },
+  {
+   "event_id": "evt-20261023-0433",
+   "seq": 433,
+   "item_id": "a-seagull-stepping-20261023",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-23T09:29:46+08:00",
+   "reason": "2026-10-23 每日采集入库（文化/艺术）"
+  },
+  {
+   "event_id": "evt-20261023-0434",
+   "seq": 434,
+   "item_id": "a-comet-k1-animation-20261023",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-23T09:29:46+08:00",
+   "reason": "2026-10-23 每日采集入库（文化/艺术）"
+  },
+  {
+   "event_id": "evt-20261023-0435",
+   "seq": 435,
+   "item_id": "a-lion-nebula-transition-20261023",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-23T09:29:46+08:00",
+   "reason": "2026-10-23 每日采集入库（文化/艺术）"
+  },
+  {
+   "event_id": "evt-20261023-0436",
+   "seq": 436,
+   "item_id": "a-zion-russian-thistle-20261023",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-23T09:29:46+08:00",
+   "reason": "2026-10-23 每日采集入库（旅行/户外）"
+  },
+  {
+   "event_id": "evt-20261023-0437",
+   "seq": 437,
+   "item_id": "a-bryce-sar-safety-20261023",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-23T09:29:46+08:00",
+   "reason": "2026-10-23 每日采集入库（旅行/户外）"
+  },
+  {
+   "event_id": "evt-20261023-0438",
+   "seq": 438,
+   "item_id": "a-glacier-bumblebee-20261023",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-23T09:29:46+08:00",
+   "reason": "2026-10-23 每日采集入库（自然/风光）"
   }
  ]
 }
