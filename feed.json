@@ -9,12 +9,12 @@
   {
    "vertical": "新闻/财经",
    "community": "Everyday News and Money Discussion",
-   "count": 13
+   "count": 16
   },
   {
    "vertical": "AI",
    "community": "AI Tools and Everyday Uses",
-   "count": 7
+   "count": 10
   },
   {
    "vertical": "加密资产",
@@ -24,60 +24,1358 @@
   {
    "vertical": "无人系统",
    "community": "Robotics and Automation Brief",
-   "count": 20
+   "count": 23
   },
   {
    "vertical": "军事航空装备",
    "community": "Robotics and Automation Brief",
-   "count": 16
+   "count": 19
   },
   {
    "vertical": "科学",
    "community": "Science Worth Understanding",
-   "count": 24
+   "count": 27
   },
   {
    "vertical": "纯自然风景/野生动物",
    "community": "Science Worth Understanding",
-   "count": 14
+   "count": 17
   },
   {
    "vertical": "海洋生物/深海",
    "community": "Science Worth Understanding",
-   "count": 14
+   "count": 17
   },
   {
    "vertical": "网络安全",
    "community": "Digital Safety Explained",
-   "count": 9
+   "count": 12
   },
   {
    "vertical": "游戏",
    "community": "Next Game Brief",
-   "count": 14
+   "count": 17
   },
   {
    "vertical": "影视",
    "community": "Screen Stories Brief",
-   "count": 17
+   "count": 20
   },
   {
    "vertical": "体育",
    "community": "Beyond the Score Brief",
-   "count": 15
+   "count": 18
   },
   {
    "vertical": "国家公园旅行/户外",
    "community": "Beyond the Score Brief",
-   "count": 8
+   "count": 11
   },
   {
    "vertical": "艺术设计",
    "community": "Design Worth Noticing",
-   "count": 18
+   "count": 21
   }
  ],
  "items": [
+  {
+   "id": "a-voa-rubio-joly-20261025",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Marco_Rubio_meets_with_Canadian_Foreign_Minister_Melanie_Joly_-_VOA_News.webm",
+   "title": "美加外长G7会晤：鲁比奥与加拿大外长若利握手会谈",
+   "summary": "2025年3月13日加拿大查尔洛伊克斯G7外长会期间，美国国务卿鲁比奥与加拿大外长梅拉妮·若利会晤握手的VOA实拍短片（22秒，US Network Pool/AP画面，VOA编辑发布）。画面含两国国旗与G7外长会背景板。真实拍摄，公有领域，无需署名。",
+   "content_text": "内容总结：2025年3月13日加拿大查尔洛伊克斯G7外长会期间，美国国务卿鲁比奥与加拿大外长梅拉妮·若利会晤握手的VOA实拍短片（22秒，US Network Pool/AP画面，VOA编辑发布）。画面含两国国旗与G7外长会背景板。真实拍摄，公有领域，无需署名。\n内容类型：科技/新闻\n对应社群：Everyday News and Money Discussion\n许可证：Public domain（无需署名）\nReels角度：22秒外交现场：两国外长握手寒暄的原声画面，配文可谈美加关系现状，无需长篇解读。\n热点挂钩：美加关税拉锯仍是本周焦点议题；本片为美加外长在G7外长会场边会晤的VOA实拍，提供外交现场一手影像。\n规格：22.066秒，1920x1080，约9.3MB",
+   "date_published": "2026-10-25T09:16:18+08:00",
+   "tags": [
+    "科技/新闻",
+    "Everyday News and Money Discussion",
+    "美加关税拉锯仍是本周焦点议题；本片为美加外长在G7外长会场边会晤的VOA实拍，提供外交现场一手影像。"
+   ],
+   "attachments": [
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Marco_Rubio_meets_with_Canadian_Foreign_Minister_Melanie_Joly_-_VOA_News.webm",
+     "mime_type": "video/webm",
+     "size_in_bytes": 9784582,
+     "duration_in_seconds": 22.066
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_source_url": "https://commons.wikimedia.org/wiki/File:Marco_Rubio_meets_with_Canadian_Foreign_Minister_Melanie_Joly_-_VOA_News.webm",
+   "_master_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Marco_Rubio_meets_with_Canadian_Foreign_Minister_Melanie_Joly_-_VOA_News.webm",
+   "_footage_type": "真实拍摄",
+   "_event_date": "2025-03-13",
+   "_filmed_date": "2025-03-13",
+   "_original_upload_date": "2025-09-06"
+  },
+  {
+   "id": "a-nyc-voteplan-fast-20261025",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/2026-09-15_Make_a_plan_to_vote..._and_do_it_FAST.webm",
+   "title": "纽约市政府投票提示：提前定好投票计划，别拖到投票日",
+   "summary": "2026年9月15日纽约市政府出品的投票提示短片（45秒）：出镜人用轻松的道具演示讲清“提前定好投票计划、尽早投票”，结尾给出NYC.GOV/FAST查询入口。内容为无党派的投票流程提示，不涉及任何候选人背书。真实拍摄，CC BY 4.0，作者为NYC Mayor's Office。",
+   "content_text": "内容总结：2026年9月15日纽约市政府出品的投票提示短片（45秒）：出镜人用轻松的道具演示讲清“提前定好投票计划、尽早投票”，结尾给出NYC.GOV/FAST查询入口。内容为无党派的投票流程提示，不涉及任何候选人背书。真实拍摄，CC BY 4.0，作者为NYC Mayor's Office。\n内容类型：科技/新闻\n对应社群：Everyday News and Money Discussion\n许可证：CC BY 4.0（发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/4.0/）\nReels角度：“投票日前先定计划”实用提醒：45秒短片节奏轻快，适合配“提前投票已开始，查好你的投票点”文案。\n热点挂钩：美国中期选举11月3日投票、部分州提前投票已经开始；本片是官方投票流程提示，正好对应“别等到投票日”的实用话题。\n规格：45.348秒，3840x2160，约39.2MB",
+   "date_published": "2026-10-25T09:16:18+08:00",
+   "tags": [
+    "科技/新闻",
+    "Everyday News and Money Discussion",
+    "美国中期选举11月3日投票、部分州提前投票已经开始；本片是官方投票流程提示，正好对应“别等到投票日”的实用话题。"
+   ],
+   "attachments": [
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/2026-09-15_Make_a_plan_to_vote..._and_do_it_FAST.webm",
+     "mime_type": "video/webm",
+     "size_in_bytes": 41139554,
+     "duration_in_seconds": 45.348
+    }
+   ],
+   "_license": "CC BY 4.0",
+   "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/4.0/",
+   "_version": 1,
+   "_author": "NYC Mayor's Office",
+   "_source_url": "https://commons.wikimedia.org/wiki/File:2026-09-15_Make_a_plan_to_vote..._and_do_it_FAST.webm",
+   "_license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "_master_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/2026-09-15_Make_a_plan_to_vote..._and_do_it_FAST.webm",
+   "_footage_type": "真实拍摄",
+   "_event_date": "2026-09-15",
+   "_filmed_date": "2026-09-15",
+   "_original_upload_date": "2026-09-22"
+  },
+  {
+   "id": "a-gangtok-gas-queue-20261025",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Queue_for_gas_cylinders_in_Gangtok_%28Sikkim%29_during_the_2026_West_Asia_conflict.webm",
+   "title": "能源紧张传导到民生：甘托克居民排队领取燃气罐",
+   "summary": "2026年4月28日印度锡金邦甘托克实拍（竖屏11.5秒）：居民手持空燃气罐在路边排长队等候领取，背景可见运罐车辆与执勤人员。作者Rajani Gairshail原创实拍，记录西亚冲突期间当地燃气供应紧张的一幕。真实拍摄，CC BY-SA 4.0。",
+   "content_text": "内容总结：2026年4月28日印度锡金邦甘托克实拍（竖屏11.5秒）：居民手持空燃气罐在路边排长队等候领取，背景可见运罐车辆与执勤人员。作者Rajani Gairshail原创实拍，记录西亚冲突期间当地燃气供应紧张的一幕。真实拍摄，CC BY-SA 4.0。\n内容类型：财经/科普\n对应社群：Everyday News and Money Discussion\n许可证：CC BY-SA 4.0（发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by-sa/4.0/）\nReels角度：11秒民生现场：排队领气的长队本身就是“能源价格传导”的最直观画面，配文可谈油气涨价如何影响普通家庭开支。\n热点挂钩：国际油价因中东局势上涨、能源供应吃紧是本周热点；本片是2026年西亚冲突期间居民排队领气的实拍，直观呈现能源紧张传导到民生的一端。\n规格：11.565秒，1080x1920，约24.0MB",
+   "date_published": "2026-10-25T09:16:18+08:00",
+   "tags": [
+    "财经/科普",
+    "Everyday News and Money Discussion",
+    "国际油价因中东局势上涨、能源供应吃紧是本周热点；本片是2026年西亚冲突期间居民排队领气的实拍，直观呈现能源紧张传导到民生的一端。"
+   ],
+   "attachments": [
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Queue_for_gas_cylinders_in_Gangtok_%28Sikkim%29_during_the_2026_West_Asia_conflict.webm",
+     "mime_type": "video/webm",
+     "size_in_bytes": 25179006,
+     "duration_in_seconds": 11.565
+    }
+   ],
+   "_license": "CC BY-SA 4.0",
+   "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by-sa/4.0/",
+   "_version": 1,
+   "_author": "Rajani Gairshail",
+   "_source_url": "https://commons.wikimedia.org/wiki/File:Queue_for_gas_cylinders_in_Gangtok_(Sikkim)_during_the_2026_West_Asia_conflict.webm",
+   "_license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "_master_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Queue_for_gas_cylinders_in_Gangtok_%28Sikkim%29_during_the_2026_West_Asia_conflict.webm",
+   "_footage_type": "真实拍摄",
+   "_event_date": "2026-04-28",
+   "_filmed_date": "2026-04-28",
+   "_original_upload_date": "2026-04-28"
+  },
+  {
+   "id": "a-kicampus-ai-medicine-ethics-20261025",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Ethics_of_AI_in_Digital_Medicine_%E2%80%93_Explanation_why_transparent_explainable_AI_is_important.webm",
+   "title": "为什么医疗AI必须能解释？可解释性科普动画",
+   "summary": "KI-Campus出品的医疗AI伦理科普动画（96.5秒）：以医生与患者场景切入，讲清透明、可解释的AI为何对医疗决策重要，画面含数据流与诊断示意动画。动画，CC BY-SA 4.0，作者为KI-Campus。",
+   "content_text": "内容总结：KI-Campus出品的医疗AI伦理科普动画（96.5秒）：以医生与患者场景切入，讲清透明、可解释的AI为何对医疗决策重要，画面含数据流与诊断示意动画。动画，CC BY-SA 4.0，作者为KI-Campus。\n内容类型：科技/教育\n对应社群：AI Tools and Everyday Uses\n许可证：CC BY-SA 4.0（发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by-sa/4.0/）\nReels角度：“看病用AI，凭什么信它”：取前60秒作Reels，配文可谈医疗AI的可解释性为什么是信任前提。\n热点挂钩：医疗AI加速落地之际，可解释性与透明度成为监管与公众信任的关键议题；本片讲清“为什么医疗AI必须能解释”。\n规格：96.561秒，1920x1080，约27.7MB",
+   "date_published": "2026-10-25T09:16:18+08:00",
+   "tags": [
+    "科技/教育",
+    "AI Tools and Everyday Uses",
+    "医疗AI加速落地之际，可解释性与透明度成为监管与公众信任的关键议题；本片讲清“为什么医疗AI必须能解释”。"
+   ],
+   "attachments": [
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Ethics_of_AI_in_Digital_Medicine_%E2%80%93_Explanation_why_transparent_explainable_AI_is_important.webm",
+     "mime_type": "video/webm",
+     "size_in_bytes": 29066683,
+     "duration_in_seconds": 96.561
+    }
+   ],
+   "_license": "CC BY-SA 4.0",
+   "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by-sa/4.0/",
+   "_version": 1,
+   "_author": "KI-Campus",
+   "_source_url": "https://commons.wikimedia.org/wiki/File:Ethics_of_AI_in_Digital_Medicine_–_Explanation_why_transparent_explainable_AI_is_important.webm",
+   "_license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "_master_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Ethics_of_AI_in_Digital_Medicine_%E2%80%93_Explanation_why_transparent_explainable_AI_is_important.webm",
+   "_footage_type": "动画（医疗AI可解释性科普动画）",
+   "_original_upload_date": "2024-03-09",
+   "_recommended_segment": {
+    "start_seconds": 0,
+    "end_seconds": 60.0
+   }
+  },
+  {
+   "id": "a-chrome-passkeys-20261025",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Understand_passkeys_in_4_minutes.webm",
+   "title": "告别密码：通行密钥4分钟动画科普",
+   "summary": "Chrome for Developers出品的通行密钥科普动画（228秒）：用锁、指纹、钥匙等图形讲清通行密钥如何用设备生物识别替代密码、以及如何在手机与电脑间同步使用。画面为扁平动画，无真人出镜。动画，CC BY 3.0，作者为Chrome for Developers。",
+   "content_text": "内容总结：Chrome for Developers出品的通行密钥科普动画（228秒）：用锁、指纹、钥匙等图形讲清通行密钥如何用设备生物识别替代密码、以及如何在手机与电脑间同步使用。画面为扁平动画，无真人出镜。动画，CC BY 3.0，作者为Chrome for Developers。\n内容类型：科技/安全教育\n对应社群：Digital Safety Explained\n许可证：CC BY 3.0（发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/3.0/）\nReels角度：“以后不用记密码了”：取前60秒作Reels，配文可教观众在常用账号里开启通行密钥，防钓鱼效果比复杂密码更好。\n热点挂钩：钓鱼与账号盗用高发，通行密钥正逐步替代密码；本片讲清通行密钥原理与跨设备使用，适合“告别密码”实用科普。\n规格：228.221秒，1920x1080，约10.4MB",
+   "date_published": "2026-10-25T09:16:18+08:00",
+   "tags": [
+    "科技/安全教育",
+    "Digital Safety Explained",
+    "钓鱼与账号盗用高发，通行密钥正逐步替代密码；本片讲清通行密钥原理与跨设备使用，适合“告别密码”实用科普。"
+   ],
+   "attachments": [
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Understand_passkeys_in_4_minutes.webm",
+     "mime_type": "video/webm",
+     "size_in_bytes": 10925356,
+     "duration_in_seconds": 228.221
+    }
+   ],
+   "_license": "CC BY 3.0",
+   "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/3.0/",
+   "_version": 1,
+   "_author": "Chrome for Developers",
+   "_source_url": "https://commons.wikimedia.org/wiki/File:Understand_passkeys_in_4_minutes.webm",
+   "_license_url": "https://creativecommons.org/licenses/by/3.0/",
+   "_master_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Understand_passkeys_in_4_minutes.webm",
+   "_footage_type": "动画（通行密钥原理科普动画）",
+   "_event_date": "2023-06-23",
+   "_original_upload_date": "2024-02-14",
+   "_recommended_segment": {
+    "start_seconds": 0,
+    "end_seconds": 60.0
+   }
+  },
+  {
+   "id": "a-ibm-pqc-nist-20261025",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Understanding_the_NIST_standards_and_IBM%27s_contributions_to_post-quantum_cryptography.webm",
+   "title": "量子时代怎么保密码安全？NIST后量子标准科普",
+   "summary": "IBM Research出品的后量子密码科普动画（138秒）：讲清量子计算对现有加密的冲击、NIST后量子密码标准的出台与企业迁移思路，画面含NIST标识与办公场景扁平动画。动画，CC BY 3.0，作者为IBM Research。",
+   "content_text": "内容总结：IBM Research出品的后量子密码科普动画（138秒）：讲清量子计算对现有加密的冲击、NIST后量子密码标准的出台与企业迁移思路，画面含NIST标识与办公场景扁平动画。动画，CC BY 3.0，作者为IBM Research。\n内容类型：科技/安全教育\n对应社群：Digital Safety Explained\n许可证：CC BY 3.0（发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/3.0/）\nReels角度：“量子计算机来了，你的密码还安全吗”：取前60秒作Reels，配文可谈后量子加密为什么现在就要准备。\n热点挂钩：量子计算逼近、现有加密面临换代压力是持续议题；本片讲清NIST后量子密码标准与迁移，适合“量子时代如何保密码安全”科普。\n规格：138.05秒，1920x1080，约16.4MB",
+   "date_published": "2026-10-25T09:16:18+08:00",
+   "tags": [
+    "科技/安全教育",
+    "Digital Safety Explained",
+    "量子计算逼近、现有加密面临换代压力是持续议题；本片讲清NIST后量子密码标准与迁移，适合“量子时代如何保密码安全”科普。"
+   ],
+   "attachments": [
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Understanding_the_NIST_standards_and_IBM%27s_contributions_to_post-quantum_cryptography.webm",
+     "mime_type": "video/webm",
+     "size_in_bytes": 17240468,
+     "duration_in_seconds": 138.05
+    }
+   ],
+   "_license": "CC BY 3.0",
+   "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/3.0/",
+   "_version": 1,
+   "_author": "IBM Research",
+   "_source_url": "https://commons.wikimedia.org/wiki/File:Understanding_the_NIST_standards_and_IBM%27s_contributions_to_post-quantum_cryptography.webm",
+   "_license_url": "https://creativecommons.org/licenses/by/3.0/",
+   "_master_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Understanding_the_NIST_standards_and_IBM%27s_contributions_to_post-quantum_cryptography.webm",
+   "_footage_type": "动画（后量子密码科普动画）",
+   "_event_date": "2024-08-13",
+   "_original_upload_date": "2024-08-13",
+   "_recommended_segment": {
+    "start_seconds": 0,
+    "end_seconds": 60.0
+   }
+  },
+  {
+   "id": "a-ibm-homomorphic-20261025",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Homomorphic_Encryption_%28HE%29.webm",
+   "title": "数据不出门也能算：同态加密11秒极简动画",
+   "summary": "IBM Research出品的同态加密极简动画（11.4秒）：紫色加密数据块配文字说明“同态加密让机器学习可以在不接触原文的情况下处理隐私数据”，一句话讲清概念。动画，CC BY 3.0，作者为IBM Research。",
+   "content_text": "内容总结：IBM Research出品的同态加密极简动画（11.4秒）：紫色加密数据块配文字说明“同态加密让机器学习可以在不接触原文的情况下处理隐私数据”，一句话讲清概念。动画，CC BY 3.0，作者为IBM Research。\n内容类型：科技/安全教育\n对应社群：Digital Safety Explained\n许可证：CC BY 3.0（发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/3.0/）\nReels角度：11秒一个概念：直接作Reels钩子，配文可展开“隐私计算入门：数据加密着也能算”。\n热点挂钩：数据隐私与AI训练的数据合规是持续议题；本片用11秒讲清同态加密的核心思想，适合做“隐私计算入门”钩子。\n规格：11.385秒，1280x718，约0.4MB",
+   "date_published": "2026-10-25T09:16:18+08:00",
+   "tags": [
+    "科技/安全教育",
+    "Digital Safety Explained",
+    "数据隐私与AI训练的数据合规是持续议题；本片用11秒讲清同态加密的核心思想，适合做“隐私计算入门”钩子。"
+   ],
+   "attachments": [
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Homomorphic_Encryption_%28HE%29.webm",
+     "mime_type": "video/webm",
+     "size_in_bytes": 457985,
+     "duration_in_seconds": 11.385
+    }
+   ],
+   "_license": "CC BY 3.0",
+   "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/3.0/",
+   "_version": 1,
+   "_author": "IBM Research",
+   "_source_url": "https://commons.wikimedia.org/wiki/File:Homomorphic_Encryption_(HE).webm",
+   "_license_url": "https://creativecommons.org/licenses/by/3.0/",
+   "_master_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Homomorphic_Encryption_%28HE%29.webm",
+   "_footage_type": "动画（同态加密概念动画）",
+   "_original_upload_date": "2024-08-27"
+  },
+  {
+   "id": "a-biogen-generativa-20261025",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Biologia_generativa_lezione.webm",
+   "title": "AI学写DNA：生成式生物学入门课",
+   "summary": "意大利语生成式生物学入门课（406秒，动画幻灯片课）：开场即点题“人工智能如何学会书写DNA”，随后以DNA双螺旋与密码子图解讲清“生命的语言”——从四个碱基字母到蛋白质形态，并以计算机设计的整条基因组（噬菌体）为例讲生成式设计。画面为动画幻灯片，意大利语字幕。真实拍摄以外的动画授课，公有领域，无需署名。",
+   "content_text": "内容总结：意大利语生成式生物学入门课（406秒，动画幻灯片课）：开场即点题“人工智能如何学会书写DNA”，随后以DNA双螺旋与密码子图解讲清“生命的语言”——从四个碱基字母到蛋白质形态，并以计算机设计的整条基因组（噬菌体）为例讲生成式设计。画面为动画幻灯片，意大利语字幕。真实拍摄以外的动画授课，公有领域，无需署名。\n内容类型：科技/教育\n对应社群：AI Tools and Everyday Uses\n许可证：Public domain（无需署名）\nReels角度：“AI会写DNA了”开场即钩子：取前60秒作Reels，配文可谈生成式AI从写文章走向设计基因组。\n热点挂钩：生成式AI从文本图像走向科学设计是持续热点；本片讲清AI如何学会书写DNA，适合“AI设计生命”科普切口。\n规格：406.167秒，1920x1080，约37.1MB",
+   "date_published": "2026-10-25T09:16:18+08:00",
+   "tags": [
+    "科技/教育",
+    "AI Tools and Everyday Uses",
+    "生成式AI从文本图像走向科学设计是持续热点；本片讲清AI如何学会书写DNA，适合“AI设计生命”科普切口。"
+   ],
+   "attachments": [
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Biologia_generativa_lezione.webm",
+     "mime_type": "video/webm",
+     "size_in_bytes": 38852422,
+     "duration_in_seconds": 406.167
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_source_url": "https://commons.wikimedia.org/wiki/File:Biologia_generativa_lezione.webm",
+   "_master_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Biologia_generativa_lezione.webm",
+   "_footage_type": "动画（生成式生物学授课动画）",
+   "_original_upload_date": "2026-10-11",
+   "_recommended_segment": {
+    "start_seconds": 0,
+    "end_seconds": 60.0
+   }
+  },
+  {
+   "id": "a-posta-logistics-20261025",
+   "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/a-posta-logistics-20261025.mp4",
+   "title": "邮政变身智能物流平台：斯洛文尼亚邮政转型发言（60秒自剪）",
+   "summary": "万国邮联研讨会“多元化成功故事”专场中斯洛文尼亚邮政高管的转型发言自剪（60秒720p，母带为2026年5月26日发布的671秒1080p会议录像）：开场讲述邮政从传统运营商向智能物流平台转型的核心问题。画面为会议发言实拍，英文字幕。真实拍摄，CC BY 4.0，作者为Universal Postal Union。",
+   "content_text": "内容总结：万国邮联研讨会“多元化成功故事”专场中斯洛文尼亚邮政高管的转型发言自剪（60秒720p，母带为2026年5月26日发布的671秒1080p会议录像）：开场讲述邮政从传统运营商向智能物流平台转型的核心问题。画面为会议发言实拍，英文字幕。真实拍摄，CC BY 4.0，作者为Universal Postal Union。\n内容类型：科技/教育\n对应社群：AI Tools and Everyday Uses\n许可证：CC BY 4.0（发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/4.0/）\nReels角度：“邮局不止送信”：60秒高管开场白，配文可谈传统行业如何用智能化、数字化转型求生。\n热点挂钩：传统行业智能化转型是持续议题；本片是斯洛文尼亚邮政向智能物流平台转型的官方发言，适合“老行业的新活法”切口。\n规格：60.018秒，1280x720，约8.7MB",
+   "date_published": "2026-10-25T09:16:18+08:00",
+   "tags": [
+    "科技/教育",
+    "AI Tools and Everyday Uses",
+    "传统行业智能化转型是持续议题；本片是斯洛文尼亚邮政向智能物流平台转型的官方发言，适合“老行业的新活法”切口。"
+   ],
+   "attachments": [
+    {
+     "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/a-posta-logistics-20261025.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 9114186,
+     "duration_in_seconds": 60.018
+    }
+   ],
+   "_license": "CC BY 4.0",
+   "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/4.0/",
+   "_version": 1,
+   "_author": "Universal Postal Union",
+   "_source_url": "https://commons.wikimedia.org/wiki/File:Pošta_Slovenije’s_Transformation_—_From_Postal_Operator_to_Intelligent_Logistics_Platform.webm",
+   "_license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "_master_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Po%C5%A1ta_Slovenije%E2%80%99s_Transformation_%E2%80%94_From_Postal_Operator_to_Intelligent_Logistics_Platform.webm",
+   "_footage_type": "真实拍摄（会议发言录像自剪）",
+   "_event_date": "2026-05-26",
+   "_original_upload_date": "2026-10-07",
+   "_recommended_segment": {
+    "start_seconds": 0,
+    "end_seconds": 60.0
+   }
+  },
+  {
+   "id": "b-eso-betelgeuse-companion-zoom-20261025",
+   "url": "https://cdn.eso.org/videos/hd_1080p25_screen/eso2611b.mp4",
+   "title": "参宿四的伴星终于现身：ESO 缩放动画直击红超巨星身边的微弱伴星",
+   "summary": "ESO 2026年7月28日发布（CC BY 4.0，署名 ESO/M. Montargès et al./P. Kervella/Digitized Sky Survey 2 已核验）：缩放动画从巡天图像一路推进到参宿四，画面中心亮星旁逐渐显现一颗微弱伴星，衍射芒与星像细节清晰。全长 39.8 秒，整段交付（官方 1080p 版本，母带为 4K ultra_hd）。混合（实测图像+缩放动画）。",
+   "content_text": "内容总结：ESO 2026年7月28日发布（CC BY 4.0，署名 ESO/M. Montargès et al./P. Kervella/Digitized Sky Survey 2 已核验）：缩放动画从巡天图像一路推进到参宿四，画面中心亮星旁逐渐显现一颗微弱伴星，衍射芒与星像细节清晰。全长 39.8 秒，整段交付（官方 1080p 版本，母带为 4K ultra_hd）。混合（实测图像+缩放动画）。\n内容类型：科技/航天科普\n对应社群：Science Worth Understanding\n许可证：CC BY 4.0（发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/4.0/）\nReels角度：红超巨星不是单身的设问切口：伴星现身如何解释参宿四的亮度变化与自转；配文可谈恒星演化中的双星相互作用。\n热点挂钩：ESO 2026年7月28日发布：参宿四（Betelgeuse）身边那颗长期只存在于理论预言中的伴星，终于被甚大望远镜直接拍到——这是迄今最清晰的伴星影像。猎户座肩膀上那颗红星，原来一直不是独自发光。\n规格：39.829秒，1920x1080，约84.3MB",
+   "date_published": "2026-10-25T09:16:18+08:00",
+   "tags": [
+    "科技/航天科普",
+    "Science Worth Understanding",
+    "ESO 2026年7月28日发布：参宿四（Betelgeuse）身边那颗长期只存在于理论预言中的伴星，终于被甚大望远镜直接拍到——这是迄今最清晰的伴星影像。猎户座肩膀上那颗红星，原来一直不是独自发光。"
+   ],
+   "attachments": [
+    {
+     "url": "https://cdn.eso.org/videos/hd_1080p25_screen/eso2611b.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 88362467,
+     "duration_in_seconds": 39.829
+    }
+   ],
+   "_license": "CC BY 4.0",
+   "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/4.0/",
+   "_version": 1,
+   "_author": "ESO/M. Montargès et al./P. Kervella/Digitized Sky Survey 2",
+   "_source_url": "https://www.eso.org/public/videos/eso2611b/",
+   "_license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "_master_url": "https://cdn.eso.org/videos/ultra_hd/eso2611b.mp4",
+   "_footage_type": "混合（实测图像+缩放动画）",
+   "_event_date": "",
+   "_filmed_date": "",
+   "_original_upload_date": "2026-07-28",
+   "_recommended_segment": {
+    "end_seconds": 39.82,
+    "start_seconds": 0
+   }
+  },
+  {
+   "id": "b-eso-betapic-d-timelapse-20261025",
+   "url": "https://cdn.eso.org/videos/ultra_hd/eso2609b.mp4",
+   "title": "藏了 10 年才被发现的系外行星：绘架座 β d 的轨道延时动画",
+   "summary": "ESO 2026年7月15日发布（CC BY 4.0，署名 ESO/B. Sutlieff, M. Bonse et al. 已核验）：科学可视化延时动画展示绘架座 β d 绕宿主恒星的轨道——先是尘埃盘与行星光点的实测延时，底部时间轴从 2014 年走到 2025 年，随后切入轨道示意图，β Pic d 的轨道与 β Pic b 及太阳系行星轨道并列对照。全长 30.0 秒，整段交付。动画（科学可视化）。",
+   "content_text": "内容总结：ESO 2026年7月15日发布（CC BY 4.0，署名 ESO/B. Sutlieff, M. Bonse et al. 已核验）：科学可视化延时动画展示绘架座 β d 绕宿主恒星的轨道——先是尘埃盘与行星光点的实测延时，底部时间轴从 2014 年走到 2025 年，随后切入轨道示意图，β Pic d 的轨道与 β Pic b 及太阳系行星轨道并列对照。全长 30.0 秒，整段交付。动画（科学可视化）。\n内容类型：科技/航天科普\n对应社群：Science Worth Understanding\n许可证：CC BY 4.0（发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/4.0/）\nReels角度：旧数据挖出新行星的切口：10 年档案如何拼出一颗行星；配文可谈系外行星搜寻中的档案再利用。\n热点挂钩：ESO 2026年7月15日发布：系外行星绘架座 β d 在档案数据里藏了 10 多年，直到把 2014–2025 年的观测拼成延时才现形。旧数据里还藏着多少新行星——这是本条的钩子。\n规格：30.0秒，3840x2160，约36.9MB",
+   "date_published": "2026-10-25T09:16:18+08:00",
+   "tags": [
+    "科技/航天科普",
+    "Science Worth Understanding",
+    "ESO 2026年7月15日发布：系外行星绘架座 β d 在档案数据里藏了 10 多年，直到把 2014–2025 年的观测拼成延时才现形。旧数据里还藏着多少新行星——这是本条的钩子。"
+   ],
+   "attachments": [
+    {
+     "url": "https://cdn.eso.org/videos/ultra_hd/eso2609b.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 38682152,
+     "duration_in_seconds": 30.0
+    }
+   ],
+   "_license": "CC BY 4.0",
+   "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/4.0/",
+   "_version": 1,
+   "_author": "ESO/B. Sutlieff, M. Bonse et al.",
+   "_source_url": "https://www.eso.org/public/videos/eso2609b/",
+   "_license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "_master_url": "https://cdn.eso.org/videos/ultra_hd/eso2609b.mp4",
+   "_footage_type": "动画（科学可视化）",
+   "_event_date": "",
+   "_filmed_date": "",
+   "_original_upload_date": "2026-07-15",
+   "_recommended_segment": {
+    "end_seconds": 30.0,
+    "start_seconds": 0
+   }
+  },
+  {
+   "id": "b-eso-lense-thirring-20261025",
+   "url": "https://cdn.eso.org/videos/ultra_hd/eso2612d.mp4",
+   "title": "旋转的黑洞会拖拽时空：Lense-Thirring 效应可视化动画",
+   "summary": "ESO 2026年8月19日发布（CC BY 4.0，署名 ESO/M. Kornmesser 已核验）：科学可视化动画展示旋转黑洞如何拖拽周围时空网格——蓝色网格在黑洞自转带动下扭曲下陷，三格分屏从不同视角对照同一过程。全长 12.64 秒，整段交付。动画（科学可视化）。",
+   "content_text": "内容总结：ESO 2026年8月19日发布（CC BY 4.0，署名 ESO/M. Kornmesser 已核验）：科学可视化动画展示旋转黑洞如何拖拽周围时空网格——蓝色网格在黑洞自转带动下扭曲下陷，三格分屏从不同视角对照同一过程。全长 12.64 秒，整段交付。动画（科学可视化）。\n内容类型：科技/航天科普\n对应社群：Science Worth Understanding\n许可证：CC BY 4.0（发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/4.0/）\nReels角度：时空会被拖着转的直观切口：用一张网格图讲清广义相对论的拖拽效应；配文可谈黑洞自转的观测证据。\n热点挂钩：ESO 2026年8月19日黑洞系列的效应图解：恒星 S301 的 8 年轨道证明银心黑洞在自转，而自转拖拽时空本身就叫 Lense-Thirring 效应——本条是该效应的直观动画版，与昨日 S301 轨道动画是同一发布的不同独立视频。\n规格：12.64秒，3840x2160，约79.9MB",
+   "date_published": "2026-10-25T09:16:18+08:00",
+   "tags": [
+    "科技/航天科普",
+    "Science Worth Understanding",
+    "ESO 2026年8月19日黑洞系列的效应图解：恒星 S301 的 8 年轨道证明银心黑洞在自转，而自转拖拽时空本身就叫 Lense-Thirring 效应——本条是该效应的直观动画版，与昨日 S301 轨道动画是同一发布的不同独立视频。"
+   ],
+   "attachments": [
+    {
+     "url": "https://cdn.eso.org/videos/ultra_hd/eso2612d.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 83732057,
+     "duration_in_seconds": 12.64
+    }
+   ],
+   "_license": "CC BY 4.0",
+   "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/4.0/",
+   "_version": 1,
+   "_author": "ESO/M. Kornmesser",
+   "_source_url": "https://www.eso.org/public/videos/eso2612d/",
+   "_license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "_master_url": "https://cdn.eso.org/videos/ultra_hd/eso2612d.mp4",
+   "_footage_type": "动画（科学可视化）",
+   "_event_date": "",
+   "_filmed_date": "",
+   "_original_upload_date": "2026-08-19",
+   "_recommended_segment": {
+    "end_seconds": 12.64,
+    "start_seconds": 0
+   }
+  },
+  {
+   "id": "b-drone-turanj-village-20261025",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Turanj_0193_D.webm",
+   "title": "无人机掠过克罗地亚 Turanj：村庄、田野与远山的秋日全景",
+   "summary": "2026年10月15日上传至 Wikimedia Commons（CC BY-SA 4.0，作者 Quahadi，文件页已核验）：无人机 4K 航拍克罗地亚 Turanj 村庄——红顶民居、田野、公路与远山在蓝天白云下平滑展开，画面从村庄近景缓推至全景。全长 58.3 秒，整段交付。真实拍摄（无人机航拍）。",
+   "content_text": "内容总结：2026年10月15日上传至 Wikimedia Commons（CC BY-SA 4.0，作者 Quahadi，文件页已核验）：无人机 4K 航拍克罗地亚 Turanj 村庄——红顶民居、田野、公路与远山在蓝天白云下平滑展开，画面从村庄近景缓推至全景。全长 58.3 秒，整段交付。真实拍摄（无人机航拍）。\n内容类型：科技/无人机\n对应社群：Robotics and Automation Brief\n许可证：CC BY-SA 4.0（发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by-sa/4.0/）\nReels角度：纯视觉流切口：无人机视角下的秋日村庄全景；配文可谈消费级无人机日常创作。\n热点挂钩：2026年10月15日新上传的无人机实拍：克罗地亚 Turanj 村庄上空的秋日全景，红顶民居、田野与远山依次展开。消费级无人机航拍的治愈系日常素材，配本周无人机话题热度。\n规格：58.291秒，3840x2160，约17.4MB",
+   "date_published": "2026-10-25T09:16:18+08:00",
+   "tags": [
+    "科技/无人机",
+    "Robotics and Automation Brief",
+    "2026年10月15日新上传的无人机实拍：克罗地亚 Turanj 村庄上空的秋日全景，红顶民居、田野与远山依次展开。消费级无人机航拍的治愈系日常素材，配本周无人机话题热度。"
+   ],
+   "attachments": [
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Turanj_0193_D.webm",
+     "mime_type": "video/webm",
+     "size_in_bytes": 18244120,
+     "duration_in_seconds": 58.291
+    }
+   ],
+   "_license": "CC BY-SA 4.0",
+   "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by-sa/4.0/",
+   "_version": 1,
+   "_author": "Quahadi",
+   "_source_url": "https://commons.wikimedia.org/wiki/File:Turanj_0193_D.webm",
+   "_license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "_master_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Turanj_0193_D.webm",
+   "_footage_type": "真实拍摄（无人机航拍）",
+   "_event_date": "",
+   "_filmed_date": "",
+   "_original_upload_date": "2026-10-15",
+   "_recommended_segment": {
+    "end_seconds": 58.29,
+    "start_seconds": 0
+   }
+  },
+  {
+   "id": "b-drone-sajevac-turanj-surroundings-20261025",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Sajevac%2C_Turanj_and_surroundings_0223_D.webm",
+   "title": "Sajevac 与 Turanj 周边：无人机视角下的克罗地亚乡村全景",
+   "summary": "2026年10月11日上传至 Wikimedia Commons（CC BY-SA 4.0，作者 Quahadi，文件页已核验）：无人机 4K 航拍克罗地亚 Sajevac 与 Turanj 周边乡村——连片民居、田野、公路与远山在晴空下展开，画面平稳滑翔。全长 36.1 秒，整段交付。真实拍摄（无人机航拍）。",
+   "content_text": "内容总结：2026年10月11日上传至 Wikimedia Commons（CC BY-SA 4.0，作者 Quahadi，文件页已核验）：无人机 4K 航拍克罗地亚 Sajevac 与 Turanj 周边乡村——连片民居、田野、公路与远山在晴空下展开，画面平稳滑翔。全长 36.1 秒，整段交付。真实拍摄（无人机航拍）。\n内容类型：科技/无人机\n对应社群：Robotics and Automation Brief\n许可证：CC BY-SA 4.0（发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by-sa/4.0/）\nReels角度：乡村全景治愈流：无人机滑翔视角下的田野与民居；配文可谈无人机航拍构图。\n热点挂钩：2026年10月11日新上传的无人机实拍：与昨日 Sajevac 黄昏航拍、今日 Turanj 航拍同属 Quahadi 的 D 系列，但为另一架次（0223）的独立 footage——Sajevac 与 Turanj 周边的乡村全景。无人机垂类的治愈系日常素材。\n规格：36.136秒，3840x2160，约13.3MB",
+   "date_published": "2026-10-25T09:16:18+08:00",
+   "tags": [
+    "科技/无人机",
+    "Robotics and Automation Brief",
+    "2026年10月11日新上传的无人机实拍：与昨日 Sajevac 黄昏航拍、今日 Turanj 航拍同属 Quahadi 的 D 系列，但为另一架次（0223）的独立 footage——Sajevac 与 Turanj 周边的乡村全景。无人机垂类的治愈系日常素材。"
+   ],
+   "attachments": [
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Sajevac%2C_Turanj_and_surroundings_0223_D.webm",
+     "mime_type": "video/webm",
+     "size_in_bytes": 13982305,
+     "duration_in_seconds": 36.136
+    }
+   ],
+   "_license": "CC BY-SA 4.0",
+   "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by-sa/4.0/",
+   "_version": 1,
+   "_author": "Quahadi",
+   "_source_url": "https://commons.wikimedia.org/wiki/File:Sajevac,_Turanj_and_surroundings_0223_D.webm",
+   "_license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "_master_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Sajevac%2C_Turanj_and_surroundings_0223_D.webm",
+   "_footage_type": "真实拍摄（无人机航拍）",
+   "_event_date": "",
+   "_filmed_date": "",
+   "_original_upload_date": "2026-10-11",
+   "_recommended_segment": {
+    "end_seconds": 36.13,
+    "start_seconds": 0
+   }
+  },
+  {
+   "id": "b-drone-fazlagica-kula-20261025",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Aerial_video_of_Fazlagi%C4%87a_Kula_near_Gacko_-_Bosnia_and_Herzegovina_%282026%29-bs.webm",
+   "title": "无人机跟拍山路汽车：波黑 Fazlagića Kula 附近的喀斯特山地航拍",
+   "summary": "2026年9月19日上传至 Wikimedia Commons（CC BY-SA 4.0，作者 Nedim Jugo，文件页已核验，描述明确为 aerial drone footage）：无人机航拍波黑 Gacko 附近 Fazlagića Kula 地区——干燥山地、碎石路与行驶中的汽车，画面从高空跟拍至贴近路面的跟车镜头。全长 181.9 秒，精华窗口为前 60 秒；文件 123.1 MiB，未超 128 MiB 门槛，直接交付。真实拍摄（无人机航拍）。",
+   "content_text": "内容总结：2026年9月19日上传至 Wikimedia Commons（CC BY-SA 4.0，作者 Nedim Jugo，文件页已核验，描述明确为 aerial drone footage）：无人机航拍波黑 Gacko 附近 Fazlagića Kula 地区——干燥山地、碎石路与行驶中的汽车，画面从高空跟拍至贴近路面的跟车镜头。全长 181.9 秒，精华窗口为前 60 秒；文件 123.1 MiB，未超 128 MiB 门槛，直接交付。真实拍摄（无人机航拍）。\n内容类型：科技/无人机\n对应社群：Robotics and Automation Brief\n许可证：CC BY-SA 4.0（发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by-sa/4.0/）\nReels角度：无人机跟拍切口：山地公路上的跟车镜头如何拍；配文可谈无人机运动镜头与喀斯特地貌。\n热点挂钩：2026年9月19日上传的无人机实拍：波黑 Gacko 附近 Fazlagića Kula 地区的山地公路与喀斯特地貌，无人机跟拍行驶中的汽车。文件页明确标注为 aerial drone footage，区别于飞机窗口拍摄的航拍素材。\n规格：181.9秒，640x360，约123.1MB",
+   "date_published": "2026-10-25T09:16:18+08:00",
+   "tags": [
+    "科技/无人机",
+    "Robotics and Automation Brief",
+    "2026年9月19日上传的无人机实拍：波黑 Gacko 附近 Fazlagića Kula 地区的山地公路与喀斯特地貌，无人机跟拍行驶中的汽车。文件页明确标注为 aerial drone footage，区别于飞机窗口拍摄的航拍素材。"
+   ],
+   "attachments": [
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Aerial_video_of_Fazlagi%C4%87a_Kula_near_Gacko_-_Bosnia_and_Herzegovina_%282026%29-bs.webm",
+     "mime_type": "video/webm",
+     "size_in_bytes": 129116231,
+     "duration_in_seconds": 181.9
+    }
+   ],
+   "_license": "CC BY-SA 4.0",
+   "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by-sa/4.0/",
+   "_version": 1,
+   "_author": "Nedim Jugo",
+   "_source_url": "https://commons.wikimedia.org/wiki/File:Aerial_video_of_Fazlagića_Kula_near_Gacko_-_Bosnia_and_Herzegovina_(2026)-bs.webm",
+   "_license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "_master_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Aerial_video_of_Fazlagi%C4%87a_Kula_near_Gacko_-_Bosnia_and_Herzegovina_%282026%29-bs.webm",
+   "_footage_type": "真实拍摄（无人机航拍）",
+   "_event_date": "",
+   "_filmed_date": "",
+   "_original_upload_date": "2026-09-19",
+   "_recommended_segment": {
+    "end_seconds": 60.0,
+    "start_seconds": 0
+   }
+  },
+  {
+   "id": "c-ramstein-esports-20261025",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Ramstein_hosts_2025_Allied_Forces_Esports_Invitational_%281080p_w-graphics%29_%28971188%29.webm",
+   "title": "拉姆施泰因2025盟军电竞邀请赛：选手现场实拍",
+   "summary": "2025年7月20日赛事（2026-07-09上传，公有领域）：德国拉姆施泰因空军基地举办2025盟军电竞邀请赛，多国军人选手在电竞椅前对战，含赛场全景、选手特写与颁奖画面。AFN Kaiserslautern实拍，游戏画面仅为背景，主体为选手与现场。60秒。真实拍摄。",
+   "content_text": "内容总结：2025年7月20日赛事（2026-07-09上传，公有领域）：德国拉姆施泰因空军基地举办2025盟军电竞邀请赛，多国军人选手在电竞椅前对战，含赛场全景、选手特写与颁奖画面。AFN Kaiserslautern实拍，游戏画面仅为背景，主体为选手与现场。60秒。真实拍摄。\n内容类型：游戏/生活方式\n对应社群：Next Game Brief\n许可证：Public domain（无需署名）\nReels角度：军营里的电竞邀请赛：多国军装与电竞椅同框的反差感；配文可谈游戏作为跨国军人社群纽带。\n热点挂钩：PEAK主机版10月22日发售、跨平台联机成话题；盟军电竞邀请赛呈现线下电竞的另一面——为士气与联结而办赛，呼应“游戏即社交”。\n规格：60.026秒，1920x1080，约16.1MB",
+   "date_published": "2026-10-25T09:16:18+08:00",
+   "tags": [
+    "游戏/生活方式",
+    "Next Game Brief",
+    "PEAK主机版10月22日发售、跨平台联机成话题；盟军电竞邀请赛呈现线下电竞的另一面——为士气与联结而办赛，呼应“游戏即社交”。"
+   ],
+   "attachments": [
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Ramstein_hosts_2025_Allied_Forces_Esports_Invitational_%281080p_w-graphics%29_%28971188%29.webm",
+     "mime_type": "video/webm",
+     "size_in_bytes": 16922704,
+     "duration_in_seconds": 60.026
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_source_url": "https://commons.wikimedia.org/wiki/File:Ramstein_hosts_2025_Allied_Forces_Esports_Invitational_(1080p_w-graphics)_(971188).webm",
+   "_master_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Ramstein_hosts_2025_Allied_Forces_Esports_Invitational_%281080p_w-graphics%29_%28971188%29.webm",
+   "_footage_type": "真实拍摄",
+   "_event_date": "2025-07-20",
+   "_filmed_date": "2025-07-20",
+   "_original_upload_date": "2026-07-09",
+   "_recommended_segment": {
+    "start_seconds": 0,
+    "end_seconds": 60.0
+   }
+  },
+  {
+   "id": "c-gamejam-wiki-20261025",
+   "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/c-gamejam-wiki-20261025.mp4",
+   "title": "Wikimania 2026游戏工作坊：用维基百科做游戏（60秒精华）",
+   "summary": "2026年7月22日讲座（2026-08-16上传，CC BY-SA 4.0，作者Azeusss, E_mln_e）：Wikimania 2026“Start your own Wiki Game Jam”工作坊，讲者演示WikiAsteroids等由维基实时编辑驱动的小游戏，并讲解API如何变成猜谜、对战等玩法。本条为自剪60秒720p精华（WikiAsteroids演示段落，母带51分钟），母带为Commons原文件。真实拍摄。",
+   "content_text": "内容总结：2026年7月22日讲座（2026-08-16上传，CC BY-SA 4.0，作者Azeusss, E_mln_e）：Wikimania 2026“Start your own Wiki Game Jam”工作坊，讲者演示WikiAsteroids等由维基实时编辑驱动的小游戏，并讲解API如何变成猜谜、对战等玩法。本条为自剪60秒720p精华（WikiAsteroids演示段落，母带51分钟），母带为Commons原文件。真实拍摄。\n内容类型：游戏/生活方式\n对应社群：Next Game Brief\n许可证：CC BY-SA 4.0（发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by-sa/4.0/）\nReels角度：维基百科也能打游戏：实时编辑变成小行星射击；配文可谈“人人能做游戏”，零门槛创意比大作更亲民。\n热点挂钩：PEAK主机版10月22日上线引爆合作游戏讨论；与此同时，Wiki Game Jam呈现游戏制作的另一端——普通人用开放数据就能动手做游戏。\n规格：60.0秒，1280x720，约2.7MB",
+   "date_published": "2026-10-25T09:16:18+08:00",
+   "tags": [
+    "游戏/生活方式",
+    "Next Game Brief",
+    "PEAK主机版10月22日上线引爆合作游戏讨论；与此同时，Wiki Game Jam呈现游戏制作的另一端——普通人用开放数据就能动手做游戏。"
+   ],
+   "attachments": [
+    {
+     "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/c-gamejam-wiki-20261025.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 2815756,
+     "duration_in_seconds": 60.0
+    }
+   ],
+   "_license": "CC BY-SA 4.0",
+   "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by-sa/4.0/",
+   "_version": 1,
+   "_author": "Azeusss, E_mln_e",
+   "_source_url": "https://commons.wikimedia.org/wiki/File:Wikimania_2026_–_Start_your_own_Wiki_Game_Jam.webm",
+   "_license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "_master_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Wikimania_2026_%E2%80%93_Start_your_own_Wiki_Game_Jam.webm",
+   "_footage_type": "真实拍摄",
+   "_event_date": "2026-07-22",
+   "_filmed_date": "2026-07-22",
+   "_original_upload_date": "2026-08-16",
+   "_recommended_segment": {
+    "start_seconds": 0,
+    "end_seconds": 60.0
+   }
+  },
+  {
+   "id": "c-lost-universe-20261025",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/The_Lost_Universe_NASA_video.webm",
+   "title": "NASA首款桌游《失落的宇宙》：微缩模型里的太空冒险",
+   "summary": "2024年3月1日发布（2024-12-12上传，公有领域）：NASA宣传短片介绍其首款桌面角色扮演游戏《The Lost Universe》，微缩模型棋子在城堡布景中对峙，穿插地球航天影像与游戏标语。90秒完整版，推荐55秒精华[5,55]（模型对峙与地球画面段落，避开尾部黑场）。混合影像。",
+   "content_text": "内容总结：2024年3月1日发布（2024-12-12上传，公有领域）：NASA宣传短片介绍其首款桌面角色扮演游戏《The Lost Universe》，微缩模型棋子在城堡布景中对峙，穿插地球航天影像与游戏标语。90秒完整版，推荐55秒精华[5,55]（模型对峙与地球画面段落，避开尾部黑场）。混合影像。\n内容类型：游戏/生活方式\n对应社群：Next Game Brief\n许可证：Public domain（无需署名）\nReels角度：NASA也出桌游：航天局用角色扮演讲科学；配文可谈“玩着学科普”，桌游是科普的另一种载体。\n热点挂钩：PEAK主机版10月22日发售，跨平台联机成话题；NASA桌游呈现不插电游戏的另一面——线下围坐、动手演绎，同样是合作游戏。\n规格：90.034秒，1920x1080，约63.3MB",
+   "date_published": "2026-10-25T09:16:18+08:00",
+   "tags": [
+    "游戏/生活方式",
+    "Next Game Brief",
+    "PEAK主机版10月22日发售，跨平台联机成话题；NASA桌游呈现不插电游戏的另一面——线下围坐、动手演绎，同样是合作游戏。"
+   ],
+   "attachments": [
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/The_Lost_Universe_NASA_video.webm",
+     "mime_type": "video/webm",
+     "size_in_bytes": 66335846,
+     "duration_in_seconds": 90.034
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_source_url": "https://commons.wikimedia.org/wiki/File:The_Lost_Universe_NASA_video.webm",
+   "_master_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/The_Lost_Universe_NASA_video.webm",
+   "_footage_type": "混合（桌游微缩模型实拍+地球航天影像）",
+   "_event_date": "2024-03-01",
+   "_filmed_date": "2024-03-01",
+   "_original_upload_date": "2024-12-12",
+   "_recommended_segment": {
+    "start_seconds": 5,
+    "end_seconds": 55
+   }
+  },
+  {
+   "id": "c-ants-grasshopper-20261025",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/The_Ants_And_The_Grasshopper_%281921%29.webm",
+   "title": "1921年《蚂蚁与蚱蜢》：保罗·特里早期动画寓言",
+   "summary": "1921年7月10日上映（2026-10-20上传，公有领域）：保罗·特里（Paul Terry）早期动画短片，改编“蚂蚁与蚱蜢”寓言：蚂蚁夏日储粮、蚱蜢闲荡，入冬后蚱蜢向蚂蚁乞食。368秒完整版，推荐60秒精华[230,290]（蚱蜢闲荡与乞食段落）。历史影像。",
+   "content_text": "内容总结：1921年7月10日上映（2026-10-20上传，公有领域）：保罗·特里（Paul Terry）早期动画短片，改编“蚂蚁与蚱蜢”寓言：蚂蚁夏日储粮、蚱蜢闲荡，入冬后蚱蜢向蚂蚁乞食。368秒完整版，推荐60秒精华[230,290]（蚱蜢闲荡与乞食段落）。历史影像。\n内容类型：影视/文化\n对应社群：Screen Stories Brief\n许可证：Public domain（无需署名）\nReels角度：百年前的“打工人寓言”：夏天存粮的蚂蚁vs躺平的蚱蜢；配文可谈经典寓言为何今天仍被翻拍。\n热点挂钩：AI生成影像泛滥的2026年，百年前的手绘动画在公共领域平台持续上新；回看逐帧手绘的起点，手工感本身就是话题。\n规格：367.866秒，1000x720，约57.1MB",
+   "date_published": "2026-10-25T09:16:18+08:00",
+   "tags": [
+    "影视/文化",
+    "Screen Stories Brief",
+    "AI生成影像泛滥的2026年，百年前的手绘动画在公共领域平台持续上新；回看逐帧手绘的起点，手工感本身就是话题。"
+   ],
+   "attachments": [
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/The_Ants_And_The_Grasshopper_%281921%29.webm",
+     "mime_type": "video/webm",
+     "size_in_bytes": 59849202,
+     "duration_in_seconds": 367.866
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_source_url": "https://commons.wikimedia.org/wiki/File:The_Ants_And_The_Grasshopper_(1921).webm",
+   "_master_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/The_Ants_And_The_Grasshopper_%281921%29.webm",
+   "_footage_type": "历史影像",
+   "_event_date": "1921-07-10",
+   "_filmed_date": "1921-07-10",
+   "_original_upload_date": "2026-10-20",
+   "_recommended_segment": {
+    "start_seconds": 230,
+    "end_seconds": 290
+   }
+  },
+  {
+   "id": "c-kats-1920-20261025",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Kats_Is_Kats_%281920%29.webm",
+   "title": "1920年《Kats Is Kats》：猫咪卡通的追逐喜剧",
+   "summary": "1920年6月4日上映（2026-10-05上传，公有领域）：弗农·斯托林斯（Vernon Stallings）早期默片动画，猫咪追逐老鼠的打闹喜剧，黑白手绘线条风格。44秒完整版。历史影像。",
+   "content_text": "内容总结：1920年6月4日上映（2026-10-05上传，公有领域）：弗农·斯托林斯（Vernon Stallings）早期默片动画，猫咪追逐老鼠的打闹喜剧，黑白手绘线条风格。44秒完整版。历史影像。\n内容类型：影视/文化\n对应社群：Screen Stories Brief\n许可证：Public domain（无需署名）\nReels角度：1920年的猫鼠追逐：线条幽默的源头之一；配文可谈动画喜剧的源头，猫鼠追逐梗的百年历史。\n热点挂钩：AI生成影像泛滥的2026年，百年前的手绘动画在公共领域平台持续上新；1920年的猫咪卡通，默片动画的源头话题常青。\n规格：44.44秒，1440x1080，约16.8MB",
+   "date_published": "2026-10-25T09:16:18+08:00",
+   "tags": [
+    "影视/文化",
+    "Screen Stories Brief",
+    "AI生成影像泛滥的2026年，百年前的手绘动画在公共领域平台持续上新；1920年的猫咪卡通，默片动画的源头话题常青。"
+   ],
+   "attachments": [
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Kats_Is_Kats_%281920%29.webm",
+     "mime_type": "video/webm",
+     "size_in_bytes": 17668020,
+     "duration_in_seconds": 44.44
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_source_url": "https://commons.wikimedia.org/wiki/File:Kats_Is_Kats_(1920).webm",
+   "_master_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Kats_Is_Kats_%281920%29.webm",
+   "_footage_type": "历史影像",
+   "_event_date": "1920-06-04",
+   "_filmed_date": "1920-06-04",
+   "_original_upload_date": "2026-10-05"
+  },
+  {
+   "id": "c-sleepy-holler-20261025",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Sleepy_Holler_%281929%29.webm",
+   "title": "1929年《Sleepy Holler》：曼尼·古尔德的默片卡通",
+   "summary": "1929年7月20日上映（2026-10-06上传，公有领域）：曼尼·古尔德（Manny Gould）执导的默片动画短片，角色夸张打闹的 slapstick 喜剧，黑白手绘风格。19秒完整版。历史影像。",
+   "content_text": "内容总结：1929年7月20日上映（2026-10-06上传，公有领域）：曼尼·古尔德（Manny Gould）执导的默片动画短片，角色夸张打闹的 slapstick 喜剧，黑白手绘风格。19秒完整版。历史影像。\n内容类型：影视/文化\n对应社群：Screen Stories Brief\n许可证：Public domain（无需署名）\nReels角度：19秒的百年笑点：1929年的打闹喜剧不用一句台词；配文可谈默片幽默的跨时代——动作本身就是语言。\n热点挂钩：AI生成影像泛滥的2026年，百年前的手绘动画在公共领域平台持续上新；有声片前夜的默片卡通，恰是电影史转折点的见证。\n规格：18.72秒，1156x720，约9.5MB",
+   "date_published": "2026-10-25T09:16:18+08:00",
+   "tags": [
+    "影视/文化",
+    "Screen Stories Brief",
+    "AI生成影像泛滥的2026年，百年前的手绘动画在公共领域平台持续上新；有声片前夜的默片卡通，恰是电影史转折点的见证。"
+   ],
+   "attachments": [
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Sleepy_Holler_%281929%29.webm",
+     "mime_type": "video/webm",
+     "size_in_bytes": 9921259,
+     "duration_in_seconds": 18.72
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_source_url": "https://commons.wikimedia.org/wiki/File:Sleepy_Holler_(1929).webm",
+   "_master_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Sleepy_Holler_%281929%29.webm",
+   "_footage_type": "历史影像",
+   "_event_date": "1929-07-20",
+   "_filmed_date": "1929-07-20",
+   "_original_upload_date": "2026-10-06"
+  },
+  {
+   "id": "c-cfas-softball-20261025",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/CFAS_Memorial_Day_Softball_Tournament_%281008556%29.webm",
+   "title": "佐世保基地纪念日垒球赛：军民同场实拍",
+   "summary": "2026年5月23日赛事（2026-07-17上传，公有领域）：日本佐世保海军基地CFAS纪念日垒球锦标赛，军人选手跑垒、击球，赛场标有SASEBO字样。美国海军Seaman Kylie Miller实拍。30秒。真实拍摄。",
+   "content_text": "内容总结：2026年5月23日赛事（2026-07-17上传，公有领域）：日本佐世保海军基地CFAS纪念日垒球锦标赛，军人选手跑垒、击球，赛场标有SASEBO字样。美国海军Seaman Kylie Miller实拍。30秒。真实拍摄。\n内容类型：体育/历史\n对应社群：Beyond the Score Brief\n许可证：Public domain（无需署名）\nReels角度：基地里的周末联赛：垒球的慢节奏与社区感；配文可谈业余体育的社交属性，胜负之外是邻里。\n热点挂钩：10月下旬秋季户外季；美军基地纪念日垒球赛呈现业余体育的社区一面，呼应“超越比分”的社群定位。\n规格：29.996秒，1920x1080，约23.6MB",
+   "date_published": "2026-10-25T09:16:18+08:00",
+   "tags": [
+    "体育/历史",
+    "Beyond the Score Brief",
+    "10月下旬秋季户外季；美军基地纪念日垒球赛呈现业余体育的社区一面，呼应“超越比分”的社群定位。"
+   ],
+   "attachments": [
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/CFAS_Memorial_Day_Softball_Tournament_%281008556%29.webm",
+     "mime_type": "video/webm",
+     "size_in_bytes": 24767076,
+     "duration_in_seconds": 29.996
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_source_url": "https://commons.wikimedia.org/wiki/File:CFAS_Memorial_Day_Softball_Tournament_(1008556).webm",
+   "_master_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/CFAS_Memorial_Day_Softball_Tournament_%281008556%29.webm",
+   "_footage_type": "真实拍摄",
+   "_event_date": "2026-05-23",
+   "_filmed_date": "2026-05-23",
+   "_original_upload_date": "2026-07-17"
+  },
+  {
+   "id": "c-mcm-expo-20261025",
+   "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/c-mcm-expo-20261025.mp4",
+   "title": "第51届海军陆战队马拉松博览会：领物与展厅实拍（60秒精华）",
+   "summary": "2026年10月23日拍摄（DVIDS 2026-10-24发布，视频页Public Domain徽章已核验）：第51届海军陆战队马拉松（MCM）开幕周，健康与健身博览会现场：选手领物、展位与合影，含军乐队与仪仗开场。本条为自剪60秒720p精华（博览会展厅段落，母带152秒185MB），母带为DVIDS官方1080p版本。真实拍摄。",
+   "content_text": "内容总结：2026年10月23日拍摄（DVIDS 2026-10-24发布，视频页Public Domain徽章已核验）：第51届海军陆战队马拉松（MCM）开幕周，健康与健身博览会现场：选手领物、展位与合影，含军乐队与仪仗开场。本条为自剪60秒720p精华（博览会展厅段落，母带152秒185MB），母带为DVIDS官方1080p版本。真实拍摄。\n内容类型：体育/历史\n对应社群：Beyond the Score Brief\n许可证：Public domain（无需署名）\nReels角度：马拉松开跑前夜：博览会就是跑者的嘉年华；配文可谈大众马拉松的仪式感，领物、合影、逛展一样是比赛的一部分。\n热点挂钩：海军陆战队马拉松周末临近，10月23-24日博览会先行；大众耐力赛季正当时，跑者嘉年华的现场感比成绩更有传播力。\n规格：60.018292秒，1280x720，约29.2MB",
+   "date_published": "2026-10-25T09:16:18+08:00",
+   "tags": [
+    "体育/历史",
+    "Beyond the Score Brief",
+    "海军陆战队马拉松周末临近，10月23-24日博览会先行；大众耐力赛季正当时，跑者嘉年华的现场感比成绩更有传播力。"
+   ],
+   "attachments": [
+    {
+     "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/c-mcm-expo-20261025.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 30635920,
+     "duration_in_seconds": 60.018292
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_source_url": "https://www.dvidshub.net/video/1027365/51st-mcm-kicks-off-with-health-fitness-expo",
+   "_master_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112093860/DOD_112093860.mp4",
+   "_footage_type": "真实拍摄",
+   "_event_date": "2026-10-23",
+   "_filmed_date": "2026-10-23",
+   "_original_upload_date": "2026-10-24",
+   "_recommended_segment": {
+    "start_seconds": 0,
+    "end_seconds": 60.0
+   }
+  },
+  {
+   "id": "c-kite-viganj-20261025",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Kite_surfing_at_Viganj_163559_1.webm",
+   "title": "维加尼风筝冲浪：克罗地亚海湾的25秒乘风",
+   "summary": "2026年9月27日拍摄（2026-10-11上传，CC BY-SA 4.0，作者Quahadi）：克罗地亚维加尼海湾，风筝冲浪者在海面乘风滑行，风筝高悬、尾迹翻白，远山与海湾入画。25秒4K实拍。真实拍摄。",
+   "content_text": "内容总结：2026年9月27日拍摄（2026-10-11上传，CC BY-SA 4.0，作者Quahadi）：克罗地亚维加尼海湾，风筝冲浪者在海面乘风滑行，风筝高悬、尾迹翻白，远山与海湾入画。25秒4K实拍。真实拍摄。\n内容类型：体育/历史\n对应社群：Beyond the Score Brief\n许可证：CC BY-SA 4.0（发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by-sa/4.0/）\nReels角度：风就是赛道：风筝冲浪的自由感；配文可谈小众水上运动的门槛与乐趣，秋季海湾仍是旺季。\n热点挂钩：10月下旬秋季户外季；亚得里亚海湾的风筝冲浪呈现小众运动的另一面，大众体育不止于跑步与球类。\n规格：25.0秒，3840x2160，约21.1MB",
+   "date_published": "2026-10-25T09:16:18+08:00",
+   "tags": [
+    "体育/历史",
+    "Beyond the Score Brief",
+    "10月下旬秋季户外季；亚得里亚海湾的风筝冲浪呈现小众运动的另一面，大众体育不止于跑步与球类。"
+   ],
+   "attachments": [
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Kite_surfing_at_Viganj_163559_1.webm",
+     "mime_type": "video/webm",
+     "size_in_bytes": 22148743,
+     "duration_in_seconds": 25.0
+    }
+   ],
+   "_license": "CC BY-SA 4.0",
+   "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by-sa/4.0/",
+   "_version": 1,
+   "_author": "Quahadi",
+   "_source_url": "https://commons.wikimedia.org/wiki/File:Kite_surfing_at_Viganj_163559_1.webm",
+   "_license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "_master_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Kite_surfing_at_Viganj_163559_1.webm",
+   "_footage_type": "真实拍摄",
+   "_event_date": "2026-09-27",
+   "_filmed_date": "2026-09-27",
+   "_original_upload_date": "2026-10-11"
+  },
+  {
+   "id": "c-pattu-kullu-20261025",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Pattu_weaving_in_Kullu_district%2C_Himachal_Pradesh.webm",
+   "title": "库鲁帕图织布：喜马拉雅山麓的竖屏织机特写",
+   "summary": "2026年10月24日拍摄（2026-10-24上传，CC BY-SA 4.0，作者Rajani Gairshail）：印度喜马偕尔邦库鲁地区，织工在织机上织造帕图（Pattu）传统织物，手部特写呈现彩线交织与织纹成形。29秒竖屏实拍。真实拍摄。",
+   "content_text": "内容总结：2026年10月24日拍摄（2026-10-24上传，CC BY-SA 4.0，作者Rajani Gairshail）：印度喜马偕尔邦库鲁地区，织工在织机上织造帕图（Pattu）传统织物，手部特写呈现彩线交织与织纹成形。29秒竖屏实拍。真实拍摄。\n内容类型：文化/艺术\n对应社群：Design Worth Noticing\n许可证：CC BY-SA 4.0（发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by-sa/4.0/）\nReels角度：29秒的治愈：彩线在指尖成布；配文可谈慢工艺vs快消费，喜马拉雅山麓的手工美学。\n热点挂钩：快时尚反思潮中，手织布的可持续价值被重估；当日新拍的织布影像，手工vs工业议题常青。\n规格：29.16秒，1080x1920，约37.1MB",
+   "date_published": "2026-10-25T09:16:18+08:00",
+   "tags": [
+    "文化/艺术",
+    "Design Worth Noticing",
+    "快时尚反思潮中，手织布的可持续价值被重估；当日新拍的织布影像，手工vs工业议题常青。"
+   ],
+   "attachments": [
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Pattu_weaving_in_Kullu_district%2C_Himachal_Pradesh.webm",
+     "mime_type": "video/webm",
+     "size_in_bytes": 38921699,
+     "duration_in_seconds": 29.16
+    }
+   ],
+   "_license": "CC BY-SA 4.0",
+   "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by-sa/4.0/",
+   "_version": 1,
+   "_author": "Rajani Gairshail",
+   "_source_url": "https://commons.wikimedia.org/wiki/File:Pattu_weaving_in_Kullu_district,_Himachal_Pradesh.webm",
+   "_license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "_master_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Pattu_weaving_in_Kullu_district%2C_Himachal_Pradesh.webm",
+   "_footage_type": "真实拍摄",
+   "_event_date": "2026-10-24",
+   "_filmed_date": "2026-10-24",
+   "_original_upload_date": "2026-10-24"
+  },
+  {
+   "id": "c-vitebsk-weaving-20261025",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Weaving_of_Vitebsk_Region._February_2026_AgAD4rMAAj-0MUg.webm",
+   "title": "维捷布斯克织布：小织机前的传统纹样演示",
+   "summary": "2026年2月拍摄（2026-08-19上传，CC BY 4.0，作者Rabbi Mendl）：白俄罗斯维捷布斯克地区传统织布演示，织工在小型木织机上操作，红白纹样逐渐成形，孩童在旁观看。49秒。真实拍摄。",
+   "content_text": "内容总结：2026年2月拍摄（2026-08-19上传，CC BY 4.0，作者Rabbi Mendl）：白俄罗斯维捷布斯克地区传统织布演示，织工在小型木织机上操作，红白纹样逐渐成形，孩童在旁观看。49秒。真实拍摄。\n内容类型：文化/艺术\n对应社群：Design Worth Noticing\n许可证：CC BY 4.0（发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/4.0/）\nReels角度：织机也是课堂：孩子看着纹样长出来；配文可谈手艺传承，记录即保护。\n热点挂钩：快时尚反思潮中，手织布的可持续价值被重估；东欧传统织纹的演示，手工vs工业议题常青。\n规格：48.604秒，1280x1280，约16.4MB",
+   "date_published": "2026-10-25T09:16:18+08:00",
+   "tags": [
+    "文化/艺术",
+    "Design Worth Noticing",
+    "快时尚反思潮中，手织布的可持续价值被重估；东欧传统织纹的演示，手工vs工业议题常青。"
+   ],
+   "attachments": [
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Weaving_of_Vitebsk_Region._February_2026_AgAD4rMAAj-0MUg.webm",
+     "mime_type": "video/webm",
+     "size_in_bytes": 17148628,
+     "duration_in_seconds": 48.604
+    }
+   ],
+   "_license": "CC BY 4.0",
+   "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/4.0/",
+   "_version": 1,
+   "_author": "Rabbi Mendl",
+   "_source_url": "https://commons.wikimedia.org/wiki/File:Weaving_of_Vitebsk_Region._February_2026_AgAD4rMAAj-0MUg.webm",
+   "_license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "_master_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Weaving_of_Vitebsk_Region._February_2026_AgAD4rMAAj-0MUg.webm",
+   "_footage_type": "真实拍摄",
+   "_event_date": "2026",
+   "_filmed_date": "2026",
+   "_original_upload_date": "2026-08-19"
+  },
+  {
+   "id": "c-wood-sculpting-20261025",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Wood_Sculpting.webm",
+   "title": "木雕手艺：户外作坊里的椅腿雕刻",
+   "summary": "2024年4月26日拍摄（2024-04-30上传，CC BY-SA 4.0，作者Alvin Ategyeka）：户外作坊中，木匠手工雕刻木椅椅腿，刨花与木纹特写，竖屏呈现劳作全程。33秒。真实拍摄。",
+   "content_text": "内容总结：2024年4月26日拍摄（2024-04-30上传，CC BY-SA 4.0，作者Alvin Ategyeka）：户外作坊中，木匠手工雕刻木椅椅腿，刨花与木纹特写，竖屏呈现劳作全程。33秒。真实拍摄。\n内容类型：文化/艺术\n对应社群：Design Worth Noticing\n许可证：CC BY-SA 4.0（发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by-sa/4.0/）\nReels角度：木头在掌心成形：雕刻的ASMR感；配文可谈手工家具的温度，慢工对抗流水线。\n热点挂钩：快时尚反思潮中，手工制品的可持续价值被重估；木雕手艺的日常记录，手工vs工业议题常青。\n规格：33.206秒，720x1170，约41.2MB",
+   "date_published": "2026-10-25T09:16:18+08:00",
+   "tags": [
+    "文化/艺术",
+    "Design Worth Noticing",
+    "快时尚反思潮中，手工制品的可持续价值被重估；木雕手艺的日常记录，手工vs工业议题常青。"
+   ],
+   "attachments": [
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Wood_Sculpting.webm",
+     "mime_type": "video/webm",
+     "size_in_bytes": 43171615,
+     "duration_in_seconds": 33.206
+    }
+   ],
+   "_license": "CC BY-SA 4.0",
+   "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by-sa/4.0/",
+   "_version": 1,
+   "_author": "Alvin Ategyeka",
+   "_source_url": "https://commons.wikimedia.org/wiki/File:Wood_Sculpting.webm",
+   "_license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "_master_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Wood_Sculpting.webm",
+   "_footage_type": "真实拍摄",
+   "_event_date": "2024-04-26",
+   "_filmed_date": "2024-04-26",
+   "_original_upload_date": "2024-04-30"
+  },
+  {
+   "id": "d-scenery-eagle-20261025",
+   "url": "https://www.nps.gov/nps-audiovideo/audiovideo/75d931f8-74f3-4d2a-a01e-88dd955fdca2720p.mp4",
+   "title": "黄石金雕研究：夜间追踪与白天测量特写",
+   "summary": "2026年3月31日拍摄并发布（NPS黄石官方视频页Minute Out In It: Golden Eagle Research，Solr Date Taken与视频页Date Created均为2026-03-31，Credit NPS/Jacob W. Frank、无©，公有领域）：研究人员夜间头灯下追踪、戴头罩的金雕接受测量、成年金雕头部特写。90.9秒1280×720，抽帧3张已验，画面与标题一致。真实拍摄。",
+   "content_text": "内容总结：2026年3月31日拍摄并发布（NPS黄石官方视频页Minute Out In It: Golden Eagle Research，Solr Date Taken与视频页Date Created均为2026-03-31，Credit NPS/Jacob W. Frank、无©，公有领域）：研究人员夜间头灯下追踪、戴头罩的金雕接受测量、成年金雕头部特写。90.9秒1280×720，抽帧3张已验，画面与标题一致。真实拍摄。\n内容类型：自然/风光\n对应社群：Science Worth Understanding\n许可证：Public domain（无需署名）\nReels角度：金雕头部特写+测量镜头：'给猛禽做体检'的科研日常；配文可谈黄石猛禽保护与野外研究。\n热点挂钩：秋季是国家公园野生动物观察季；黄石金雕研究展示科研人员如何追踪、测量猛禽，契合秋季户外与自然保护话题。\n规格：90.9秒，1280x720，约31.9MB",
+   "date_published": "2026-10-25T09:16:18+08:00",
+   "tags": [
+    "自然/风光",
+    "Science Worth Understanding",
+    "秋季是国家公园野生动物观察季；黄石金雕研究展示科研人员如何追踪、测量猛禽，契合秋季户外与自然保护话题。"
+   ],
+   "attachments": [
+    {
+     "url": "https://www.nps.gov/nps-audiovideo/audiovideo/75d931f8-74f3-4d2a-a01e-88dd955fdca2720p.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 33446928,
+     "duration_in_seconds": 90.9
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_source_url": "https://www.nps.gov/yell/learn/photosmultimedia/index.htm",
+   "_footage_type": "真实拍摄",
+   "_event_date": "2026-03-31",
+   "_filmed_date": "2026-03-31",
+   "_original_upload_date": "2026-03-31",
+   "_recommended_segment": {
+    "end_seconds": 90,
+    "start_seconds": 35
+   }
+  },
+  {
+   "id": "d-scenery-bats-20261025",
+   "url": "https://www.nps.gov/nps-audiovideo/audiovideo/e5951cb6-a415-4b87-a15b-73a9c192d315720p.mp4",
+   "title": "冰川国家公园拯救蝙蝠：白鼻综合征研究实拍",
+   "summary": "2025年9月3日发布（NPS冰川官方视频页Saving Glacier's Bats，视频页Date Created 09/03/2025，Credit为空、无©，公有领域）：研究人员戴手套检查蝙蝠、记录数据，英文字幕说明白鼻综合征是最大威胁、全国研究者正合作应对。40.97秒竖构图1280×720（左右黑边为原片竖版），抽帧3张已验。真实拍摄。",
+   "content_text": "内容总结：2025年9月3日发布（NPS冰川官方视频页Saving Glacier's Bats，视频页Date Created 09/03/2025，Credit为空、无©，公有领域）：研究人员戴手套检查蝙蝠、记录数据，英文字幕说明白鼻综合征是最大威胁、全国研究者正合作应对。40.97秒竖构图1280×720（左右黑边为原片竖版），抽帧3张已验。真实拍摄。\n内容类型：自然/风光\n对应社群：Science Worth Understanding\n许可证：Public domain（无需署名）\nReels角度：小蝙蝠被轻轻托在手套里做检查：'蝙蝠也在生病，人类在想办法'；配文可谈白鼻综合征与洞穴生态保护。\n热点挂钩：秋季蝙蝠进入冬眠准备期，白鼻综合征是北美蝙蝠越冬期的主要威胁；冰川国家公园的监测工作正是秋季野生动物保护话题的实例。\n规格：40.966667秒，1280x720，约3.0MB",
+   "date_published": "2026-10-25T09:16:18+08:00",
+   "tags": [
+    "自然/风光",
+    "Science Worth Understanding",
+    "秋季蝙蝠进入冬眠准备期，白鼻综合征是北美蝙蝠越冬期的主要威胁；冰川国家公园的监测工作正是秋季野生动物保护话题的实例。"
+   ],
+   "attachments": [
+    {
+     "url": "https://www.nps.gov/nps-audiovideo/audiovideo/e5951cb6-a415-4b87-a15b-73a9c192d315720p.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 3129145,
+     "duration_in_seconds": 40.966667
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_source_url": "https://www.nps.gov/glac/learn/photosmultimedia/videos.htm",
+   "_footage_type": "真实拍摄",
+   "_event_date": "2025-09-03",
+   "_filmed_date": "",
+   "_original_upload_date": "2025-09-03",
+   "_recommended_segment": {
+    "end_seconds": 40.966,
+    "start_seconds": 0
+   }
+  },
+  {
+   "id": "d-scenery-prettyrocks-20261025",
+   "url": "https://www.nps.gov/nps-audiovideo/audiovideo/7cb074f5-6795-4c40-9fff-98e8dbfa7317720p.mp4",
+   "title": "迪纳利 Pretty Rocks 延时：山体滑坡区钢桥合龙（2025年5—9月）",
+   "summary": "2026年4月15日发布（NPS迪纳利官方视频页Pretty Rocks Time-Lapse，视频页Date Created 04/15/2026，Credit NPS Video、无©，公有领域）：2025年5月4日至9月20日的延时摄影，记录迪纳利公园路Pretty Rocks滑坡区一座钢桁架桥从分段架设到合龙的全过程，山体与天空光影同步变化。21.15秒1280×720，抽帧3张已验。真实拍摄（延时摄影）。",
+   "content_text": "内容总结：2026年4月15日发布（NPS迪纳利官方视频页Pretty Rocks Time-Lapse，视频页Date Created 04/15/2026，Credit NPS Video、无©，公有领域）：2025年5月4日至9月20日的延时摄影，记录迪纳利公园路Pretty Rocks滑坡区一座钢桁架桥从分段架设到合龙的全过程，山体与天空光影同步变化。21.15秒1280×720，抽帧3张已验。真实拍摄（延时摄影）。\n内容类型：自然/风光\n对应社群：Science Worth Understanding\n许可证：Public domain（无需署名）\nReels角度：21秒看一座桥在滑坡山体上长出来：'大山在动，路也要跟着想办法'；配文可谈国家公园道路维护与地质灾害。\n热点挂钩：秋季国家公园秋游季，迪纳利公园路是阿拉斯加标志性景观路；Pretty Rocks滑坡区桥梁工程是'公园基建如何应对地质变化'的直观案例。\n规格：21.154467秒，1280x720，约6.4MB",
+   "date_published": "2026-10-25T09:16:18+08:00",
+   "tags": [
+    "自然/风光",
+    "Science Worth Understanding",
+    "秋季国家公园秋游季，迪纳利公园路是阿拉斯加标志性景观路；Pretty Rocks滑坡区桥梁工程是'公园基建如何应对地质变化'的直观案例。"
+   ],
+   "attachments": [
+    {
+     "url": "https://www.nps.gov/nps-audiovideo/audiovideo/7cb074f5-6795-4c40-9fff-98e8dbfa7317720p.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 6688688,
+     "duration_in_seconds": 21.154467
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_source_url": "https://www.nps.gov/dena/learn/photosmultimedia/index.htm",
+   "_footage_type": "真实拍摄",
+   "_event_date": "",
+   "_filmed_date": "",
+   "_original_upload_date": "2026-04-15",
+   "_recommended_segment": {
+    "end_seconds": 21.154,
+    "start_seconds": 0
+   }
+  },
+  {
+   "id": "d-marine-nodules-20261025",
+   "url": "https://oceanexplorer.noaa.gov/wp-content/uploads/2026/10/ex2606-dive10-nodules_HD.mp4",
+   "title": "深海多金属结核田全景：ROV 掠过海底'鹅卵石平原'",
+   "summary": "2026年9月9日 NOAA 海洋探索门户发布（站内页 Large Polymetallic Nodules，datePublished 2026-09-09，门户级公有领域）：ROV 掠过多金属结核密布的海底平原，结核大小不一、遍布视野，后段带方解石补偿深度英文科普字幕。149.78秒1920×1080，抽帧3张已验。真实拍摄。",
+   "content_text": "内容总结：2026年9月9日 NOAA 海洋探索门户发布（站内页 Large Polymetallic Nodules，datePublished 2026-09-09，门户级公有领域）：ROV 掠过多金属结核密布的海底平原，结核大小不一、遍布视野，后段带方解石补偿深度英文科普字幕。149.78秒1920×1080，抽帧3张已验。真实拍摄。\n内容类型：自然/海洋生物\n对应社群：Science Worth Understanding\n许可证：Public domain（无需署名）\nReels角度：海底竟铺满会'长大'的金属结核：深海采矿的矿源长什么样；配文可谈结核含钴镍锰与开采争议。\n热点挂钩：深海采矿与关键矿产供应链是持续议题，结核田既是电池金属潜在矿源也是深海生物栖息地；本片是'矿源原貌'的一手画面。\n规格：149.782967秒，1920x1080，约56.2MB",
+   "date_published": "2026-10-25T09:16:18+08:00",
+   "tags": [
+    "自然/海洋生物",
+    "Science Worth Understanding",
+    "深海采矿与关键矿产供应链是持续议题，结核田既是电池金属潜在矿源也是深海生物栖息地；本片是'矿源原貌'的一手画面。"
+   ],
+   "attachments": [
+    {
+     "url": "https://oceanexplorer.noaa.gov/wp-content/uploads/2026/10/ex2606-dive10-nodules_HD.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 58950022,
+     "duration_in_seconds": 149.782967
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_source_url": "https://oceanexplorer.noaa.gov/multimedia/large-polymetallic-nodules/",
+   "_footage_type": "真实拍摄",
+   "_event_date": "",
+   "_filmed_date": "",
+   "_original_upload_date": "2026-09-09",
+   "_recommended_segment": {
+    "end_seconds": 70,
+    "start_seconds": 10
+   }
+  },
+  {
+   "id": "d-marine-glasssponge-20261025",
+   "url": "https://oceanexplorer.noaa.gov/wp-content/uploads/2026/10/ex2606-dive05-sponge-640x360-1.mp4",
+   "title": "深海玻璃海绵特写：白色多孔骨架如蕾丝",
+   "summary": "2026年9月4日 NOAA 海洋探索门户发布（站内页 Beautiful Glass Sponge，datePublished 2026-09-04，门户级公有领域）：ROV 近距离拍摄一株白色玻璃海绵，骨架多孔如蕾丝，中段拉远见其立于岩石海底的全貌。178.51秒640×360，抽帧3张已验。真实拍摄。",
+   "content_text": "内容总结：2026年9月4日 NOAA 海洋探索门户发布（站内页 Beautiful Glass Sponge，datePublished 2026-09-04，门户级公有领域）：ROV 近距离拍摄一株白色玻璃海绵，骨架多孔如蕾丝，中段拉远见其立于岩石海底的全貌。178.51秒640×360，抽帧3张已验。真实拍摄。\n内容类型：自然/海洋生物\n对应社群：Science Worth Understanding\n许可证：Public domain（无需署名）\nReels角度：深海里的'玻璃蕾丝'：放大看海绵骨架的精细结构；配文可走'无人见过的海底世界'路线。\n热点挂钩：深海生物多样性话题持续受关注；玻璃海绵是深海标志性生物，本片以近景呈现其少见的骨架细节。\n规格：178.511667秒，640x360，约32.4MB",
+   "date_published": "2026-10-25T09:16:18+08:00",
+   "tags": [
+    "自然/海洋生物",
+    "Science Worth Understanding",
+    "深海生物多样性话题持续受关注；玻璃海绵是深海标志性生物，本片以近景呈现其少见的骨架细节。"
+   ],
+   "attachments": [
+    {
+     "url": "https://oceanexplorer.noaa.gov/wp-content/uploads/2026/10/ex2606-dive05-sponge-640x360-1.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 33972998,
+     "duration_in_seconds": 178.511667
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_source_url": "https://oceanexplorer.noaa.gov/multimedia/beautiful-glass-sponge/",
+   "_footage_type": "真实拍摄",
+   "_event_date": "",
+   "_filmed_date": "",
+   "_original_upload_date": "2026-09-04",
+   "_recommended_segment": {
+    "end_seconds": 80,
+    "start_seconds": 20
+   }
+  },
+  {
+   "id": "d-marine-anthomastus-20261025",
+   "url": "https://oceanexplorer.noaa.gov/wp-content/uploads/2026/09/ex2606-dive03-coral-640x360-1.mp4",
+   "title": "深海红软珊瑚群落：Anthomastus 八放珊瑚绽放",
+   "summary": "2026年8月29日 NOAA 海洋探索门户发布（站内页 Cluster of Anthomastus Octocorals，datePublished 2026-08-29，门户级公有领域）：ROV 拍摄岩石上成簇的红色 Anthomastus 八放珊瑚，触手舒展，激光测距绿点可见。85.59秒640×360，抽帧3张已验。真实拍摄。",
+   "content_text": "内容总结：2026年8月29日 NOAA 海洋探索门户发布（站内页 Cluster of Anthomastus Octocorals，datePublished 2026-08-29，门户级公有领域）：ROV 拍摄岩石上成簇的红色 Anthomastus 八放珊瑚，触手舒展，激光测距绿点可见。85.59秒640×360，抽帧3张已验。真实拍摄。\n内容类型：自然/海洋生物\n对应社群：Science Worth Understanding\n许可证：Public domain（无需署名）\nReels角度：深海里开花的红珊瑚：没有阳光也能绽放的生命；配文可谈深海珊瑚生态与底拖网威胁。\n热点挂钩：深海保护区与底拖网争议是海洋议题之一；Anthomastus 群落是深海硬底生态的典型代表，画面本身即保护议题注脚。\n规格：85.5855秒，640x360，约15.6MB",
+   "date_published": "2026-10-25T09:16:18+08:00",
+   "tags": [
+    "自然/海洋生物",
+    "Science Worth Understanding",
+    "深海保护区与底拖网争议是海洋议题之一；Anthomastus 群落是深海硬底生态的典型代表，画面本身即保护议题注脚。"
+   ],
+   "attachments": [
+    {
+     "url": "https://oceanexplorer.noaa.gov/wp-content/uploads/2026/09/ex2606-dive03-coral-640x360-1.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 16356410,
+     "duration_in_seconds": 85.5855
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_source_url": "https://oceanexplorer.noaa.gov/multimedia/cluster-of-anthomastus-octocorals/",
+   "_footage_type": "真实拍摄",
+   "_event_date": "",
+   "_filmed_date": "",
+   "_original_upload_date": "2026-08-29",
+   "_recommended_segment": {
+    "end_seconds": 70,
+    "start_seconds": 10
+   }
+  },
+  {
+   "id": "d-nps-offpeak-20261025",
+   "url": "https://www.nps.gov/nps-audiovideo/audiovideo/e527e406-8ab4-46ba-987a-f0d1988e8bbc720p.mp4",
+   "title": "黄石淡季游览指南：护林员讲冬季与非高峰玩法",
+   "summary": "2026年3月11日拍摄并发布（NPS黄石官方视频页 Visiting Yellowstone: Off-Peak Season，Solr Date Taken与视频页Date Created均为2026-03-11，Credit NPS/Jacob W. Frank、无©，公有领域）：护林员在公园入口、猛犸温泉木栈道等地出镜，介绍淡季游览要点并展示 NPS 手机应用。158.12秒1280×720，抽帧3张已验。真实拍摄。",
+   "content_text": "内容总结：2026年3月11日拍摄并发布（NPS黄石官方视频页 Visiting Yellowstone: Off-Peak Season，Solr Date Taken与视频页Date Created均为2026-03-11，Credit NPS/Jacob W. Frank、无©，公有领域）：护林员在公园入口、猛犸温泉木栈道等地出镜，介绍淡季游览要点并展示 NPS 手机应用。158.12秒1280×720，抽帧3张已验。真实拍摄。\n内容类型：旅行/户外\n对应社群：Beyond the Score Brief\n许可证：Public domain（无需署名）\nReels角度：避开人潮的黄石怎么玩：护林员亲授淡季攻略；配文可做'秋季/冬季黄石行前必看'。\n热点挂钩：秋季国家公园秋游季正当时，游客关心如何避峰；黄石官方淡季指南直接回答'人少时怎么玩'，与季节出游需求贴合。\n规格：158.124633秒，1280x720，约56.4MB",
+   "date_published": "2026-10-25T09:16:18+08:00",
+   "tags": [
+    "旅行/户外",
+    "Beyond the Score Brief",
+    "秋季国家公园秋游季正当时，游客关心如何避峰；黄石官方淡季指南直接回答'人少时怎么玩'，与季节出游需求贴合。"
+   ],
+   "attachments": [
+    {
+     "url": "https://www.nps.gov/nps-audiovideo/audiovideo/e527e406-8ab4-46ba-987a-f0d1988e8bbc720p.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 59101294,
+     "duration_in_seconds": 158.124633
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_source_url": "https://www.nps.gov/yell/learn/photosmultimedia/videos.htm",
+   "_footage_type": "真实拍摄",
+   "_event_date": "2026-03-11",
+   "_filmed_date": "2026-03-11",
+   "_original_upload_date": "2026-03-11",
+   "_recommended_segment": {
+    "end_seconds": 80,
+    "start_seconds": 20
+   }
+  },
+  {
+   "id": "d-nps-thunderhole-20261025",
+   "url": "https://www.nps.gov/nps-audiovideo/audiovideo/659d9ea0-412f-4e29-9f04-02c7e284da26720p.mp4",
+   "title": "阿卡迪亚 Thunder Hole 无障碍游览：轮椅通道与观景点实拍",
+   "summary": "2026年8月14日发布（NPS阿卡迪亚官方视频页 Access: Thunder Hole，视频页Date Created 08/14/2026，Credit NPS Video、无©，公有领域）：实景展示 Thunder Hole 观景点的无障碍停车、坡道与观景平台，英文字幕说明附近洗手间无障碍情况。79.93秒1280×720，抽帧3张已验。真实拍摄。",
+   "content_text": "内容总结：2026年8月14日发布（NPS阿卡迪亚官方视频页 Access: Thunder Hole，视频页Date Created 08/14/2026，Credit NPS Video、无©，公有领域）：实景展示 Thunder Hole 观景点的无障碍停车、坡道与观景平台，英文字幕说明附近洗手间无障碍情况。79.93秒1280×720，抽帧3张已验。真实拍摄。\n内容类型：旅行/户外\n对应社群：Beyond the Score Brief\n许可证：Public domain（无需署名）\nReels角度：轮椅也能看 Thunder Hole 的巨浪：阿卡迪亚无障碍路线实测；配文可谈国家公园无障碍出行。\n热点挂钩：秋季阿卡迪亚是新英格兰赏秋热门地；无障碍游览信息对带老人、轮椅出行的家庭是实用的秋游参考。\n规格：79.92985秒，1280x720，约38.6MB",
+   "date_published": "2026-10-25T09:16:18+08:00",
+   "tags": [
+    "旅行/户外",
+    "Beyond the Score Brief",
+    "秋季阿卡迪亚是新英格兰赏秋热门地；无障碍游览信息对带老人、轮椅出行的家庭是实用的秋游参考。"
+   ],
+   "attachments": [
+    {
+     "url": "https://www.nps.gov/nps-audiovideo/audiovideo/659d9ea0-412f-4e29-9f04-02c7e284da26720p.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 40509188,
+     "duration_in_seconds": 79.92985
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_source_url": "https://www.nps.gov/acad/learn/photosmultimedia/index.htm",
+   "_footage_type": "真实拍摄",
+   "_event_date": "2026-08-14",
+   "_filmed_date": "2026-08-14",
+   "_original_upload_date": "2026-08-14",
+   "_recommended_segment": {
+    "end_seconds": 75,
+    "start_seconds": 15
+   }
+  },
+  {
+   "id": "d-nps-sandbeach-20261025",
+   "url": "https://www.nps.gov/nps-audiovideo/audiovideo/84f89164-68b0-4b5d-832b-35f0010a3b06720p.mp4",
+   "title": "阿卡迪亚 Sand Beach 无障碍停车与入滩路线实拍",
+   "summary": "2026年3月30日发布（NPS阿卡迪亚官方视频页 Sand Beach Parking Lot Accessibility Information，视频页Date Created 2026-03-30，Credit为空、无©，公有领域）：实景展示 Sand Beach 停车场无障碍车位、周边步道与洗手间，末段沿台阶下到沙滩的海景。44.18秒1280×720，抽帧3张已验。真实拍摄。",
+   "content_text": "内容总结：2026年3月30日发布（NPS阿卡迪亚官方视频页 Sand Beach Parking Lot Accessibility Information，视频页Date Created 2026-03-30，Credit为空、无©，公有领域）：实景展示 Sand Beach 停车场无障碍车位、周边步道与洗手间，末段沿台阶下到沙滩的海景。44.18秒1280×720，抽帧3张已验。真实拍摄。\n内容类型：旅行/户外\n对应社群：Beyond the Score Brief\n许可证：Public domain（无需署名）\nReels角度：阿卡迪亚最热门沙滩怎么停车、怎么下滩：无障碍版行前指南；配文可做秋游停车避坑帖。\n热点挂钩：秋季阿卡迪亚赏秋游客仍多，Sand Beach 是园内最热门景点之一；停车与无障碍信息是秋游季的实用内容。\n规格：44.177467秒，1280x720，约21.2MB",
+   "date_published": "2026-10-25T09:16:18+08:00",
+   "tags": [
+    "旅行/户外",
+    "Beyond the Score Brief",
+    "秋季阿卡迪亚赏秋游客仍多，Sand Beach 是园内最热门景点之一；停车与无障碍信息是秋游季的实用内容。"
+   ],
+   "attachments": [
+    {
+     "url": "https://www.nps.gov/nps-audiovideo/audiovideo/84f89164-68b0-4b5d-832b-35f0010a3b06720p.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 22203173,
+     "duration_in_seconds": 44.177467
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_source_url": "https://www.nps.gov/acad/learn/photosmultimedia/videos.htm",
+   "_footage_type": "真实拍摄",
+   "_event_date": "2026-03-30",
+   "_filmed_date": "2026-03-30",
+   "_original_upload_date": "2026-03-30",
+   "_recommended_segment": {
+    "end_seconds": 44.177,
+    "start_seconds": 0
+   }
+  },
+  {
+   "id": "d-mil-a10-20261025",
+   "url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112095433/DOD_112095433.mp4",
+   "title": "A-10'疣猪'航展飞行：滑行与空中机动实拍",
+   "summary": "2026年10月23日拍摄、10月24日发布（DVIDS视频页，Public Domain徽章已核验，Date Posted 2026-10-24、Date Taken 2026-10-23）：A-10 Thunderbolt II（'疣猪'）在麦康奈尔空军基地 Frontiers in Flight 航展上滑行、起飞后空中机动，鲨鱼嘴涂装清晰。57.36秒1920×1080，抽帧3张已验。真实拍摄。",
+   "content_text": "内容总结：2026年10月23日拍摄、10月24日发布（DVIDS视频页，Public Domain徽章已核验，Date Posted 2026-10-24、Date Taken 2026-10-23）：A-10 Thunderbolt II（'疣猪'）在麦康奈尔空军基地 Frontiers in Flight 航展上滑行、起飞后空中机动，鲨鱼嘴涂装清晰。57.36秒1920×1080，抽帧3张已验。真实拍摄。\n内容类型：军事/装备\n对应社群：Robotics and Automation Brief\n许可证：Public domain（无需署名）\nReels角度：鲨鱼嘴'疣猪'低空掠过：近距离攻击机的经典外形；配文可谈 A-10 的 30 毫米机炮与近距支援角色。\n热点挂钩：10月23日麦康奈尔基地 Frontiers in Flight 航展周末举行，A-10 表演是航展看点；同期美军航空装备新闻持续受关注。\n规格：57.3573秒，1920x1080，约64.0MB",
+   "date_published": "2026-10-25T09:16:18+08:00",
+   "tags": [
+    "军事/装备",
+    "Robotics and Automation Brief",
+    "10月23日麦康奈尔基地 Frontiers in Flight 航展周末举行，A-10 表演是航展看点；同期美军航空装备新闻持续受关注。"
+   ],
+   "attachments": [
+    {
+     "url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112095433/DOD_112095433.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 67131801,
+     "duration_in_seconds": 57.3573
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_source_url": "https://www.dvidshub.net/video/1027413/10s-perform-friday-frontier",
+   "_footage_type": "真实拍摄",
+   "_event_date": "2026-10-23",
+   "_filmed_date": "2026-10-23",
+   "_original_upload_date": "2026-10-24",
+   "_recommended_segment": {
+    "end_seconds": 57.357,
+    "start_seconds": 0
+   }
+  },
+  {
+   "id": "d-mil-f16-20261025",
+   "url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112094899/DOD_112094899.mp4",
+   "title": "F-16 黄昏开加力起飞：中央司令部战区空军力量（14秒）",
+   "summary": "2026年10月6日拍摄、10月24日发布（DVIDS视频页 BROLL: The sun never sets on CENTCOM Airpower，Public Domain徽章已核验，Date Posted 2026-10-24、Date Taken 2026-10-06）：一架 F-16 在黄昏天光中开加力起飞，尾焰清晰。14.41秒1920×1080，抽帧3张已验。真实拍摄。",
+   "content_text": "内容总结：2026年10月6日拍摄、10月24日发布（DVIDS视频页 BROLL: The sun never sets on CENTCOM Airpower，Public Domain徽章已核验，Date Posted 2026-10-24、Date Taken 2026-10-06）：一架 F-16 在黄昏天光中开加力起飞，尾焰清晰。14.41秒1920×1080，抽帧3张已验。真实拍摄。\n内容类型：军事/装备\n对应社群：Robotics and Automation Brief\n许可证：Public domain（无需署名）\nReels角度：14秒的加力尾焰：F-16 黄昏起飞的极简冲击镜头；适合做航展/战机系列的开场或转场。\n热点挂钩：美军中央司令部空军力量是本周军事新闻的常规背景；本片为10月6日实拍、10月24日发布的最新公开影像。\n规格：14.4144秒，1920x1080，约11.6MB",
+   "date_published": "2026-10-25T09:16:18+08:00",
+   "tags": [
+    "军事/装备",
+    "Robotics and Automation Brief",
+    "美军中央司令部空军力量是本周军事新闻的常规背景；本片为10月6日实拍、10月24日发布的最新公开影像。"
+   ],
+   "attachments": [
+    {
+     "url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112094899/DOD_112094899.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 12135039,
+     "duration_in_seconds": 14.4144
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_source_url": "https://www.dvidshub.net/video/1027381/broll-sun-never-sets-centcom-airpower",
+   "_footage_type": "真实拍摄",
+   "_event_date": "2026-10-06",
+   "_filmed_date": "2026-10-06",
+   "_original_upload_date": "2026-10-24",
+   "_recommended_segment": {
+    "end_seconds": 14.414,
+    "start_seconds": 0
+   }
+  },
+  {
+   "id": "d-mil-heli-gunnery-20261025",
+   "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/d-mil-heli-gunnery-20261025.mp4",
+   "title": "拉脱维亚直升机空中射击训练：黑鹰低空飞行与靶场实拍（60秒精华）",
+   "summary": "2026年10月17日拍摄、10月24日发布（DVIDS视频页，Public Domain徽章已核验，Date Posted 2026-10-24、Date Taken 2026-10-17；标题所指演练为10月18日拉脱维亚空中射击训练）：美军第3突击直升机营直升机在拉脱维亚塞利亞训练区低空飞行、向地面靶标射击。本条为自剪60秒720p精华（母片379.46秒1080p、321200497字节，取母片60—120秒段落），成品抽帧3张已验。真实拍摄。",
+   "content_text": "内容总结：2026年10月17日拍摄、10月24日发布（DVIDS视频页，Public Domain徽章已核验，Date Posted 2026-10-24、Date Taken 2026-10-17；标题所指演练为10月18日拉脱维亚空中射击训练）：美军第3突击直升机营直升机在拉脱维亚塞利亞训练区低空飞行、向地面靶标射击。本条为自剪60秒720p精华（母片379.46秒1080p、321200497字节，取母片60—120秒段落），成品抽帧3张已验。真实拍摄。\n内容类型：军事/装备\n对应社群：Robotics and Automation Brief\n许可证：Public domain（无需署名）\nReels角度：黑鹰贴着秋林低空掠过靶场：直升机空中射击的第一视角与远景；配文可谈陆军航空兵的空中火力训练。\n热点挂钩：10月24日 DVIDS 集中发布多条美军航空训练影像，拉脱维亚空中射击训练是北约东翼演训的公开记录；本片不作政治包装，只呈现装备训练画面。\n规格：60.018292秒，1280x720，约29.4MB",
+   "date_published": "2026-10-25T09:16:18+08:00",
+   "tags": [
+    "军事/装备",
+    "Robotics and Automation Brief",
+    "10月24日 DVIDS 集中发布多条美军航空训练影像，拉脱维亚空中射击训练是北约东翼演训的公开记录；本片不作政治包装，只呈现装备训练画面。"
+   ],
+   "attachments": [
+    {
+     "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/d-mil-heli-gunnery-20261025.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 30863297,
+     "duration_in_seconds": 60.018292
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_source_url": "https://www.dvidshub.net/video/1027380/us-soldiers-conduct-aerial-gunnery-training-latvia-oct-18-2026",
+   "_master_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112094877/DOD_112094877.mp4",
+   "_footage_type": "真实拍摄",
+   "_event_date": "2026-10-17",
+   "_filmed_date": "2026-10-17",
+   "_original_upload_date": "2026-10-24",
+   "_recommended_segment": {
+    "end_seconds": 60.0,
+    "start_seconds": 0
+   }
+  },
   {
    "id": "a-dvids-juneau-floodprep-20261023",
    "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/a-dvids-juneau-floodprep-20261023.mp4",

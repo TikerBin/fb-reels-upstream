@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-10-23T09:29:46+08:00",
- "event_count": 438,
- "next_seq": 439,
+ "updated_at": "2026-10-25T09:16:18+08:00",
+ "event_count": 477,
+ "next_seq": 478,
  "events": [
   {
    "event_id": "evt-20261013-0001",
@@ -5467,6 +5467,396 @@
    "status": "active",
    "occurred_at": "2026-10-23T09:29:46+08:00",
    "reason": "2026-10-23 每日采集入库（自然/风光）"
+  },
+  {
+   "event_id": "evt-20261025-0439",
+   "seq": 439,
+   "item_id": "a-voa-rubio-joly-20261025",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-25T09:16:18+08:00",
+   "reason": "2026-10-25 每日采集入库（科技/新闻）"
+  },
+  {
+   "event_id": "evt-20261025-0440",
+   "seq": 440,
+   "item_id": "a-nyc-voteplan-fast-20261025",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-25T09:16:18+08:00",
+   "reason": "2026-10-25 每日采集入库（科技/新闻）"
+  },
+  {
+   "event_id": "evt-20261025-0441",
+   "seq": 441,
+   "item_id": "a-gangtok-gas-queue-20261025",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-25T09:16:18+08:00",
+   "reason": "2026-10-25 每日采集入库（财经/科普）"
+  },
+  {
+   "event_id": "evt-20261025-0442",
+   "seq": 442,
+   "item_id": "a-kicampus-ai-medicine-ethics-20261025",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-25T09:16:18+08:00",
+   "reason": "2026-10-25 每日采集入库（科技/教育）"
+  },
+  {
+   "event_id": "evt-20261025-0443",
+   "seq": 443,
+   "item_id": "a-chrome-passkeys-20261025",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-25T09:16:18+08:00",
+   "reason": "2026-10-25 每日采集入库（科技/安全教育）"
+  },
+  {
+   "event_id": "evt-20261025-0444",
+   "seq": 444,
+   "item_id": "a-ibm-pqc-nist-20261025",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-25T09:16:18+08:00",
+   "reason": "2026-10-25 每日采集入库（科技/安全教育）"
+  },
+  {
+   "event_id": "evt-20261025-0445",
+   "seq": 445,
+   "item_id": "a-ibm-homomorphic-20261025",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-25T09:16:18+08:00",
+   "reason": "2026-10-25 每日采集入库（科技/安全教育）"
+  },
+  {
+   "event_id": "evt-20261025-0446",
+   "seq": 446,
+   "item_id": "a-biogen-generativa-20261025",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-25T09:16:18+08:00",
+   "reason": "2026-10-25 每日采集入库（科技/教育）"
+  },
+  {
+   "event_id": "evt-20261025-0447",
+   "seq": 447,
+   "item_id": "a-posta-logistics-20261025",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-25T09:16:18+08:00",
+   "reason": "2026-10-25 每日采集入库（科技/教育）"
+  },
+  {
+   "event_id": "evt-20261025-0448",
+   "seq": 448,
+   "item_id": "b-eso-betelgeuse-companion-zoom-20261025",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-25T09:16:18+08:00",
+   "reason": "2026-10-25 每日采集入库（科技/航天科普）"
+  },
+  {
+   "event_id": "evt-20261025-0449",
+   "seq": 449,
+   "item_id": "b-eso-betapic-d-timelapse-20261025",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-25T09:16:18+08:00",
+   "reason": "2026-10-25 每日采集入库（科技/航天科普）"
+  },
+  {
+   "event_id": "evt-20261025-0450",
+   "seq": 450,
+   "item_id": "b-eso-lense-thirring-20261025",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-25T09:16:18+08:00",
+   "reason": "2026-10-25 每日采集入库（科技/航天科普）"
+  },
+  {
+   "event_id": "evt-20261025-0451",
+   "seq": 451,
+   "item_id": "b-drone-turanj-village-20261025",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-25T09:16:18+08:00",
+   "reason": "2026-10-25 每日采集入库（科技/无人机）"
+  },
+  {
+   "event_id": "evt-20261025-0452",
+   "seq": 452,
+   "item_id": "b-drone-sajevac-turanj-surroundings-20261025",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-25T09:16:18+08:00",
+   "reason": "2026-10-25 每日采集入库（科技/无人机）"
+  },
+  {
+   "event_id": "evt-20261025-0453",
+   "seq": 453,
+   "item_id": "b-drone-fazlagica-kula-20261025",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-25T09:16:18+08:00",
+   "reason": "2026-10-25 每日采集入库（科技/无人机）"
+  },
+  {
+   "event_id": "evt-20261025-0454",
+   "seq": 454,
+   "item_id": "c-ramstein-esports-20261025",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-25T09:16:18+08:00",
+   "reason": "2026-10-25 每日采集入库（游戏/生活方式）"
+  },
+  {
+   "event_id": "evt-20261025-0455",
+   "seq": 455,
+   "item_id": "c-gamejam-wiki-20261025",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-25T09:16:18+08:00",
+   "reason": "2026-10-25 每日采集入库（游戏/生活方式）"
+  },
+  {
+   "event_id": "evt-20261025-0456",
+   "seq": 456,
+   "item_id": "c-lost-universe-20261025",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-25T09:16:18+08:00",
+   "reason": "2026-10-25 每日采集入库（游戏/生活方式）"
+  },
+  {
+   "event_id": "evt-20261025-0457",
+   "seq": 457,
+   "item_id": "c-ants-grasshopper-20261025",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-25T09:16:18+08:00",
+   "reason": "2026-10-25 每日采集入库（影视/文化）"
+  },
+  {
+   "event_id": "evt-20261025-0458",
+   "seq": 458,
+   "item_id": "c-kats-1920-20261025",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-25T09:16:18+08:00",
+   "reason": "2026-10-25 每日采集入库（影视/文化）"
+  },
+  {
+   "event_id": "evt-20261025-0459",
+   "seq": 459,
+   "item_id": "c-sleepy-holler-20261025",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-25T09:16:18+08:00",
+   "reason": "2026-10-25 每日采集入库（影视/文化）"
+  },
+  {
+   "event_id": "evt-20261025-0460",
+   "seq": 460,
+   "item_id": "c-cfas-softball-20261025",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-25T09:16:18+08:00",
+   "reason": "2026-10-25 每日采集入库（体育/历史）"
+  },
+  {
+   "event_id": "evt-20261025-0461",
+   "seq": 461,
+   "item_id": "c-mcm-expo-20261025",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-25T09:16:18+08:00",
+   "reason": "2026-10-25 每日采集入库（体育/历史）"
+  },
+  {
+   "event_id": "evt-20261025-0462",
+   "seq": 462,
+   "item_id": "c-kite-viganj-20261025",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-25T09:16:18+08:00",
+   "reason": "2026-10-25 每日采集入库（体育/历史）"
+  },
+  {
+   "event_id": "evt-20261025-0463",
+   "seq": 463,
+   "item_id": "c-pattu-kullu-20261025",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-25T09:16:18+08:00",
+   "reason": "2026-10-25 每日采集入库（文化/艺术）"
+  },
+  {
+   "event_id": "evt-20261025-0464",
+   "seq": 464,
+   "item_id": "c-vitebsk-weaving-20261025",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-25T09:16:18+08:00",
+   "reason": "2026-10-25 每日采集入库（文化/艺术）"
+  },
+  {
+   "event_id": "evt-20261025-0465",
+   "seq": 465,
+   "item_id": "c-wood-sculpting-20261025",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-25T09:16:18+08:00",
+   "reason": "2026-10-25 每日采集入库（文化/艺术）"
+  },
+  {
+   "event_id": "evt-20261025-0466",
+   "seq": 466,
+   "item_id": "d-scenery-eagle-20261025",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-25T09:16:18+08:00",
+   "reason": "2026-10-25 每日采集入库（自然/风光）"
+  },
+  {
+   "event_id": "evt-20261025-0467",
+   "seq": 467,
+   "item_id": "d-scenery-bats-20261025",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-25T09:16:18+08:00",
+   "reason": "2026-10-25 每日采集入库（自然/风光）"
+  },
+  {
+   "event_id": "evt-20261025-0468",
+   "seq": 468,
+   "item_id": "d-scenery-prettyrocks-20261025",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-25T09:16:18+08:00",
+   "reason": "2026-10-25 每日采集入库（自然/风光）"
+  },
+  {
+   "event_id": "evt-20261025-0469",
+   "seq": 469,
+   "item_id": "d-marine-nodules-20261025",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-25T09:16:18+08:00",
+   "reason": "2026-10-25 每日采集入库（自然/海洋生物）"
+  },
+  {
+   "event_id": "evt-20261025-0470",
+   "seq": 470,
+   "item_id": "d-marine-glasssponge-20261025",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-25T09:16:18+08:00",
+   "reason": "2026-10-25 每日采集入库（自然/海洋生物）"
+  },
+  {
+   "event_id": "evt-20261025-0471",
+   "seq": 471,
+   "item_id": "d-marine-anthomastus-20261025",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-25T09:16:18+08:00",
+   "reason": "2026-10-25 每日采集入库（自然/海洋生物）"
+  },
+  {
+   "event_id": "evt-20261025-0472",
+   "seq": 472,
+   "item_id": "d-nps-offpeak-20261025",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-25T09:16:18+08:00",
+   "reason": "2026-10-25 每日采集入库（旅行/户外）"
+  },
+  {
+   "event_id": "evt-20261025-0473",
+   "seq": 473,
+   "item_id": "d-nps-thunderhole-20261025",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-25T09:16:18+08:00",
+   "reason": "2026-10-25 每日采集入库（旅行/户外）"
+  },
+  {
+   "event_id": "evt-20261025-0474",
+   "seq": 474,
+   "item_id": "d-nps-sandbeach-20261025",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-25T09:16:18+08:00",
+   "reason": "2026-10-25 每日采集入库（旅行/户外）"
+  },
+  {
+   "event_id": "evt-20261025-0475",
+   "seq": 475,
+   "item_id": "d-mil-a10-20261025",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-25T09:16:18+08:00",
+   "reason": "2026-10-25 每日采集入库（军事/装备）"
+  },
+  {
+   "event_id": "evt-20261025-0476",
+   "seq": 476,
+   "item_id": "d-mil-f16-20261025",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-25T09:16:18+08:00",
+   "reason": "2026-10-25 每日采集入库（军事/装备）"
+  },
+  {
+   "event_id": "evt-20261025-0477",
+   "seq": 477,
+   "item_id": "d-mil-heli-gunnery-20261025",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-25T09:16:18+08:00",
+   "reason": "2026-10-25 每日采集入库（军事/装备）"
   }
  ]
 }
