@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-10-25T09:16:18+08:00",
- "event_count": 477,
- "next_seq": 478,
+ "updated_at": "2026-10-26T09:28:58+08:00",
+ "event_count": 502,
+ "next_seq": 503,
  "events": [
   {
    "event_id": "evt-20261013-0001",
@@ -5857,6 +5857,256 @@
    "status": "active",
    "occurred_at": "2026-10-25T09:16:18+08:00",
    "reason": "2026-10-25 每日采集入库（军事/装备）"
+  },
+  {
+   "event_id": "evt-20261026-0478",
+   "seq": 478,
+   "item_id": "dc-guard-224-20261026",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-26T09:28:58+08:00",
+   "reason": "2026-10-26 每日采集入库（科技/新闻）"
+  },
+  {
+   "event_id": "evt-20261026-0479",
+   "seq": 479,
+   "item_id": "capitol-christmas-tree-20261026",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-26T09:28:58+08:00",
+   "reason": "2026-10-26 每日采集入库（科技/新闻）"
+  },
+  {
+   "event_id": "evt-20261026-0480",
+   "seq": 480,
+   "item_id": "orbit-ai-landsat-20261026",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-26T09:28:58+08:00",
+   "reason": "2026-10-26 每日采集入库（科技/教育）"
+  },
+  {
+   "event_id": "evt-20261026-0481",
+   "seq": 481,
+   "item_id": "suas-cadre-20261026",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-26T09:28:58+08:00",
+   "reason": "2026-10-26 每日采集入库（科技/无人机）"
+  },
+  {
+   "event_id": "evt-20261026-0482",
+   "seq": 482,
+   "item_id": "newport-dunes-drone-20261026",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-26T09:28:58+08:00",
+   "reason": "2026-10-26 每日采集入库（科技/无人机）"
+  },
+  {
+   "event_id": "evt-20261026-0483",
+   "seq": 483,
+   "item_id": "brsecine-drone-20261026",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-26T09:28:58+08:00",
+   "reason": "2026-10-26 每日采集入库（科技/无人机）"
+  },
+  {
+   "event_id": "evt-20261026-0484",
+   "seq": 484,
+   "item_id": "hubble-ngc4654-pan-20261026",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-26T09:28:58+08:00",
+   "reason": "2026-10-26 每日采集入库（科技/航天科普）"
+  },
+  {
+   "event_id": "evt-20261026-0485",
+   "seq": 485,
+   "item_id": "hubble-ngc6723-pan-20261026",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-26T09:28:58+08:00",
+   "reason": "2026-10-26 每日采集入库（科技/航天科普）"
+  },
+  {
+   "event_id": "evt-20261026-0486",
+   "seq": 486,
+   "item_id": "cyber-awareness-spot-20261026",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-26T09:28:58+08:00",
+   "reason": "2026-10-26 每日采集入库（科技/安全教育）"
+  },
+  {
+   "event_id": "evt-20261026-0487",
+   "seq": 487,
+   "item_id": "ddr-man-playing-20261026",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-26T09:28:58+08:00",
+   "reason": "2026-10-26 每日采集入库（游戏/生活方式）"
+  },
+  {
+   "event_id": "evt-20261026-0488",
+   "seq": 488,
+   "item_id": "krazy-kat-1916-20261026",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-26T09:28:58+08:00",
+   "reason": "2026-10-26 每日采集入库（影视/文化）"
+  },
+  {
+   "event_id": "evt-20261026-0489",
+   "seq": 489,
+   "item_id": "breakers-roar-1908-20261026",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-26T09:28:58+08:00",
+   "reason": "2026-10-26 每日采集入库（影视/文化）"
+  },
+  {
+   "event_id": "evt-20261026-0490",
+   "seq": 490,
+   "item_id": "sakura-sprint-5k-20261026",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-26T09:28:58+08:00",
+   "reason": "2026-10-26 每日采集入库（体育/历史）"
+  },
+  {
+   "event_id": "evt-20261026-0491",
+   "seq": 491,
+   "item_id": "makeawish-funrun-20261026",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-26T09:28:58+08:00",
+   "reason": "2026-10-26 每日采集入库（体育/历史）"
+  },
+  {
+   "event_id": "evt-20261026-0492",
+   "seq": 492,
+   "item_id": "hubble-m88-pan-20261026",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-26T09:28:58+08:00",
+   "reason": "2026-10-26 每日采集入库（文化/艺术）"
+  },
+  {
+   "event_id": "evt-20261026-0493",
+   "seq": 493,
+   "item_id": "terracotta-assam-20261026",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-26T09:28:58+08:00",
+   "reason": "2026-10-26 每日采集入库（文化/手工）"
+  },
+  {
+   "event_id": "evt-20261026-0494",
+   "seq": 494,
+   "item_id": "willet-bird-shoal-20261026",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-26T09:28:58+08:00",
+   "reason": "2026-10-26 每日采集入库（自然/风光）"
+  },
+  {
+   "event_id": "evt-20261026-0495",
+   "seq": 495,
+   "item_id": "little-applegate-river-20261026",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-26T09:28:58+08:00",
+   "reason": "2026-10-26 每日采集入库（自然/风光）"
+  },
+  {
+   "event_id": "evt-20261026-0496",
+   "seq": 496,
+   "item_id": "noaa-golden-orb-20261026",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-26T09:28:58+08:00",
+   "reason": "2026-10-26 每日采集入库（自然/海洋生物）"
+  },
+  {
+   "event_id": "evt-20261026-0497",
+   "seq": 497,
+   "item_id": "noaa-deepsea-skate-20261026",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-26T09:28:58+08:00",
+   "reason": "2026-10-26 每日采集入库（自然/海洋生物）"
+  },
+  {
+   "event_id": "evt-20261026-0498",
+   "seq": 498,
+   "item_id": "noaa-anemones-shrimp-20261026",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-26T09:28:58+08:00",
+   "reason": "2026-10-26 每日采集入库（自然/海洋生物）"
+  },
+  {
+   "event_id": "evt-20261026-0499",
+   "seq": 499,
+   "item_id": "rogue-river-rafting-20261026",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-26T09:28:58+08:00",
+   "reason": "2026-10-26 每日采集入库（旅行/户外）"
+  },
+  {
+   "event_id": "evt-20261026-0500",
+   "seq": 500,
+   "item_id": "thunderbirds-frontiers-20261026",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-26T09:28:58+08:00",
+   "reason": "2026-10-26 每日采集入库（军事/装备）"
+  },
+  {
+   "event_id": "evt-20261026-0501",
+   "seq": 501,
+   "item_id": "golden-knights-amigo-20261026",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-26T09:28:58+08:00",
+   "reason": "2026-10-26 每日采集入库（军事/装备）"
+  },
+  {
+   "event_id": "evt-20261026-0502",
+   "seq": 502,
+   "item_id": "mcconnell-skys-limit-20261026",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-26T09:28:58+08:00",
+   "reason": "2026-10-26 每日采集入库（军事/装备）"
   }
  ]
 }
