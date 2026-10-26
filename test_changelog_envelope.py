@@ -7,7 +7,8 @@ event_count == len(events) 失败。
 - 所有路径相对本文件所在目录，不依赖外部私有文件；
 - 不硬编码任何一轮的具体数字（249/37/99 等），合法的未来追加
   （250/251…）必须正常通过；
-- 不可变历史审计只保护既有前缀（见 t_legal_append_keeps_prefix_hashes）。
+- 本文件的前缀测试只检查追加函数自身；跨版本历史审计必须运行
+  validate_history.py，对照独立的已发布 Git 基线，不能用当前文件自证。
 
 运行：python3 test_changelog_envelope.py
 通过返回 0，任一失败返回非 0 并打印原因。

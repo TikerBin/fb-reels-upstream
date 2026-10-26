@@ -134,6 +134,28 @@
 - 母带超 128 MiB：必须另给小文件或自剪 15–60 秒 720p 成品放仓库 `clips/`（主下载指向成品，`_master_url` 保留母带）。
 
 ## 上传（2026-10-12 起：git 自动推送）
+### 历史事件不可改写校验（2026-10-26）
+
+- 已分发事件的完整对象永久保留，包含 `occurred_at`、原因及嵌套字段。纠错只能追加新的
+  `seq` / `event_id`；素材实际变化仍遵守既有 version 规则。不得恢复旧文件覆盖历史。
+- 原有 `assert_envelope()` 仅校验数量、序号等格式。当前文件与自身副本比较不能证明历史未被改写。
+  发布前必须与远端已发布提交比较，基线不可改成候选文件自身。
+- 生产采集仓库首次接入时，在确认 Python 3 可用且没有既有钩子需要合并后，执行：
+  `chmod +x .githooks/pre-push`、`git config core.hooksPath .githooks`。
+  若已有 `core.hooksPath` 或 pre-push 钩子，保留原校验并合并调用本检查，不能覆盖。
+- 每轮先 `git fetch origin main`，再按原流程更新生成文件，运行
+  `python3 validate_history.py --base-ref origin/main` 和下列回归测试。
+  检查通过后才可提交并推送；pre-push 会再次比较远端当前提交与实际待推送提交，任何失败立即终止。
+  禁止使用 `--no-verify`、删除钩子或改写基线来绕过失败；远端基线对象缺失时先 fetch，不能放行。
+- 回归命令：`python3 -m unittest test_history_immutability -v`、
+  `python3 test_changelog_envelope.py`、`python3 test_build_daily_stats.py`、
+  `python3 test_retractions_parity.py`。
+- `.github/workflows/event-history.yml` 在 PR 和 main 推送时独立比较 Git 基线。
+  推送触发的 CI 是事后检测；阻断发布依赖生产发布仓库启用 pre-push。
+  若需在服务端强制所有写入，另行配置 main 分支保护并要求 PR 校验通过，禁止直接推送。
+- 示例：seq203 的时间已发布为 `22:30`，即使发现时间错误，也不能改成 `21:56`；
+  原事件保持原样，追加时钟错误更正事件。校验不会回写或修复任何已有数据。
+
 - 本地仓库：`~/workspace/goals/fb-reels/upstream-repo`（origin 已配带 token 的 HTTPS 地址，直接 push，无需确认）。
 - 流程：`git pull --rebase` → 复制 feed.xml/feed.json/changelog.json/retractions.json/status.json/daily_stats.json（+ stats/daily_YYYY-MM-DD.json）→ commit → `git push origin main` → curl 验证 raw 地址（注意 raw 有几分钟 CDN 缓存）。
 - ⚠️ feed.xml/feed.json 是生成文件，不要直接在 GitHub 网页上改它们——下次推送会覆盖。如需修正，先改 `upstream/items.json`（数据源），再重新生成推送。

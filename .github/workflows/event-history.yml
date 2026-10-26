@@ -1,0 +1,25 @@
+name: Event history immutability
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches: [main]
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Compare with published history
+        env:
+          BASE_SHA: ${{ github.event.pull_request.base.sha || github.event.before }}
+        run: python3 validate_history.py --base-ref "$BASE_SHA" --candidate-ref HEAD
+      - name: Regression tests
+        run: |
+          python3 -m unittest test_history_immutability -v
+          python3 test_changelog_envelope.py
+          python3 test_build_daily_stats.py
+          python3 test_retractions_parity.py

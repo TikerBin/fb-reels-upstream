@@ -1,0 +1,5 @@
+#!/bin/sh
+# 对实际提交做校验；失败时 Git 在发送更新前退出。
+set -eu
+root=$(git rev-parse --show-toplevel)
+exec "${PYTHON:-python3}" "$root/validate_history.py" --pre-push
