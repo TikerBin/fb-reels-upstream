@@ -3,7 +3,10 @@
 import copy
 import io
 import json
+import os
 from pathlib import Path
+import subprocess
+import sys
 import tempfile
 import unittest
 from unittest.mock import patch
@@ -121,6 +124,20 @@ class HistoryTests(unittest.TestCase):
 
 
 class GateTests(unittest.TestCase):
+    def test_cli_leaves_no_python_cache(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            for name in ("validate_history.py", "changelog_utils.py"):
+                (root / name).write_bytes((guard.ROOT / name).read_bytes())
+            env = dict(os.environ)
+            env.pop("PYTHONDONTWRITEBYTECODE", None)
+            result = subprocess.run(
+                [sys.executable, str(root / "validate_history.py"), "--help"],
+                cwd=root, env=env, capture_output=True
+            )
+            self.assertEqual(result.returncode, 0)
+            self.assertFalse((root / "__pycache__").exists())
+
     def test_ambiguous_json_rejected(self):
         for source in ('{"events":[],"events":[]}', '{"x":NaN}', '{"x":Infinity}'):
             with self.subTest(source=source), self.assertRaises(ValueError):

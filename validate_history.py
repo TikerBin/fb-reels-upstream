@@ -8,6 +8,9 @@ import re
 import subprocess
 import sys
 
+# 门禁运行在发布仓库；包括 Git 钩子入口在内，不能生成随后被 git add -A 收入的缓存文件。
+sys.dont_write_bytecode = True
+
 from changelog_utils import assert_history_unchanged
 
 ROOT = Path(__file__).resolve().parent
