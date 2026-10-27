@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-10-26T09:28:58+08:00",
- "event_count": 502,
- "next_seq": 503,
+ "updated_at": "2026-10-27T09:13:51+08:00",
+ "event_count": 531,
+ "next_seq": 532,
  "events": [
   {
    "event_id": "evt-20261013-0001",
@@ -6107,6 +6107,296 @@
    "status": "active",
    "occurred_at": "2026-10-26T09:28:58+08:00",
    "reason": "2026-10-26 每日采集入库（军事/装备）"
+  },
+  {
+   "event_id": "evt-20261027-0503",
+   "seq": 503,
+   "item_id": "bambi-bucket-20261027",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-27T09:13:51+08:00",
+   "reason": "2026-10-27 每日采集入库（科技/新闻）"
+  },
+  {
+   "event_id": "evt-20261027-0504",
+   "seq": 504,
+   "item_id": "keen-sword-aeromedical-20261027",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-27T09:13:51+08:00",
+   "reason": "2026-10-27 每日采集入库（科技/新闻）"
+  },
+  {
+   "event_id": "evt-20261027-0505",
+   "seq": 505,
+   "item_id": "fa-axs-training-20261027",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-27T09:13:51+08:00",
+   "reason": "2026-10-27 每日采集入库（科技/新闻）"
+  },
+  {
+   "event_id": "evt-20261027-0506",
+   "seq": 506,
+   "item_id": "amigo-airshow-highlights-20261027",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-27T09:13:51+08:00",
+   "reason": "2026-10-27 每日采集入库（军事/装备）"
+  },
+  {
+   "event_id": "evt-20261027-0507",
+   "seq": 507,
+   "item_id": "amigo-501st-20261027",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-27T09:13:51+08:00",
+   "reason": "2026-10-27 每日采集入库（军事/装备）"
+  },
+  {
+   "event_id": "evt-20261027-0508",
+   "seq": 508,
+   "item_id": "qf16-zombie-vipers-20261027",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-27T09:13:51+08:00",
+   "reason": "2026-10-27 每日采集入库（军事/装备）"
+  },
+  {
+   "event_id": "evt-20261027-0509",
+   "seq": 509,
+   "item_id": "noaa-nodule-biology-20261027",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-27T09:13:51+08:00",
+   "reason": "2026-10-27 每日采集入库（自然/海洋生物）"
+  },
+  {
+   "event_id": "evt-20261027-0510",
+   "seq": 510,
+   "item_id": "noaa-life-on-rock-20261027",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-27T09:13:51+08:00",
+   "reason": "2026-10-27 每日采集入库（自然/海洋生物）"
+  },
+  {
+   "event_id": "evt-20261027-0511",
+   "seq": 511,
+   "item_id": "noaa-crinoid-primnoid-20261027",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-27T09:13:51+08:00",
+   "reason": "2026-10-27 每日采集入库（自然/海洋生物）"
+  },
+  {
+   "event_id": "evt-20261027-0512",
+   "seq": 512,
+   "item_id": "elt-inclining-20261027",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-27T09:13:51+08:00",
+   "reason": "2026-10-27 每日采集入库（科技/航天）"
+  },
+  {
+   "event_id": "evt-20261027-0513",
+   "seq": 513,
+   "item_id": "amr-warehouse-20261027",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-27T09:13:51+08:00",
+   "reason": "2026-10-27 每日采集入库（科技/教育）"
+  },
+  {
+   "event_id": "evt-20261027-0514",
+   "seq": 514,
+   "item_id": "coffee-robot-20261027",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-27T09:13:51+08:00",
+   "reason": "2026-10-27 每日采集入库（科技/教育）"
+  },
+  {
+   "event_id": "evt-20261027-0515",
+   "seq": 515,
+   "item_id": "ibm-blockchain-tickets-20261027",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-27T09:13:51+08:00",
+   "reason": "2026-10-27 每日采集入库（财经/科普）"
+  },
+  {
+   "event_id": "evt-20261027-0516",
+   "seq": 516,
+   "item_id": "ibm-crypto-anchors-20261027",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-27T09:13:51+08:00",
+   "reason": "2026-10-27 每日采集入库（财经/科普）"
+  },
+  {
+   "event_id": "evt-20261027-0517",
+   "seq": 517,
+   "item_id": "ibm-blockchain-food-20261027",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-27T09:13:51+08:00",
+   "reason": "2026-10-27 每日采集入库（财经/科普）"
+  },
+  {
+   "event_id": "evt-20261027-0518",
+   "seq": 518,
+   "item_id": "chess-academy-dc-20261027",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-27T09:13:51+08:00",
+   "reason": "2026-10-27 每日采集入库（游戏/生活方式）"
+  },
+  {
+   "event_id": "evt-20261027-0519",
+   "seq": 519,
+   "item_id": "chess-tournament-stuttgart-20261027",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-27T09:13:51+08:00",
+   "reason": "2026-10-27 每日采集入库（游戏/生活方式）"
+  },
+  {
+   "event_id": "evt-20261027-0520",
+   "seq": 520,
+   "item_id": "turf-football-arcade-20261027",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-27T09:13:51+08:00",
+   "reason": "2026-10-27 每日采集入库（游戏/生活方式）"
+  },
+  {
+   "event_id": "evt-20261027-0521",
+   "seq": 521,
+   "item_id": "hole-in-one-1927-20261027",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-27T09:13:51+08:00",
+   "reason": "2026-10-27 每日采集入库（影视/文化）"
+  },
+  {
+   "event_id": "evt-20261027-0522",
+   "seq": 522,
+   "item_id": "puppy-love-1928-20261027",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-27T09:13:51+08:00",
+   "reason": "2026-10-27 每日采集入库（影视/文化）"
+  },
+  {
+   "event_id": "evt-20261027-0523",
+   "seq": 523,
+   "item_id": "survival-atomic-1951-20261027",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-27T09:13:51+08:00",
+   "reason": "2026-10-27 每日采集入库（影视/文化）"
+  },
+  {
+   "event_id": "evt-20261027-0524",
+   "seq": 524,
+   "item_id": "kitesurfing-viganj-20261027",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-27T09:13:51+08:00",
+   "reason": "2026-10-27 每日采集入库（体育/历史）"
+  },
+  {
+   "event_id": "evt-20261027-0525",
+   "seq": 525,
+   "item_id": "ulaanbaatar-marathon-20261027",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-27T09:13:51+08:00",
+   "reason": "2026-10-27 每日采集入库（体育/历史）"
+  },
+  {
+   "event_id": "evt-20261027-0526",
+   "seq": 526,
+   "item_id": "fresco-dog-headed-20261027",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-27T09:13:51+08:00",
+   "reason": "2026-10-27 每日采集入库（文化/艺术）"
+  },
+  {
+   "event_id": "evt-20261027-0527",
+   "seq": 527,
+   "item_id": "pottery-class-20261027",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-27T09:13:51+08:00",
+   "reason": "2026-10-27 每日采集入库（文化/艺术）"
+  },
+  {
+   "event_id": "evt-20261027-0528",
+   "seq": 528,
+   "item_id": "mural-bulldog-20261027",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-27T09:13:51+08:00",
+   "reason": "2026-10-27 每日采集入库（文化/艺术）"
+  },
+  {
+   "event_id": "evt-20261027-0529",
+   "seq": 529,
+   "item_id": "common-tern-bakkhali-20261027",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-27T09:13:51+08:00",
+   "reason": "2026-10-27 每日采集入库（自然/风光）"
+  },
+  {
+   "event_id": "evt-20261027-0530",
+   "seq": 530,
+   "item_id": "baby-elephant-water-20261027",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-27T09:13:51+08:00",
+   "reason": "2026-10-27 每日采集入库（自然/风光）"
+  },
+  {
+   "event_id": "evt-20261027-0531",
+   "seq": 531,
+   "item_id": "falls-creek-waterfall-20261027",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-27T09:13:51+08:00",
+   "reason": "2026-10-27 每日采集入库（自然/风光）"
   }
  ]
 }
