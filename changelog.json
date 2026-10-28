@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-10-27T09:13:51+08:00",
- "event_count": 531,
- "next_seq": 532,
+ "updated_at": "2026-10-28T10:05:01+08:00",
+ "event_count": 562,
+ "next_seq": 563,
  "events": [
   {
    "event_id": "evt-20261013-0001",
@@ -6397,6 +6397,316 @@
    "status": "active",
    "occurred_at": "2026-10-27T09:13:51+08:00",
    "reason": "2026-10-27 每日采集入库（自然/风光）"
+  },
+  {
+   "event_id": "evt-20261028-0532",
+   "seq": 532,
+   "item_id": "f22-tsuiki-arrival-20261028",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-28T10:05:01+08:00",
+   "reason": "2026-10-28 每日采集入库（军事/装备）"
+  },
+  {
+   "event_id": "evt-20261028-0533",
+   "seq": 533,
+   "item_id": "keen-sword-culminating-20261028",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-28T10:05:01+08:00",
+   "reason": "2026-10-28 每日采集入库（军事/装备）"
+  },
+  {
+   "event_id": "evt-20261028-0534",
+   "seq": 534,
+   "item_id": "nonlethal-training-20261028",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-28T10:05:01+08:00",
+   "reason": "2026-10-28 每日采集入库（科技/新闻）"
+  },
+  {
+   "event_id": "evt-20261028-0535",
+   "seq": 535,
+   "item_id": "ready-airman-defense-20261028",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-28T10:05:01+08:00",
+   "reason": "2026-10-28 每日采集入库（科技/新闻）"
+  },
+  {
+   "event_id": "evt-20261028-0536",
+   "seq": 536,
+   "item_id": "ravens-community-20261028",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-28T10:05:01+08:00",
+   "reason": "2026-10-28 每日采集入库（体育/历史）"
+  },
+  {
+   "event_id": "evt-20261028-0537",
+   "seq": 537,
+   "item_id": "eso-debris-disc-j1328-20261028",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-28T10:05:01+08:00",
+   "reason": "2026-10-28 每日采集入库（科技/航天科普）"
+  },
+  {
+   "event_id": "evt-20261028-0538",
+   "seq": 538,
+   "item_id": "noirlab-ed138-zoom-20261028",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-28T10:05:01+08:00",
+   "reason": "2026-10-28 每日采集入库（科技/航天科普）"
+  },
+  {
+   "event_id": "evt-20261028-0539",
+   "seq": 539,
+   "item_id": "webb-treasure-chest-zoom-20261028",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-28T10:05:01+08:00",
+   "reason": "2026-10-28 每日采集入库（科技/航天科普）"
+  },
+  {
+   "event_id": "evt-20261028-0540",
+   "seq": 540,
+   "item_id": "hubble-cats-eye-zoom-20261028",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-28T10:05:01+08:00",
+   "reason": "2026-10-28 每日采集入库（文化/艺术）"
+  },
+  {
+   "event_id": "evt-20261028-0541",
+   "seq": 541,
+   "item_id": "webb-m82-zoom-20261028",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-28T10:05:01+08:00",
+   "reason": "2026-10-28 每日采集入库（文化/艺术）"
+  },
+  {
+   "event_id": "evt-20261028-0542",
+   "seq": 542,
+   "item_id": "hubble-crab-nebula-pan-20261028",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-28T10:05:01+08:00",
+   "reason": "2026-10-28 每日采集入库（文化/艺术）"
+  },
+  {
+   "event_id": "evt-20261028-0543",
+   "seq": 543,
+   "item_id": "c-robot-package-20261028",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-28T10:05:01+08:00",
+   "reason": "2026-10-28 每日采集入库（科技/教育）"
+  },
+  {
+   "event_id": "evt-20261028-0544",
+   "seq": 544,
+   "item_id": "c-robot-waiter-20261028",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-28T10:05:01+08:00",
+   "reason": "2026-10-28 每日采集入库（科技/教育）"
+  },
+  {
+   "event_id": "evt-20261028-0545",
+   "seq": 545,
+   "item_id": "c-robot-dog-go2-20261028",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-28T10:05:01+08:00",
+   "reason": "2026-10-28 每日采集入库（科技/教育）"
+  },
+  {
+   "event_id": "evt-20261028-0546",
+   "seq": 546,
+   "item_id": "c-srf-blockchain-20261028",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-28T10:05:01+08:00",
+   "reason": "2026-10-28 每日采集入库（财经/科普）"
+  },
+  {
+   "event_id": "evt-20261028-0547",
+   "seq": 547,
+   "item_id": "c-fbi-sos-20261028",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-28T10:05:01+08:00",
+   "reason": "2026-10-28 每日采集入库（科技/安全教育）"
+  },
+  {
+   "event_id": "evt-20261028-0548",
+   "seq": 548,
+   "item_id": "c-afn-cyber-radio-20261028",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-28T10:05:01+08:00",
+   "reason": "2026-10-28 每日采集入库（科技/安全教育）"
+  },
+  {
+   "event_id": "evt-20261028-0549",
+   "seq": 549,
+   "item_id": "c-ibm-he-haifa-20261028",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-28T10:05:01+08:00",
+   "reason": "2026-10-28 每日采集入库（科技/安全教育）"
+  },
+  {
+   "event_id": "evt-20261028-0550",
+   "seq": 550,
+   "item_id": "c-misawa-smash-20261028",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-28T10:05:01+08:00",
+   "reason": "2026-10-28 每日采集入库（游戏/生活方式）"
+  },
+  {
+   "event_id": "evt-20261028-0551",
+   "seq": 551,
+   "item_id": "c-pacaf-esports-20261028",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-28T10:05:01+08:00",
+   "reason": "2026-10-28 每日采集入库（游戏/生活方式）"
+  },
+  {
+   "event_id": "evt-20261028-0552",
+   "seq": 552,
+   "item_id": "c-roman-game-20261028",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-28T10:05:01+08:00",
+   "reason": "2026-10-28 每日采集入库（游戏/生活方式）"
+  },
+  {
+   "event_id": "evt-20261028-0553",
+   "seq": 553,
+   "item_id": "d-film-skeleton-20261028",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-28T10:05:01+08:00",
+   "reason": "2026-10-28 每日采集入库（影视/文化）"
+  },
+  {
+   "event_id": "evt-20261028-0554",
+   "seq": 554,
+   "item_id": "d-film-betty-20261028",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-28T10:05:01+08:00",
+   "reason": "2026-10-28 每日采集入库（影视/文化）"
+  },
+  {
+   "event_id": "evt-20261028-0555",
+   "seq": 555,
+   "item_id": "d-film-popeye-20261028",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-28T10:05:01+08:00",
+   "reason": "2026-10-28 每日采集入库（影视/文化）"
+  },
+  {
+   "event_id": "evt-20261028-0556",
+   "seq": 556,
+   "item_id": "d-art-dominic-20261028",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-28T10:05:01+08:00",
+   "reason": "2026-10-28 每日采集入库（文化/艺术）"
+  },
+  {
+   "event_id": "evt-20261028-0557",
+   "seq": 557,
+   "item_id": "d-art-harp-20261028",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-28T10:05:01+08:00",
+   "reason": "2026-10-28 每日采集入库（文化/艺术）"
+  },
+  {
+   "event_id": "evt-20261028-0558",
+   "seq": 558,
+   "item_id": "d-nature-waterfall-20261028",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-28T10:05:01+08:00",
+   "reason": "2026-10-28 每日采集入库（自然/风光）"
+  },
+  {
+   "event_id": "evt-20261028-0559",
+   "seq": 559,
+   "item_id": "d-marine-variety-20261028",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-28T10:05:01+08:00",
+   "reason": "2026-10-28 每日采集入库（自然/海洋生物）"
+  },
+  {
+   "event_id": "evt-20261028-0560",
+   "seq": 560,
+   "item_id": "d-marine-seacuke-20261028",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-28T10:05:01+08:00",
+   "reason": "2026-10-28 每日采集入库（自然/海洋生物）"
+  },
+  {
+   "event_id": "evt-20261028-0561",
+   "seq": 561,
+   "item_id": "d-marine-iridigorgia-20261028",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-28T10:05:01+08:00",
+   "reason": "2026-10-28 每日采集入库（自然/海洋生物）"
+  },
+  {
+   "event_id": "evt-20261028-0562",
+   "seq": 562,
+   "item_id": "d-travel-wintersafety-20261028",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-28T10:05:01+08:00",
+   "reason": "2026-10-28 每日采集入库（旅行/户外）"
   }
  ]
 }

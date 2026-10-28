@@ -1,19 +1,19 @@
 {
- "date": "2026-10-27",
+ "date": "2026-10-28",
  "timezone": "Asia/Shanghai",
- "stats_until": "2026-10-27T09:14:06+08:00",
- "last_event_seq": 531,
+ "stats_until": "2026-10-28T10:05:12+08:00",
+ "last_event_seq": 562,
  "category_basis": "LATEST_AT_STATS_UNTIL",
  "update_completed": true,
  "failure_reason": null,
  "pending_review_note": "上游无审核环节（采集→验货→入库），pending_review恒为0",
- "opening_inventory": 262,
- "closing_inventory": 291,
- "total_events_today": 29,
+ "opening_inventory": 291,
+ "closing_inventory": 322,
+ "total_events_today": 31,
  "note": "added：仅新素材ID首次入库（changelog中type=added事件，每个ID仅一次）；已有ID的字段补录、分类修正等记modified，不计入added。事件按occurred_at归属自然日（Asia/Shanghai）；modified按本日发生该变化的素材身份去重；同一素材多类变化在各列分别计数，不可直接相加；测试条目（is_test）不计入；last_event_seq为构建本日报所用完整changelog的最大序号（含测试事件，空历史为0）；分类归属口径见category_basis",
  "categories": {
   "影视/文化": {
-   "valid": 25,
+   "valid": 28,
    "pending_review": 0,
    "added": 3,
    "modified": 0,
@@ -22,18 +22,18 @@
    "restored": 0
   },
   "科技/航天科普": {
-   "valid": 17,
+   "valid": 20,
    "pending_review": 0,
-   "added": 0,
+   "added": 3,
    "modified": 0,
    "retracted": 0,
    "expired": 0,
    "restored": 0
   },
   "科技/安全教育": {
-   "valid": 13,
+   "valid": 16,
    "pending_review": 0,
-   "added": 0,
+   "added": 3,
    "modified": 0,
    "retracted": 0,
    "expired": 0,
@@ -49,9 +49,9 @@
    "restored": 0
   },
   "体育/历史": {
-   "valid": 16,
+   "valid": 17,
    "pending_review": 0,
-   "added": 2,
+   "added": 1,
    "modified": 0,
    "retracted": 0,
    "expired": 0,
@@ -67,9 +67,9 @@
    "restored": 0
   },
   "科技/教育": {
-   "valid": 14,
+   "valid": 17,
    "pending_review": 0,
-   "added": 2,
+   "added": 3,
    "modified": 0,
    "retracted": 0,
    "expired": 0,
@@ -85,7 +85,7 @@
    "restored": 0
   },
   "游戏/生活方式": {
-   "valid": 16,
+   "valid": 19,
    "pending_review": 0,
    "added": 3,
    "modified": 0,
@@ -94,9 +94,9 @@
    "restored": 0
   },
   "财经/科普": {
-   "valid": 14,
+   "valid": 15,
    "pending_review": 0,
-   "added": 3,
+   "added": 1,
    "modified": 0,
    "retracted": 0,
    "expired": 0,
@@ -114,16 +114,16 @@
   "科技/航天": {
    "valid": 13,
    "pending_review": 0,
-   "added": 1,
+   "added": 0,
    "modified": 0,
    "retracted": 0,
    "expired": 0,
    "restored": 0
   },
   "科技/新闻": {
-   "valid": 18,
+   "valid": 20,
    "pending_review": 0,
-   "added": 3,
+   "added": 2,
    "modified": 0,
    "retracted": 0,
    "expired": 0,
@@ -139,9 +139,9 @@
    "restored": 0
   },
   "文化/艺术": {
-   "valid": 22,
+   "valid": 27,
    "pending_review": 0,
-   "added": 3,
+   "added": 5,
    "modified": 0,
    "retracted": 0,
    "expired": 0,
@@ -157,16 +157,16 @@
    "restored": 0
   },
   "自然/风光": {
-   "valid": 23,
+   "valid": 24,
    "pending_review": 0,
-   "added": 3,
+   "added": 1,
    "modified": 0,
    "retracted": 0,
    "expired": 0,
    "restored": 0
   },
   "自然/海洋生物": {
-   "valid": 23,
+   "valid": 26,
    "pending_review": 0,
    "added": 3,
    "modified": 0,
@@ -175,18 +175,18 @@
    "restored": 0
   },
   "旅行/户外": {
-   "valid": 12,
+   "valid": 13,
    "pending_review": 0,
-   "added": 0,
+   "added": 1,
    "modified": 0,
    "retracted": 0,
    "expired": 0,
    "restored": 0
   },
   "军事/装备": {
-   "valid": 25,
+   "valid": 27,
    "pending_review": 0,
-   "added": 3,
+   "added": 2,
    "modified": 0,
    "retracted": 0,
    "expired": 0,
