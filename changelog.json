@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-10-28T10:05:01+08:00",
- "event_count": 562,
- "next_seq": 563,
+ "updated_at": "2026-10-29T10:31:00+08:00",
+ "event_count": 596,
+ "next_seq": 597,
  "events": [
   {
    "event_id": "evt-20261013-0001",
@@ -6707,6 +6707,346 @@
    "status": "active",
    "occurred_at": "2026-10-28T10:05:01+08:00",
    "reason": "2026-10-28 每日采集入库（旅行/户外）"
+  },
+  {
+   "event_id": "evt-20261029-0563",
+   "seq": 563,
+   "item_id": "fpv-strike-capability-20261029",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-29T10:31:00+08:00",
+   "reason": "2026-10-29 每日采集入库（科技/无人机）"
+  },
+  {
+   "event_id": "evt-20261029-0564",
+   "seq": 564,
+   "item_id": "fpv-strike-training-broll-20261029",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-29T10:31:00+08:00",
+   "reason": "2026-10-29 每日采集入库（科技/无人机）"
+  },
+  {
+   "event_id": "evt-20261029-0565",
+   "seq": 565,
+   "item_id": "ch47-amigo-airshow-20261029",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-29T10:31:00+08:00",
+   "reason": "2026-10-29 每日采集入库（军事/装备）"
+  },
+  {
+   "event_id": "evt-20261029-0566",
+   "seq": 566,
+   "item_id": "border-patrol-tecate-20261029",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-29T10:31:00+08:00",
+   "reason": "2026-10-29 每日采集入库（科技/新闻）"
+  },
+  {
+   "event_id": "evt-20261029-0567",
+   "seq": 567,
+   "item_id": "stockton-levee-20261029",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-29T10:31:00+08:00",
+   "reason": "2026-10-29 每日采集入库（科技/新闻）"
+  },
+  {
+   "event_id": "evt-20261029-0568",
+   "seq": 568,
+   "item_id": "c-drywall-humanoid-20261029",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-29T10:31:00+08:00",
+   "reason": "2026-10-29 每日采集入库（科技/教育）"
+  },
+  {
+   "event_id": "evt-20261029-0569",
+   "seq": 569,
+   "item_id": "c-watson-radiology-20261029",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-29T10:31:00+08:00",
+   "reason": "2026-10-29 每日采集入库（科技/教育）"
+  },
+  {
+   "event_id": "evt-20261029-0570",
+   "seq": 570,
+   "item_id": "c-robotcar-8track-20261029",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-29T10:31:00+08:00",
+   "reason": "2026-10-29 每日采集入库（科技/教育）"
+  },
+  {
+   "event_id": "evt-20261029-0571",
+   "seq": 571,
+   "item_id": "c-ja26-cyber-training-20261029",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-29T10:31:00+08:00",
+   "reason": "2026-10-29 每日采集入库（科技/安全教育）"
+  },
+  {
+   "event_id": "evt-20261029-0572",
+   "seq": 572,
+   "item_id": "c-fragattacks-wifi-20261029",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-29T10:31:00+08:00",
+   "reason": "2026-10-29 每日采集入库（科技/安全教育）"
+  },
+  {
+   "event_id": "evt-20261029-0573",
+   "seq": 573,
+   "item_id": "c-cyber-knowledge-graph-20261029",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-29T10:31:00+08:00",
+   "reason": "2026-10-29 每日采集入库（科技/安全教育）"
+  },
+  {
+   "event_id": "evt-20261029-0574",
+   "seq": 574,
+   "item_id": "c-drought-blockchain-20261029",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-29T10:31:00+08:00",
+   "reason": "2026-10-29 每日采集入库（科技/财经科普）"
+  },
+  {
+   "event_id": "evt-20261029-0575",
+   "seq": 575,
+   "item_id": "d-game-dmg-repair-20261029",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-29T10:31:00+08:00",
+   "reason": "2026-10-29 每日采集入库（游戏/怀旧文化）"
+  },
+  {
+   "event_id": "evt-20261029-0576",
+   "seq": 576,
+   "item_id": "d-game-gbc-repair-20261029",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-29T10:31:00+08:00",
+   "reason": "2026-10-29 每日采集入库（游戏/怀旧文化）"
+  },
+  {
+   "event_id": "evt-20261029-0577",
+   "seq": 577,
+   "item_id": "d-game-fossil-20261029",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-29T10:31:00+08:00",
+   "reason": "2026-10-29 每日采集入库（游戏/生活方式）"
+  },
+  {
+   "event_id": "evt-20261029-0578",
+   "seq": 578,
+   "item_id": "d-film-betty-blunderland-20261029",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-29T10:31:00+08:00",
+   "reason": "2026-10-29 每日采集入库（影视/文化）"
+  },
+  {
+   "event_id": "evt-20261029-0579",
+   "seq": 579,
+   "item_id": "d-film-betty-judge-20261029",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-29T10:31:00+08:00",
+   "reason": "2026-10-29 每日采集入库（影视/文化）"
+  },
+  {
+   "event_id": "evt-20261029-0580",
+   "seq": 580,
+   "item_id": "d-film-betty-swat-20261029",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-29T10:31:00+08:00",
+   "reason": "2026-10-29 每日采集入库（影视/文化）"
+  },
+  {
+   "event_id": "evt-20261029-0581",
+   "seq": 581,
+   "item_id": "d-sport-clash-clay-20261029",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-29T10:31:00+08:00",
+   "reason": "2026-10-29 每日采集入库（体育/历史）"
+  },
+  {
+   "event_id": "evt-20261029-0582",
+   "seq": 582,
+   "item_id": "d-sport-vintage-baseball-20261029",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-29T10:31:00+08:00",
+   "reason": "2026-10-29 每日采集入库（体育/历史）"
+  },
+  {
+   "event_id": "evt-20261029-0583",
+   "seq": 583,
+   "item_id": "d-art-zion-concert-20261029",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-29T10:31:00+08:00",
+   "reason": "2026-10-29 每日采集入库（文化/艺术）"
+  },
+  {
+   "event_id": "evt-20261029-0584",
+   "seq": 584,
+   "item_id": "d-art-jazz-trio-20261029",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-29T10:31:00+08:00",
+   "reason": "2026-10-29 每日采集入库（文化/艺术）"
+  },
+  {
+   "event_id": "evt-20261029-0585",
+   "seq": 585,
+   "item_id": "d-art-watercolor-practice-20261029",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-29T10:31:00+08:00",
+   "reason": "2026-10-29 每日采集入库（文化/手工）"
+  },
+  {
+   "event_id": "evt-20261029-0586",
+   "seq": 586,
+   "item_id": "e-marine-cuskeel-20261029",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-29T10:31:00+08:00",
+   "reason": "2026-10-29 每日采集入库（自然/海洋生物）"
+  },
+  {
+   "event_id": "evt-20261029-0587",
+   "seq": 587,
+   "item_id": "e-marine-seastar-20261029",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-29T10:31:00+08:00",
+   "reason": "2026-10-29 每日采集入库（自然/海洋生物）"
+  },
+  {
+   "event_id": "evt-20261029-0588",
+   "seq": 588,
+   "item_id": "e-marine-coralflight-20261029",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-29T10:31:00+08:00",
+   "reason": "2026-10-29 每日采集入库（自然/海洋生物）"
+  },
+  {
+   "event_id": "evt-20261029-0589",
+   "seq": 589,
+   "item_id": "e-scenery-kawaida-20261029",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-29T10:31:00+08:00",
+   "reason": "2026-10-29 每日采集入库（自然/风光）"
+  },
+  {
+   "event_id": "evt-20261029-0590",
+   "seq": 590,
+   "item_id": "e-scenery-muntjac-20261029",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-29T10:31:00+08:00",
+   "reason": "2026-10-29 每日采集入库（自然/风光）"
+  },
+  {
+   "event_id": "evt-20261029-0591",
+   "seq": 591,
+   "item_id": "e-scenery-brca-forest-20261029",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-29T10:31:00+08:00",
+   "reason": "2026-10-29 每日采集入库（自然/风光）"
+  },
+  {
+   "event_id": "evt-20261029-0592",
+   "seq": 592,
+   "item_id": "e-travel-hikingsafety-20261029",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-29T10:31:00+08:00",
+   "reason": "2026-10-29 每日采集入库（旅行/户外）"
+  },
+  {
+   "event_id": "evt-20261029-0593",
+   "seq": 593,
+   "item_id": "e-travel-grte-highway-20261029",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-29T10:31:00+08:00",
+   "reason": "2026-10-29 每日采集入库（旅行/户外）"
+  },
+  {
+   "event_id": "evt-20261029-0594",
+   "seq": 594,
+   "item_id": "r-ngc3137-pan-20261029",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-29T10:31:00+08:00",
+   "reason": "2026-10-29 每日采集入库（科技/航天科普）"
+  },
+  {
+   "event_id": "evt-20261029-0595",
+   "seq": 595,
+   "item_id": "r-ic486-pan-20261029",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-29T10:31:00+08:00",
+   "reason": "2026-10-29 每日采集入库（科技/航天科普）"
+  },
+  {
+   "event_id": "evt-20261029-0596",
+   "seq": 596,
+   "item_id": "r-protosupercluster-pan-20261029",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-29T10:31:00+08:00",
+   "reason": "2026-10-29 每日采集入库（科技/航天科普）"
   }
  ]
 }
