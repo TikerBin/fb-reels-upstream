@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-10-29T10:31:00+08:00",
- "event_count": 596,
- "next_seq": 597,
+ "updated_at": "2026-10-30T10:04:08+08:00",
+ "event_count": 627,
+ "next_seq": 628,
  "events": [
   {
    "event_id": "evt-20261013-0001",
@@ -7047,6 +7047,316 @@
    "status": "active",
    "occurred_at": "2026-10-29T10:31:00+08:00",
    "reason": "2026-10-29 每日采集入库（科技/航天科普）"
+  },
+  {
+   "event_id": "evt-20261030-0597",
+   "seq": 597,
+   "item_id": "news-cg-rescue-20261030",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-30T10:04:08+08:00",
+   "reason": "2026-10-30 每日采集入库（科技/新闻）"
+  },
+  {
+   "event_id": "evt-20261030-0598",
+   "seq": 598,
+   "item_id": "news-wifi-install-20261030",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-30T10:04:08+08:00",
+   "reason": "2026-10-30 每日采集入库（科技/新闻）"
+  },
+  {
+   "event_id": "evt-20261030-0599",
+   "seq": 599,
+   "item_id": "news-oxi-parade-20261030",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-30T10:04:08+08:00",
+   "reason": "2026-10-30 每日采集入库（科技/新闻）"
+  },
+  {
+   "event_id": "evt-20261030-0600",
+   "seq": 600,
+   "item_id": "ai-midjourney-art-20261030",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-30T10:04:08+08:00",
+   "reason": "2026-10-30 每日采集入库（科技/创客）"
+  },
+  {
+   "event_id": "evt-20261030-0601",
+   "seq": 601,
+   "item_id": "ai-chatgpt-how-20261030",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-30T10:04:08+08:00",
+   "reason": "2026-10-30 每日采集入库（科技/教育）"
+  },
+  {
+   "event_id": "evt-20261030-0602",
+   "seq": 602,
+   "item_id": "ai-deepseek-compare-20261030",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-30T10:04:08+08:00",
+   "reason": "2026-10-30 每日采集入库（科技/教育）"
+  },
+  {
+   "event_id": "evt-20261030-0603",
+   "seq": 603,
+   "item_id": "cyber-defensive-training-20261030",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-30T10:04:08+08:00",
+   "reason": "2026-10-30 每日采集入库（科技/安全教育）"
+  },
+  {
+   "event_id": "evt-20261030-0604",
+   "seq": 604,
+   "item_id": "cyber-ctf-blueteam-20261030",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-30T10:04:08+08:00",
+   "reason": "2026-10-30 每日采集入库（科技/安全教育）"
+  },
+  {
+   "event_id": "evt-20261030-0605",
+   "seq": 605,
+   "item_id": "cyber-yama-class-20261030",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-30T10:04:08+08:00",
+   "reason": "2026-10-30 每日采集入库（科技/安全教育）"
+  },
+  {
+   "event_id": "evt-20261030-0606",
+   "seq": 606,
+   "item_id": "eso-3iatlas-vlt-timelapse-20261030",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-30T10:04:08+08:00",
+   "reason": "2026-10-30 每日采集入库（科技/航天科普）"
+  },
+  {
+   "event_id": "evt-20261030-0607",
+   "seq": 607,
+   "item_id": "noirlab-sn2026gzf-evolution-20261030",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-30T10:04:08+08:00",
+   "reason": "2026-10-30 每日采集入库（科技/航天科普）"
+  },
+  {
+   "event_id": "evt-20261030-0608",
+   "seq": 608,
+   "item_id": "roman-telescope-cleanroom-drone-20261030",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-30T10:04:08+08:00",
+   "reason": "2026-10-30 每日采集入库（科技/航天科普）"
+  },
+  {
+   "event_id": "evt-20261030-0609",
+   "seq": 609,
+   "item_id": "commons-stsci-facility-drone-20261030",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-30T10:04:08+08:00",
+   "reason": "2026-10-30 每日采集入库（科技/无人机）"
+  },
+  {
+   "event_id": "evt-20261030-0610",
+   "seq": 610,
+   "item_id": "c-math-knight-20261030",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-30T10:04:08+08:00",
+   "reason": "2026-10-30 每日采集入库（游戏/生活方式）"
+  },
+  {
+   "event_id": "evt-20261030-0611",
+   "seq": 611,
+   "item_id": "c-betty-nono-20261030",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-30T10:04:08+08:00",
+   "reason": "2026-10-30 每日采集入库（影视/文化）"
+  },
+  {
+   "event_id": "evt-20261030-0612",
+   "seq": 612,
+   "item_id": "c-betty-palm-20261030",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-30T10:04:08+08:00",
+   "reason": "2026-10-30 每日采集入库（影视/文化）"
+  },
+  {
+   "event_id": "evt-20261030-0613",
+   "seq": 613,
+   "item_id": "c-betty-soap-20261030",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-30T10:04:08+08:00",
+   "reason": "2026-10-30 每日采集入库（影视/文化）"
+  },
+  {
+   "event_id": "evt-20261030-0614",
+   "seq": 614,
+   "item_id": "c-london-marathon-20261030",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-30T10:04:08+08:00",
+   "reason": "2026-10-30 每日采集入库（体育/历史）"
+  },
+  {
+   "event_id": "evt-20261030-0615",
+   "seq": 615,
+   "item_id": "c-powmia-walkrun-20261030",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-30T10:04:08+08:00",
+   "reason": "2026-10-30 每日采集入库（体育/历史）"
+  },
+  {
+   "event_id": "evt-20261030-0616",
+   "seq": 616,
+   "item_id": "d-art-catshead-20261030",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-30T10:04:08+08:00",
+   "reason": "2026-10-30 每日采集入库（文化/艺术）"
+  },
+  {
+   "event_id": "evt-20261030-0617",
+   "seq": 617,
+   "item_id": "d-art-calaca-20261030",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-30T10:04:08+08:00",
+   "reason": "2026-10-30 每日采集入库（文化/艺术）"
+  },
+  {
+   "event_id": "evt-20261030-0618",
+   "seq": 618,
+   "item_id": "d-art-ramstein-mural-20261030",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-30T10:04:08+08:00",
+   "reason": "2026-10-30 每日采集入库（文化/艺术）"
+  },
+  {
+   "event_id": "evt-20261030-0619",
+   "seq": 619,
+   "item_id": "d-nature-bees-20261030",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-30T10:04:08+08:00",
+   "reason": "2026-10-30 每日采集入库（自然/风光）"
+  },
+  {
+   "event_id": "evt-20261030-0620",
+   "seq": 620,
+   "item_id": "d-marine-sponge-20261030",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-30T10:04:08+08:00",
+   "reason": "2026-10-30 每日采集入库（自然/海洋生物）"
+  },
+  {
+   "event_id": "evt-20261030-0621",
+   "seq": 621,
+   "item_id": "d-marine-dive11-20261030",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-30T10:04:08+08:00",
+   "reason": "2026-10-30 每日采集入库（自然/海洋生物）"
+  },
+  {
+   "event_id": "evt-20261030-0622",
+   "seq": 622,
+   "item_id": "d-marine-seacucumbers-20261030",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-30T10:04:08+08:00",
+   "reason": "2026-10-30 每日采集入库（自然/海洋生物）"
+  },
+  {
+   "event_id": "evt-20261030-0623",
+   "seq": 623,
+   "item_id": "e-travel-acad-carriage-20261030",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-30T10:04:08+08:00",
+   "reason": "2026-10-30 每日采集入库（旅行/户外）"
+  },
+  {
+   "event_id": "evt-20261030-0624",
+   "seq": 624,
+   "item_id": "e-travel-yell-backcountry-20261030",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-30T10:04:08+08:00",
+   "reason": "2026-10-30 每日采集入库（旅行/户外）"
+  },
+  {
+   "event_id": "evt-20261030-0625",
+   "seq": 625,
+   "item_id": "e-travel-zion-fast-hiking-20261030",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-30T10:04:08+08:00",
+   "reason": "2026-10-30 每日采集入库（旅行/户外）"
+  },
+  {
+   "event_id": "evt-20261030-0626",
+   "seq": 626,
+   "item_id": "e-mil-heli-rescue-school-20261030",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-30T10:04:08+08:00",
+   "reason": "2026-10-30 每日采集入库（军事/装备）"
+  },
+  {
+   "event_id": "evt-20261030-0627",
+   "seq": 627,
+   "item_id": "e-mil-breaching-uas-20261030",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-30T10:04:08+08:00",
+   "reason": "2026-10-30 每日采集入库（军事/装备）"
   }
  ]
 }
