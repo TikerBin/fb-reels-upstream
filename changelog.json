@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-10-30T10:04:08+08:00",
- "event_count": 627,
- "next_seq": 628,
+ "updated_at": "2026-10-31T09:34:49+08:00",
+ "event_count": 657,
+ "next_seq": 658,
  "events": [
   {
    "event_id": "evt-20261013-0001",
@@ -7357,6 +7357,306 @@
    "status": "active",
    "occurred_at": "2026-10-30T10:04:08+08:00",
    "reason": "2026-10-30 每日采集入库（军事/装备）"
+  },
+  {
+   "event_id": "evt-20261031-0628",
+   "seq": 628,
+   "item_id": "news-border-arrest-sandiego-20261031",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-31T09:34:49+08:00",
+   "reason": "2026-10-31 每日采集入库（科技/新闻）"
+  },
+  {
+   "event_id": "evt-20261031-0629",
+   "seq": 629,
+   "item_id": "mil-c146-wolfhound-dirt-strip-20261031",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-31T09:34:49+08:00",
+   "reason": "2026-10-31 每日采集入库（军事/装备）"
+  },
+  {
+   "event_id": "evt-20261031-0630",
+   "seq": 630,
+   "item_id": "mil-cro-aquatic-day-20261031",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-31T09:34:49+08:00",
+   "reason": "2026-10-31 每日采集入库（军事/装备）"
+  },
+  {
+   "event_id": "evt-20261031-0631",
+   "seq": 631,
+   "item_id": "mil-cro-aquatic-night-20261031",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-31T09:34:49+08:00",
+   "reason": "2026-10-31 每日采集入库（军事/装备）"
+  },
+  {
+   "event_id": "evt-20261031-0632",
+   "seq": 632,
+   "item_id": "travel-zion-emerald-pools-bridge-20261031",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-31T09:34:49+08:00",
+   "reason": "2026-10-31 每日采集入库（旅行/户外）"
+  },
+  {
+   "event_id": "evt-20261031-0633",
+   "seq": 633,
+   "item_id": "travel-zion-shuttle-seats-20261031",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-31T09:34:49+08:00",
+   "reason": "2026-10-31 每日采集入库（旅行/户外）"
+  },
+  {
+   "event_id": "evt-20261031-0634",
+   "seq": 634,
+   "item_id": "travel-zion-mtcarmel-vehicle-rules-20261031",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-31T09:34:49+08:00",
+   "reason": "2026-10-31 每日采集入库（旅行/户外）"
+  },
+  {
+   "event_id": "evt-20261031-0635",
+   "seq": 635,
+   "item_id": "nature-bighorn-ewes-romo-20261031",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-31T09:34:49+08:00",
+   "reason": "2026-10-31 每日采集入库（自然/风光）"
+  },
+  {
+   "event_id": "evt-20261031-0636",
+   "seq": 636,
+   "item_id": "nature-elk-autumn-romo-20261031",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-31T09:34:49+08:00",
+   "reason": "2026-10-31 每日采集入库（自然/风光）"
+  },
+  {
+   "event_id": "evt-20261031-0637",
+   "seq": 637,
+   "item_id": "nature-yellowstone-trout-survey-20261031",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-31T09:34:49+08:00",
+   "reason": "2026-10-31 每日采集入库（自然/风光）"
+  },
+  {
+   "event_id": "evt-20261031-0638",
+   "seq": 638,
+   "item_id": "sci-ngc7253-galaxy-pair-20261031",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-31T09:34:49+08:00",
+   "reason": "2026-10-31 每日采集入库（科技/航天科普）"
+  },
+  {
+   "event_id": "evt-20261031-0639",
+   "seq": 639,
+   "item_id": "sci-nysa-asteroid-20261031",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-31T09:34:49+08:00",
+   "reason": "2026-10-31 每日采集入库（科技/航天科普）"
+  },
+  {
+   "event_id": "evt-20261031-0640",
+   "seq": 640,
+   "item_id": "sci-elt-snowy-day-20261031",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-31T09:34:49+08:00",
+   "reason": "2026-10-31 每日采集入库（科技/航天科普）"
+  },
+  {
+   "event_id": "evt-20261031-0641",
+   "seq": 641,
+   "item_id": "art-jades-flythrough-20261031",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-31T09:34:49+08:00",
+   "reason": "2026-10-31 每日采集入库（文化/艺术）"
+  },
+  {
+   "event_id": "evt-20261031-0642",
+   "seq": 642,
+   "item_id": "art-saturn-two-views-20261031",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-31T09:34:49+08:00",
+   "reason": "2026-10-31 每日采集入库（文化/艺术）"
+  },
+  {
+   "event_id": "evt-20261031-0643",
+   "seq": 643,
+   "item_id": "art-artemis-flyby-viz-20261031",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-31T09:34:49+08:00",
+   "reason": "2026-10-31 每日采集入库（文化/艺术）"
+  },
+  {
+   "event_id": "evt-20261031-0644",
+   "seq": 644,
+   "item_id": "ai-generative-explained-20261031",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-31T09:34:49+08:00",
+   "reason": "2026-10-31 每日采集入库（科技/教育）"
+  },
+  {
+   "event_id": "evt-20261031-0645",
+   "seq": 645,
+   "item_id": "ai-rag-chatbot-part1-20261031",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-31T09:34:49+08:00",
+   "reason": "2026-10-31 每日采集入库（科技/教育）"
+  },
+  {
+   "event_id": "evt-20261031-0646",
+   "seq": 646,
+   "item_id": "ai-mussel-deep-learning-20261031",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-31T09:34:49+08:00",
+   "reason": "2026-10-31 每日采集入库（科技/教育）"
+  },
+  {
+   "event_id": "evt-20261031-0647",
+   "seq": 647,
+   "item_id": "game-mweso-tournament-20261031",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-31T09:34:49+08:00",
+   "reason": "2026-10-31 每日采集入库（游戏/生活方式）"
+  },
+  {
+   "event_id": "evt-20261031-0648",
+   "seq": 648,
+   "item_id": "game-mweso-buganda-minister-20261031",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-31T09:34:49+08:00",
+   "reason": "2026-10-31 每日采集入库（游戏/生活方式）"
+  },
+  {
+   "event_id": "evt-20261031-0649",
+   "seq": 649,
+   "item_id": "film-felix-magic-bag-20261031",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-31T09:34:49+08:00",
+   "reason": "2026-10-31 每日采集入库（影视/文化）"
+  },
+  {
+   "event_id": "evt-20261031-0650",
+   "seq": 650,
+   "item_id": "film-felix-gets-left-20261031",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-31T09:34:49+08:00",
+   "reason": "2026-10-31 每日采集入库（影视/文化）"
+  },
+  {
+   "event_id": "evt-20261031-0651",
+   "seq": 651,
+   "item_id": "film-dumb-patrol-1931-20261031",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-31T09:34:49+08:00",
+   "reason": "2026-10-31 每日采集入库（影视/文化）"
+  },
+  {
+   "event_id": "evt-20261031-0652",
+   "seq": 652,
+   "item_id": "marine-merchant-cap-jelly-20261031",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-31T09:34:49+08:00",
+   "reason": "2026-10-31 每日采集入库（自然/海洋生物）"
+  },
+  {
+   "event_id": "evt-20261031-0653",
+   "seq": 653,
+   "item_id": "marine-cutthroat-eel-20261031",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-31T09:34:49+08:00",
+   "reason": "2026-10-31 每日采集入库（自然/海洋生物）"
+  },
+  {
+   "event_id": "evt-20261031-0654",
+   "seq": 654,
+   "item_id": "marine-catshark-20261031",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-31T09:34:49+08:00",
+   "reason": "2026-10-31 每日采集入库（自然/海洋生物）"
+  },
+  {
+   "event_id": "evt-20261031-0655",
+   "seq": 655,
+   "item_id": "uas-miniboat-launch-20261031",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-31T09:34:49+08:00",
+   "reason": "2026-10-31 每日采集入库（科技/无人机）"
+  },
+  {
+   "event_id": "evt-20261031-0656",
+   "seq": 656,
+   "item_id": "uas-mohawk-rov-launch-20261031",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-31T09:34:49+08:00",
+   "reason": "2026-10-31 每日采集入库（科技/无人机）"
+  },
+  {
+   "event_id": "evt-20261031-0657",
+   "seq": 657,
+   "item_id": "uas-drix-usv-20261031",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-10-31T09:34:49+08:00",
+   "reason": "2026-10-31 每日采集入库（科技/无人机）"
   }
  ]
 }

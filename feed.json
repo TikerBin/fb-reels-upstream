@@ -9,12 +9,12 @@
   {
    "vertical": "新闻/财经",
    "community": "Everyday News and Money Discussion",
-   "count": 28
+   "count": 29
   },
   {
    "vertical": "AI",
    "community": "AI Tools and Everyday Uses",
-   "count": 22
+   "count": 25
   },
   {
    "vertical": "加密资产",
@@ -24,27 +24,27 @@
   {
    "vertical": "无人系统",
    "community": "Robotics and Automation Brief",
-   "count": 29
+   "count": 32
   },
   {
    "vertical": "军事航空装备",
    "community": "Robotics and Automation Brief",
-   "count": 30
+   "count": 33
   },
   {
    "vertical": "科学",
    "community": "Science Worth Understanding",
-   "count": 39
+   "count": 42
   },
   {
    "vertical": "纯自然风景/野生动物",
    "community": "Science Worth Understanding",
-   "count": 27
+   "count": 30
   },
   {
    "vertical": "海洋生物/深海",
    "community": "Science Worth Understanding",
-   "count": 32
+   "count": 35
   },
   {
    "vertical": "网络安全",
@@ -54,12 +54,12 @@
   {
    "vertical": "游戏",
    "community": "Next Game Brief",
-   "count": 28
+   "count": 30
   },
   {
    "vertical": "影视",
    "community": "Screen Stories Brief",
-   "count": 34
+   "count": 37
   },
   {
    "vertical": "体育",
@@ -69,15 +69,946 @@
   {
    "vertical": "国家公园旅行/户外",
    "community": "Beyond the Score Brief",
-   "count": 18
+   "count": 21
   },
   {
    "vertical": "艺术设计",
    "community": "Design Worth Noticing",
-   "count": 37
+   "count": 40
   }
  ],
  "items": [
+  {
+   "id": "news-border-arrest-sandiego-20261031",
+   "url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112111798/DOD_112111798.mp4",
+   "title": "U.S. Border Patrol Arrest in San Diego",
+   "summary": "美国边境巡逻队圣迭戈辖区执法人员在 Mine Canyon 附近处置一名在指定口岸之间入境的人员的实拍画面（当事人面部已做模糊处理），执法记录仪视角，含警车与现场处置过程。",
+   "content_text": "内容总结：美国边境巡逻队圣迭戈辖区执法人员在 Mine Canyon 附近处置一名在指定口岸之间入境的人员的实拍画面（当事人面部已做模糊处理），执法记录仪视角，含警车与现场处置过程。\n内容类型：科技/新闻\n对应社群：Everyday News and Money Discussion\n许可证：Public domain（无需署名）\nReels角度：47 秒执法一线实拍：边境巡逻现场处置全过程\n热点挂钩：美国边境执法一线实拍，配合边境与移民执法话题讨论。\n规格：47.333333秒，1920x1080，约56.6MB",
+   "date_published": "2026-10-31T09:34:49+08:00",
+   "tags": [
+    "科技/新闻",
+    "Everyday News and Money Discussion",
+    "美国边境执法一线实拍，配合边境与移民执法话题讨论。"
+   ],
+   "attachments": [
+    {
+     "url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112111798/DOD_112111798.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 59337504,
+     "duration_in_seconds": 47.333333
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_source_url": "https://www.dvidshub.net/video/1028229/us-border-patrol-arrest-san-diego",
+   "_footage_type": "真实拍摄",
+   "_event_date": "2026-10-15",
+   "_filmed_date": "2026-10-15",
+   "_original_upload_date": "2026-10-30"
+  },
+  {
+   "id": "mil-c146-wolfhound-dirt-strip-20261031",
+   "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/dvids-c146-wolfhound-20261031_60s.mp4",
+   "title": "C-146 Wolfhound landing and takeoff",
+   "summary": "美军第 492 特种作战联队一架 C-146A Wolfhound 运输机在佛罗里达埃格林空军基地靶场土跑道上起降训练的实拍画面；交付文件为自剪 60 秒 720p 成品（取母带起降扬尘段）。",
+   "content_text": "内容总结：美军第 492 特种作战联队一架 C-146A Wolfhound 运输机在佛罗里达埃格林空军基地靶场土跑道上起降训练的实拍画面；交付文件为自剪 60 秒 720p 成品（取母带起降扬尘段）。\n内容类型：军事/装备\n对应社群：Robotics and Automation Brief\n许可证：Public domain（无需署名）\nReels角度：土跑道扬尘起降：轻型特种运输机野战起降能力\n热点挂钩：美军特种作战航空兵土跑道起降训练实拍。\n规格：60.026267秒，1280x720，约9.3MB",
+   "date_published": "2026-10-31T09:34:49+08:00",
+   "tags": [
+    "军事/装备",
+    "Robotics and Automation Brief",
+    "美军特种作战航空兵土跑道起降训练实拍。"
+   ],
+   "attachments": [
+    {
+     "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/dvids-c146-wolfhound-20261031_60s.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 9723447,
+     "duration_in_seconds": 60.026267
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_source_url": "https://www.dvidshub.net/video/1028234/c-146-wolfhound-landing-and-takeoff",
+   "_master_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112111859/DOD_112111859.mp4",
+   "_footage_type": "真实拍摄",
+   "_event_date": "2026-10-22",
+   "_filmed_date": "2026-10-22",
+   "_original_upload_date": "2026-10-30",
+   "_recommended_segment": {
+    "start_seconds": 0,
+    "end_seconds": 60.0
+   }
+  },
+  {
+   "id": "mil-cro-aquatic-day-20261031",
+   "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/dvids-cro-aquatic-day-20261031_60s.mp4",
+   "title": "CRO Phase II aquatic b-roll",
+   "summary": "美军战斗救援军官（CRO）第二阶段选拔日间水上训练实拍：泳池边集结与水下游泳画面；交付文件为自剪 60 秒竖构图成品。",
+   "content_text": "内容总结：美军战斗救援军官（CRO）第二阶段选拔日间水上训练实拍：泳池边集结与水下游泳画面；交付文件为自剪 60 秒竖构图成品。\n内容类型：军事/装备\n对应社群：Robotics and Automation Brief\n许可证：Public domain（无需署名）\nReels角度：特种救援选拔水上课目：泳池集结与水下游泳\n热点挂钩：美军战斗救援选拔水上训练实拍，日间场次。\n规格：60.0秒，720x960，约30.3MB",
+   "date_published": "2026-10-31T09:34:49+08:00",
+   "tags": [
+    "军事/装备",
+    "Robotics and Automation Brief",
+    "美军战斗救援选拔水上训练实拍，日间场次。"
+   ],
+   "attachments": [
+    {
+     "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/dvids-cro-aquatic-day-20261031_60s.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 31722067,
+     "duration_in_seconds": 60.0
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_source_url": "https://www.dvidshub.net/video/1028244/cro-phase-ii-aquatic-b-roll",
+   "_master_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112111995/DOD_112111995.mp4",
+   "_footage_type": "真实拍摄",
+   "_event_date": "2026-10-29",
+   "_filmed_date": "2026-10-29",
+   "_original_upload_date": "2026-10-30",
+   "_recommended_segment": {
+    "start_seconds": 0,
+    "end_seconds": 60.0
+   }
+  },
+  {
+   "id": "mil-cro-aquatic-night-20261031",
+   "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/dvids-cro-aquatic-night-20261031_60s.mp4",
+   "title": "CRO Phase II nighttime aquatic b-roll",
+   "summary": "美军战斗救援军官（CRO）第二阶段选拔夜间水上训练实拍：夜色泳池、夜光标记与岸边集结画面；交付文件为自剪 60 秒 720p 成品。注：与日间场次为同一选拔的不同场次独立发布件，镜头内容不同。",
+   "content_text": "内容总结：美军战斗救援军官（CRO）第二阶段选拔夜间水上训练实拍：夜色泳池、夜光标记与岸边集结画面；交付文件为自剪 60 秒 720p 成品。注：与日间场次为同一选拔的不同场次独立发布件，镜头内容不同。\n内容类型：军事/装备\n对应社群：Robotics and Automation Brief\n许可证：Public domain（无需署名）\nReels角度：夜间水上选拔：夜光标记下的泳池训练\n热点挂钩：美军战斗救援选拔水上训练实拍，夜间场次，与日间场次为不同场次。\n规格：60.0秒，1280x720，约22.4MB",
+   "date_published": "2026-10-31T09:34:49+08:00",
+   "tags": [
+    "军事/装备",
+    "Robotics and Automation Brief",
+    "美军战斗救援选拔水上训练实拍，夜间场次，与日间场次为不同场次。"
+   ],
+   "attachments": [
+    {
+     "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/dvids-cro-aquatic-night-20261031_60s.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 23536072,
+     "duration_in_seconds": 60.0
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_source_url": "https://www.dvidshub.net/video/1028245/cro-phase-ii-nighttime-aquatic-b-roll",
+   "_master_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112111998/DOD_112111998.mp4",
+   "_footage_type": "真实拍摄",
+   "_event_date": "2026-10-29",
+   "_filmed_date": "2026-10-29",
+   "_original_upload_date": "2026-10-30",
+   "_recommended_segment": {
+    "start_seconds": 0,
+    "end_seconds": 60.0
+   }
+  },
+  {
+   "id": "travel-zion-emerald-pools-bridge-20261031",
+   "url": "https://www.nps.gov/nps-audiovideo/audiovideo/575acef7-4d1b-46ad-a10c-f9f838432d6e720p.mp4",
+   "title": "Zion National Park Reopens Emerald Pools Bridge",
+   "summary": "锡安国家公园 Emerald Pools 步道桥经大规模重建后重新开放的实拍画面：吊车吊装桥体、工地施工与工人在新桥上作业。来源地址为 NPS 单条视频页（view.htm?id= 形式，下游验收尚待定）。",
+   "content_text": "内容总结：锡安国家公园 Emerald Pools 步道桥经大规模重建后重新开放的实拍画面：吊车吊装桥体、工地施工与工人在新桥上作业。来源地址为 NPS 单条视频页（view.htm?id= 形式，下游验收尚待定）。\n内容类型：旅行/户外\n对应社群：Beyond the Score Brief\n许可证：Public domain（无需署名）\nReels角度：国家公园设施重开：吊车吊装一座步道桥\n热点挂钩：国家公园游览设施新闻：锡安 Emerald Pools 桥重建重开。\n规格：291.658033秒，1280x720，约125.4MB",
+   "date_published": "2026-10-31T09:34:49+08:00",
+   "tags": [
+    "旅行/户外",
+    "Beyond the Score Brief",
+    "国家公园游览设施新闻：锡安 Emerald Pools 桥重建重开。"
+   ],
+   "attachments": [
+    {
+     "url": "https://www.nps.gov/nps-audiovideo/audiovideo/575acef7-4d1b-46ad-a10c-f9f838432d6e720p.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 131506372,
+     "duration_in_seconds": 291.658033
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_source_url": "https://www.nps.gov/media/video/view.htm?id=6F8E4C17-28BF-4229-9A62-DD84158B01B5",
+   "_footage_type": "真实拍摄",
+   "_original_upload_date": "2025-06-10",
+   "_recommended_segment": {
+    "start_seconds": 35,
+    "end_seconds": 95
+   }
+  },
+  {
+   "id": "travel-zion-shuttle-seats-20261031",
+   "url": "https://www.nps.gov/nps-audiovideo/audiovideo/efcdd4fc-854f-4fbc-85bf-5c1856d8ab0e720p.mp4",
+   "title": "Seats on the Shuttle",
+   "summary": "锡安国家公园班车乘坐提示短片：护林员面向镜头介绍乘班车游览的座位选择与注意事项，含车内与窗外峡谷画面，竖构图，含屏显文字提示。来源地址为 NPS 单条视频页（view.htm?id= 形式，下游验收尚待定）。",
+   "content_text": "内容总结：锡安国家公园班车乘坐提示短片：护林员面向镜头介绍乘班车游览的座位选择与注意事项，含车内与窗外峡谷画面，竖构图，含屏显文字提示。来源地址为 NPS 单条视频页（view.htm?id= 形式，下游验收尚待定）。\n内容类型：旅行/户外\n对应社群：Beyond the Score Brief\n许可证：Public domain（无需署名）\nReels角度：锡安班车怎么坐：护林员 60 秒乘坐提示\n热点挂钩：国家公园自助游实用贴士：锡安班车乘坐指南。\n规格：59.8598秒，1280x720，约10.9MB",
+   "date_published": "2026-10-31T09:34:49+08:00",
+   "tags": [
+    "旅行/户外",
+    "Beyond the Score Brief",
+    "国家公园自助游实用贴士：锡安班车乘坐指南。"
+   ],
+   "attachments": [
+    {
+     "url": "https://www.nps.gov/nps-audiovideo/audiovideo/efcdd4fc-854f-4fbc-85bf-5c1856d8ab0e720p.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 11471845,
+     "duration_in_seconds": 59.8598
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_source_url": "https://www.nps.gov/media/video/view.htm?id=8D769DB7-9694-4D50-8D3B-72CD838A623E",
+   "_footage_type": "真实拍摄",
+   "_original_upload_date": "2025-09-15"
+  },
+  {
+   "id": "travel-zion-mtcarmel-vehicle-rules-20261031",
+   "url": "https://www.nps.gov/nps-audiovideo/audiovideo/3c542330-b7f5-4d1e-b876-d412a6bfbb86720p.mp4",
+   "title": "Zion-Mt. Carmel Vehicle Restrictions",
+   "summary": "锡安—Mt. Carmel 公路及隧道车辆限行规定介绍短片：公路行车实拍结合示意图解说单车长度限制。来源地址为 NPS 单条视频页（view.htm?id= 形式，下游验收尚待定）。",
+   "content_text": "内容总结：锡安—Mt. Carmel 公路及隧道车辆限行规定介绍短片：公路行车实拍结合示意图解说单车长度限制。来源地址为 NPS 单条视频页（view.htm?id= 形式，下游验收尚待定）。\n内容类型：旅行/户外\n对应社群：Beyond the Score Brief\n许可证：Public domain（无需署名）\nReels角度：自驾锡安先看限行：隧道与公路车辆尺寸规定\n热点挂钩：国家公园自驾贴士：锡安—Mt. Carmel 隧道车辆限行。\n规格：71.204467秒，1280x720，约5.5MB",
+   "date_published": "2026-10-31T09:34:49+08:00",
+   "tags": [
+    "旅行/户外",
+    "Beyond the Score Brief",
+    "国家公园自驾贴士：锡安—Mt. Carmel 隧道车辆限行。"
+   ],
+   "attachments": [
+    {
+     "url": "https://www.nps.gov/nps-audiovideo/audiovideo/3c542330-b7f5-4d1e-b876-d412a6bfbb86720p.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 5739133,
+     "duration_in_seconds": 71.204467
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_author": "NPS/Wil Marischen",
+   "_source_url": "https://www.nps.gov/media/video/view.htm?id=ACD55AEB-3704-4EE5-85C0-CECDAEB15A1E",
+   "_footage_type": "混合（真实拍摄+示意图）",
+   "_original_upload_date": "2026-01-05",
+   "_recommended_segment": {
+    "start_seconds": 0,
+    "end_seconds": 60
+   }
+  },
+  {
+   "id": "nature-bighorn-ewes-romo-20261031",
+   "url": "https://www.nps.gov/nps-audiovideo/audiovideo/4efa9017-da64-4b83-a460-714e1904fc13720p.mp4",
+   "title": "B-Roll: Bighorn Sheep Ewes",
+   "summary": "落基山国家公园内大角羊母羊群在水塘边草地吃草的纯野外实拍 B-roll。来源地址为 NPS 单条视频页（view.htm?id= 形式，下游验收尚待定）。",
+   "content_text": "内容总结：落基山国家公园内大角羊母羊群在水塘边草地吃草的纯野外实拍 B-roll。来源地址为 NPS 单条视频页（view.htm?id= 形式，下游验收尚待定）。\n内容类型：自然/风光\n对应社群：Science Worth Understanding\n许可证：Public domain（无需署名）\nReels角度：野外一分钟：落基山与黄石的动物与调查工作\n热点挂钩：国家公园野生动物实拍：大角羊、秋季麋鹿与鳟鱼产卵调查。\n规格：150.08秒，1280x720，约72.8MB",
+   "date_published": "2026-10-31T09:34:49+08:00",
+   "tags": [
+    "自然/风光",
+    "Science Worth Understanding",
+    "国家公园野生动物实拍：大角羊、秋季麋鹿与鳟鱼产卵调查。"
+   ],
+   "attachments": [
+    {
+     "url": "https://www.nps.gov/nps-audiovideo/audiovideo/4efa9017-da64-4b83-a460-714e1904fc13720p.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 76367580,
+     "duration_in_seconds": 150.08
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_author": "NPS",
+   "_source_url": "https://www.nps.gov/media/video/view.htm?id=E632168C-92E5-43FA-AC53-D442C5B49C92",
+   "_footage_type": "真实拍摄",
+   "_original_upload_date": "2025-06-06",
+   "_recommended_segment": {
+    "start_seconds": 55,
+    "end_seconds": 115
+   }
+  },
+  {
+   "id": "nature-elk-autumn-romo-20261031",
+   "url": "https://www.nps.gov/nps-audiovideo/audiovideo/979338f1-d5d6-4f9f-8f7d-f641eac1de29720p.mp4",
+   "title": "B-Roll: Elk in Autumn in Rocky Mountain National Park",
+   "summary": "落基山国家公园秋季麋鹿的野外实拍 B-roll：长角公麋鹿鸣叫与漫步。来源地址为 NPS 单条视频页（view.htm?id= 形式，下游验收尚待定）。",
+   "content_text": "内容总结：落基山国家公园秋季麋鹿的野外实拍 B-roll：长角公麋鹿鸣叫与漫步。来源地址为 NPS 单条视频页（view.htm?id= 形式，下游验收尚待定）。\n内容类型：自然/风光\n对应社群：Science Worth Understanding\n许可证：Public domain（无需署名）\nReels角度：野外一分钟：落基山与黄石的动物与调查工作\n热点挂钩：国家公园野生动物实拍：大角羊、秋季麋鹿与鳟鱼产卵调查。\n规格：74.4秒，1280x720，约24.9MB",
+   "date_published": "2026-10-31T09:34:49+08:00",
+   "tags": [
+    "自然/风光",
+    "Science Worth Understanding",
+    "国家公园野生动物实拍：大角羊、秋季麋鹿与鳟鱼产卵调查。"
+   ],
+   "attachments": [
+    {
+     "url": "https://www.nps.gov/nps-audiovideo/audiovideo/979338f1-d5d6-4f9f-8f7d-f641eac1de29720p.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 26158930,
+     "duration_in_seconds": 74.4
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_author": "NPS",
+   "_source_url": "https://www.nps.gov/media/video/view.htm?id=06DAF9AF-EC8D-4EC5-9037-A5B3984846BA",
+   "_footage_type": "真实拍摄",
+   "_original_upload_date": "2025-06-06",
+   "_recommended_segment": {
+    "start_seconds": 10,
+    "end_seconds": 70
+   }
+  },
+  {
+   "id": "nature-yellowstone-trout-survey-20261031",
+   "url": "https://www.nps.gov/nps-audiovideo/audiovideo/bb5cb390-bbac-462d-a548-935bcc4628ae720p.mp4",
+   "title": "Minute Out In It: Surveying Spawning Yellowstone Cutthroat Trout",
+   "summary": "黄石国家公园工作人员在溪流边调查产卵期黄石割喉鳟的野外工作实拍短片。来源地址为 NPS 单条视频页（view.htm?id= 形式，下游验收尚待定）。",
+   "content_text": "内容总结：黄石国家公园工作人员在溪流边调查产卵期黄石割喉鳟的野外工作实拍短片。来源地址为 NPS 单条视频页（view.htm?id= 形式，下游验收尚待定）。\n内容类型：自然/风光\n对应社群：Science Worth Understanding\n许可证：Public domain（无需署名）\nReels角度：野外一分钟：落基山与黄石的动物与调查工作\n热点挂钩：国家公园野生动物实拍：大角羊、秋季麋鹿与鳟鱼产卵调查。\n规格：87.604183秒，1280x720，约39.1MB",
+   "date_published": "2026-10-31T09:34:49+08:00",
+   "tags": [
+    "自然/风光",
+    "Science Worth Understanding",
+    "国家公园野生动物实拍：大角羊、秋季麋鹿与鳟鱼产卵调查。"
+   ],
+   "attachments": [
+    {
+     "url": "https://www.nps.gov/nps-audiovideo/audiovideo/bb5cb390-bbac-462d-a548-935bcc4628ae720p.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 40984417,
+     "duration_in_seconds": 87.604183
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_author": "NPS / Jacob W. Frank",
+   "_source_url": "https://www.nps.gov/media/video/view.htm?id=1C99B60E-5156-4E07-846B-FBA6697945BE",
+   "_footage_type": "真实拍摄",
+   "_original_upload_date": "2025-06-13",
+   "_recommended_segment": {
+    "start_seconds": 10,
+    "end_seconds": 70
+   }
+  },
+  {
+   "id": "sci-ngc7253-galaxy-pair-20261031",
+   "url": "https://storage.noirlab.edu/media/archives/videos/hd_1080_screen/noirlab2621a.mp4",
+   "title": "双旋涡星系 NGC 7253：引力相缠的星系对平移影像",
+   "summary": "双子座北望远镜拍摄的 NGC 7253 平移影像：画面缓慢扫过一对在彼此引力作用下相缠的旋涡星系，该影像被赋予夏威夷语名。交付文件为官方 1080p 小版，母带为 4K 原版。",
+   "content_text": "内容总结：双子座北望远镜拍摄的 NGC 7253 平移影像：画面缓慢扫过一对在彼此引力作用下相缠的旋涡星系，该影像被赋予夏威夷语名。交付文件为官方 1080p 小版，母带为 4K 原版。\n内容类型：科技/航天科普\n对应社群：Science Worth Understanding\n许可证：CC BY 4.0（发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/4.0/）\nReels角度：两个星系撞在一起之前长什么样：引力相缠的双旋涡星系\n热点挂钩：2026-09-01 最新发布的双旋涡星系对影像。\n规格：30.03秒，1920x1080，约29.2MB",
+   "date_published": "2026-10-31T09:34:49+08:00",
+   "tags": [
+    "科技/航天科普",
+    "Science Worth Understanding",
+    "2026-09-01 最新发布的双旋涡星系对影像。"
+   ],
+   "attachments": [
+    {
+     "url": "https://storage.noirlab.edu/media/archives/videos/hd_1080_screen/noirlab2621a.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 30646502,
+     "duration_in_seconds": 30.03
+    }
+   ],
+   "_license": "CC BY 4.0",
+   "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/4.0/",
+   "_version": 1,
+   "_author": "International Gemini Observatory/NOIRLab/NSF/AURA, N. Bartmann",
+   "_source_url": "https://noirlab.edu/public/videos/noirlab2621a/",
+   "_license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "_master_url": "https://storage.noirlab.edu/media/archives/videos/ultra_hd/noirlab2621a.mp4",
+   "_footage_type": "真实拍摄（望远镜图像平移）",
+   "_original_upload_date": "2026-09-01"
+  },
+  {
+   "id": "sci-nysa-asteroid-20261031",
+   "url": "https://cdn.eso.org/videos/ultra_hd/potw2631a.mp4",
+   "title": "奇特小行星 (44) Nysa：多角度新影像",
+   "summary": "奇特小行星 (44) Nysa 的多角度影像：画面呈现小行星三维形状模型在不同观测日期（2026 年 3 月）的形态变化，黑底白模。",
+   "content_text": "内容总结：奇特小行星 (44) Nysa 的多角度影像：画面呈现小行星三维形状模型在不同观测日期（2026 年 3 月）的形态变化，黑底白模。\n内容类型：科技/航天科普\n对应社群：Science Worth Understanding\n许可证：CC BY 4.0（发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/4.0/）\nReels角度：一颗小行星长什么样：多角度形状模型 20 秒\n热点挂钩：2026-08-03 发布的奇特小行星多角度影像。\n规格：19.88秒，3840x2160，约118.1MB",
+   "date_published": "2026-10-31T09:34:49+08:00",
+   "tags": [
+    "科技/航天科普",
+    "Science Worth Understanding",
+    "2026-08-03 发布的奇特小行星多角度影像。"
+   ],
+   "attachments": [
+    {
+     "url": "https://cdn.eso.org/videos/ultra_hd/potw2631a.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 123844174,
+     "duration_in_seconds": 19.88
+    }
+   ],
+   "_license": "CC BY 4.0",
+   "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/4.0/",
+   "_version": 1,
+   "_author": "ESO/K. Minker et al.",
+   "_source_url": "https://www.eso.org/public/videos/potw2631a/",
+   "_license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "_footage_type": "混合（望远镜观测+三维形状模型）",
+   "_original_upload_date": "2026-08-03"
+  },
+  {
+   "id": "sci-elt-snowy-day-20261031",
+   "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/eso-elt-snowy-day-20261031.mp4",
+   "title": "A rare snowy day for the world's biggest eye on the sky",
+   "summary": "2026 年 8 月 19 日无人机航拍：智利阿塔卡马沙漠 Cerro Armazones 罕见降雪，低云缭绕在建中的欧洲极大望远镜（ELT）穹顶周围，低角度阳光下云雾翻滚；交付文件为自剪 720p 全段成品。",
+   "content_text": "内容总结：2026 年 8 月 19 日无人机航拍：智利阿塔卡马沙漠 Cerro Armazones 罕见降雪，低云缭绕在建中的欧洲极大望远镜（ELT）穹顶周围，低角度阳光下云雾翻滚；交付文件为自剪 720p 全段成品。\n内容类型：科技/航天科普\n对应社群：Science Worth Understanding\n许可证：CC BY 4.0（发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/4.0/）\nReels角度：世界最大望远镜工地罕见下雪：云海中的 ELT 穹顶\n热点挂钩：极大望远镜工地罕见降雪航拍，极端干旱观测站点的反常天气。\n规格：43.2秒，1280x720，约3.6MB",
+   "date_published": "2026-10-31T09:34:49+08:00",
+   "tags": [
+    "科技/航天科普",
+    "Science Worth Understanding",
+    "极大望远镜工地罕见降雪航拍，极端干旱观测站点的反常天气。"
+   ],
+   "attachments": [
+    {
+     "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/eso-elt-snowy-day-20261031.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 3738049,
+     "duration_in_seconds": 43.2
+    }
+   ],
+   "_license": "CC BY 4.0",
+   "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/4.0/",
+   "_version": 1,
+   "_author": "E. Sech/Cimolai/ESO",
+   "_source_url": "https://www.eso.org/public/videos/potw2635a/",
+   "_license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "_master_url": "https://cdn.eso.org/videos/ultra_hd/potw2635a.mp4",
+   "_footage_type": "真实拍摄（无人机航拍）",
+   "_event_date": "2026-08-19",
+   "_filmed_date": "2026-08-19",
+   "_original_upload_date": "2026-08-31",
+   "_recommended_segment": {
+    "start_seconds": 0,
+    "end_seconds": 43.2
+   }
+  },
+  {
+   "id": "art-jades-flythrough-20261031",
+   "url": "https://cdn.esawebb.org/archives/videos/hd_1080p25_screen/weic2603c.mp4",
+   "title": "飞越 9500 个星系：JADES 深场 3D 可视化",
+   "summary": "韦布 JADES 深场 3D 飞越可视化：镜头穿过 9500 个星系的深场巡天数据，星系由远及近掠过，最后定格一颗红色星系。",
+   "content_text": "内容总结：韦布 JADES 深场 3D 飞越可视化：镜头穿过 9500 个星系的深场巡天数据，星系由远及近掠过，最后定格一颗红色星系。\n内容类型：文化/艺术\n对应社群：Design Worth Noticing\n许可证：CC BY 4.0（发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/4.0/）\nReels角度：45 秒飞越 9500 个星系：深场巡天可视化\n热点挂钩：韦布深场巡天可视化作品，纯视觉艺术化呈现。\n规格：45.016667秒，3840x2160，约17.3MB",
+   "date_published": "2026-10-31T09:34:49+08:00",
+   "tags": [
+    "文化/艺术",
+    "Design Worth Noticing",
+    "韦布深场巡天可视化作品，纯视觉艺术化呈现。"
+   ],
+   "attachments": [
+    {
+     "url": "https://cdn.esawebb.org/archives/videos/hd_1080p25_screen/weic2603c.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 18112742,
+     "duration_in_seconds": 45.016667
+    }
+   ],
+   "_license": "CC BY 4.0",
+   "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/4.0/",
+   "_version": 1,
+   "_author": "Visualization: C. Nieves (STScI), F. Summers (STScI), A. Pagan (STScI), G. Bacon (STScI); Science: JADES Team, K. Hainline (University of Arizona)",
+   "_source_url": "https://esawebb.org/videos/weic2603c/",
+   "_license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "_footage_type": "仿真（巡天数据三维可视化）",
+   "_original_upload_date": "2026-01-28"
+  },
+  {
+   "id": "art-saturn-two-views-20261031",
+   "url": "https://cdn.esawebb.org/archives/videos/ultra_hd/weic2606a.mp4",
+   "title": "土星双视角：哈勃可见光与韦布红外同框（无旁白干净版）",
+   "summary": "土星双视角干净版：哈勃可见光（2024 年 8 月 22 日）与韦布红外（2024 年 11 月 29 日）影像同框对照，光环与云带色彩差异直观，无旁白。",
+   "content_text": "内容总结：土星双视角干净版：哈勃可见光（2024 年 8 月 22 日）与韦布红外（2024 年 11 月 29 日）影像同框对照，光环与云带色彩差异直观，无旁白。\n内容类型：文化/艺术\n对应社群：Design Worth Noticing\n许可证：CC BY 4.0（发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/4.0/）\nReels角度：同一颗土星两种光：可见光 vs 红外同框对照\n热点挂钩：哈勃与韦布双视角土星影像对照，纯视觉作品。\n规格：30.0秒，3840x2160，约99.7MB",
+   "date_published": "2026-10-31T09:34:49+08:00",
+   "tags": [
+    "文化/艺术",
+    "Design Worth Noticing",
+    "哈勃与韦布双视角土星影像对照，纯视觉作品。"
+   ],
+   "attachments": [
+    {
+     "url": "https://cdn.esawebb.org/archives/videos/ultra_hd/weic2606a.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 104588355,
+     "duration_in_seconds": 30.0
+    }
+   ],
+   "_license": "CC BY 4.0",
+   "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/4.0/",
+   "_version": 1,
+   "_author": "NASA, ESA, CSA, STScI, A. Simon (NASA-GSFC), M. Wong (University of California), J. DePasquale (STScI), N. Bartmann (ESA/Webb)",
+   "_source_url": "https://esawebb.org/videos/weic2606a/",
+   "_license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "_footage_type": "混合（哈勃可见光+韦布红外图像）",
+   "_event_date": "2024",
+   "_original_upload_date": "2026-03-25"
+  },
+  {
+   "id": "art-artemis-flyby-viz-20261031",
+   "url": "http://images-assets.nasa.gov/video/lunarflyby_1min_2160p30/lunarflyby_1min_2160p30~orig.mp4",
+   "title": "Artemis II 绕月飞越仿真可视化（1 分钟）",
+   "summary": "NASA Artemis II 绕月飞越仿真可视化：镜头由远及近飞越月球表面，环形山细节清晰，最后远离成一颗亮点，纯画面无旁白。",
+   "content_text": "内容总结：NASA Artemis II 绕月飞越仿真可视化：镜头由远及近飞越月球表面，环形山细节清晰，最后远离成一颗亮点，纯画面无旁白。\n内容类型：文化/艺术\n对应社群：Design Worth Noticing\n许可证：Public domain（无需署名）\nReels角度：1 分钟飞越月球：Artemis II 绕月仿真\n热点挂钩：载人绕月任务 Artemis II 飞越仿真，登月话题挂钩。\n规格：57.433333秒，3840x2160，约26.4MB",
+   "date_published": "2026-10-31T09:34:49+08:00",
+   "tags": [
+    "文化/艺术",
+    "Design Worth Noticing",
+    "载人绕月任务 Artemis II 飞越仿真，登月话题挂钩。"
+   ],
+   "attachments": [
+    {
+     "url": "http://images-assets.nasa.gov/video/lunarflyby_1min_2160p30/lunarflyby_1min_2160p30~orig.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 27717432,
+     "duration_in_seconds": 57.433333
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_source_url": "https://images.nasa.gov/details/lunarflyby_1min_2160p30",
+   "_footage_type": "仿真（绕月飞越模拟）",
+   "_original_upload_date": "2026-04-04"
+  },
+  {
+   "id": "ai-generative-explained-20261031",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Generative_AI_explained_in_2_minutes.webm",
+   "title": "生成式 AI 两分钟讲解",
+   "summary": "KI-Campus 生成式 AI 动画讲解：以聊天机器人、图像生成等动画场景解释生成式 AI 的概念与应用，全程动画演示而非口播。",
+   "content_text": "内容总结：KI-Campus 生成式 AI 动画讲解：以聊天机器人、图像生成等动画场景解释生成式 AI 的概念与应用，全程动画演示而非口播。\n内容类型：科技/教育\n对应社群：AI Tools and Everyday Uses\n许可证：CC BY-SA 4.0（发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by-sa/4.0）\nReels角度：两分钟动画讲清生成式 AI：聊天与作图场景\n热点挂钩：生成式 AI 科普动画，AI 应用落地话题。\n规格：122.081秒，1920x1080，约25.6MB",
+   "date_published": "2026-10-31T09:34:49+08:00",
+   "tags": [
+    "科技/教育",
+    "AI Tools and Everyday Uses",
+    "生成式 AI 科普动画，AI 应用落地话题。"
+   ],
+   "attachments": [
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Generative_AI_explained_in_2_minutes.webm",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 26848205,
+     "duration_in_seconds": 122.081
+    }
+   ],
+   "_license": "CC BY-SA 4.0",
+   "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by-sa/4.0",
+   "_version": 1,
+   "_author": "KI-Campus",
+   "_source_url": "https://commons.wikimedia.org/wiki/File:Generative_AI_explained_in_2_minutes.webm",
+   "_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "_footage_type": "动画",
+   "_event_date": "2023-09-25",
+   "_original_upload_date": "2024-03-09",
+   "_recommended_segment": {
+    "start_seconds": 15,
+    "end_seconds": 75
+   }
+  },
+  {
+   "id": "ai-rag-chatbot-part1-20261031",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Retrieval-Augmented_Generation_chatbot%2C_part_1-_LangChain%2C_Hugging_Face%2C_FAISS%2C_AWS.webm",
+   "title": "手把手搭建检索增强聊天机器人（上）",
+   "summary": "Julien Simon 的 RAG 聊天机器人搭建教程上集：用 LangChain、Hugging Face、FAISS 与 AWS 实现检索增强生成；画面以架构图解说与代码演示为主，含小窗主讲人。精华窗口取架构图讲解段。",
+   "content_text": "内容总结：Julien Simon 的 RAG 聊天机器人搭建教程上集：用 LangChain、Hugging Face、FAISS 与 AWS 实现检索增强生成；画面以架构图解说与代码演示为主，含小窗主讲人。精华窗口取架构图讲解段。\n内容类型：科技/教育\n对应社群：AI Tools and Everyday Uses\n许可证：CC BY 3.0（发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/3.0）\nReels角度：不用大模型背答案、改查资料库：RAG 搭建教程精华\n热点挂钩：RAG 与本地知识库仍是 AI 应用落地热点。\n规格：1446.518秒，1920x1080，约91.5MB",
+   "date_published": "2026-10-31T09:34:49+08:00",
+   "tags": [
+    "科技/教育",
+    "AI Tools and Everyday Uses",
+    "RAG 与本地知识库仍是 AI 应用落地热点。"
+   ],
+   "attachments": [
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Retrieval-Augmented_Generation_chatbot%2C_part_1-_LangChain%2C_Hugging_Face%2C_FAISS%2C_AWS.webm",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 95936408,
+     "duration_in_seconds": 1446.518
+    }
+   ],
+   "_license": "CC BY 3.0",
+   "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by/3.0",
+   "_version": 1,
+   "_author": "Julien Simon",
+   "_source_url": "https://commons.wikimedia.org/wiki/File:Retrieval-Augmented_Generation_chatbot,_part_1-_LangChain,_Hugging_Face,_FAISS,_AWS.webm",
+   "_license_url": "https://creativecommons.org/licenses/by/3.0",
+   "_footage_type": "混合（屏幕录制教程）",
+   "_event_date": "2023-10-24",
+   "_original_upload_date": "2024-09-11",
+   "_recommended_segment": {
+    "start_seconds": 200,
+    "end_seconds": 260
+   }
+  },
+  {
+   "id": "ai-mussel-deep-learning-20261031",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Deep_Learning_in_mussel_farming.webm",
+   "title": "深度学习养贻贝：AI 走进新西兰水产养殖",
+   "summary": "新西兰水产养殖中的深度学习应用实拍：水下贻贝养殖绳索、水下机器人作业监控画面，展示 AI 如何用于贻贝养殖监测。",
+   "content_text": "内容总结：新西兰水产养殖中的深度学习应用实拍：水下贻贝养殖绳索、水下机器人作业监控画面，展示 AI 如何用于贻贝养殖监测。\n内容类型：科技/教育\n对应社群：AI Tools and Everyday Uses\n许可证：CC BY-SA 4.0（发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by-sa/4.0）\nReels角度：AI 下海养贻贝：水下机器人与养殖监测\n热点挂钩：AI 走进传统产业：水产养殖中的深度学习应用。\n规格：40.081秒，1920x1080，约18.5MB",
+   "date_published": "2026-10-31T09:34:49+08:00",
+   "tags": [
+    "科技/教育",
+    "AI Tools and Everyday Uses",
+    "AI 走进传统产业：水产养殖中的深度学习应用。"
+   ],
+   "attachments": [
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Deep_Learning_in_mussel_farming.webm",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 19435647,
+     "duration_in_seconds": 40.081
+    }
+   ],
+   "_license": "CC BY-SA 4.0",
+   "_attribution": "发帖时在描述中注明作者、来源链接和许可证链接：https://creativecommons.org/licenses/by-sa/4.0",
+   "_version": 1,
+   "_author": "Frank Productions for Science for Technological Innovation National Science Challenge",
+   "_source_url": "https://commons.wikimedia.org/wiki/File:Deep_Learning_in_mussel_farming.webm",
+   "_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "_footage_type": "混合（水下实拍+监控画面）",
+   "_original_upload_date": "2024-08-29"
+  },
+  {
+   "id": "game-mweso-tournament-20261031",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Mweso_game_tournament.webm",
+   "title": "乌干达传统棋类姆韦索锦标赛现场",
+   "summary": "乌干达传统棋类姆韦索锦标赛现场实拍：选手在户外棋盘前对弈，围观者众多；320x240 低分辨率现场记录，画面真实。",
+   "content_text": "内容总结：乌干达传统棋类姆韦索锦标赛现场实拍：选手在户外棋盘前对弈，围观者众多；320x240 低分辨率现场记录，画面真实。\n内容类型：游戏/生活方式\n对应社群：Next Game Brief\n许可证：Public domain（无需署名）\nReels角度：非洲传统棋赛现场：姆韦索怎么玩\n热点挂钩：传统棋类文化：乌干达姆韦索锦标赛（CC0 授权，记为 Public domain）。\n规格：19.022秒，320x240，约6.5MB",
+   "date_published": "2026-10-31T09:34:49+08:00",
+   "tags": [
+    "游戏/生活方式",
+    "Next Game Brief",
+    "传统棋类文化：乌干达姆韦索锦标赛（CC0 授权，记为 Public domain）。"
+   ],
+   "attachments": [
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Mweso_game_tournament.webm",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 6787264,
+     "duration_in_seconds": 19.022
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_author": "Samson Ssemakadde",
+   "_source_url": "https://commons.wikimedia.org/wiki/File:Mweso_game_tournament.webm",
+   "_footage_type": "真实拍摄",
+   "_event_date": "2026-09-21",
+   "_original_upload_date": "2026-09-21"
+  },
+  {
+   "id": "game-mweso-buganda-minister-20261031",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Buganda_kingdom_sports_minister_Robert_Serwanga_during_sub-county_mweso_board_game_tournaments.webm",
+   "title": "布干达王国体育部长出席姆韦索地方棋赛",
+   "summary": "布干达王国体育部长出席地方姆韦索棋赛的现场实拍：户外草地棋盘、选手对弈与围观人群；与锦标赛条目为不同日期、不同现场的独立记录，320x240 低分辨率。",
+   "content_text": "内容总结：布干达王国体育部长出席地方姆韦索棋赛的现场实拍：户外草地棋盘、选手对弈与围观人群；与锦标赛条目为不同日期、不同现场的独立记录，320x240 低分辨率。\n内容类型：游戏/生活方式\n对应社群：Next Game Brief\n许可证：Public domain（无需署名）\nReels角度：地方棋赛现场：王国体育部长到场观赛\n热点挂钩：传统棋类文化：布干达地方姆韦索棋赛（CC0 授权，记为 Public domain）。\n规格：31.659秒，320x240，约10.2MB",
+   "date_published": "2026-10-31T09:34:49+08:00",
+   "tags": [
+    "游戏/生活方式",
+    "Next Game Brief",
+    "传统棋类文化：布干达地方姆韦索棋赛（CC0 授权，记为 Public domain）。"
+   ],
+   "attachments": [
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Buganda_kingdom_sports_minister_Robert_Serwanga_during_sub-county_mweso_board_game_tournaments.webm",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 10704029,
+     "duration_in_seconds": 31.659
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_author": "Samson Ssemakadde",
+   "_source_url": "https://commons.wikimedia.org/wiki/File:Buganda_kingdom_sports_minister_Robert_Serwanga_during_sub-county_mweso_board_game_tournaments.webm",
+   "_footage_type": "真实拍摄",
+   "_event_date": "2026-09-30",
+   "_original_upload_date": "2026-09-30"
+  },
+  {
+   "id": "film-felix-magic-bag-20261031",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/001-Felix-the-Cat-S01E01-The-Magic-Bag.webm",
+   "title": "菲利克斯猫《魔法袋》（1958 年版第一集）",
+   "summary": "菲利克斯猫 1958 年版第一集《魔法袋》彩色动画：菲利克斯与神奇提包、教授等角色的完整剧集片段，画面色彩鲜明。",
+   "content_text": "内容总结：菲利克斯猫 1958 年版第一集《魔法袋》彩色动画：菲利克斯与神奇提包、教授等角色的完整剧集片段，画面色彩鲜明。\n内容类型：影视/文化\n对应社群：Screen Stories Brief\n许可证：Public domain（无需署名）\nReels角度：百年猫咪的彩色年代：菲利克斯与魔法袋\n热点挂钩：公有领域经典动画：1958 年版菲利克斯猫第一集。\n规格：446.179秒，640x480，约42.5MB",
+   "date_published": "2026-10-31T09:34:49+08:00",
+   "tags": [
+    "影视/文化",
+    "Screen Stories Brief",
+    "公有领域经典动画：1958 年版菲利克斯猫第一集。"
+   ],
+   "attachments": [
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/001-Felix-the-Cat-S01E01-The-Magic-Bag.webm",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 44546802,
+     "duration_in_seconds": 446.179
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_author": "Joe Oriolo",
+   "_source_url": "https://commons.wikimedia.org/wiki/File:001-Felix-the-Cat-S01E01-The-Magic-Bag.webm",
+   "_footage_type": "动画",
+   "_event_date": "1958-10-02",
+   "_original_upload_date": "2025-03-29",
+   "_recommended_segment": {
+    "start_seconds": 60,
+    "end_seconds": 120
+   }
+  },
+  {
+   "id": "film-felix-gets-left-20261031",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Felix_Gets_Left_%281922%29_excerpt_with_French_intertitles.webm",
+   "title": "菲利克斯猫《被抛下》（1922 年默片片段，法文字幕卡）",
+   "summary": "1922 年菲利克斯猫默片片段《被抛下》：黑白默片画面，菲利克斯在家中楼梯与酒桶（HOME BREW 字样）等场景中活动，配法文字幕卡。",
+   "content_text": "内容总结：1922 年菲利克斯猫默片片段《被抛下》：黑白默片画面，菲利克斯在家中楼梯与酒桶（HOME BREW 字样）等场景中活动，配法文字幕卡。\n内容类型：影视/文化\n对应社群：Screen Stories Brief\n许可证：Public domain（无需署名）\nReels角度：1922 年的猫：默片菲利克斯与法文字幕卡\n热点挂钩：公有领域默片动画：1922 年菲利克斯猫片段。\n规格：311.661秒，1450x1080，约105.9MB",
+   "date_published": "2026-10-31T09:34:49+08:00",
+   "tags": [
+    "影视/文化",
+    "Screen Stories Brief",
+    "公有领域默片动画：1922 年菲利克斯猫片段。"
+   ],
+   "attachments": [
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Felix_Gets_Left_%281922%29_excerpt_with_French_intertitles.webm",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 111075604,
+     "duration_in_seconds": 311.661
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_author": "Pat Sullivan",
+   "_source_url": "https://commons.wikimedia.org/wiki/File:Felix_Gets_Left_(1922)_excerpt_with_French_intertitles.webm",
+   "_footage_type": "历史影像",
+   "_event_date": "1922-12-01",
+   "_original_upload_date": "2026-07-12",
+   "_recommended_segment": {
+    "start_seconds": 40,
+    "end_seconds": 100
+   }
+  },
+  {
+   "id": "film-dumb-patrol-1931-20261031",
+   "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/commons-dumb-patrol-20261031_60s.mp4",
+   "title": "乐一通前身短片《笨蛋巡逻队》（1931 年修复版）",
+   "summary": "Harman-Ising 1931 年短片《笨蛋巡逻队》修复版：Bosko 等早期卡通角色的飞机题材黑白动画；交付文件为自剪 60 秒 720p 成品。",
+   "content_text": "内容总结：Harman-Ising 1931 年短片《笨蛋巡逻队》修复版：Bosko 等早期卡通角色的飞机题材黑白动画；交付文件为自剪 60 秒 720p 成品。\n内容类型：影视/文化\n对应社群：Screen Stories Brief\n许可证：Public domain（无需署名）\nReels角度：乐一通前身：1931 年 Bosko 飞机短片修复版\n热点挂钩：公有领域早期动画：1931 年 Harman-Ising 短片修复版。\n规格：60.017583秒，1280x720，约11.4MB",
+   "date_published": "2026-10-31T09:34:49+08:00",
+   "tags": [
+    "影视/文化",
+    "Screen Stories Brief",
+    "公有领域早期动画：1931 年 Harman-Ising 短片修复版。"
+   ],
+   "attachments": [
+    {
+     "url": "https://raw.githubusercontent.com/TikerBin/fb-reels-upstream/main/clips/commons-dumb-patrol-20261031_60s.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 12004572,
+     "duration_in_seconds": 60.017583
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_author": "Hugh Harman and Rudolf Ising",
+   "_source_url": "https://commons.wikimedia.org/wiki/File:Dumb_Patrol_1931_film_Full_short_Restored.webm",
+   "_master_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Dumb_Patrol_1931_film_Full_short_Restored.webm",
+   "_footage_type": "历史影像",
+   "_event_date": "1931-02-28",
+   "_original_upload_date": "2026-10-29",
+   "_recommended_segment": {
+    "start_seconds": 0,
+    "end_seconds": 60.0
+   }
+  },
+  {
+   "id": "marine-merchant-cap-jelly-20261031",
+   "url": "https://oceanexplorer.noaa.gov/wp-content/uploads/2025/09/dive08-merchant-cap-jelly-1280x720-1.mp4",
+   "title": "900 米水深的商帽水母",
+   "summary": "NOAA 海洋探索门户实拍：2025 年 Beyond the Blue Papahānaumokuākea 航次第 8 潜，在 900 米水深拍到的商帽水母，触手舒展，画面清晰。",
+   "content_text": "内容总结：NOAA 海洋探索门户实拍：2025 年 Beyond the Blue Papahānaumokuākea 航次第 8 潜，在 900 米水深拍到的商帽水母，触手舒展，画面清晰。\n内容类型：自然/海洋生物\n对应社群：Science Worth Understanding\n许可证：Public domain（无需署名）\nReels角度：深海一分钟：900–1520 米水深的生物实拍\n热点挂钩：深海冷知识：Papahānaumokuākea 航次深海生物实拍（非本周新闻，按原始发布日期如实标注）。\n规格：65.233333秒，1280x720，约48.9MB",
+   "date_published": "2026-10-31T09:34:49+08:00",
+   "tags": [
+    "自然/海洋生物",
+    "Science Worth Understanding",
+    "深海冷知识：Papahānaumokuākea 航次深海生物实拍（非本周新闻，按原始发布日期如实标注）。"
+   ],
+   "attachments": [
+    {
+     "url": "https://oceanexplorer.noaa.gov/wp-content/uploads/2025/09/dive08-merchant-cap-jelly-1280x720-1.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 51280498,
+     "duration_in_seconds": 65.233333
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_source_url": "https://oceanexplorer.noaa.gov/multimedia/merchant-cap-jelly/",
+   "_footage_type": "真实拍摄",
+   "_original_upload_date": "2025-04-21",
+   "_recommended_segment": {
+    "start_seconds": 0,
+    "end_seconds": 60
+   }
+  },
+  {
+   "id": "marine-cutthroat-eel-20261031",
+   "url": "https://oceanexplorer.noaa.gov/wp-content/uploads/2025/09/dive04-cutthroat-eel-1280x720-1.mp4",
+   "title": "1520 米深海的割喉鳗",
+   "summary": "NOAA 海洋探索门户实拍：同航次第 4 潜，在 1520 米水深拍到的割喉鳗游动，近景与远景交替。",
+   "content_text": "内容总结：NOAA 海洋探索门户实拍：同航次第 4 潜，在 1520 米水深拍到的割喉鳗游动，近景与远景交替。\n内容类型：自然/海洋生物\n对应社群：Science Worth Understanding\n许可证：Public domain（无需署名）\nReels角度：深海一分钟：900–1520 米水深的生物实拍\n热点挂钩：深海冷知识：Papahānaumokuākea 航次深海生物实拍（非本周新闻，按原始发布日期如实标注）。\n规格：53.019633秒，1280x720，约21.2MB",
+   "date_published": "2026-10-31T09:34:49+08:00",
+   "tags": [
+    "自然/海洋生物",
+    "Science Worth Understanding",
+    "深海冷知识：Papahānaumokuākea 航次深海生物实拍（非本周新闻，按原始发布日期如实标注）。"
+   ],
+   "attachments": [
+    {
+     "url": "https://oceanexplorer.noaa.gov/wp-content/uploads/2025/09/dive04-cutthroat-eel-1280x720-1.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 22270249,
+     "duration_in_seconds": 53.019633
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_source_url": "https://oceanexplorer.noaa.gov/multimedia/cutthroat-eel/",
+   "_footage_type": "真实拍摄",
+   "_original_upload_date": "2025-04-14"
+  },
+  {
+   "id": "marine-catshark-20261031",
+   "url": "https://oceanexplorer.noaa.gov/wp-content/uploads/2025/09/dive03-catshark-1280x720-1.mp4",
+   "title": "1085 米海底上空缓游的猫鲨",
+   "summary": "NOAA 海洋探索门户实拍：同航次第 3 潜，在 1085 米海底上空缓游的猫鲨，由远及近。",
+   "content_text": "内容总结：NOAA 海洋探索门户实拍：同航次第 3 潜，在 1085 米海底上空缓游的猫鲨，由远及近。\n内容类型：自然/海洋生物\n对应社群：Science Worth Understanding\n许可证：Public domain（无需署名）\nReels角度：深海一分钟：900–1520 米水深的生物实拍\n热点挂钩：深海冷知识：Papahānaumokuākea 航次深海生物实拍（非本周新闻，按原始发布日期如实标注）。\n规格：60.693967秒，1280x720，约18.3MB",
+   "date_published": "2026-10-31T09:34:49+08:00",
+   "tags": [
+    "自然/海洋生物",
+    "Science Worth Understanding",
+    "深海冷知识：Papahānaumokuākea 航次深海生物实拍（非本周新闻，按原始发布日期如实标注）。"
+   ],
+   "attachments": [
+    {
+     "url": "https://oceanexplorer.noaa.gov/wp-content/uploads/2025/09/dive03-catshark-1280x720-1.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 19169825,
+     "duration_in_seconds": 60.693967
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_source_url": "https://oceanexplorer.noaa.gov/multimedia/catshark/",
+   "_footage_type": "真实拍摄",
+   "_original_upload_date": "2025-04-13",
+   "_recommended_segment": {
+    "start_seconds": 0,
+    "end_seconds": 60
+   }
+  },
+  {
+   "id": "uas-miniboat-launch-20261031",
+   "url": "https://oceanexplorer.noaa.gov/wp-content/uploads/2025/09/Miniboat-Yaquina-Neversink-Launch-1280x720-1.mp4",
+   "title": "无人小帆船第二次下水：吊机扶正入太平洋",
+   "summary": "NOAA 科考船上无人小帆船第二次下水实拍：吊机将小帆船扶正、放入太平洋，船员在甲板操作，随后小帆船独自航行。",
+   "content_text": "内容总结：NOAA 科考船上无人小帆船第二次下水实拍：吊机将小帆船扶正、放入太平洋，船员在甲板操作，随后小帆船独自航行。\n内容类型：科技/无人机\n对应社群：Robotics and Automation Brief\n许可证：Public domain（无需署名）\nReels角度：无人小帆船下水：吊机扶正、独自出海\n热点挂钩：水面无人系统：科考无人小帆船第二次下水。\n规格：67.333333秒，1280x720，约24.1MB",
+   "date_published": "2026-10-31T09:34:49+08:00",
+   "tags": [
+    "科技/无人机",
+    "Robotics and Automation Brief",
+    "水面无人系统：科考无人小帆船第二次下水。"
+   ],
+   "attachments": [
+    {
+     "url": "https://oceanexplorer.noaa.gov/wp-content/uploads/2025/09/Miniboat-Yaquina-Neversink-Launch-1280x720-1.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 25253198,
+     "duration_in_seconds": 67.333333
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_source_url": "https://oceanexplorer.noaa.gov/multimedia/launching-the-miniboat-yaquina-neversink/",
+   "_footage_type": "真实拍摄",
+   "_original_upload_date": "2025-09-12",
+   "_recommended_segment": {
+    "start_seconds": 5,
+    "end_seconds": 60
+   }
+  },
+  {
+   "id": "uas-mohawk-rov-launch-20261031",
+   "url": "https://oceanexplorer.noaa.gov/wp-content/uploads/2024/07/rov-deployment-1280x720-1.mp4",
+   "title": "Mohawk ROV 从科考船甲板下水",
+   "summary": "NOAA 科考船甲板实拍：Mohawk 遥控潜水器（ROV）由吊机送出船舷、入水溅起水花的全过程。",
+   "content_text": "内容总结：NOAA 科考船甲板实拍：Mohawk 遥控潜水器（ROV）由吊机送出船舷、入水溅起水花的全过程。\n内容类型：科技/无人机\n对应社群：Robotics and Automation Brief\n许可证：Public domain（无需署名）\nReels角度：ROV 下水 24 秒：吊机送出、入水溅花\n热点挂钩：水下无人系统：科考 ROV 甲板下水实拍。\n规格：24.124104秒，1280x720，约10.5MB",
+   "date_published": "2026-10-31T09:34:49+08:00",
+   "tags": [
+    "科技/无人机",
+    "Robotics and Automation Brief",
+    "水下无人系统：科考 ROV 甲板下水实拍。"
+   ],
+   "attachments": [
+    {
+     "url": "https://oceanexplorer.noaa.gov/wp-content/uploads/2024/07/rov-deployment-1280x720-1.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 10965534,
+     "duration_in_seconds": 24.124104
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_source_url": "https://oceanexplorer.noaa.gov/multimedia/explorations-24pr-usvi-biotech-features-perfect-dive-media-rov-deployment/",
+   "_footage_type": "真实拍摄",
+   "_original_upload_date": "2024-07-22"
+  },
+  {
+   "id": "uas-drix-usv-20261031",
+   "url": "https://oceanexplorer.noaa.gov/wp-content/uploads/2025/04/MeetTheDriX-640x360-1.mp4",
+   "title": "Meet the DriX",
+   "summary": "NOAA DriX 无人水面航行器（USV）介绍实拍：红色无人艇在海面航行、船上操作人员遥控与监控，含解说字幕；640x360 标清。注：本条顶替 MiniROV 水母追踪条目——后者抽帧仅见黑色水体中一小点水母，AI 追踪无可辨认画面证据，从严剔除。",
+   "content_text": "内容总结：NOAA DriX 无人水面航行器（USV）介绍实拍：红色无人艇在海面航行、船上操作人员遥控与监控，含解说字幕；640x360 标清。注：本条顶替 MiniROV 水母追踪条目——后者抽帧仅见黑色水体中一小点水母，AI 追踪无可辨认画面证据，从严剔除。\n内容类型：科技/无人机\n对应社群：Robotics and Automation Brief\n许可证：Public domain（无需署名）\nReels角度：无人艇自己跑测绘：DriX 水面航行器\n热点挂钩：水面无人系统：DriX 无人艇测绘平台介绍实拍。\n规格：168.268104秒，640x360，约10.4MB",
+   "date_published": "2026-10-31T09:34:49+08:00",
+   "tags": [
+    "科技/无人机",
+    "Robotics and Automation Brief",
+    "水面无人系统：DriX 无人艇测绘平台介绍实拍。"
+   ],
+   "attachments": [
+    {
+     "url": "https://oceanexplorer.noaa.gov/wp-content/uploads/2025/04/MeetTheDriX-640x360-1.mp4",
+     "mime_type": "video/mp4",
+     "size_in_bytes": 10864544,
+     "duration_in_seconds": 168.268104
+    }
+   ],
+   "_license": "Public domain",
+   "_attribution": "无需署名",
+   "_version": 1,
+   "_source_url": "https://oceanexplorer.noaa.gov/multimedia/explorations-24drix-updates-media-meetthedrix/",
+   "_footage_type": "混合（无人艇实拍+解说字幕）",
+   "_original_upload_date": "2024-10-01",
+   "_recommended_segment": {
+    "start_seconds": 0,
+    "end_seconds": 60
+   }
+  },
   {
    "id": "news-cg-rescue-20261030",
    "url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112109477/DOD_112109477.mp4",
