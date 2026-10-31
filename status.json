@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-31T09:34:50+08:00",
+ "updated_at": "2026-10-31T21:24:22+08:00",
  "count": 463,
  "note": "全量最新状态快照，按 id 查询。条目含完整内容快照，移出最新列表的老条目仍可在此查到完整内容。",
  "items": [
@@ -462,8 +462,8 @@
   {
    "id": "art-artemis-flyby-viz-20261031",
    "status": "active",
-   "version": 1,
-   "date_modified": "2026-10-31T09:34:49+08:00",
+   "version": 2,
+   "date_modified": "2026-10-31T21:24:22+08:00",
    "in_latest_feed": true,
    "retract_reason": "",
    "title": "Artemis II 绕月飞越仿真可视化（1 分钟）",
@@ -472,7 +472,7 @@
    "community": "Design Worth Noticing",
    "license": "Public domain",
    "source_url": "https://images.nasa.gov/details/lunarflyby_1min_2160p30",
-   "download_url": "http://images-assets.nasa.gov/video/lunarflyby_1min_2160p30/lunarflyby_1min_2160p30~orig.mp4",
+   "download_url": "https://images-assets.nasa.gov/video/lunarflyby_1min_2160p30/lunarflyby_1min_2160p30~orig.mp4",
    "attribution": "无需署名",
    "reels_angle": "1 分钟飞越月球：Artemis II 绕月仿真",
    "trend_hook": "载人绕月任务 Artemis II 飞越仿真，登月话题挂钩。",

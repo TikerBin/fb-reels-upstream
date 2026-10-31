@@ -551,7 +551,7 @@
   },
   {
    "id": "art-artemis-flyby-viz-20261031",
-   "url": "http://images-assets.nasa.gov/video/lunarflyby_1min_2160p30/lunarflyby_1min_2160p30~orig.mp4",
+   "url": "https://images-assets.nasa.gov/video/lunarflyby_1min_2160p30/lunarflyby_1min_2160p30~orig.mp4",
    "title": "Artemis II 绕月飞越仿真可视化（1 分钟）",
    "summary": "NASA Artemis II 绕月飞越仿真可视化：镜头由远及近飞越月球表面，环形山细节清晰，最后远离成一颗亮点，纯画面无旁白。",
    "content_text": "内容总结：NASA Artemis II 绕月飞越仿真可视化：镜头由远及近飞越月球表面，环形山细节清晰，最后远离成一颗亮点，纯画面无旁白。\n内容类型：文化/艺术\n对应社群：Design Worth Noticing\n许可证：Public domain（无需署名）\nReels角度：1 分钟飞越月球：Artemis II 绕月仿真\n热点挂钩：载人绕月任务 Artemis II 飞越仿真，登月话题挂钩。\n规格：57.433333秒，3840x2160，约26.4MB",
@@ -563,7 +563,7 @@
    ],
    "attachments": [
     {
-     "url": "http://images-assets.nasa.gov/video/lunarflyby_1min_2160p30/lunarflyby_1min_2160p30~orig.mp4",
+     "url": "https://images-assets.nasa.gov/video/lunarflyby_1min_2160p30/lunarflyby_1min_2160p30~orig.mp4",
      "mime_type": "video/mp4",
      "size_in_bytes": 27717432,
      "duration_in_seconds": 57.433333
@@ -571,10 +571,11 @@
    ],
    "_license": "Public domain",
    "_attribution": "无需署名",
-   "_version": 1,
+   "_version": 2,
    "_source_url": "https://images.nasa.gov/details/lunarflyby_1min_2160p30",
    "_footage_type": "仿真（绕月飞越模拟）",
-   "_original_upload_date": "2026-04-04"
+   "_original_upload_date": "2026-04-04",
+   "date_modified": "2026-10-31T21:24:22+08:00"
   },
   {
    "id": "ai-generative-explained-20261031",

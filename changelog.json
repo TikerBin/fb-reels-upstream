@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-10-31T09:34:49+08:00",
- "event_count": 657,
- "next_seq": 658,
+ "updated_at": "2026-10-31T21:24:22+08:00",
+ "event_count": 658,
+ "next_seq": 659,
  "events": [
   {
    "event_id": "evt-20261013-0001",
@@ -7657,6 +7657,19 @@
    "status": "active",
    "occurred_at": "2026-10-31T09:34:49+08:00",
    "reason": "2026-10-31 每日采集入库（科技/无人机）"
+  },
+  {
+   "event_id": "evt-20261031-0658",
+   "seq": 658,
+   "item_id": "art-artemis-flyby-viz-20261031",
+   "version": 2,
+   "type": "modified",
+   "status": "active",
+   "occurred_at": "2026-10-31T21:24:22+08:00",
+   "reason": "Correct NASA media download URL from HTTP to verified HTTPS; preserve content, identity and rights evidence.",
+   "changed_fields": [
+    "download_url"
+   ]
   }
  ]
 }
