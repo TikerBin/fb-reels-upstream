@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-10-31T21:24:22+08:00",
- "event_count": 658,
- "next_seq": 659,
+ "updated_at": "2026-11-01T09:31:40+08:00",
+ "event_count": 693,
+ "next_seq": 694,
  "events": [
   {
    "event_id": "evt-20261013-0001",
@@ -7670,6 +7670,356 @@
    "changed_fields": [
     "download_url"
    ]
+  },
+  {
+   "event_id": "evt-20261101-0659",
+   "seq": 659,
+   "item_id": "news-whitehouse-halloween-2026-20261101",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-01T09:31:40+08:00",
+   "reason": "2026-11-01 每日采集入库（科技/新闻）"
+  },
+  {
+   "event_id": "evt-20261101-0660",
+   "seq": 660,
+   "item_id": "news-tehran-market-protest-20261101",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-01T09:31:40+08:00",
+   "reason": "2026-11-01 每日采集入库（科技/新闻）"
+  },
+  {
+   "event_id": "evt-20261101-0661",
+   "seq": 661,
+   "item_id": "ai-veo3-owl-badger-20261101",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-01T09:31:40+08:00",
+   "reason": "2026-11-01 每日采集入库（科技/教育）"
+  },
+  {
+   "event_id": "evt-20261101-0662",
+   "seq": 662,
+   "item_id": "ai-aral-ai-history-20261101",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-01T09:31:40+08:00",
+   "reason": "2026-11-01 每日采集入库（科技/教育）"
+  },
+  {
+   "event_id": "evt-20261101-0663",
+   "seq": 663,
+   "item_id": "news-meydan-tv-court-20261101",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-01T09:31:40+08:00",
+   "reason": "2026-11-01 每日采集入库（科技/新闻）"
+  },
+  {
+   "event_id": "evt-20261101-0664",
+   "seq": 664,
+   "item_id": "sci-debris-disc-j1328-detection-20261101",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-01T09:31:40+08:00",
+   "reason": "2026-11-01 每日采集入库（科技/航天科普）"
+  },
+  {
+   "event_id": "evt-20261101-0665",
+   "seq": 665,
+   "item_id": "sci-lunar-eclipse-maunakea-20261101",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-01T09:31:40+08:00",
+   "reason": "2026-11-01 每日采集入库（科技/航天科普）"
+  },
+  {
+   "event_id": "evt-20261101-0666",
+   "seq": 666,
+   "item_id": "sci-artemis-acceleration-hype-20261101",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-01T09:31:40+08:00",
+   "reason": "2026-11-01 每日采集入库（科技/航天科普）"
+  },
+  {
+   "event_id": "evt-20261101-0667",
+   "seq": 667,
+   "item_id": "art-ed138-3d-orbit-20261101",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-01T09:31:40+08:00",
+   "reason": "2026-11-01 每日采集入库（文化/艺术）"
+  },
+  {
+   "event_id": "evt-20261101-0668",
+   "seq": 668,
+   "item_id": "art-s301-black-hole-orbit-effect-20261101",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-01T09:31:40+08:00",
+   "reason": "2026-11-01 每日采集入库（文化/艺术）"
+  },
+  {
+   "event_id": "evt-20261101-0669",
+   "seq": 669,
+   "item_id": "art-cd35-moonlike-animation-20261101",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-01T09:31:40+08:00",
+   "reason": "2026-11-01 每日采集入库（文化/艺术）"
+  },
+  {
+   "event_id": "evt-20261101-0670",
+   "seq": 670,
+   "item_id": "cyber-opsec-spot-20261101",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-01T09:31:40+08:00",
+   "reason": "2026-11-01 每日采集入库（科技/安全教育）"
+  },
+  {
+   "event_id": "evt-20261101-0671",
+   "seq": 671,
+   "item_id": "cyber-insider-threat-20261101",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-01T09:31:40+08:00",
+   "reason": "2026-11-01 每日采集入库（科技/安全教育）"
+  },
+  {
+   "event_id": "evt-20261101-0672",
+   "seq": 672,
+   "item_id": "cyber-deeplocker-ai-malware-20261101",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-01T09:31:40+08:00",
+   "reason": "2026-11-01 每日采集入库（科技/安全教育）"
+  },
+  {
+   "event_id": "evt-20261101-0673",
+   "seq": 673,
+   "item_id": "game-yokota-tabletop-20261101",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-01T09:31:40+08:00",
+   "reason": "2026-11-01 每日采集入库（游戏/生活方式）"
+  },
+  {
+   "event_id": "evt-20261101-0674",
+   "seq": 674,
+   "item_id": "game-kids-chess-tournament-20261101",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-01T09:31:40+08:00",
+   "reason": "2026-11-01 每日采集入库（游戏/生活方式）"
+  },
+  {
+   "event_id": "evt-20261101-0675",
+   "seq": 675,
+   "item_id": "game-sialk-board-game-20261101",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-01T09:31:40+08:00",
+   "reason": "2026-11-01 每日采集入库（游戏/怀旧文化）"
+  },
+  {
+   "event_id": "evt-20261101-0676",
+   "seq": 676,
+   "item_id": "film-svengali-1931-20261101",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-01T09:31:40+08:00",
+   "reason": "2026-11-01 每日采集入库（影视/文化）"
+  },
+  {
+   "event_id": "evt-20261101-0677",
+   "seq": 677,
+   "item_id": "film-jekyll-hyde-1920-20261101",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-01T09:31:40+08:00",
+   "reason": "2026-11-01 每日采集入库（影视/文化）"
+  },
+  {
+   "event_id": "evt-20261101-0678",
+   "seq": 678,
+   "item_id": "film-carnival-souls-1962-20261101",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-01T09:31:40+08:00",
+   "reason": "2026-11-01 每日采集入库（影视/文化）"
+  },
+  {
+   "event_id": "evt-20261101-0679",
+   "seq": 679,
+   "item_id": "uas-azak-ugv-20261101",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-01T09:31:40+08:00",
+   "reason": "2026-11-01 每日采集入库（科技/无人机）"
+  },
+  {
+   "event_id": "evt-20261101-0680",
+   "seq": 680,
+   "item_id": "uas-yokota-downed-drone-20261101",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-01T09:31:40+08:00",
+   "reason": "2026-11-01 每日采集入库（科技/无人机）"
+  },
+  {
+   "event_id": "evt-20261101-0681",
+   "seq": 681,
+   "item_id": "mil-anatolian-eagle-20261101",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-01T09:31:40+08:00",
+   "reason": "2026-11-01 每日采集入库（军事/装备）"
+  },
+  {
+   "event_id": "evt-20261101-0682",
+   "seq": 682,
+   "item_id": "mil-combined-strike-f16-20261101",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-01T09:31:40+08:00",
+   "reason": "2026-11-01 每日采集入库（军事/装备）"
+  },
+  {
+   "event_id": "evt-20261101-0683",
+   "seq": 683,
+   "item_id": "mil-sprint-f16-snow-20261101",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-01T09:31:40+08:00",
+   "reason": "2026-11-01 每日采集入库（军事/装备）"
+  },
+  {
+   "event_id": "evt-20261101-0684",
+   "seq": 684,
+   "item_id": "sports-ulaanbaatar-marathon13-20261101",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-01T09:31:40+08:00",
+   "reason": "2026-11-01 每日采集入库（体育/历史）"
+  },
+  {
+   "event_id": "evt-20261101-0685",
+   "seq": 685,
+   "item_id": "nature-romo-sunset-clouds-20261101",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-01T09:31:40+08:00",
+   "reason": "2026-11-01 每日采集入库（自然/风光）"
+  },
+  {
+   "event_id": "evt-20261101-0686",
+   "seq": 686,
+   "item_id": "nature-romo-mountain-stream-20261101",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-01T09:31:40+08:00",
+   "reason": "2026-11-01 每日采集入库（自然/风光）"
+  },
+  {
+   "event_id": "evt-20261101-0687",
+   "seq": 687,
+   "item_id": "nature-romo-elk-tundra-20261101",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-01T09:31:40+08:00",
+   "reason": "2026-11-01 每日采集入库（自然/风光）"
+  },
+  {
+   "event_id": "evt-20261101-0688",
+   "seq": 688,
+   "item_id": "marine-sponge-nodulefield-20261101",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-01T09:31:40+08:00",
+   "reason": "2026-11-01 每日采集入库（自然/海洋生物）"
+  },
+  {
+   "event_id": "evt-20261101-0689",
+   "seq": 689,
+   "item_id": "marine-bristleworm-dive09-20261101",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-01T09:31:40+08:00",
+   "reason": "2026-11-01 每日采集入库（自然/海洋生物）"
+  },
+  {
+   "event_id": "evt-20261101-0690",
+   "seq": 690,
+   "item_id": "marine-cuskeel-dive06-20261101",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-01T09:31:40+08:00",
+   "reason": "2026-11-01 每日采集入库（自然/海洋生物）"
+  },
+  {
+   "event_id": "evt-20261101-0691",
+   "seq": 691,
+   "item_id": "travel-yell-bear-jam-20261101",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-01T09:31:40+08:00",
+   "reason": "2026-11-01 每日采集入库（旅行/户外）"
+  },
+  {
+   "event_id": "evt-20261101-0692",
+   "seq": 692,
+   "item_id": "travel-longs-peak-lambslide-20261101",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-01T09:31:40+08:00",
+   "reason": "2026-11-01 每日采集入库（旅行/户外）"
+  },
+  {
+   "event_id": "evt-20261101-0693",
+   "seq": 693,
+   "item_id": "travel-longs-peak-tour-20261101",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-01T09:31:40+08:00",
+   "reason": "2026-11-01 每日采集入库（旅行/户外）"
   }
  ]
 }
