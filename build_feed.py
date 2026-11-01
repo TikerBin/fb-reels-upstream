@@ -173,6 +173,10 @@ def build_jsonfeed(items, base_url):
             "_attribution": it["attribution"],
             "_version": it.get("version", 1),
         })
+        if it.get("date_modified"):
+            # 保留已发布字段（2026-11-01 修复：此前 build_jsonfeed 未输出 date_modified，
+            # feed.json 与 status.json/事件的同版本表示不一致，下游判 VIDEO_EVENT_CONFLICT）
+            feed["items"][-1]["date_modified"] = it["date_modified"]
         if it.get("is_test"):
             feed["items"][-1]["_is_test"] = True
         if it.get("author"):
