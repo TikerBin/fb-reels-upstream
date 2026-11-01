@@ -137,7 +137,28 @@ def validate_items(items):
     return True
 
 
-def build_jsonfeed(items, base_url):
+def load_published_feed():
+    """上一已发布 feed.json（同目录）作基线；缺失返回 None。
+
+    基线是“同版本表示不得漂移”的锚：生成器按 (id, _version) 查基线，
+    保留该字段的存在性与值，不擅自给同版本旧条目补字段。
+    """
+    p = os.path.join(UP, "feed.json")
+    if not os.path.exists(p):
+        return None
+    with open(p, encoding="utf-8") as f:
+        return json.load(f)
+
+
+def build_jsonfeed(items, base_url, baseline=None):
+    """Build JSON Feed. date_modified 保留规则（2026-11-01 修正）：
+    - 基线中有同 (id, version) 条目：原样保留其 date_modified 的存在性与值
+      （基线有则保留该值，基线无则不补，即使 items.json 里有该值）；
+    - 基线中无同 (id, version) 条目（新条目或升版）：按规范输出 items.json 的值；
+    - 无基线文件时：只给当天新发布（pub_date 为北京时间当天）的条目输出，
+      不给旧条目擅自新增字段。
+    同版本内容哈希以此为准，生成器不得在同版本下改动已发布表示。
+    """
     validate_items(items)
     feed = {
         "version": "https://jsonfeed.org/version/1.1",
@@ -149,6 +170,12 @@ def build_jsonfeed(items, base_url):
         "_verticals": build_verticals(items),
         "items": [],
     }
+    # date_modified：按已发布基线保留，禁止同版本漂移（见 build_jsonfeed 文档）
+    baseline_map = {}
+    if baseline is not None:
+        for _e in baseline.get("items", []):
+            baseline_map[(_e.get("id"), _e.get("_version", 1))] = _e
+    today_bj = datetime.now(timezone(timedelta(hours=8))).date().isoformat()
     for it in items:
         feed["items"].append({
             "id": it["id"],
@@ -173,9 +200,15 @@ def build_jsonfeed(items, base_url):
             "_attribution": it["attribution"],
             "_version": it.get("version", 1),
         })
-        if it.get("date_modified"):
-            # 保留已发布字段（2026-11-01 修复：此前 build_jsonfeed 未输出 date_modified，
-            # feed.json 与 status.json/事件的同版本表示不一致，下游判 VIDEO_EVENT_CONFLICT）
+        _key = (it["id"], it.get("version", 1))
+        if _key in baseline_map:
+            _be = baseline_map[_key]
+            if "date_modified" in _be:
+                feed["items"][-1]["date_modified"] = _be["date_modified"]
+        elif baseline is None:
+            if it.get("date_modified") and it.get("pub_date", "")[:10] == today_bj:
+                feed["items"][-1]["date_modified"] = it["date_modified"]
+        elif it.get("date_modified"):
             feed["items"][-1]["date_modified"] = it["date_modified"]
         if it.get("is_test"):
             feed["items"][-1]["_is_test"] = True
@@ -254,10 +287,12 @@ def main():
     feed_items.sort(key=lambda i: i.get("pub_date", ""), reverse=True)
     feed_items = feed_items[:420]
     validate_items(feed_items)  # 硬校验先行：RSS/JSON 任一违规都不生成
+    # 基线必须在覆盖 feed.json 之前读入：上一已发布表示是同版本不漂移的锚
+    baseline = load_published_feed()
     with open(os.path.join(UP, "feed.xml"), "w", encoding="utf-8") as f:
         f.write(build_rss(feed_items, a.base_url))
     with open(os.path.join(UP, "feed.json"), "w", encoding="utf-8") as f:
-        f.write(build_jsonfeed(feed_items, a.base_url))
+        f.write(build_jsonfeed(feed_items, a.base_url, baseline))
     status = build_status(items, {i["id"] for i in feed_items})
     with open(os.path.join(UP, "status.json"), "w", encoding="utf-8") as f:
         f.write(json.dumps(status, ensure_ascii=False, indent=1) + "\n")
