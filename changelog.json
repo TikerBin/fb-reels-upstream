@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-11-01T09:31:40+08:00",
- "event_count": 693,
- "next_seq": 694,
+ "updated_at": "2026-11-02T09:40:39+08:00",
+ "event_count": 730,
+ "next_seq": 731,
  "events": [
   {
    "event_id": "evt-20261013-0001",
@@ -8020,6 +8020,376 @@
    "status": "active",
    "occurred_at": "2026-11-01T09:31:40+08:00",
    "reason": "2026-11-01 每日采集入库（旅行/户外）"
+  },
+  {
+   "event_id": "evt-20261102-0694",
+   "seq": 694,
+   "item_id": "news-army-parachute-martinsville-20261102",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-02T09:40:39+08:00",
+   "reason": "2026-11-02 每日采集入库（科技/新闻）"
+  },
+  {
+   "event_id": "evt-20261102-0695",
+   "seq": 695,
+   "item_id": "news-cira-central-us-flooding-20261102",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-02T09:40:39+08:00",
+   "reason": "2026-11-02 每日采集入库（科技/新闻）"
+  },
+  {
+   "event_id": "evt-20261102-0696",
+   "seq": 696,
+   "item_id": "news-fortknox-halloween-20261102",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-02T09:40:39+08:00",
+   "reason": "2026-11-02 每日采集入库（科技/新闻）"
+  },
+  {
+   "event_id": "evt-20261102-0697",
+   "seq": 697,
+   "item_id": "ai-text2sql-chatMDA-20261102",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-02T09:40:39+08:00",
+   "reason": "2026-11-02 每日采集入库（科技/教育）"
+  },
+  {
+   "event_id": "evt-20261102-0698",
+   "seq": 698,
+   "item_id": "ai-veo3-cafe-man-20261102",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-02T09:40:39+08:00",
+   "reason": "2026-11-02 每日采集入库（科技/教育）"
+  },
+  {
+   "event_id": "evt-20261102-0699",
+   "seq": 699,
+   "item_id": "ai-veo31-lemonade-20261102",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-02T09:40:39+08:00",
+   "reason": "2026-11-02 每日采集入库（科技/教育）"
+  },
+  {
+   "event_id": "evt-20261102-0700",
+   "seq": 700,
+   "item_id": "sci-eclipse-wb57-50000ft-20261102",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-02T09:40:39+08:00",
+   "reason": "2026-11-02 每日采集入库（科技/航天）"
+  },
+  {
+   "event_id": "evt-20261102-0701",
+   "seq": 701,
+   "item_id": "sci-artemis-origins-20261102",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-02T09:40:39+08:00",
+   "reason": "2026-11-02 每日采集入库（科技/航天科普）"
+  },
+  {
+   "event_id": "evt-20261102-0702",
+   "seq": 702,
+   "item_id": "sci-whatsup-oct2026-saturn-20261102",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-02T09:40:39+08:00",
+   "reason": "2026-11-02 每日采集入库（科技/教育）"
+  },
+  {
+   "event_id": "evt-20261102-0703",
+   "seq": 703,
+   "item_id": "nature-erawan-waterfall-20261102",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-02T09:40:39+08:00",
+   "reason": "2026-11-02 每日采集入库（自然/风光）"
+  },
+  {
+   "event_id": "evt-20261102-0704",
+   "seq": 704,
+   "item_id": "nature-palongkam-waterfall-20261102",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-02T09:40:39+08:00",
+   "reason": "2026-11-02 每日采集入库（自然/风光）"
+  },
+  {
+   "event_id": "evt-20261102-0705",
+   "seq": 705,
+   "item_id": "nature-elephant-herd-hoollongapar-20261102",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-02T09:40:39+08:00",
+   "reason": "2026-11-02 每日采集入库（自然/风光）"
+  },
+  {
+   "event_id": "evt-20261102-0706",
+   "seq": 706,
+   "item_id": "marine-whale-shark-maldives-20261102",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-02T09:40:39+08:00",
+   "reason": "2026-11-02 每日采集入库（自然/海洋生物）"
+  },
+  {
+   "event_id": "evt-20261102-0707",
+   "seq": 707,
+   "item_id": "marine-pilot-whales-pioneer16-20261102",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-02T09:40:39+08:00",
+   "reason": "2026-11-02 每日采集入库（自然/海洋生物）"
+  },
+  {
+   "event_id": "evt-20261102-0708",
+   "seq": 708,
+   "item_id": "marine-dwarf-octopus-caribbean-20261102",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-02T09:40:39+08:00",
+   "reason": "2026-11-02 每日采集入库（自然/海洋生物）"
+  },
+  {
+   "event_id": "evt-20261102-0709",
+   "seq": 709,
+   "item_id": "uas-walker-drone-pilot-20261102",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-02T09:40:39+08:00",
+   "reason": "2026-11-02 每日采集入库（科技/无人机）"
+  },
+  {
+   "event_id": "evt-20261102-0710",
+   "seq": 710,
+   "item_id": "uas-grafenwoehr-aerial-targets-20261102",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-02T09:40:39+08:00",
+   "reason": "2026-11-02 每日采集入库（科技/无人机）"
+  },
+  {
+   "event_id": "evt-20261102-0711",
+   "seq": 711,
+   "item_id": "uas-dronebuster-training-20261102",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-02T09:40:39+08:00",
+   "reason": "2026-11-02 每日采集入库（科技/无人机）"
+  },
+  {
+   "event_id": "evt-20261102-0712",
+   "seq": 712,
+   "item_id": "mil-f16s-centcom-refuel-20261102",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-02T09:40:39+08:00",
+   "reason": "2026-11-02 每日采集入库（军事/装备）"
+  },
+  {
+   "event_id": "evt-20261102-0713",
+   "seq": 713,
+   "item_id": "mil-f16-f35-night-takeoff-20261102",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-02T09:40:39+08:00",
+   "reason": "2026-11-02 每日采集入库（军事/装备）"
+  },
+  {
+   "event_id": "evt-20261102-0714",
+   "seq": 714,
+   "item_id": "mil-peru-airshow-2026-20261102",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-02T09:40:39+08:00",
+   "reason": "2026-11-02 每日采集入库（军事/装备）"
+  },
+  {
+   "event_id": "evt-20261102-0715",
+   "seq": 715,
+   "item_id": "cyber-afn-naples-opsec-20261102",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-02T09:40:39+08:00",
+   "reason": "2026-11-02 每日采集入库（科技/安全教育）"
+  },
+  {
+   "event_id": "evt-20261102-0716",
+   "seq": 716,
+   "item_id": "cyber-opsec-email-spot-20261102",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-02T09:40:39+08:00",
+   "reason": "2026-11-02 每日采集入库（科技/安全教育）"
+  },
+  {
+   "event_id": "evt-20261102-0717",
+   "seq": 717,
+   "item_id": "cyber-cac-burglar-spot-20261102",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-02T09:40:39+08:00",
+   "reason": "2026-11-02 每日采集入库（科技/安全教育）"
+  },
+  {
+   "event_id": "evt-20261102-0718",
+   "seq": 718,
+   "item_id": "game-buganda-clans-chess-20261102",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-02T09:40:39+08:00",
+   "reason": "2026-11-02 每日采集入库（游戏/生活方式）"
+  },
+  {
+   "event_id": "evt-20261102-0719",
+   "seq": 719,
+   "item_id": "game-levend-schaakspel-1925-20261102",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-02T09:40:39+08:00",
+   "reason": "2026-11-02 每日采集入库（游戏/怀旧文化）"
+  },
+  {
+   "event_id": "evt-20261102-0720",
+   "seq": 720,
+   "item_id": "game-pool-break-20261102",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-02T09:40:39+08:00",
+   "reason": "2026-11-02 每日采集入库（游戏/生活方式）"
+  },
+  {
+   "event_id": "evt-20261102-0721",
+   "seq": 721,
+   "item_id": "film-8bit-steamboat-willie-20261102",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-02T09:40:39+08:00",
+   "reason": "2026-11-02 每日采集入库（影视/文化）"
+  },
+  {
+   "event_id": "evt-20261102-0722",
+   "seq": 722,
+   "item_id": "sports-sasebo-softball-20261102",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-02T09:40:39+08:00",
+   "reason": "2026-11-02 每日采集入库（体育/历史）"
+  },
+  {
+   "event_id": "evt-20261102-0723",
+   "seq": 723,
+   "item_id": "sports-yokota-hyrox-20261102",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-02T09:40:39+08:00",
+   "reason": "2026-11-02 每日采集入库（体育/历史）"
+  },
+  {
+   "event_id": "evt-20261102-0724",
+   "seq": 724,
+   "item_id": "sports-spring-cup-soccer-20261102",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-02T09:40:39+08:00",
+   "reason": "2026-11-02 每日采集入库（体育/历史）"
+  },
+  {
+   "event_id": "evt-20261102-0725",
+   "seq": 725,
+   "item_id": "travel-going-sun-1960s-20261102",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-02T09:40:39+08:00",
+   "reason": "2026-11-02 每日采集入库（旅行/户外）"
+  },
+  {
+   "event_id": "evt-20261102-0726",
+   "seq": 726,
+   "item_id": "travel-going-sun-1950s-20261102",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-02T09:40:39+08:00",
+   "reason": "2026-11-02 每日采集入库（旅行/户外）"
+  },
+  {
+   "event_id": "evt-20261102-0727",
+   "seq": 727,
+   "item_id": "travel-yell-elk-rut-20261102",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-02T09:40:39+08:00",
+   "reason": "2026-11-02 每日采集入库（自然/风光）"
+  },
+  {
+   "event_id": "evt-20261102-0728",
+   "seq": 728,
+   "item_id": "art-zion-lumi-stopmotion-20261102",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-02T09:40:39+08:00",
+   "reason": "2026-11-02 每日采集入库（文化/艺术）"
+  },
+  {
+   "event_id": "evt-20261102-0729",
+   "seq": 729,
+   "item_id": "art-olympic-mrsedge-animation-20261102",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-02T09:40:39+08:00",
+   "reason": "2026-11-02 每日采集入库（文化/艺术）"
+  },
+  {
+   "event_id": "evt-20261102-0730",
+   "seq": 730,
+   "item_id": "art-romo-pavlov-live-20261102",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-02T09:40:39+08:00",
+   "reason": "2026-11-02 每日采集入库（文化/艺术）"
   }
  ]
 }
