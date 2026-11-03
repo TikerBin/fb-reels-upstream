@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-11-02T09:40:39+08:00",
- "event_count": 730,
- "next_seq": 731,
+ "updated_at": "2026-11-03T09:38:53+08:00",
+ "event_count": 763,
+ "next_seq": 764,
  "events": [
   {
    "event_id": "evt-20261013-0001",
@@ -8390,6 +8390,336 @@
    "status": "active",
    "occurred_at": "2026-11-02T09:40:39+08:00",
    "reason": "2026-11-02 每日采集入库（文化/艺术）"
+  },
+  {
+   "event_id": "evt-20261103-0731",
+   "seq": 731,
+   "item_id": "news-medevac-sf-20261103",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-03T09:38:53+08:00",
+   "reason": "2026-11-03 每日采集入库（科技/新闻）"
+  },
+  {
+   "event_id": "evt-20261103-0732",
+   "seq": 732,
+   "item_id": "news-pfas-treatment-tour-20261103",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-03T09:38:53+08:00",
+   "reason": "2026-11-03 每日采集入库（科技/新闻）"
+  },
+  {
+   "event_id": "evt-20261103-0733",
+   "seq": 733,
+   "item_id": "news-irrigation-eqip-idaho-20261103",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-03T09:38:53+08:00",
+   "reason": "2026-11-03 每日采集入库（财经/科普）"
+  },
+  {
+   "event_id": "evt-20261103-0734",
+   "seq": 734,
+   "item_id": "mil-attack-gunnery-20261103",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-03T09:38:53+08:00",
+   "reason": "2026-11-03 每日采集入库（军事/装备）"
+  },
+  {
+   "event_id": "evt-20261103-0735",
+   "seq": 735,
+   "item_id": "mil-arresting-system-20261103",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-03T09:38:53+08:00",
+   "reason": "2026-11-03 每日采集入库（军事/装备）"
+  },
+  {
+   "event_id": "evt-20261103-0736",
+   "seq": 736,
+   "item_id": "mil-hh60w-americas-airfield-20261103",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-03T09:38:53+08:00",
+   "reason": "2026-11-03 每日采集入库（军事/装备）"
+  },
+  {
+   "event_id": "evt-20261103-0737",
+   "seq": 737,
+   "item_id": "sports-nyc-marathon-wave-20261103",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-03T09:38:53+08:00",
+   "reason": "2026-11-03 每日采集入库（体育/历史）"
+  },
+  {
+   "event_id": "evt-20261103-0738",
+   "seq": 738,
+   "item_id": "sports-army-pt-field-20261103",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-03T09:38:53+08:00",
+   "reason": "2026-11-03 每日采集入库（体育/历史）"
+  },
+  {
+   "event_id": "evt-20261103-0739",
+   "seq": 739,
+   "item_id": "ai-sora2-showcase-20261103",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-03T09:38:53+08:00",
+   "reason": "2026-11-03 每日采集入库（科技/教育）"
+  },
+  {
+   "event_id": "evt-20261103-0740",
+   "seq": 740,
+   "item_id": "ai-veo3-chernobyl-room-20261103",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-03T09:38:53+08:00",
+   "reason": "2026-11-03 每日采集入库（科技/教育）"
+  },
+  {
+   "event_id": "evt-20261103-0741",
+   "seq": 741,
+   "item_id": "cyber-yankee-2026-20261103",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-03T09:38:53+08:00",
+   "reason": "2026-11-03 每日采集入库（科技/安全教育）"
+  },
+  {
+   "event_id": "evt-20261103-0742",
+   "seq": 742,
+   "item_id": "sci-tohono-open-night-20261103",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-03T09:38:53+08:00",
+   "reason": "2026-11-03 每日采集入库（科技/教育）"
+  },
+  {
+   "event_id": "evt-20261103-0743",
+   "seq": 743,
+   "item_id": "sci-planet-labels-20261103",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-03T09:38:53+08:00",
+   "reason": "2026-11-03 每日采集入库（科技/教育）"
+  },
+  {
+   "event_id": "evt-20261103-0744",
+   "seq": 744,
+   "item_id": "sci-moon-weather-20261103",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-03T09:38:53+08:00",
+   "reason": "2026-11-03 每日采集入库（科技/航天科普）"
+  },
+  {
+   "event_id": "evt-20261103-0745",
+   "seq": 745,
+   "item_id": "art-centaurus-a-pan-20261103",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-03T09:38:53+08:00",
+   "reason": "2026-11-03 每日采集入库（文化/艺术）"
+  },
+  {
+   "event_id": "evt-20261103-0746",
+   "seq": 746,
+   "item_id": "art-m51-pan-20261103",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-03T09:38:53+08:00",
+   "reason": "2026-11-03 每日采集入库（文化/艺术）"
+  },
+  {
+   "event_id": "evt-20261103-0747",
+   "seq": 747,
+   "item_id": "art-trifid-pan-20261103",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-03T09:38:53+08:00",
+   "reason": "2026-11-03 每日采集入库（文化/艺术）"
+  },
+  {
+   "event_id": "evt-20261103-0748",
+   "seq": 748,
+   "item_id": "drone-balikatan-uas-20261103",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-03T09:38:53+08:00",
+   "reason": "2026-11-03 每日采集入库（科技/无人机）"
+  },
+  {
+   "event_id": "evt-20261103-0749",
+   "seq": 749,
+   "item_id": "drone-counter-uav-saber-junction-20261103",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-03T09:38:53+08:00",
+   "reason": "2026-11-03 每日采集入库（科技/无人机）"
+  },
+  {
+   "event_id": "evt-20261103-0750",
+   "seq": 750,
+   "item_id": "drone-combined-resolve-fpv-20261103",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-03T09:38:53+08:00",
+   "reason": "2026-11-03 每日采集入库（科技/无人机）"
+  },
+  {
+   "event_id": "evt-20261103-0751",
+   "seq": 751,
+   "item_id": "nature-grand-canyon-visitor-voices-20261103",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-03T09:38:53+08:00",
+   "reason": "2026-11-03 每日采集入库（自然/风光）"
+  },
+  {
+   "event_id": "evt-20261103-0752",
+   "seq": 752,
+   "item_id": "nature-romo-roaring-river-20261103",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-03T09:38:53+08:00",
+   "reason": "2026-11-03 每日采集入库（自然/风光）"
+  },
+  {
+   "event_id": "evt-20261103-0753",
+   "seq": 753,
+   "item_id": "nature-zion-squirrel-20261103",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-03T09:38:53+08:00",
+   "reason": "2026-11-03 每日采集入库（自然/风光）"
+  },
+  {
+   "event_id": "evt-20261103-0754",
+   "seq": 754,
+   "item_id": "game-kampala-kids-20261103",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-03T09:38:53+08:00",
+   "reason": "2026-11-03 每日采集入库（游戏/生活方式）"
+  },
+  {
+   "event_id": "evt-20261103-0755",
+   "seq": 755,
+   "item_id": "game-scrabble-makindye-20261103",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-03T09:38:53+08:00",
+   "reason": "2026-11-03 每日采集入库（游戏/生活方式）"
+  },
+  {
+   "event_id": "evt-20261103-0756",
+   "seq": 756,
+   "item_id": "game-marine-chess-1990-20261103",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-03T09:38:53+08:00",
+   "reason": "2026-11-03 每日采集入库（游戏/怀旧文化）"
+  },
+  {
+   "event_id": "evt-20261103-0757",
+   "seq": 757,
+   "item_id": "film-impossible-20261103",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-03T09:38:53+08:00",
+   "reason": "2026-11-03 每日采集入库（影视/文化）"
+  },
+  {
+   "event_id": "evt-20261103-0758",
+   "seq": 758,
+   "item_id": "film-ratskin-1929-20261103",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-03T09:38:53+08:00",
+   "reason": "2026-11-03 每日采集入库（影视/文化）"
+  },
+  {
+   "event_id": "evt-20261103-0759",
+   "seq": 759,
+   "item_id": "film-mailman-1928-20261103",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-03T09:38:53+08:00",
+   "reason": "2026-11-03 每日采集入库（影视/文化）"
+  },
+  {
+   "event_id": "evt-20261103-0760",
+   "seq": 760,
+   "item_id": "marine-cuskeel-20261103",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-03T09:38:53+08:00",
+   "reason": "2026-11-03 每日采集入库（自然/海洋生物）"
+  },
+  {
+   "event_id": "evt-20261103-0761",
+   "seq": 761,
+   "item_id": "marine-snailfish-20261103",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-03T09:38:53+08:00",
+   "reason": "2026-11-03 每日采集入库（自然/海洋生物）"
+  },
+  {
+   "event_id": "evt-20261103-0762",
+   "seq": 762,
+   "item_id": "travel-arches-timed-entry-20261103",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-03T09:38:53+08:00",
+   "reason": "2026-11-03 每日采集入库（旅行/户外）"
+  },
+  {
+   "event_id": "evt-20261103-0763",
+   "seq": 763,
+   "item_id": "travel-seawall-picnic-20261103",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-03T09:38:53+08:00",
+   "reason": "2026-11-03 每日采集入库（旅行/户外）"
   }
  ]
 }
