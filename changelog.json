@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-11-03T09:38:53+08:00",
- "event_count": 763,
- "next_seq": 764,
+ "updated_at": "2026-11-04T10:09:16+08:00",
+ "event_count": 797,
+ "next_seq": 798,
  "events": [
   {
    "event_id": "evt-20261013-0001",
@@ -8720,6 +8720,346 @@
    "status": "active",
    "occurred_at": "2026-11-03T09:38:53+08:00",
    "reason": "2026-11-03 每日采集入库（旅行/户外）"
+  },
+  {
+   "event_id": "evt-20261104-0764",
+   "seq": 764,
+   "item_id": "news-coastguard-icybay-rescue-20261104",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-04T10:09:16+08:00",
+   "reason": "2026-11-04 每日采集入库（科技/新闻）"
+  },
+  {
+   "event_id": "evt-20261104-0765",
+   "seq": 765,
+   "item_id": "news-uss-washington-undocking-20261104",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-04T10:09:16+08:00",
+   "reason": "2026-11-04 每日采集入库（科技/新闻）"
+  },
+  {
+   "event_id": "evt-20261104-0766",
+   "seq": 766,
+   "item_id": "news-feed-initiative-forthood-20261104",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-04T10:09:16+08:00",
+   "reason": "2026-11-04 每日采集入库（财经/科普）"
+  },
+  {
+   "event_id": "evt-20261104-0767",
+   "seq": 767,
+   "item_id": "ai-sora-goldrush-20261104",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-04T10:09:16+08:00",
+   "reason": "2026-11-04 每日采集入库（科技/教育）"
+  },
+  {
+   "event_id": "evt-20261104-0768",
+   "seq": 768,
+   "item_id": "ai-sora-tokyowalk-20261104",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-04T10:09:16+08:00",
+   "reason": "2026-11-04 每日采集入库（科技/教育）"
+  },
+  {
+   "event_id": "evt-20261104-0769",
+   "seq": 769,
+   "item_id": "ai-sora-mammoth-20261104",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-04T10:09:16+08:00",
+   "reason": "2026-11-04 每日采集入库（科技/教育）"
+  },
+  {
+   "event_id": "evt-20261104-0770",
+   "seq": 770,
+   "item_id": "drone-combined-resolve-counter-uas-20261104",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-04T10:09:16+08:00",
+   "reason": "2026-11-04 每日采集入库（科技/无人机）"
+  },
+  {
+   "event_id": "evt-20261104-0771",
+   "seq": 771,
+   "item_id": "drone-african-lion-counter-uas-20261104",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-04T10:09:16+08:00",
+   "reason": "2026-11-04 每日采集入库（科技/无人机）"
+  },
+  {
+   "event_id": "evt-20261104-0772",
+   "seq": 772,
+   "item_id": "drone-bavaria-counter-uas-course-20261104",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-04T10:09:16+08:00",
+   "reason": "2026-11-04 每日采集入库（科技/无人机）"
+  },
+  {
+   "event_id": "evt-20261104-0773",
+   "seq": 773,
+   "item_id": "sci-cats-head-nebula-zoom-20261104",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-04T10:09:16+08:00",
+   "reason": "2026-11-04 每日采集入库（科技/航天科普）"
+  },
+  {
+   "event_id": "evt-20261104-0774",
+   "seq": 774,
+   "item_id": "sci-cats-head-nebula-pan-20261104",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-04T10:09:16+08:00",
+   "reason": "2026-11-04 每日采集入库（科技/航天）"
+  },
+  {
+   "event_id": "evt-20261104-0775",
+   "seq": 775,
+   "item_id": "b-sci-ed138-orbital-arc-20261104",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-04T10:09:16+08:00",
+   "reason": "2026-11-04 每日采集入库（科技/航天科普）"
+  },
+  {
+   "event_id": "evt-20261104-0776",
+   "seq": 776,
+   "item_id": "game-kids-chess-holiday-20261104",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-04T10:09:16+08:00",
+   "reason": "2026-11-04 每日采集入库（游戏/生活方式）"
+  },
+  {
+   "event_id": "evt-20261104-0777",
+   "seq": 777,
+   "item_id": "game-mweso-championships-20261104",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-04T10:09:16+08:00",
+   "reason": "2026-11-04 每日采集入库（游戏/生活方式）"
+  },
+  {
+   "event_id": "evt-20261104-0778",
+   "seq": 778,
+   "item_id": "game-inter-clans-chess-20261104",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-04T10:09:16+08:00",
+   "reason": "2026-11-04 每日采集入库（游戏/生活方式）"
+  },
+  {
+   "event_id": "evt-20261104-0779",
+   "seq": 779,
+   "item_id": "c-film-over-silent-paths-1910-20261104",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-04T10:09:16+08:00",
+   "reason": "2026-11-04 每日采集入库（影视/文化）"
+  },
+  {
+   "event_id": "evt-20261104-0780",
+   "seq": 780,
+   "item_id": "c-film-baby-parade-1904-20261104",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-04T10:09:16+08:00",
+   "reason": "2026-11-04 每日采集入库（影视/文化）"
+  },
+  {
+   "event_id": "evt-20261104-0781",
+   "seq": 781,
+   "item_id": "film-visoes-amazonia-20261104",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-04T10:09:16+08:00",
+   "reason": "2026-11-04 每日采集入库（影视/文化）"
+  },
+  {
+   "event_id": "evt-20261104-0782",
+   "seq": 782,
+   "item_id": "sport-marathon-dancers-1923-20261104",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-04T10:09:16+08:00",
+   "reason": "2026-11-04 每日采集入库（体育/历史）"
+  },
+  {
+   "event_id": "evt-20261104-0783",
+   "seq": 783,
+   "item_id": "c-sport-estadio-olimpico-universitario-20261104",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-04T10:09:16+08:00",
+   "reason": "2026-11-04 每日采集入库（体育/建筑）"
+  },
+  {
+   "event_id": "evt-20261104-0784",
+   "seq": 784,
+   "item_id": "c-sport-stade-de-france-fpv-20261104",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-04T10:09:16+08:00",
+   "reason": "2026-11-04 每日采集入库（体育/建筑）"
+  },
+  {
+   "event_id": "evt-20261104-0785",
+   "seq": 785,
+   "item_id": "art-bossard-exhibition-20261104",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-04T10:09:16+08:00",
+   "reason": "2026-11-04 每日采集入库（文化/艺术）"
+  },
+  {
+   "event_id": "evt-20261104-0786",
+   "seq": 786,
+   "item_id": "art-wood-sculpture-making-20261104",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-04T10:09:16+08:00",
+   "reason": "2026-11-04 每日采集入库（文化/艺术）"
+  },
+  {
+   "event_id": "evt-20261104-0787",
+   "seq": 787,
+   "item_id": "nat-meadow-vole-snow-20261104",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-04T10:09:16+08:00",
+   "reason": "2026-11-04 每日采集入库（自然/风光）"
+  },
+  {
+   "event_id": "evt-20261104-0788",
+   "seq": 788,
+   "item_id": "nat-koralpe-alpine-meadow-20261104",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-04T10:09:16+08:00",
+   "reason": "2026-11-04 每日采集入库（自然/风光）"
+  },
+  {
+   "event_id": "evt-20261104-0789",
+   "seq": 789,
+   "item_id": "nat-zwolferhorn-wolfgangsee-20261104",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-04T10:09:16+08:00",
+   "reason": "2026-11-04 每日采集入库（自然/风光）"
+  },
+  {
+   "event_id": "evt-20261104-0790",
+   "seq": 790,
+   "item_id": "marine-faceless-cusk-eel-20261104",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-04T10:09:16+08:00",
+   "reason": "2026-11-04 每日采集入库（自然/海洋生物）"
+  },
+  {
+   "event_id": "evt-20261104-0791",
+   "seq": 791,
+   "item_id": "marine-dive07-biology-20261104",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-04T10:09:16+08:00",
+   "reason": "2026-11-04 每日采集入库（自然/海洋生物）"
+  },
+  {
+   "event_id": "evt-20261104-0792",
+   "seq": 792,
+   "item_id": "marine-sponges-dive04-20261104",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-04T10:09:16+08:00",
+   "reason": "2026-11-04 每日采集入库（自然/海洋生物）"
+  },
+  {
+   "event_id": "evt-20261104-0793",
+   "seq": 793,
+   "item_id": "travel-glacier-driving-1940s-20261104",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-04T10:09:16+08:00",
+   "reason": "2026-11-04 每日采集入库（旅行/户外）"
+  },
+  {
+   "event_id": "evt-20261104-0794",
+   "seq": 794,
+   "item_id": "travel-glacier-plowing-1930s-20261104",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-04T10:09:16+08:00",
+   "reason": "2026-11-04 每日采集入库（旅行/户外）"
+  },
+  {
+   "event_id": "evt-20261104-0795",
+   "seq": 795,
+   "item_id": "travel-yosemite-winter-tuolumne-20261104",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-04T10:09:16+08:00",
+   "reason": "2026-11-04 每日采集入库（旅行/户外）"
+  },
+  {
+   "event_id": "evt-20261104-0796",
+   "seq": 796,
+   "item_id": "mil-sentry-c130-hercules-20261104",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-04T10:09:16+08:00",
+   "reason": "2026-11-04 每日采集入库（军事/装备）"
+  },
+  {
+   "event_id": "evt-20261104-0797",
+   "seq": 797,
+   "item_id": "mil-hades-flight-test-20261104",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-04T10:09:16+08:00",
+   "reason": "2026-11-04 每日采集入库（军事/装备）"
   }
  ]
 }
