@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-11-04T10:09:16+08:00",
- "event_count": 797,
- "next_seq": 798,
+ "updated_at": "2026-11-05T09:21:12+08:00",
+ "event_count": 824,
+ "next_seq": 825,
  "events": [
   {
    "event_id": "evt-20261013-0001",
@@ -9060,6 +9060,276 @@
    "status": "active",
    "occurred_at": "2026-11-04T10:09:16+08:00",
    "reason": "2026-11-04 每日采集入库（军事/装备）"
+  },
+  {
+   "event_id": "evt-20261105-0798",
+   "seq": 798,
+   "item_id": "news-nbk-bremerton-publicworks-20261105",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-05T09:21:12+08:00",
+   "reason": "2026-11-05 每日采集入库（科技/新闻）"
+  },
+  {
+   "event_id": "evt-20261105-0799",
+   "seq": 799,
+   "item_id": "ai-nasa-firefighting-cop-20261105",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-05T09:21:12+08:00",
+   "reason": "2026-11-05 每日采集入库（科技/教育）"
+  },
+  {
+   "event_id": "evt-20261105-0800",
+   "seq": 800,
+   "item_id": "ai-sora-ant-tunnel-20261105",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-05T09:21:12+08:00",
+   "reason": "2026-11-05 每日采集入库（科技/教育）"
+  },
+  {
+   "event_id": "evt-20261105-0801",
+   "seq": 801,
+   "item_id": "ai-wikimachine-20261105",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-05T09:21:12+08:00",
+   "reason": "2026-11-05 每日采集入库（科技/教育）"
+  },
+  {
+   "event_id": "evt-20261105-0802",
+   "seq": 802,
+   "item_id": "b-drone-artemis2-uas-20261105",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-05T09:21:12+08:00",
+   "reason": "2026-11-05 每日采集入库（科技/无人机）"
+  },
+  {
+   "event_id": "evt-20261105-0803",
+   "seq": 803,
+   "item_id": "b-drone-nellis-airspace-20261105",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-05T09:21:12+08:00",
+   "reason": "2026-11-05 每日采集入库（科技/无人机）"
+  },
+  {
+   "event_id": "evt-20261105-0804",
+   "seq": 804,
+   "item_id": "b-sci-exomoon-detect-20261105",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-05T09:21:12+08:00",
+   "reason": "2026-11-05 每日采集入库（科技/航天科普）"
+  },
+  {
+   "event_id": "evt-20261105-0805",
+   "seq": 805,
+   "item_id": "b-sci-m96-pan-20261105",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-05T09:21:12+08:00",
+   "reason": "2026-11-05 每日采集入库（科技/航天科普）"
+  },
+  {
+   "event_id": "evt-20261105-0806",
+   "seq": 806,
+   "item_id": "b-sci-binary-blackhole-20261105",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-05T09:21:12+08:00",
+   "reason": "2026-11-05 每日采集入库（科技/航天科普）"
+  },
+  {
+   "event_id": "evt-20261105-0807",
+   "seq": 807,
+   "item_id": "game-youth-chess-20261105",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-05T09:21:12+08:00",
+   "reason": "2026-11-05 每日采集入库（游戏/生活方式）"
+  },
+  {
+   "event_id": "evt-20261105-0808",
+   "seq": 808,
+   "item_id": "game-earth-space-chess-20261105",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-05T09:21:12+08:00",
+   "reason": "2026-11-05 每日采集入库（游戏/怀旧文化）"
+  },
+  {
+   "event_id": "evt-20261105-0809",
+   "seq": 809,
+   "item_id": "game-chess-fever-1925-20261105",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-05T09:21:12+08:00",
+   "reason": "2026-11-05 每日采集入库（游戏/怀旧文化）"
+  },
+  {
+   "event_id": "evt-20261105-0810",
+   "seq": 810,
+   "item_id": "film-playing-cards-1896-20261105",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-05T09:21:12+08:00",
+   "reason": "2026-11-05 每日采集入库（影视/文化）"
+  },
+  {
+   "event_id": "evt-20261105-0811",
+   "seq": 811,
+   "item_id": "film-dynamite-1920-20261105",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-05T09:21:12+08:00",
+   "reason": "2026-11-05 每日采集入库（影视/文化）"
+  },
+  {
+   "event_id": "evt-20261105-0812",
+   "seq": 812,
+   "item_id": "film-daredevils-on-ice-1945-20261105",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-05T09:21:12+08:00",
+   "reason": "2026-11-05 每日采集入库（影视/文化）"
+  },
+  {
+   "event_id": "evt-20261105-0813",
+   "seq": 813,
+   "item_id": "sport-saikai-softball-20261105",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-05T09:21:12+08:00",
+   "reason": "2026-11-05 每日采集入库（体育/历史）"
+  },
+  {
+   "event_id": "evt-20261105-0814",
+   "seq": 814,
+   "item_id": "sport-neon-night-run-20261105",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-05T09:21:12+08:00",
+   "reason": "2026-11-05 每日采集入库（体育/历史）"
+  },
+  {
+   "event_id": "evt-20261105-0815",
+   "seq": 815,
+   "item_id": "sport-manning-dragon-boat-20261105",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-05T09:21:12+08:00",
+   "reason": "2026-11-05 每日采集入库（体育/历史）"
+  },
+  {
+   "event_id": "evt-20261105-0816",
+   "seq": 816,
+   "item_id": "art-lion-nebula-ngc2392-20261105",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-05T09:21:12+08:00",
+   "reason": "2026-11-05 每日采集入库（文化/艺术）"
+  },
+  {
+   "event_id": "evt-20261105-0817",
+   "seq": 817,
+   "item_id": "art-crab-nebula-pan-20261105",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-05T09:21:12+08:00",
+   "reason": "2026-11-05 每日采集入库（文化/艺术）"
+  },
+  {
+   "event_id": "evt-20261105-0818",
+   "seq": 818,
+   "item_id": "art-archivarte-estate-20261105",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-05T09:21:12+08:00",
+   "reason": "2026-11-05 每日采集入库（文化/艺术）"
+  },
+  {
+   "event_id": "evt-20261105-0819",
+   "seq": 819,
+   "item_id": "nat-bear-mammoth-lakes-library-20261105",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-05T09:21:12+08:00",
+   "reason": "2026-11-05 每日采集入库（自然/风光）"
+  },
+  {
+   "event_id": "evt-20261105-0820",
+   "seq": 820,
+   "item_id": "nat-kremenosa-autumn-waterfall-20261105",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-05T09:21:12+08:00",
+   "reason": "2026-11-05 每日采集入库（自然/风光）"
+  },
+  {
+   "event_id": "evt-20261105-0821",
+   "seq": 821,
+   "item_id": "nat-lawer-paklongkam-stream-20261105",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-05T09:21:12+08:00",
+   "reason": "2026-11-05 每日采集入库（自然/风光）"
+  },
+  {
+   "event_id": "evt-20261105-0822",
+   "seq": 822,
+   "item_id": "marine-nodule-field-dive06-20261105",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-05T09:21:12+08:00",
+   "reason": "2026-11-05 每日采集入库（自然/海洋生物）"
+  },
+  {
+   "event_id": "evt-20261105-0823",
+   "seq": 823,
+   "item_id": "marine-whale-bubble-net-animation-20261105",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-05T09:21:12+08:00",
+   "reason": "2026-11-05 每日采集入库（自然/海洋生物）"
+  },
+  {
+   "event_id": "evt-20261105-0824",
+   "seq": 824,
+   "item_id": "marine-deepsea-octopuses-20261105",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-05T09:21:12+08:00",
+   "reason": "2026-11-05 每日采集入库（自然/海洋生物）"
   }
  ]
 }
