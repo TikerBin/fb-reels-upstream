@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-11-05T09:21:12+08:00",
- "event_count": 824,
- "next_seq": 825,
+ "updated_at": "2026-11-06T09:49:09+08:00",
+ "event_count": 855,
+ "next_seq": 856,
  "events": [
   {
    "event_id": "evt-20261013-0001",
@@ -9330,6 +9330,316 @@
    "status": "active",
    "occurred_at": "2026-11-05T09:21:12+08:00",
    "reason": "2026-11-05 每日采集入库（自然/海洋生物）"
+  },
+  {
+   "event_id": "evt-20261106-0825",
+   "seq": 825,
+   "item_id": "news-jble-hampton-fire-20261106",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-06T09:49:09+08:00",
+   "reason": "2026-11-06 每日采集入库（科技/新闻）"
+  },
+  {
+   "event_id": "evt-20261106-0826",
+   "seq": 826,
+   "item_id": "news-cira-georgia-flooding-20261106",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-06T09:49:09+08:00",
+   "reason": "2026-11-06 每日采集入库（科技/新闻）"
+  },
+  {
+   "event_id": "evt-20261106-0827",
+   "seq": 827,
+   "item_id": "news-cira-midlatitude-cyclone-20261106",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-06T09:49:09+08:00",
+   "reason": "2026-11-06 每日采集入库（科技/新闻）"
+  },
+  {
+   "event_id": "evt-20261106-0828",
+   "seq": 828,
+   "item_id": "ai-sora-borneo-hornbills-20261106",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-06T09:49:09+08:00",
+   "reason": "2026-11-06 每日采集入库（科技/教育）"
+  },
+  {
+   "event_id": "evt-20261106-0829",
+   "seq": 829,
+   "item_id": "ai-sora-glenfinnan-train-20261106",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-06T09:49:09+08:00",
+   "reason": "2026-11-06 每日采集入库（科技/教育）"
+  },
+  {
+   "event_id": "evt-20261106-0830",
+   "seq": 830,
+   "item_id": "sci-m30-pan-20261106",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-06T09:49:09+08:00",
+   "reason": "2026-11-06 每日采集入库（科技/航天科普）"
+  },
+  {
+   "event_id": "evt-20261106-0831",
+   "seq": 831,
+   "item_id": "sci-catshead-hubble-pan-20261106",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-06T09:49:09+08:00",
+   "reason": "2026-11-06 每日采集入库（科技/航天科普）"
+  },
+  {
+   "event_id": "evt-20261106-0832",
+   "seq": 832,
+   "item_id": "sci-ed138-dwarfplanets-20261106",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-06T09:49:09+08:00",
+   "reason": "2026-11-06 每日采集入库（科技/航天科普）"
+  },
+  {
+   "event_id": "evt-20261106-0833",
+   "seq": 833,
+   "item_id": "drone-mq9-holloman-20261106",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-06T09:49:09+08:00",
+   "reason": "2026-11-06 每日采集入库（科技/无人机）"
+  },
+  {
+   "event_id": "evt-20261106-0834",
+   "seq": 834,
+   "item_id": "drone-southern-vanguard-20261106",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-06T09:49:09+08:00",
+   "reason": "2026-11-06 每日采集入库（科技/无人机）"
+  },
+  {
+   "event_id": "evt-20261106-0835",
+   "seq": 835,
+   "item_id": "game-bowling-date-night-20261106",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-06T09:49:09+08:00",
+   "reason": "2026-11-06 每日采集入库（游戏/生活方式）"
+  },
+  {
+   "event_id": "evt-20261106-0836",
+   "seq": 836,
+   "item_id": "game-billiards-bedugul-20261106",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-06T09:49:09+08:00",
+   "reason": "2026-11-06 每日采集入库（游戏/生活方式）"
+  },
+  {
+   "event_id": "evt-20261106-0837",
+   "seq": 837,
+   "item_id": "game-tric-trac-1896-20261106",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-06T09:49:09+08:00",
+   "reason": "2026-11-06 每日采集入库（游戏/怀旧文化）"
+  },
+  {
+   "event_id": "evt-20261106-0838",
+   "seq": 838,
+   "item_id": "film-back-to-backing-1926-20261106",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-06T09:49:09+08:00",
+   "reason": "2026-11-06 每日采集入库（影视/文化）"
+  },
+  {
+   "event_id": "evt-20261106-0839",
+   "seq": 839,
+   "item_id": "film-romeo-juliet-1924-20261106",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-06T09:49:09+08:00",
+   "reason": "2026-11-06 每日采集入库（影视/文化）"
+  },
+  {
+   "event_id": "evt-20261106-0840",
+   "seq": 840,
+   "item_id": "film-laveuses-1896-20261106",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-06T09:49:09+08:00",
+   "reason": "2026-11-06 每日采集入库（影视/文化）"
+  },
+  {
+   "event_id": "evt-20261106-0841",
+   "seq": 841,
+   "item_id": "sport-berlin-marathon-2026-20261106",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-06T09:49:09+08:00",
+   "reason": "2026-11-06 每日采集入库（体育/历史）"
+  },
+  {
+   "event_id": "evt-20261106-0842",
+   "seq": 842,
+   "item_id": "sport-vicenza-911-brroll-2026-20261106",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-06T09:49:09+08:00",
+   "reason": "2026-11-06 每日采集入库（体育/历史）"
+  },
+  {
+   "event_id": "evt-20261106-0843",
+   "seq": 843,
+   "item_id": "sport-dragonboat-training-20261106",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-06T09:49:09+08:00",
+   "reason": "2026-11-06 每日采集入库（体育/历史）"
+  },
+  {
+   "event_id": "evt-20261106-0844",
+   "seq": 844,
+   "item_id": "art-egg-nebula-pan-20261106",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-06T09:49:09+08:00",
+   "reason": "2026-11-06 每日采集入库（文化/艺术）"
+  },
+  {
+   "event_id": "evt-20261106-0845",
+   "seq": 845,
+   "item_id": "art-ngc7722-pan-20261106",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-06T09:49:09+08:00",
+   "reason": "2026-11-06 每日采集入库（文化/艺术）"
+  },
+  {
+   "event_id": "evt-20261106-0846",
+   "seq": 846,
+   "item_id": "nat-yosemite-toad-20261106",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-06T09:49:09+08:00",
+   "reason": "2026-11-06 每日采集入库（自然/风光）"
+  },
+  {
+   "event_id": "evt-20261106-0847",
+   "seq": 847,
+   "item_id": "nat-cutthroat-trout-20261106",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-06T09:49:09+08:00",
+   "reason": "2026-11-06 每日采集入库（自然/风光）"
+  },
+  {
+   "event_id": "evt-20261106-0848",
+   "seq": 848,
+   "item_id": "nat-whitebark-pine-20261106",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-06T09:49:09+08:00",
+   "reason": "2026-11-06 每日采集入库（自然/风光）"
+  },
+  {
+   "event_id": "evt-20261106-0849",
+   "seq": 849,
+   "item_id": "marine-jellyfish-tracking-20261106",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-06T09:49:09+08:00",
+   "reason": "2026-11-06 每日采集入库（自然/海洋生物）"
+  },
+  {
+   "event_id": "evt-20261106-0850",
+   "seq": 850,
+   "item_id": "marine-swimming-sea-cucumber-20261106",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-06T09:49:09+08:00",
+   "reason": "2026-11-06 每日采集入库（自然/海洋生物）"
+  },
+  {
+   "event_id": "evt-20261106-0851",
+   "seq": 851,
+   "item_id": "marine-octopus-seafloor-20261106",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-06T09:49:09+08:00",
+   "reason": "2026-11-06 每日采集入库（自然/海洋生物）"
+  },
+  {
+   "event_id": "evt-20261106-0852",
+   "seq": 852,
+   "item_id": "nps-yell-boardwalks-20261106",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-06T09:49:09+08:00",
+   "reason": "2026-11-06 每日采集入库（旅行/户外）"
+  },
+  {
+   "event_id": "evt-20261106-0853",
+   "seq": 853,
+   "item_id": "nps-zion-rockfall-20261106",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-06T09:49:09+08:00",
+   "reason": "2026-11-06 每日采集入库（旅行/户外）"
+  },
+  {
+   "event_id": "evt-20261106-0854",
+   "seq": 854,
+   "item_id": "mil-checkered-broll-20261106",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-06T09:49:09+08:00",
+   "reason": "2026-11-06 每日采集入库（军事/装备）"
+  },
+  {
+   "event_id": "evt-20261106-0855",
+   "seq": 855,
+   "item_id": "mil-blackhawk-slowmo-20261106",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-06T09:49:09+08:00",
+   "reason": "2026-11-06 每日采集入库（军事/装备）"
   }
  ]
 }
