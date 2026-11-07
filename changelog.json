@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-11-06T09:49:09+08:00",
- "event_count": 855,
- "next_seq": 856,
+ "updated_at": "2026-11-07T09:27:43+08:00",
+ "event_count": 888,
+ "next_seq": 889,
  "events": [
   {
    "event_id": "evt-20261013-0001",
@@ -9640,6 +9640,336 @@
    "status": "active",
    "occurred_at": "2026-11-06T09:49:09+08:00",
    "reason": "2026-11-06 每日采集入库（军事/装备）"
+  },
+  {
+   "event_id": "evt-20261107-0856",
+   "seq": 856,
+   "item_id": "news-cira-fourcorners-flooding-20261107",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-07T09:27:43+08:00",
+   "reason": "2026-11-06 每日采集入库（科技/新闻）"
+  },
+  {
+   "event_id": "evt-20261107-0857",
+   "seq": 857,
+   "item_id": "news-cira-typhoon-infa-20261107",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-07T09:27:43+08:00",
+   "reason": "2026-11-06 每日采集入库（科技/新闻）"
+  },
+  {
+   "event_id": "evt-20261107-0858",
+   "seq": 858,
+   "item_id": "news-cira-southwest-storm-20261107",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-07T09:27:43+08:00",
+   "reason": "2026-11-06 每日采集入库（科技/新闻）"
+  },
+  {
+   "event_id": "evt-20261107-0859",
+   "seq": 859,
+   "item_id": "news-dvids-blue-mountain-bridge-20261107",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-07T09:27:43+08:00",
+   "reason": "2026-11-06 每日采集入库（科技/新闻）"
+  },
+  {
+   "event_id": "evt-20261107-0860",
+   "seq": 860,
+   "item_id": "ai-coca-cola-ai-christmas-20261107",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-07T09:27:43+08:00",
+   "reason": "2026-11-06 每日采集入库（科技/教育）"
+  },
+  {
+   "event_id": "evt-20261107-0861",
+   "seq": 861,
+   "item_id": "ai-poof-ai-short-film-20261107",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-07T09:27:43+08:00",
+   "reason": "2026-11-06 每日采集入库（科技/教育）"
+  },
+  {
+   "event_id": "evt-20261107-0862",
+   "seq": 862,
+   "item_id": "ai-gen3-cowboy-desert-20261107",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-07T09:27:43+08:00",
+   "reason": "2026-11-06 每日采集入库（科技/教育）"
+  },
+  {
+   "event_id": "evt-20261107-0863",
+   "seq": 863,
+   "item_id": "b-drone-romanian-counterdrone-20261107",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-07T09:27:43+08:00",
+   "reason": "2026-11-06 每日采集入库（科技/无人机）"
+  },
+  {
+   "event_id": "evt-20261107-0864",
+   "seq": 864,
+   "item_id": "b-drone-yakima-canyon-20261107",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-07T09:27:43+08:00",
+   "reason": "2026-11-06 每日采集入库（科技/无人机）"
+  },
+  {
+   "event_id": "evt-20261107-0865",
+   "seq": 865,
+   "item_id": "b-drone-iowa-grassland-20261107",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-07T09:27:43+08:00",
+   "reason": "2026-11-06 每日采集入库（科技/无人机）"
+  },
+  {
+   "event_id": "evt-20261107-0866",
+   "seq": 866,
+   "item_id": "b-sci-splice-broll-20261107",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-07T09:27:43+08:00",
+   "reason": "2026-11-06 每日采集入库（科技/航天科普）"
+  },
+  {
+   "event_id": "evt-20261107-0867",
+   "seq": 867,
+   "item_id": "b-sci-artemis-eclipse-20261107",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-07T09:27:43+08:00",
+   "reason": "2026-11-06 每日采集入库（科技/航天科普）"
+  },
+  {
+   "event_id": "evt-20261107-0868",
+   "seq": 868,
+   "item_id": "b-sci-goodnight-earth-20261107",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-07T09:27:43+08:00",
+   "reason": "2026-11-06 每日采集入库（科技/航天科普）"
+  },
+  {
+   "event_id": "evt-20261107-0869",
+   "seq": 869,
+   "item_id": "b-cyber-opsec-challenge-20261107",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-07T09:27:43+08:00",
+   "reason": "2026-11-06 每日采集入库（科技/安全教育）"
+  },
+  {
+   "event_id": "evt-20261107-0870",
+   "seq": 870,
+   "item_id": "c-game-sega-rally-restore-20261107",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-07T09:27:43+08:00",
+   "reason": "2026-11-06 每日采集入库（游戏/怀旧文化）"
+  },
+  {
+   "event_id": "evt-20261107-0871",
+   "seq": 871,
+   "item_id": "c-film-sherlock-holmes-1922-20261107",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-07T09:27:43+08:00",
+   "reason": "2026-11-06 每日采集入库（影视/文化）"
+  },
+  {
+   "event_id": "evt-20261107-0872",
+   "seq": 872,
+   "item_id": "c-film-jack-frost-1934-20261107",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-07T09:27:43+08:00",
+   "reason": "2026-11-06 每日采集入库（影视/文化）"
+  },
+  {
+   "event_id": "evt-20261107-0873",
+   "seq": 873,
+   "item_id": "c-film-nosferatu-1922-20261107",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-07T09:27:43+08:00",
+   "reason": "2026-11-06 每日采集入库（影视/文化）"
+  },
+  {
+   "event_id": "evt-20261107-0874",
+   "seq": 874,
+   "item_id": "c-sport-bombard-challenge-20261107",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-07T09:27:43+08:00",
+   "reason": "2026-11-06 每日采集入库（体育/历史）"
+  },
+  {
+   "event_id": "evt-20261107-0875",
+   "seq": 875,
+   "item_id": "c-sport-vicenza-color-run-20261107",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-07T09:27:43+08:00",
+   "reason": "2026-11-06 每日采集入库（体育/历史）"
+  },
+  {
+   "event_id": "evt-20261107-0876",
+   "seq": 876,
+   "item_id": "c-sport-katusa-friendship-20261107",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-07T09:27:43+08:00",
+   "reason": "2026-11-06 每日采集入库（体育/历史）"
+  },
+  {
+   "event_id": "evt-20261107-0877",
+   "seq": 877,
+   "item_id": "d-art-macs-j0553-20261107",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-07T09:27:43+08:00",
+   "reason": "2026-11-06 每日采集入库（文化/艺术）"
+  },
+  {
+   "event_id": "evt-20261107-0878",
+   "seq": 878,
+   "item_id": "d-art-terzan5-20261107",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-07T09:27:43+08:00",
+   "reason": "2026-11-06 每日采集入库（文化/艺术）"
+  },
+  {
+   "event_id": "evt-20261107-0879",
+   "seq": 879,
+   "item_id": "d-art-omc2-20261107",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-07T09:27:43+08:00",
+   "reason": "2026-11-06 每日采集入库（文化/艺术）"
+  },
+  {
+   "event_id": "evt-20261107-0880",
+   "seq": 880,
+   "item_id": "d-marine-arthropod-20261107",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-07T09:27:43+08:00",
+   "reason": "2026-11-06 每日采集入库（自然/海洋生物）"
+  },
+  {
+   "event_id": "evt-20261107-0881",
+   "seq": 881,
+   "item_id": "d-marine-octopus-20261107",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-07T09:27:43+08:00",
+   "reason": "2026-11-06 每日采集入库（自然/海洋生物）"
+  },
+  {
+   "event_id": "evt-20261107-0882",
+   "seq": 882,
+   "item_id": "d-marine-turtle-redsea-20261107",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-07T09:27:43+08:00",
+   "reason": "2026-11-06 每日采集入库（自然/海洋生物）"
+  },
+  {
+   "event_id": "evt-20261107-0883",
+   "seq": 883,
+   "item_id": "d-nature-canyon-clouds-20261107",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-07T09:27:43+08:00",
+   "reason": "2026-11-06 每日采集入库（自然/风光）"
+  },
+  {
+   "event_id": "evt-20261107-0884",
+   "seq": 884,
+   "item_id": "d-nature-erawan-20261107",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-07T09:27:43+08:00",
+   "reason": "2026-11-06 每日采集入库（自然/风光）"
+  },
+  {
+   "event_id": "evt-20261107-0885",
+   "seq": 885,
+   "item_id": "d-nature-prismatic-20261107",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-07T09:27:43+08:00",
+   "reason": "2026-11-06 每日采集入库（自然/风光）"
+  },
+  {
+   "event_id": "evt-20261107-0886",
+   "seq": 886,
+   "item_id": "e-travel-yose-spirit-20261107",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-07T09:27:43+08:00",
+   "reason": "2026-11-06 每日采集入库（旅行/户外）"
+  },
+  {
+   "event_id": "evt-20261107-0887",
+   "seq": 887,
+   "item_id": "e-travel-yose-sleigh-20261107",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-07T09:27:43+08:00",
+   "reason": "2026-11-06 每日采集入库（旅行/户外）"
+  },
+  {
+   "event_id": "evt-20261107-0888",
+   "seq": 888,
+   "item_id": "e-travel-yose-ice-20261107",
+   "version": 1,
+   "type": "added",
+   "status": "active",
+   "occurred_at": "2026-11-07T09:27:43+08:00",
+   "reason": "2026-11-06 每日采集入库（旅行/户外）"
   }
  ]
 }
